@@ -1,0 +1,243 @@
+<EULA.Header>1. Einführung.</>
+
+Unreal Editor for Fortnite („<EULA.Header>UEFN</>“) ist ein Epic-Erstellungstool, das es Content-Creators (jeweils ein „<EULA.Header>Creator</>“) ermöglicht, nutzergenerierte Inhalte in Fortnite („<EULA.Header>UEFN-Inhalt</>“) zu erstellen, zu entwickeln, zu ändern oder beizutragen und UEFN-Inhalte für einige oder alle Benutzer der Dienste hochzuladen, zu veröffentlichen oder anderweitig verfügbar zu machen (wie dieser Begriff in der Fortnite-Endbenutzerlizenzvereinbarung (die „<EULA.Header>Fortnite-EULA</>“) definiert ist).
+
+
+<EULA.Header>2. Über diese Bedingungen.</>
+
+Diese Zusatzbedingungen zur Fortnite-EULA in Bezug auf den Unreal Editor für Fortnite (diese „<EULA.Header>Bedingungen</>“) gelten für Ihre Nutzung von UEFN. Diese Bedingungen sind ein Vertrag zwischen dem Crator, der diese Bedingungen akzeptiert („<EULA.Header>Sie</>“, „<EULA.Header>Ihr</>“ oder „<EULA.Header>Ihnen“)</> und „Epic“ gemäß der Definition in der Fortnite EULA („<EULA.Header>Epic</>“, „<EULA.Header>wir</>“, „<EULA.Header>unser</>“ oder „<EULA.Header>uns</>“).
+
+
+Dieser Vertrag beginnt, wenn Sie diese Bedingungen akzeptiert haben, und Sie bestätigen, dass Sie nicht nur die Bedingungen dieses Vertrages gelesen haben und damit einverstanden sind, sondern auch die Richtlinien von Epic, einschließlich der <a href="https://www.fortnite.com/eula?sessionInvalidated=true" style="EULA.Hyperlink" id="url" target="_blank">Fortnite EULA</> (die diese Bedingungen ergänzt), die <a href="https://www.fortnite.com/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink" id="url" target="_blank">Regeln für Creator-Inhalte</>, <a href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink" id="url" target="_blank">Epic-Inhaltsrichtlinien</>, <a href="https://www.epicgames.com/site/en-US/community-rules" style="EULA.Hyperlink" id="url" target="_blank">Epic Community-Regeln</>, die <a href="https://www.epicgames.com/site/en-US/fan-art-policy" style="EULA.Hyperlink" id="url" target="_blank">Fan-Inhaltsrichtlinie</> und alle anderen anwendbaren Richtlinien oder Unterlagen, die Epic von Zeit zu Zeit nach eigenem Ermessen veröffentlichen oder aktualisieren kann (vorbehaltlich einer Benachrichtigung an Sie, wie in den jeweiligen Dokumenten vorgesehen). <EULA.Header>Sie müssen sich jederzeit an alle Richtlinien von Epic halten, um ein Creator zu sein.</>
+
+
+Großgeschriebene Begriffe, die hier nicht definiert sind, haben die Bedeutung, die in der Fortnite-EULA angegeben ist. UEFN und alle Dienste, die Ihnen über UEFN zur Verfügung gestellt werden (z. B. der Unreal Revision Control-Dienst), stellen „Software“ und „Dienste“ gemäß der Fortnite-EULA dar. <EULA.Header>Wenn Sie der Fortnite-EULA zuvor nicht zugestimmt haben, wird davon ausgegangen, dass Sie der Fortnite-EULA zugestimmt haben, wenn Sie diesen Bedingungen zustimmen</>. Der nächste Teil ist sehr wichtig:
+
+<EULA.Header>LESEN SIE DIESE BEDINGUNGEN SORGFÄLTIG DURCH. DIESE BEDINGUNGEN ERFORDERN, DASS SIE UND EPIC STREITIGKEITEN ÜBER DIESE BEDINGUNGEN AUF DIE GLEICHE WEISE BEILEGEN, WIE STREITIGKEITEN IN BEZUG AUF FORTNITE. DAS BEDEUTET, DASS SIE SICH BEREIT ERKLÄREN, DIE MEISTEN STREITIGKEITEN VERBINDLICH UND INDIVIDUELL ZU SCHLICHTEN, OHNE DAS RECHT, EINZELN ODER IM RAHMEN EINER SAMMELKLAGE VOR GERICHT ZU GEHEN. FÜR WEITERE INFORMATIONEN SIEHE ABSCHNITT 12 DER FORTNITE-EULA.</>
+
+
+Es ist wichtig, dass Sie diese Bedingungen lesen und verstehen. Wenn Sie mit den in diesen Bedingungen enthaltenen Inhalten nicht einverstanden sind, können Sie UEFN nicht verwenden.
+
+
+<EULA.Header>3. Eignungsanforderungen.</>
+
+<EULA.Header>3.1.        Altersanforderungen.</> Sie müssen das Volljährigkeitsalter in Ihrem Wohnort (Ihr „Wohnsitz“) erreicht haben, um diese Bedingungen zu akzeptieren. Wenn Sie beispielsweise in den Vereinigten Staaten leben, müssen Sie mindestens 18 Jahre alt sein, um diesen Bedingungen rechtlich zustimmen zu können. Wenn Sie unten auf die Schaltfläche „ANNEHMEN“ klicken, bestätigen Sie, dass Sie ein Erwachsener sind, dass Sie diese Bedingungen vollständig gelesen haben und dass Sie damit einverstanden sind, an sie gebunden zu sein.
+
+
+Wenn Sie ein Elternteil oder Erziehungsberechtigter eines Kindes sind, das diese Altersvoraussetzung nicht erfüllt, müssen Sie diese Bedingungen für Ihr Kind akzeptieren. Wenn Sie diese Bedingungen für Ihr Kind akzeptieren, bestätigen Sie, dass Sie der Elternteil oder Erziehungsberechtigte des Kindes sind und erklären sich damit einverstanden, für die Durchführung der Nutzung von UEFN Ihres Kindes vollständig verantwortlich zu sein.
+
+
+<EULA.Header>3.2        Unternehmen. </>Wenn Sie diese Bedingungen im Namen eines Unternehmens, einer Gesellschaft mit beschränkter Haftung, Kommanditgesellschaft oder einer anderen juristischen Person („<EULA.Header>Unternehmen</>“) akzeptieren, erklären Sie, dass Sie befugt sind, im Namen dieses Unternehmens zu handeln, und dass dieses Unternehmen diese Bedingungen akzeptiert. Zur Klarstellung: Die Zusammenarbeit mit anderen Creators, wie in Abschnitt 6.3 besprochen, ist kein Unternehmen.
+
+
+<EULA.Header>4. Gewährung von Rechten von Epic an Sie.</>
+
+<EULA.Header>4.1.        Lizenzgewährung für Sie zur Nutzung von UEFN.</> Epic gewährt Ihnen ein persönliches, nicht ausschließliches, nicht übertragbares, nicht unterlizenzierbares, widerrufliches beschränktes Recht und eine Lizenz zur Installation und Nutzung von UEFN auf kompatiblen Geräten, die Sie besitzen oder kontrollieren. Die Rechte, die Epic Ihnen gewährt, unterliegen diesen Bedingungen und Sie dürfen UEFN nur nutzen, wenn Sie alle geltenden Bedingungen einhalten.
+
+
+<EULA.Header>4.2.        Bedingungen für die Lizenzgewährung von Epic für Sie zur Nutzung von UEFN.</> Sie dürfen UEFN nur verwenden, wenn Epic dies gemäß diesen Bedingungen ausdrücklich genehmigt. Sie dürfen in Bezug auf UEFN oder einen seiner Teile Folgendes nicht tun oder versuchen dies zu tun:
+
+
+Kopieren, Reproduzieren, Verteilen (einschließlich über einen Netzwerkserver), Anzeigen oder Verwenden von UEFN auf eine Weise, die nicht ausdrücklich in diesen Bedingungen autorisiert ist.
+Verkaufen, vermieten, leasen, lizenzieren, verteilen oder anderweitiges Übertragen von UEFN.
+Zurückentwickeln, den Quellcode daraus ableiten, modifizieren, anpassen, übersetzen, dekompilieren oder disassemblieren von UEFN oder davon abgeleitete Werke erstellen;
+Die Software verwenden, um die Rechte Dritter zu verletzen, einschließlich, aber nicht beschränkt auf geistiges Eigentum, Publizitäts- oder Persönlichkeitsrechte;
+Verwenden, exportieren oder reexportieren von UEFN oder Informationen von Benutzern, die auf Ihre UEFN-Inhalte zugreifen, unter Verstoß gegen geltende Gesetze oder Vorschriften.
+Verstoßen gegen eine der für Sie geltenden Richtlinien von Epic, einschließlich des Verhaltens in einer Weise, die der Fortnite-EULA, <a href="https://www.epicgames.com/site/en-US/community-rules" style="EULA.Hyperlink" id="url" target="_blank">Community-Richtlinien</> oder <a href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink" id="url" target="_blank">Creator Content-Richtlinien</> bei der Erstellung von UEFN-Inhalten oder der Verwendung Ihres UEFN oder in Ihrer Zusammenarbeit mit anderen Creators widerspricht.
+
+<EULA.Header>4.3.        Epics Lizenz für Markenmerkmale an Sie.</> Unabhängig davon, ob Sie die Markenmerkmale von Epic gemäß den Richtlinien von Epic verwenden müssen oder die Markenmerkmale von Epic gemäß den zulässigen Bedingungen dieser Richtlinien verwenden, gewährt Epic Ihnen eine Lizenz für unsere Markenmerkmale, die Ihnen Folgendes ermöglicht:
+
+
+<EULA.Header>Nutzung unserer Markenmerkmale</> (z. B. Erwähnung, dass Ihr UEFN-Inhalt in Fortnite in einem Podcast verfügbar ist)
+<EULA.Header>Zeigen unserer Markenmerkmale</> (z. B. Anzeigen des „Made in Fortnite“-Logos auf einer Startgrafik für Ihre UEFN-Insel)
+<EULA.Header>Modifizieren unserer Markenmerkmale</> (z. B. Ändern der Größe unseres Logos zur Aufnahme in Ihr UEFN-Inhaltsmarketing, sofern dies gemäß unseren Markenrichtlinien zulässig ist)
+
+<EULA.Header>4.4.        Einschränkungen Ihrer Nutzung der Markenfunktionen von Epic.</> Die Lizenz, die Epic Ihnen für unsere Markenmerkmale gewährt, ist auf folgende Weise eingeschränkt:
+
+
+<EULA.Header>Nicht exklusiv.</> Wir können unsere Markenmerkmale an alle lizenzieren, an die wir dies wünschen.
+<EULA.Header>Änderung eingeschränkt.</> Sie können unsere Markenmerkmale ändern, aber Sie müssen unsere Markenrichtlinien einhalten, die Ihnen schriftlich auf dem Creator-Portal zur Verfügung gestellt werden. Wir behalten uns das Recht vor, Änderungen an oder die Entfernung der Nutzung unserer Markenmerkmale, die nicht unseren Markenrichtlinien entsprechen, zu überprüfen und zu verlangen.
+<EULA.Header>Begrenzte Verwendung.</> Sie dürfen unsere Markenfunktionen nur verwenden, um die Verfügbarkeit Ihrer UEFN-Inhalte in Fortnite zu vermarkten und zu bewerben. Sie dürfen unsere Markenfunktionen nicht nutzen, wenn Ihr Zugriff auf UEFN ausgesetzt oder beendet wird. Sie werden die Nutzung unserer Markenfunktionen einstellen, wenn Ihr Zugriff auf UEFN auf unsere Anfrage ausgesetzt oder beendet wird, wenn Sie sich nicht an unsere Markenrichtlinien halten oder wenn Sie gegen diese Bedingungen verstoßen.
+
+<EULA.Header>5. Gewährung von Rechten von Ihnen an Epic.</>
+
+<EULA.Header>5.1.        Lizenzgewährung an Epic.</> In der Fortnite-EULA haben Sie Epic bestimmte Rechte in Bezug auf UGC gewährt, die unter Verwendung der Fortnite-Software und/oder -Dienste erstellt wurden. In diesen Bedingungen gewähren Sie Epic bestimmte Rechte in Bezug auf Ihre UEFN-Inhalte. Zur Klarstellung, und außer wenn diese Bedingungen ausdrücklich auf die Fortnite-EULA verweisen, ersetzen und verdrängen alle Rechte, die Sie Epic gemäß diesem Abschnitt 5 an Ihren UEFN-Inhalten gewähren, alle anderen Rechte gemäß der Fortnite-EULA, jedoch nur für Ihre UEFN-Inhalte.
+
+Epic benötigt Ihre Erlaubnis in Form einer Lizenz, um Ihre UEFN-Inhalte für Benutzer verfügbar zu machen. Sie gewähren Epic hiermit eine gebührenfreie, unwiderrufliche und nicht ausschließliche Lizenz für die UEFN-Inhalte, die Epic Folgendes ermöglicht:
+
+
+<EULA.Header>Veröffentlichen der UEFN-Inhalte in Fortnite</> (z. B. kann ein Teil Ihres oder Ihr gesamter UEFN-Inhalt auf das Gerät und den Spiele-Client eines Benutzers kopiert werden, um in Fortnite zu agieren)
+<EULA.Header>Anzeigen der UEFN-Inhalte </> (z. B. um Ihre UEFN-Inhalte Benutzern in Fortnite und in Screenshots, Videos und anderen Materialien, die Fortnite bewerben, anzuzeigen und vorzuführen)
+<EULA.Header>Den UEFN-Inhalt Benutzern zur Verfügung stellen</> (z. B. um den Benutzern von Fortnite Zugriff auf Ihre UEFN-Inhalte zu gewähren)
+<EULA.Header>Aufführen der UEFN-Inhalte </>(z. B. um Ihre UEFN-Inhalte der Öffentlichkeit vorzuführen, auch bei Live-Veranstaltungen wie Messen und Turnieren)
+<EULA.Header>Verwenden der UEFN-Inhalte </>(z. B. um die Einhaltung dieser Bedingungen durch Ihre UEFN-Inhalte zu überprüfen und alle Fehler oder Benutzerprobleme zu beheben, die in der QS oder dem Testen Ihrer UEFN-Inhalte von Epic identifiziert wurden)
+
+<EULA.Header>5.2.        Einschränkungen der Lizenz von Epic für UEFN-Inhalte</> Die Lizenz, die Sie Epic für Ihre UEFN-Inhalte gewähren, ist wie folgt beschränkt:
+
+
+<EULA.Header>Begrenzter Zweck.</> Epic kann nur die UEFN-Inhaltslizenzrechte ausüben, die Sie uns gewähren, um: a) die UEFN-Inhalte für Benutzer zu bewerben, zu vermarkten und ihnen Zugriff darauf zu gewähren; b) Fortnite zu betreiben, zu bewerben, zu vermarkten und zu unterstützen; und c) die Creator-Tools zu betreiben, zu verbessern, zu aktualisieren, zu vermarkten und zu unterstützen. Solche Werbung und solches Marketing kann in allen Medien erfolgen, die Epic verwendet, um seine Software und Dienste allgemein zu bewerben. Epic wird Ihre UEFN-Inhalte nicht (a) in Datensätzen, die von generativen KI-Programmen (wie nachstehend in Abschnitt 8.10 definiert) verwendet werden, (b) bei der Entwicklung von generativen KI-Programmen oder (c) als<EULA.Header> </>Training<EULA.Header> </>Inputs für generative KI-Programme verwenden und Dritten keine Lizenz zur Verwendung erteilen.
+<EULA.Header>Interaktionen mit Inhalten über Fortnite.</> Außer für die oben beschriebenen begrenzten Zwecke der Werbung und des Marketings kann Epic Ihre UEFN-Inhalte Nutzern zur Verfügung stellen, um über Fortnite auf allen aktuellen und zukünftigen Plattformen und Spielmedien zu arbeiten, kann Informationen über Ihre UEFN-Inhalte auf seinen Websites und Diensten hosten und Links zu Ihren UEFN-Inhalten von allen Kanälen unterstützen, die Hyperlinks und andere Formen der Verknüpfung unterstützen.
+<EULA.Header>Unbefristete Dauer.</> Die Lizenz von Epic bleibt bestehen, bis diese Bedingungen gekündigt werden; danach bleibt die Lizenz weiterhin bestehen, aber nur, damit Epic weiterhin UEFN-Inhalte zur Verfügung stellen kann, die Sie zu einem UEFN-Projekt oder einer UEFN-Insel beigetragen haben, die Sie nicht besitzen (siehe Abschnitt 6.3 unten bezüglich der Zusammenarbeit mit anderen), selbst wenn Sie verlangen, Ihre UEFN-Inhalte, Ihre Daten oder Ihr Epic-Konto zu löschen.
+<EULA.Header>Unterlizenzierbar.</> Epic kann Teile dieser Lizenz unterlizenzieren, soweit dies zur Ausübung seiner Rechte in diesen Bedingungen erforderlich ist. Epic kann beispielsweise, aber nicht beschränkt darauf, Unterlizenzen an verbundene Unternehmen und Tochtergesellschaften vergeben, die Fortnite und Produkte und Dienstleistungen im Zusammenhang mit Fortnite liefern, einschließlich Tools und Technologien, die Benutzern zur Verfügung gestellt werden, um Inhalte (die „<EULA.Header>Creator-Tools</>“) für Benutzer zu erstellen, einschließlich aller Konsolen, Plattformen oder Dienstleistungen, für die Fortnite- und Creator-Tools zur Verfügung gestellt werden.
+<EULA.Header>Wartung und Support.</> Sie gewähren Epic das beschränkte Recht, solche Änderungen an Ihren UEFN-Inhalten vorzunehmen, die erforderlich sind, um Fehler zu beheben, die Einhaltung sicherzustellen oder Ihre UEFN-Inhalte anderweitig zu unterstützen und zu warten, solange Sie sie in Fortnite verfügbar machen. Epic kann Sie auffordern, solche Änderungen an Ihren UEFN-Inhalten vorzunehmen, die erforderlich sind, um Fehler zu beheben oder Ihre UEFN-Inhalte anderweitig zu unterstützen und zu warten, solange Sie sie in Fortnite verfügbar machen. Epic wird angemessene kommerzielle Anstrengungen unternehmen, um Sie in Verbindung mit einer solchen Anfrage zu benachrichtigen und einen Zeitrahmen zu bestimmen, in dem solche Änderungen vorgenommen werden sollten. Wenn Epic eine solche Änderung verlangt, die Epic für den ordnungsgemäßen Betrieb, die Compliance oder die Sicherheit für wichtig hält, und Sie die angeforderten Änderungen nicht innerhalb des angegebenen Zeitrahmens vornehmen, kann Epic Ihre UEFN-Inhalte entfernen.
+<EULA.Header>Kein Anspruch auf Vergütung.</> Sofern Sie sich nicht für das Engagement-Auszahlungsprogramm von Epic und/oder das Support-A-Creator-Programm bewerben und Epic Ihre Anmeldung akzeptiert, erhalten Sie keine Vergütung, Gebühren, Gegenleistungen oder andere Mittel in Verbindung mit Ihren UEFN-Inhalten aus irgendeinem Grund, einschließlich der Ausübung der Rechte, die Sie Epic in diesen Bedingungen gewähren.
+
+<EULA.Header>5.3.        Epic gewährt Benutzern eingeschränkte Rechte an Ihren UEFN-Inhalten.</> Um Ihre UEFN-Inhalte zu veröffentlichen, muss Epic das Recht haben, diese UEFN-Inhalte den Benutzern zur Verfügung zu stellen (in der Regel als „Weitergaberechte“ bezeichnet). Die Weitergaberechte, die Sie Epic zugunsten seiner Benutzer gewähren, sind wie folgt beschränkt:
+
+
+<EULA.Header>Interaktionen mit Inhalten über Fortnite. </>Benutzer können mit Ihren UEFN-Inhalten auf die gleiche Weise interagieren, über die Epic Ihre UEFN-Inhalte zur Verfügung stellt, vorbehaltlich der Zugriffsbeschränkungen in Abschnitt 5.2 oben.
+<EULA.Header>Unbefristete Dauer.</> Benutzer haben möglicherweise so lange Zugriff auf Ihre UEFN-Inhalte, wie sie in Fortnite verbleiben; danach bleibt die Lizenz weiterhin bestehen, aber nur, damit Epic weiterhin alle UEFN-Inhalte zur Verfügung stellen kann, die Sie zu einem UEFN-Projekt oder einer UEFN-Insel beigetragen haben, die Sie nicht besitzen (siehe Abschnitt 6.3 unten bezüglich der Zusammenarbeit mit anderen), selbst wenn Sie die Löschung Ihrer UEFN-Inhalte, Ihrer Daten oder Ihres Epic-Kontos beantragen.
+<EULA.Header>Streaming-Rechte.</> Benutzer haben das Recht, Gameplay Ihrer UEFN-Inhalte („<EULA.Header>Videos</>“) zu streamen oder aufzuzeichnen, diese Videos zu bearbeiten und diese Videos unter Verwendung von Bildern des Gameplays (die auch Darstellungen Ihrer UEFN-Inhalte beinhalten können) in sozialen Medien und anderen Video-Sharing-Plattformen zu bewerben. Zur Klarstellung sei angemerkt, dass alle Rechte, die Epic seinen Nutzern in den Richtlinien von Epic gewährt, die die Nutzung von Fortnite-Inhalten außerhalb von Fortnite erlauben, einschließlich aller Einschränkungen dieser Rechte, sich auf Ihre UEFN-Inhalte erstrecken, sobald Sie Ihre UEFN-Inhalte in Fortnite veröffentlichen.
+<EULA.Header>Vorgesehener Zweck.</> Unter der Voraussetzung, dass sie nicht gegen die Richtlinien von Epic verstoßen, können Benutzer Ihre UEFN-Inhalte in Fortnite frei nutzen und mit diesen interagieren. Sie verpflichten sich, in keinem Forum (einschließlich im Schiedsverfahren) gegen Benutzer vorzugehen oder Ansprüche gegen diese geltend zu machen, die anderweitig im Zusammenhang mit ihrer Interaktion oder Nutzung Ihrer UEFN-Inhalte die Richtlinien von Epic einhalten.
+
+<EULA.Header>5.4.        Ihre UEFN-Inhalte gehören Ihnen.</> Abgesehen von der oben genannten beschränkten Lizenz und den Rechten von Epic an seinen Produkten und Dienstleistungen (einschließlich, aber nicht beschränkt auf Fortnite und UEFN) haben wir keine Rechte gemäß diesen Bedingungen von Ihnen oder Ihren Lizenzgebern an UEFN-Inhalten, die Sie einreichen. Die Rechte, die Sie Epic hierin gewähren, sind kein Eigentumsrecht, sondern eine Lizenz für die UEFN-Inhalte, die Sie besitzen („<EULA.Header>digitale Rechte</>“). Sie haben das Recht, die Inhalte, die Sie besitzen und die Sie in UEFN entwickelt haben, in allen Ihren aktuellen und zukünftigen Werken zu verwenden, einschließlich Werken außerhalb von UEFN, Unreal Engine und anderen Diensten von Epic; vorausgesetzt, dass Sie keine Inhalte oder Marken von Epic oder Inhalte Dritter, die Sie über UEFN erhalten haben und für die Sie keine Lizenz haben, in diesen Werken verwenden oder verletzen.
+
+
+<EULA.Header>5.5.        Ihre Lizenz für die Markenfunktionen für Epic</> Zusätzlich zu den Rechten, die wir benötigen, um Ihre UEFN-Inhalte auf Fortnite verfügbar zu machen, gewähren Sie Epic eine Lizenz für Ihre Markenmerkmale, die Sie in Ihre UEFN-Inhalte integrieren oder uns in Verbindung mit Ihren UEFN-Inhalten zur Verfügung stellen, was uns Folgendes ermöglicht:
+
+
+<EULA.Header>Verwenden Ihrer Markenfunktionen</> (z. B. Erwähnung Ihres Markennamens in Bezug auf Ihre UEFN-Inhalte in einem unserer Tweets)
+<EULA.Header>Ändern Ihrer Markenmerkmale</> (z. B. Ändern der Größe der von Ihnen bereitgestellten Markenmaterialien, um in eine Suchergebnisseite zu passen)
+<EULA.Header>Anzeige Ihrer Markenmerkmale</> (z. B. Anzeige Ihrer Markenmerkmale in Blog-Beiträgen und Medien zum UEFN und zu Fortnite und Einbindung geeigneter Tags für Ihre Inseln in UEFN)
+
+<EULA.Header>5.6.        Einschränkungen bei der Nutzung Ihrer Markenfunktionen durch Epic.</> Die Lizenz, die Sie Epic für Ihre Markenfunktionen gewähren, ist auf folgende Weise eingeschränkt:
+
+
+<EULA.Header>Nicht exklusiv.</> Sie können Ihre Markenfunktionen an jeden lizenzieren.
+<EULA.Header>Änderung eingeschränkt.</> Epic darf Ihre Markenmerkmale nur so ändern, dass sie mit der Formatierung und dem Layout von Marketing, Werbung und Darstellung von UEFN-Inhalten an Benutzer durch Epic übereinstimmen. Epic darf Ihre Markenmerkmale ohne Ihre Erlaubnis nicht wesentlich ändern.
+<EULA.Header>Begrenzte Verwendung.</> Epic darf Ihre Markenmerkmale nur zur Ausübung seiner Rechte gemäß diesen Bedingungen verwenden, wie z. B. Marketing und Bereitstellung der UEFN-Inhalte für Benutzer. Diese Nutzung umfasst die Fähigkeit von Epic, auf den Titel Ihres UEFN-Inhalts in Newslettern, Blogs und in UGC-Oberflächen hinzuweisen.
+
+<EULA.Header>6. Ihre UEFN-Inhalte und Ihr Verhalten.</>
+
+<EULA.Header>6.1.        </><EULA.Header>UEFN-Inhaltsanforderungen</><EULA.Header>.</> Sie müssen sicherstellen, dass Ihre UEFN-Inhalte allen rechtlichen und regulatorischen Richtlinien und allen geltenden Richtlinien von Epic Games entsprechen, einschließlich, aber nicht beschränkt auf:
+
+
+<a href="https://www.fortnite.com/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink" id="url" target="_blank">Fortnite Creator Inhaltsregeln und -richtlinien</>
+<a href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink" id="url" target="_blank">Richtlinien für Epic-Inhalte</>
+<a href="https://www.epicgames.com/site/en-US/community-rules" style="EULA.Hyperlink" id="url" target="_blank">Community-Regeln von Epic</>
+
+Epic erlaubt keine Aktivitäten zur Verletzung geistigen Eigentums durch UEFN oder Fortnite. Sie können UEFN-Inhalte nur hochladen, wenn Sie berechtigt sind, Epic die oben beschriebenen Lizenzen zu gewähren. Diese Rechte können aus der Tatsache resultieren, dass es sich bei den Inhalten um Ihre ursprüngliche Erstellung handelt, oder aus der Erlaubnis, die andere Ihnen erteilt haben, Materialien zu verwenden, die sie erstellt haben. Wenn Sie sich nicht sicher sind, ob Sie berechtigt sind, etwas zu verwenden, nehmen Sie es nicht in Ihre UEFN-Inhalte auf. (Zusätzliche Regeln gelten für Musik, die Sie hochladen möchten, wie wir im nächsten Abschnitt erklären.)
+
+
+<EULA.Header>6.1.1.        </><EULA.HighlightItalic>Verletzende Inhalte. </>Sie dürfen nicht: (a) UEFN-Inhalte veröffentlichen, die Urheberrechte oder Marken verletzen, einschließlich UEFN-Inhalten, die geistiges Eigentum Dritter (wie urheberrechtlich geschütztes Material) oder UEFN-Inhalte anderer Creator enthalten; oder (b) geistiges Eigentum Dritter integrieren oder zeigen, einschließlich geistigen Eigentums Dritter, das in Fortnite (z. B. der Inhalt anderer Creator) oder in Marketing- oder Werbematerialien im Zusammenhang mit Ihren UEFN-Inhalten erscheint, es sei denn, Sie haben die Erlaubnis dieser Partei oder sind anderweitig gesetzlich dazu berechtigt. Sie und Sie allein sind rechtlich für die UEFN-Inhalte verantwortlich, die Sie Benutzern zur Verfügung stellen.
+
+
+<EULA.Header>6.1.2.        </><EULA.HighlightItalic>Besondere Anforderungen an Musikwerke. </>Ihr UEFN-Inhalt kann Musik enthalten, die Sie hochgeladen oder durch die Nutzung der UEFN-Tools erstellt haben. Sie müssen jedoch Eigentümer dieser Musik sein oder die erforderlichen Lizenzen erworben haben, um die Tonaufnahme und/oder das Musikwerk in UEFN hochzuladen, zu synchronisieren und anderweitig zu nutzen. Die Lizenz, die Sie Epic gemäß Abschnitt 5 dieses Vertrags gewähren, gilt auch für Musik, die Sie hochladen, einschließlich der in Abschnitt 5.3 beschriebenen Weitergaberechte.
+
+
+Wenn Sie die erforderlichen Zustimmungen oder Lizenzen für Musik, die an Epic unterlizenziert werden kann, eingeholt haben, sind Sie allein dafür verantwortlich, diese Zustimmungen und Lizenzen aufrechtzuerhalten und alle anwendbaren Berichtsanforderungen oder vertraglichen Verpflichtungen gegenüber dem Label, dem Verleger, der Gesellschaft für Aufführungsrechte, der Organisation für kollektives Management oder den Co-Autoren oder Interpreten sowie alle anwendbaren Zahlungen, Gebühren oder sonstigen Kosten an Organisationen wie SAG-AFTRA und/oder AFM zu erfüllen. Wenn Sie nicht in der Lage sind, diese Zustimmungen oder Lizenzen zu Gunsten von Epic einzuholen und aufrechtzuerhalten, dürfen Sie keine Musik auf UEFN hochladen.
+
+
+Ohne Ihre Verpflichtung einzuschränken, die oben beschriebenen Zustimmungen und Lizenzen einzuholen und aufrechtzuerhalten, sichern Sie zu und gewährleisten, dass Epic nicht verpflichtet ist, Lizenzgebühren an Dritte zu zahlen, einschließlich, aber nicht beschränkt auf den Eigentümer der Tonaufnahme, den Eigentümer des musikalischen Werks oder Einrichtungen, die die Rechte von Urhebern, Produzenten oder ausübenden Künstlern oder Gewerkschaften oder Zünften vertreten, oder andere Dritte, überall auf der Welt, in Bezug auf die Nutzung Ihrer Musik durch Epic und andere gemäß diesen Bedingungen.
+
+
+Jedes Mal, wenn Sie UEFN-Inhalte hochladen, geben Sie die gleichen Zusicherungen und Garantien in Bezug auf Ihre UEFN-Inhalte ab wie in Bezug auf UGC in Abschnitt 5 der Fortnite-EULA.
+
+<EULA.Header>6.1.3.        </><EULA.HighlightItalic>Ermessensspielraum</><EULA.Header>.</> Epic ist nicht verpflichtet, Ihre UEFN-Inhalte zu hosten, zu warten oder zu unterstützen oder Ihre UEFN-Inhalte zu vermarkten oder zu bewerben, und sobald Sie Ihre UEFN-Inhalte veröffentlicht haben, ist Epic nicht verpflichtet, die Anzeigeseiten der UEFN-Inhalte weiterhin in Fortnite zu hosten. Sobald Ihre UEFN-Inhalte veröffentlicht wurden, kann Epic Ihre UEFN-Inhalte entfernen oder aussetzen.
+
+
+<EULA.Header>6.1.4.        </><EULA.HighlightItalic>Benachrichtigung.</> Epic wird angemessene kommerzielle Anstrengungen unternehmen, um Sie in Verbindung mit negativen Maßnahmen, die in Übereinstimmung mit diesem Abschnitt ergriffen werden, zu benachrichtigen, sowie darüber, wie diese Maßnahme anzufechten ist, es sei denn, wir glauben vernünftigerweise, dass dies: (a) gegen das Gesetz oder die Vorgaben einer Strafverfolgungsbehörde verstoßen würde, oder anderweitig eine rechtliche Haftung für Epic oder unsere verbundenen Unternehmen zur Folge haben könnte; (b) eine laufende Untersuchung oder die Integrität oder den Betrieb von Fortnite gefährden würde; oder (c) anderweitig eine Haftung oder einen Schaden für einen Benutzer, Dritter, Epic oder unsere verbundenen Unternehmen riskieren würde.
+
+
+<EULA.Header>6.2.        Funktionelle Einschränkungen der UEFN-Inhalte.</> Es gibt einige Einschränkungen für die Funktionalität, die Sie in Ihre UEFN-Inhalte aufnehmen können, zusätzlich zu den oben aufgeführten Regeln und Richtlinien:
+
+
+<EULA.Header>Kein schädlicher Code.</> Ihre UEFN-Inhalte dürfen keine Funktionen enthalten, die Epic oder seinen Nutzern schaden könnten, und diese Schäden sind nicht nur auf physische Schäden beschränkt. Ihre UEFN-Inhalte dürfen keine Viren, Malware, Spyware, beschädigte Daten oder andere Elemente enthalten, die sich negativ darauf auswirken könnten, wie andere Benutzer die Epic-Dienste nutzen.
+<EULA.Header>Keine nicht autorisierten externen Anrufe.</> Möglicherweise können Sie das Abrufen von UEFN-Inhalten aus einer universellen Ressourcenkennung aktivieren. (Weitere Informationen darüber, was erlaubt ist, finden Sie in der Support-Dokumentation.) Mit Ausnahme der UEFN-Inhaltselemente, die abgerufen werden dürfen, dürfen Ihre UEFN-Inhalte keine Materialien enthalten, die nach dem Hochladen auf Epic oder dem Herunterladen durch Benutzer versuchen, für UEFN-Inhalte Verbindungen mit Servern außerhalb der Epic-Hosting-Server herzustellen. Beispielsweise können Ihre UEFN-Inhalte nicht „nach Hause telefonieren“ und Nutzungsinformationen direkt an Sie oder an Server außerhalb von Epic übertragen.
+<EULA.Header>Kein Export.</> Sie können Benutzern nicht gestatten, etwas aus Ihren UEFN-Inhalten ganz oder teilweise zu exportieren; was passiert, wenn Benutzer auf Ihre UEFN-Inhalte zugreifen, muss innerhalb von Fortnite verbleiben. Wenn Ihre UEFN-Inhalte es Benutzern beispielsweise ermöglicht, eigene Kreationen (wie z. B. ein Labyrinth, ein Gemälde oder ein anderes Werk) zu erstellen, können solche Kreationen nur innerhalb Ihrer UEFN-Inhalte verwendet werden. Wenn Ihre UEFN-Inhalte eine solche Benutzererstellung ermöglichen, sollten Sie sicherstellen, dass den Benutzern klar ist, dass sie ihre Werke später nicht exportieren können.
+<EULA.Header>Nicht verfügbare Gerätefunktionalität.</> UEFN befindet sich derzeit in einer öffentlichen Betaversion und Epic arbeitet weiterhin an dem Produkt. Daher kann Epic die Funktionalität einiger der Geräte deaktivieren, die wir zur Verwendung bei der Erstellung von UEFN-Inhalten zur Verfügung stellen, während Epic daran arbeitet, UEFN zu verbessern. Es ist auch möglich, dass Epic die UEFN-Funktionalität zumindest vorübergehend aussetzen muss, je nachdem, wie der UEFN verwendet wird. Auch wenn Sie beispielsweise ein von Epic bereitgestelltes Gerät (wie ein Accolade-Gerät) in Ihren UEFN-Inhalt aufnehmen können, kann es sein, dass das Accolade-Gerät Benutzern, die auf Ihre UEFN-Inhalte zugreifen, keine Experience Points zuweist. Es ist Ihnen nicht gestattet, zu versuchen, solche Geräte und/oder Funktionen zu umgehen und wieder zu aktivieren, die Epic deaktiviert hat. Epic wird sich bemühen, Sie über die Verfügbarkeit der UEFN-Funktionalität und Geräteverfügbarkeit auf dem Laufenden zu halten, aber Sie müssen Ihre UEFN-Inhalte testen, um sicherzustellen, dass sie wie erwartet funktionieren.
+
+<EULA.Header>6.3.        Zusammenarbeit mit anderen. </>UEFN enthält Funktionen, die es Creators ermöglichen, an UEFN-Projekten zusammenzuarbeiten, wobei jeder seinen eigenen UEFN-Inhalt beisteuert, bevor er zur Veröffentlichung für Fortnite-Nutzer eingereicht wird. Sie sind nicht berechtigt, die UEFN-Zusammenarbeitsfunktion zu nutzen, um Ihre UEFN-Inhalte zu teilen<EULA.Header> </>mit jeder anderen Person als einem Mitersteller bzw. Co-Creator, der die UEFN-Inhalte in gutem Glauben verwendet, um ein UEFN-Projekt mit Ihnen oder in Ihrem Namen zu entwickeln. Zur Klarstellung: Die Weitergabe Ihrer UEFN-Inhalte an andere Personen in gutem Glauben zu Testzwecken verstößt nicht gegen diese Bestimmung. Sie haften allein für Klagegründe, die sich aus UEFN-Inhalten ergeben, die Sie unter Verstoß gegen diese Bedingungen teilen. <EULA.Header>Wenn Sie kein Erwachsener sind (gesetzliches Volljährigkeitsalter, in dem Land, in dem Sie leben), können Sie diese Zusammenarbeitsfunktion auch dann nicht nutzen, wenn ein Erwachsener diese Bedingungen in Ihrem Namen akzeptiert hat.</> 
+
+
+Sie dürfen die von einem Mitwirkenden zur Verfügung gestellten Materialien nicht für andere Zwecke als die Entwicklung des UEFN-Projekts mit Ihrem Mitwirkenden verwenden und dürfen die Materialien nicht für die Verwendung in anderen UEFN-Projekten oder außerhalb von UEFN extrahieren.
+
+
+Für diejenigen, die für eine Zusammenarbeit in Frage kommen, müssen Sie auf die Fortnite Creative-Entwicklungswebsite von Epic, das Creator-Portal, zugreifen und einen weiteren Altersprüfungsprozess durchlaufen. <a href="https://dev.epicgames.com/documentation/en-us/uefn/UEFN/collaborating-in-unreal-editor-for-fortnite" style="EULA.Hyperlink" id="url" target="_blank">Hier</> finden Sie weitere Informationen zum Creator-Portal und zu Ihrer Fähigkeit, mit anderen Creators an UEFN-Projekten zusammenzuarbeiten.
+
+Wenn Sie sich entscheiden, mit anderen Creators an einem UEFN-Projekt zusammenzuarbeiten, bestätigen Sie, dass:
+
+Epic an keine Vereinbarung zwischen Co-Creators gebunden ist.
+Standardmäßig nur der Creator, der als Eigentümer eines UEFN-Projekts bestimmt ist, als Creator des Projekts zugeordnet wird. Alle Codes, die mit diesem UEFN-Projekt verknüpft sind, nur mit dem Creator verknüpft werden, der als Eigentümer bestimmt ist.
+Epic keine Meinung oder Beratung darüber anbietet, wie Co-Creator das Eigentum an UEFN-Inhalten bestimmen, die sie zum UEFN-Projekt beigetragen haben.
+Wenn Sie der Meinung sind, dass Ihre Rechte an geistigem Eigentum durch die Handlungen eines Co-Creators verletzt wurden, können Sie eine Lösung über unser DMCA-Verfahren suchen (siehe Abschnitt 6.9.1).
+<EULA.Header>6.4.        Dienst Unreal Revision Control.</> Epic kann Zugriff auf den Dienst Unreal Revision Control gewähren, ein cloudbasiertes Revisionskontroll-Repository, das von Epic gehostet wird. Der Dienst Unreal Revision Control ist Teil von UEFN. <a href="https://dev.epicgames.com/documentation/en-us/uefn/UEFN/unreal-revision-control-in-unreal-editor-for-fortnite" style="EULA.Hyperlink" id="url" target="_blank">Hier</> finden Sie weitere Informationen zum Dienst Unreal Revision Control von Epic und wie Sie ihn für die Verwaltung von Revisionen Ihrer UEFN-Projekte nutzen können.
+
+
+Wenn Sie die Zusammenarbeitsfunktionalität von UEFN gemäß Abschnitt 6.3 oben nutzen dürfen, können Sie autorisierten Creators, die mit Ihnen an einem UEFN-Projekt zusammenarbeiten, den Zugriff auf den Servicestandort Unreal Revision Control für dieses UEFN-Projekt ermöglichen. Es ist Ihnen jedoch nicht gestattet, diesen Zugriff zu nutzen, um Ihre UEFN-Inhalte oder die UEFN-Inhalte eines Co-Creators mit anderen Personen als einem Co-Creator zu teilen, der die UEFN-Inhalte in gutem Glauben verwendet, um ein UEFN-Projekt mit Ihnen oder in Ihrem Namen zu entwickeln. Materialien, die Sie für Ihr/Ihre Projekt(e) an den Servicestandort Unreal Revision Control hochladen, stellen Ihre UEFN-Inhalte dar und Sie gewähren Epic die Lizenz für UEFN-Inhalte gemäß Abschnitt 5.
+
+
+Unreal Revision Control ist <EULA.Header>kein</> Backup-System, sondern soll Creators bei der Verwaltung von Revisionen ihrer UEFN-Projekte helfen. Sie sollten lokale Kopien aller Dateien, die Sie an Speicherorte von Unreal Revision Control hochladen, aufbewahren, falls Ihre UEFN-Projekte über den Dienst Unreal Revision Control nicht mehr zugänglich sein sollten. Ihre Nutzung des Dienstes Unreal Revision Control erfolgt auf eigenes Risiko.
+
+<EULA.Header>6.5.        MetaHuman-Inhalte.</> MetaHuman-Inhalte sind „UE-Only-Inhalte“, die Sie nur in Verbindung mit der Unreal Engine und den auf der Unreal Engine basierenden Produkten von Epic, wie z. B. UEFN, verwenden dürfen. Jeder MetaHuman-Inhalt, der nicht Ihr UEFN-Inhalt ist (z. B. MetaHuman-Inhalt, auf den in einer Zusammenarbeit oder Demo zugegriffen wird), darf nur innerhalb des UEFN-Projekts verwendet werden, in dem er enthalten ist.
+
+Epic ist und bleibt alleiniger Eigentümer der Urheberrechte, Patentrechte und anderer geistiger Eigentumsrechte an MetaHuman Creator und Rig Logic, einschließlich der in MetaHuman-Inhalten verkörperten Rechte. Epic überträgt Ihnen keine Rechte an oder im Zusammenhang mit MetaHuman Creator oder Rig Logic. „Rig Logic“ ist Epics proprietäre Gesichtsanimationstechnologie, die auf MetaHuman-Inhalte angewandt und in diesen eingebettet wird und eine Reihe von Regeln enthält, die den Gesichts-Rigs zu einer lebensechteren Darstellung verhelfen.
+
+<EULA.Header>6.6.</><EULA.Header>        Entfernung von UEFN-Inhalten. </>Wie oben in Abschnitt 6.1.3 erwähnt, kann Epic Ihre UEFN-Inhalte nach eigenem Ermessen entfernen. Zusätzlich:
+
+
+<EULA.Header>Entfernung von UEFN-Inhalten durch Epic.</> Wenn Ihre UEFN-Inhalte gegen diese Bedingungen verstoßen, kann Epic einen Teil oder alle Ihrer UEFN-Inhalte entfernen, die Verfügbarkeit für diese aussetzen oder die Veröffentlichung ablehnen. Epic kann Ihre UEFN-Inhalte auch im Falle einer Änderung der geltenden Gesetze, Vorschriften oder Richtlinien entfernen, die ansonsten zur einer Haftung für Epic führen könnte, einschließlich der Beeinträchtigung der Integrität oder des Betriebs von UEFN und/oder von Fortnite.
+<EULA.Header>Entfernung von UEFN-Inhalten durch Sie.</> Mit Ausnahme Ihrer Beiträge, die Sie für ein UEFN-Projekt, das Sie nicht besitzen (wie oben in Abschnitt 5 beschrieben), bereitstellen möchten, können Sie Ihre UEFN-Inhalte jederzeit entfernen. Sie müssen Ihre UEFN-Inhalte aus dem Dienst entfernen, wenn Sie feststellen, dass Sie nicht über die erforderlichen Rechte verfügen, um die Lizenz in Abschnitt 5 dieser Bedingungen zu gewähren.
+
+Weitere Informationen über unsere Praktiken der Inhaltsmoderation finden Sie in unserem <EULA.Header>Safety and Security Center</>.
+
+
+<EULA.Header>6.7.</><EULA.Header>        Den Zugriff auf UEFN und zugehörige Dienste aussetzen oder beenden.</> Ein Verstoß gegen diese Bedingungen kann dazu führen, dass Ihr UEFN-Zugriff vorübergehend ausgesetzt wird oder dass es Ihnen dauerhaft untersagt ist, Ihre UEFN-Inhalte Benutzern über Fortnite zur Verfügung zu stellen, auf UEFN und seine Dienste zuzugreifen oder beides. Wenn Ihr Zugriff auf UEFN oder Ihre Fähigkeit, Benutzern UEFN-Inhalte über Fortnite zur Verfügung zu stellen, ausgesetzt oder beendet wurde, dürfen Sie kein anderes Konto verwenden, um diese Einschränkungen zu umgehen.
+
+
+<EULA.Header>6.8.</><EULA.Header>        Konto aussetzen oder kündigen.</> Epic kann Ihr Konto gemäß diesen Bedingungen, den Richtlinien von Epic oder einer anderen Vereinbarung, die Sie mit Epic haben, kündigen.
+
+
+<EULA.Header>6.9.</><EULA.Header>        Angebliche Verletzung von geistigem Eigentum und andere Probleme im Zusammenhang mit UEFN.</>
+
+
+<EULA.Header>6.9.1.</><EULA.Header>        </><EULA.HighlightItalic>Angebliche Verletzung des geistigen Eigentums.</> In Übereinstimmung mit dem Digital Millennium Copyright Act („DMCA“) und anderen anwendbaren Gesetzen hat Epic eine Politik der Kündigung von Benutzern oder Kontoinhabern unter angemessenen Umständen eingeführt, die laut Epic als wiederholte Verletzer der Urheberrechte anderer gelten. Epic kann zudem nach eigenem Ermessen den Zugriff auf UEFN oder andere Produkte oder Dienste von Epic beschränken und/oder die Konten von Nutzern, die die geistigen Eigentumsrechte Dritter verletzen, aktualisieren, übertragen, suspendieren oder kündigen, unabhängig davon, ob es wiederholt zu Verletzungen kommt oder nicht.
+
+
+Wenn Sie der Meinung sind, dass Ihr Werk auf der Website von Epic oder in anderen Diensten von Epic in einer Weise verwendet wurde, die eine Urheberrechtsverletzung darstellt, lesen Sie bitte unsere Seite <a href="https://www.epicgames.com/site/en-US/infringement" style="EULA.Hyperlink" id="url" target="_blank">Verstöße melden</>, um zu erfahren, wie Sie eine Mitteilung über eine angebliche Urheberrechtsverletzung („DMCA-Mitteilung“) einreichen.
+
+
+<EULA.Header>6.9.2.</><EULA.Header>        </><EULA.HighlightItalic>Kundendienst</><EULA.Header>.</> Wenn Sie Probleme mit UEFN haben, wenden Sie sich bitte an den Epic-Kundendienst.
+
+
+<EULA.Header>6.10.</><EULA.Header>        Benachrichtigung.</> Epic wird angemessene kommerzielle Anstrengungen unternehmen, um Sie im Zusammenhang mit negativen Maßnahmen, die in Übereinstimmung mit diesem Abschnitt ergriffen werden, sowie darüber, wie Sie gegen die Maßnahme Berufung einlegen können, zu benachrichtigen, es sei denn, wir glauben vernünftigerweise, dass dies: (a) gegen das Gesetz oder die Vorgaben einer Strafverfolgungsbehörde verstoßen würde, oder anderweitig eine rechtliche Haftung für Epic oder unsere verbundenen Unternehmen zur Folge haben könnte; (b) eine laufende Untersuchung oder die Integrität oder den Betrieb von Fortnite gefährden würde; oder (c) anderweitig eine Haftung oder einen Schaden für einen Benutzer, Dritten, Epic oder unsere verbundenen Unternehmen riskieren würde.
+
+
+<EULA.Header>7. Sonstige Angelegenheiten.</>
+
+<EULA.Header>7.1.        Offenlegungen.</> Sowohl die Benutzer als auch ihre Inhalte müssen alle gesetzlichen und regulatorischen Offenlegungsanforderungen einhalten, einschließlich ggf. Befürwortungsoffenlegungen.
+
+
+<EULA.Header>7.2.        Abtretung.</> Sie sind nicht berechtigt, Ihre Rechte und Pflichten aus diesen Bedingungen aus irgendeinem Grund an eine andere Person abzutreten oder zu übertragen, und sofern nicht anderweitig verboten, wird jeder Versuch von Ihnen, dies zu tun, als ungültig angesehen und kann auch zur Kündigung dieser Bedingungen und Ihres Kontos führen.
+
+
+<EULA.Header>7.3.        Interaktion mit der Fortnite-EULA.</> Die Bestimmungen der für Software und Dienstleistungen geltenden Fortnite-EULA gelten für diese Bedingungen und alle Streitigkeiten oder Ansprüche, die Sie möglicherweise mit Epic haben, die sich aus oder im Zusammenhang mit diesen Bedingungen oder dem UEFN ergeben. Zu diesen Fortnite-EULA-Bestimmungen gehören die Haftungsausschlüsse und Haftungsbeschränkungen (§ 8), das geltende Recht und die Gerichtsbarkeit (§ 11) sowie der verbindliche Verzicht auf Einzelschiedsverfahren und Sammelklagen (§ 12).
+
+
+<EULA.Header>7.4.        Entschädigung.</> Sie erklären sich damit einverstanden, Epic, seine Tochtergesellschaften und verbundenen Unternehmen sowie die jeweiligen Geschäftsführer, leitenden Angestellten, Mitarbeiter, Vertreter, Rechtsnachfolger und Bevollmächtigten (zusammenfassend die „<EULA.Header>Epic-Parteien</>“) in vollem Umfang nach geltendem Recht zu entschädigen, zu verteidigen und schadlos zu halten gegenüber allen Ansprüchen Dritter, Verlusten, Haftungen, Verletzungen, Sachschäden, Kosten oder Schäden, die sich aus tatsächlichen oder angedrohten Ansprüchen oder Klagegründen ergeben, die (a) auf Ihre angebliche oder tatsächliche Verletzung dieser Bedingungen oder (b) auf Ihre grobe Fahrlässigkeit oder Ihr vorsätzliches Fehlverhalten zurückzuführen sind. Darüber hinaus erklären Sie sich im größtmöglichen gesetzlich zulässigen Umfang damit einverstanden, die Epic-Parteien gegen alle Ansprüche, Schäden, Verbindlichkeiten, Kosten und Ausgaben Dritter (einschließlich, aber nicht beschränkt auf angemessene Anwaltskosten) zu verteidigen, zu entschädigen und schadlos zu halten, die sich aus Ihrer Nutzung von UEFN oder Ihren UEFN-Inhalten ergeben, einschließlich damit verbundener Ansprüche an geistigem Eigentum. Diese Bestimmung überdauert den Ablauf oder die Kündigung dieser Bedingungen.
+
+<EULA.Header>7.5.        Salvatorische Klausel.</> Wenn eine Bestimmung dieser Bedingungen nach den geltenden Gesetzen oder Vorschriften einer Gerichtsbarkeit ungültig, unrechtmäßig oder nicht durchsetzbar ist oder wird, gilt jede dieser Bestimmungen als geändert, um diesen Gesetzen oder Vorschriften zu entsprechen, ohne dabei die Absichten der Parteien wesentlich zu ändern und ist entsprechend durchzusetzen, oder sie wird gestrichen und der Rest dieser Bedingungen bleibt in vollem Umfang in Kraft und wirksam.
+
+<EULA.Header>8. Definierte Begriffe</>
+
+Wie oben erwähnt, haben großgeschriebene Begriffe, die hier nicht definiert sind, die Bedeutung, die in der Fortnite-EULA angegeben ist. Zusätzlich zu den oben definierten großgeschriebenen Begriffen haben die folgenden Begriffe die folgenden in diesen Bedingungen verwendeten Bedeutungen:
+
+<EULA.Header>8.1.        </>„<EULA.Header>Verbundenes Unternehmen</>“ bezeichnet in Bezug auf Epic jede Einheit, die diese Partei direkt oder indirekt kontrolliert, von ihr kontrolliert wird oder unter gemeinsamer Kontrolle mit ihr steht, einschließlich (beispielsweise, aber nicht beschränkt auf) ihre Unterlizenznehmer und Tochtergesellschaften.
+
+<EULA.Header>8.2.        </>„<EULA.Header>Markenmerkmale</>“ bezeichnet jeden Handelsnamen, jede Marke, DBA, jeden Gruppennamen, jedes Plattform-Handle, jeden Bühnennamen oder jedes Pseudonym, jede Dienstleistungsmarke, jedes Logo, jeden Domainnamen oder andere unverwechselbare Markenmerkmale von Ihnen oder Epic, die sich von Zeit zu Zeit im Besitz einer der Parteien befinden (oder lizenziert werden), einschließlich aller Marken Dritter, die Epic von Ihnen zur Verfügung gestellt werden und die in Verbindung mit der Werbung, dem Marketing, dem Verkauf, dem Support und der Verteilung von Inhalten angezeigt werden können.
+
+<EULA.Header>8.3.         </>„<EULA.Header>Inhalte</>“<EULA.Header> </>bezeichnet Inhalte, die in Fortnite, den Creator-Tools oder UEFN-Projekten verfügbar sind, einschließlich UEFN-Inhalte, geistiges Eigentum Dritter, das in das Vorstehende aufgenommen werden kann („<EULA.Header>Inhalte Dritter</>“) und Epics ursprüngliches geistiges Eigentum („<EULA.Header>Fortnite-Inhalte</>“). Zur Klarstellung: Fortnite-Inhalte sind weder UEFN-Inhalte noch Inhalte Dritter und umgekehrt.
+
+<EULA.Header>8.4.        </>„<EULA.Header>Creator-Tools</>“ bezeichnet die von Epic zur Verfügung gestellten Entwicklungstools (einschließlich Unreal Editor für Fortnite und Fortnite Creative), -systeme und -dienste (einschließlich des Creator-Portals und der Creator-Programm-Webanwendungen), die es Creators ermöglichen, Inhalte zu entwickeln, zu ändern und zu verteilen, die auf Fortnite veröffentlicht werden können.
+
+<EULA.Header>8.5</><EULA.Header>.</><EULA.Header>        </>„<EULA.Header>Fortnite</>“ bezeichnet alle Inhalte (einschließlich Inseln), unabhängig davon, ob sie von Epic, seinen Partnern, seinen verbundenen Unternehmen oder seinen Benutzern zur Verfügung gestellt und über das Gaming-Ökosystem und/oder den als „Fortnite“ bezeichneten Spielclient unabhängig vom Zugriffspunkt angeboten werden, einschließlich aller Updates, Erweiterungen und Verbesserungen sowie aller sozialen Funktionen, Erweiterungen, öffentlichen Konten, Begleit-Apps und anderer offizieller Kanäle, die mit der Marke „Fortnite“ oder den Co-Branding-Inseln „Fortnite“ verbunden sind.
+
+<EULA.Header>8.6</>        „<EULA.Header>MetaHuman Content</>“ bezeichnet digitale menschliche Charaktere, die von MetaHuman Creator exportiert oder von oder im Namen von Epic erstellt werden.
+
+<EULA.Header>8.7.</><EULA.Header>        </>„<EULA.Header>Bedingungen</>“ bedeutet diese Unreal Editor für Fortnite Zusatzbedingungen zur Fortnite EULA.
+
+<EULA.Header>8.8.</><EULA.Header>        </>„<EULA.Header>UEFN-Projekt</>“ bedeutet eine „spielbare“ interaktive Erfahrung (z. B. Spiele, Veranstaltungen, virtuelle Orte), die mit UEFN erstellt wurde. Wenn ein UEFN-Projekt auf Fortnite verteilt wird und für die Nutzer zugänglich ist, stellt es eine „<EULA.Header>UEFN-Insel</>“ dar.
+
+<EULA.Header>8.9.</><EULA.Header>        </>„<EULA.Header>Benutzer</>“ bezeichnet jede natürliche Person, jedes Unternehmen oder jede andere juristische Person, die rechtmäßig mit Fortnite gemäß den Richtlinien von Epic interagiert.
+
+<EULA.Header>8.10.</><EULA.Header>        </>„<EULA.Header>Generative KI-Programme</>“ bedeutet künstliche Intelligenz, maschinelles Lernen, Deep Learning, neuronale Netze oder ähnliche Technologien, die dazu dienen, die Generierung neuer Inhalte zu automatisieren oder bei der Erstellung neuer Inhalte zu helfen, einschließlich, aber nicht beschränkt auf audiobasierte, visuelle oder textbasierte Inhalte. Programme erfüllen diese Definition von generativen KI-Programmen nicht, wenn sie beispielsweise (a) ausschließlich mit dem ursprünglichen Inhalt arbeiten (wie z. B. Bild-Upscaling); (b) Tags erzeugen, um visuellen Eingabeinhalt zu klassifizieren; oder (c) Anweisungen zum Anordnen vorhandener Inhalte erzeugen, ohne neue Inhalte zu erstellen.

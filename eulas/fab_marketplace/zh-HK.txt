@@ -1,0 +1,367 @@
+<EULA.Header>FAB DISTRIBUTION AGREEMENT</>
+
+Last updated: October 10, 2024
+
+This Agreement governs how Epic may act as your agents to offer for sale and distribute your digital content through Epic’s proprietary online marketplace and is a legal agreement between you and Epic. By clicking to indicate your acceptance of this Agreement or otherwise providing content to Epic for distribution through the marketplace, you are agreeing to be bound by the terms of this Agreement. When we say, “<EULA.Highlight>you</>,” “<EULA.Highlight>your</>” or “<EULA.Highlight>yourself</>”, we mean you as an individual or the legal entity exercising rights under this Agreement through you. In these terms “<EULA.Highlight>we</>” or “<EULA.Highlight>us</>” or “<EULA.Highlight>Epic</>” refer to an Epic entity as defined in Section 19.
+
+<b>PLEASE READ THIS AGREEMENT CAREFULLY. IT CONTAINS A CLASS-ACTION WAIVER PROVISION. IF YOU ACCEPT THIS AGREEMENT, YOU AND EPIC AGREE TO RESOLVE DISPUTES ONLY IN YOUR INDIVIDUAL CAPACITIES AND NOT AS PART OF A CLASS ACTION (SEE SECTION 17(b)). YOU HAVE A TIME-LIMITED RIGHT TO OPT OUT OF THIS CLASS-ACTION WAIVER. BY AGREEING TO THE TERMS OF THIS AGREEMENT, YOU ARE ALSO AGREEING TO CONTRACTUAL TERMS THAT WILL LIMIT SOME OF YOUR LEGAL RIGHTS, INCLUDING A JURY WAIVER, A DISCLAIMER OF WARRANTY, AN EXCLUSION OF CERTAIN KINDS OF DAMAGES, AND A LIMITATION OF LIABILITY.</b>
+
+Capitalized words or phrases used in this Agreement have the meanings defined below in Section 19.
+
+<EULA.Header>Selling Your Content Through an Epic Marketplace</>
+
+<EULA.Header>1.	HOW EPIC OPERATES ITS MARKETPLACES</>
+
+<EULA.Highlight>a.	Epic’s Role in the Marketplaces</>. Epic and its affiliates or subsidiaries (“<EULA.Highlight>Marketplace Operators</>”) operate the Marketplaces through which you may sell and distribute your Content to Customers. The Marketplace Operators are not obligated to host your listing(s) for, or to market or advertise, your Content, and once you have listed your Content, the Marketplace Operators have no obligation to continue to host the Content’s display pages on the Marketplace. Once your Content is made available in the Marketplace, Epic may remove or suspend listing(s) of your Content, but only after we take reasonable steps to provide you with written notice.
+
+<EULA.Highlight>b.	Your Role in the Marketplaces</>. By submitting Content to be listed in a Marketplace, you appoint Epic, and through Epic the Marketplace Operators and third parties we designate, as your undisclosed agents for the sole purposes of marketing the Content, offering the Content for sale, processing payments for the Content, distributing Content through the Marketplaces, and developing systems to protect against prohibited content or activity. When a Customer acquires the Content from a Marketplace, you grant the Customer a license to use the Content and will receive a share of the revenue from the sale, as explained further in Section 5.
+
+<EULA.Highlight>c.	Why Customers use the Marketplaces</>. Customers acquire digital content through the Marketplaces so that they can use the digital content in their own projects. Customers may use digital content they acquire through a Marketplace in many ways. The license you grant to Customers will allow them to use and substantially alter the Content they acquire, including by combining it with other works, and use the Content in a wide variety of projects, in any media, streamed or not streamed, and on platforms run by the Marketplace Operators or third parties.
+
+<EULA.Highlight>d.	Marketplace Pricing</>. When you sell Content via the Marketplace, that transaction is between you and the Customer. For each item of Content you make available through the Marketplace, you will indicate which License Tiers you will offer and a retail price (the “<EULA.Highlight>Listing Price</>”) for each License Tier you indicate. You have complete discretion in setting any Listing Price that complies with the terms of this Agreement. You instruct the Marketplace Operators to market and offer your Content for sale at the Listing Price, adjusted to include any Sales Taxes in accordance with Section 1(e). Additionally, you may opt-in to instruct the Marketplace Operators to apply certain discounts (e.g., Marketplace-wide sales) to the Listing Price from time to time. You may set the Listing Price for Content at $0.00 or a value equal to or greater than $0.99.
+
+<EULA.Highlight>e.	Sales Taxes</>. You authorize Epic to act in its own name but on your behalf for Sales Tax purposes in connection with your sale of Content on a Marketplace. Epic collects Sales Tax from Customers and remits that Sales Tax to the relevant taxing authority for sales of Content that happen in the jurisdictions listed on our “<EULA.Highlight>Tax Jurisdictions List</>” accessible at <a style= "color: deepskyblue" href="https://dev.epicgames.com/portal/o/store/policies">https://dev.epicgames.com/portal/o/store/policies</a>. The Tax Jurisdictions List is subject to change. If you or Epic are liable for Sales Tax in jurisdictions that are not in the Tax Jurisdictions List, we may deduct those taxes from future transfers to you or collect those taxes directly from you. Certain territories may not allow us to remit taxes on your behalf. You are obligated to remit taxes in these jurisdictions to the appropriate tax authority.
+
+<EULA.Highlight>f.	Payment Processing</>. Acting as your agents, Epic or a Marketplace Operator may (i) act as your payment processor for Marketplace transactions for your Content; (ii) accept or decline to accept any form of payment from Customers; (iii) pause a Marketplace transaction for investigation; (iv) refuse to process or cancel any Marketplace transaction (for example, due to concerns about potential fraud, Customer payment issues, or some other potential breach of this Agreement); (v) have Epic’s (or its authorized payment processing services’) name appear on the Customer’s credit or other card statement; (vi) address and resolve disputes related to Marketplace transactions between you and Customers; and (vii) provide, or require you provide, refunds to Customers according to Marketplace refund policies.
+
+<EULA.Highlight>g.	What is Being Sold</>. When we say in this Agreement that Content is offered “for sale” or that Content is “purchased” or “acquired” we mean that Digital Rights (as defined below) in the Content are being offered for sale to or for purchase by Customers. Your ownership of the Content is not being offered for sale or sold.
+
+<EULA.Header>2.	CONTENT LICENSE GRANT</>
+
+<EULA.Highlight>a.	Your Content is Yours</>. As between you and Epic, you own all rights in your Content (other than materials you have included in your Content that are licensed to you by Epic and its affiliates). The rights you grant to Epic and Customers herein is not an ownership right, but a license to the Content you own (“<EULA.Highlight>Digital Rights</>”).
+
+<EULA.Highlight>b.	License for Epic to Operate the Marketplaces</>. The Marketplace Operators need your permission in the form of a license to make your Content available in the Marketplace. You grant the Marketplace Operators a license to the Content that allows the Marketplace Operators to: 
+
+     -	<EULA.Highlight>Copy the Content</> (e.g., to copy content to Marketplace servers and facilitate Customers’ transactions and downloads);
+
+     -	<EULA.Highlight>Display the Content</> (e.g., to show your Content and Submission Materials on Marketplace websites and promote the Content through social media);
+
+     -	<EULA.Highlight>Distribute the Content </>(e.g., to provide access to your Content to Customers who have acquired Digital Rights);
+
+     -	<EULA.Highlight>Perform the Content </>(e.g., to demonstrate your Content to the public, including at live events such as trade shows);
+
+     -	<EULA.Highlight>Use the Content </>(e.g., to develop systems to protect against prohibited content or activity and otherwise improve the Marketplace).  
+
+<EULA.Highlight>i.	Restriction on Epic’s License</>. The Marketplace Operators may exercise the license granted in Section 2(b) for the sole purpose of allowing the Marketplace Operators to promote and market Content, to distribute Content to Customers, and to operate, protect and support the Marketplaces. Marketplace Operators may also exercise the license granted in Section 2(b) to promote and market the Marketplace. In addition to the foregoing, the license you grant Epic is subject to the following restrictions: 
+
+     -	<EULA.Highlight>Limited Territory</>: The Marketplace Operators will only offer Content for sale on your behalf to Customers who indicate they are located within the Territory.
+
+     -	<EULA.Highlight>Duration</>: The Marketplace Operators’ license will continue until your Withdrawal Request for Content is processed; after that, the license still continues, but only so Customers who have already acquired the Content can re-download the Content.
+
+     -	<EULA.Highlight>Sublicensable</>: The Marketplace Operators can sublicense (through multiple tiers) portions of this license only as necessary to exercise its rights in this Agreement (like to payment service providers).  
+
+     -	<EULA.Highlight>No Other Payments</>: The Marketplace Operators pay you amounts described in Section 5, but we do not owe you any other payments under this agreement. 
+
+     -	<EULA.Highlight>Limited Purpose</>: The Marketplace Operators can only exercise the Content license rights you grant us to: a) promote, market, and provide access to the Content to Customers; b) promote, market, and provide access to a Marketplace; and c) to operate, promote, market, and support a Marketplace.
+
+<EULA.Highlight>ii.	Responsibility of Marketplace Operators</>. Epic will be responsible for the Marketplace Operators’ compliance with the terms of this Agreement.
+
+<EULA.Highlight>c.	Your License to Customers</>. You will grant Customers who acquire Content from a Marketplace a license to use that Content (the “<EULA.Highlight>Customer License</>”). You instruct the Marketplace Operators to inform Customers of any Customer Licenses that you have granted them.
+
+<EULA.Highlight>i.	Standard Marketplace License</>. Unless you and Epic agree otherwise, you will grant the Customer License using the Marketplace Operator’s then-current <a style= "color: deepskyblue" href="https://www.fab.com/eula">Fab End User License Agreement</a> (“<EULA.Highlight>Standard License</>”). Under the Standard License, you will grant the Customer an irrevocable, royalty-free, sublicensable (through multiple tiers), fully paid-up, worldwide license to use, reproduce, distribute, display and perform (whether publicly or otherwise), prepare derivative works of and otherwise modify, use and exploit all or any portion of such Content, in any form or media (now known or later developed). You can view the Marketplace Operator’s current Standard License from your Marketplace portal. 
+
+<EULA.Highlight>ii.	Alternative License</>. For any Content that you and Epic agree will be offered on your behalf under an open-source license, you will grant the Customer License using the agreed upon open-source license. Only Content for which you have set the Listing Price at $0.00 may be so licensed to Customers under an open-source license. If you and Epic agree to offer Content under an open-source license that you previously were offering under a Standard License, you will grant Customers who previously acquired your Content the option to use Content under the new open-source license, their prior Standard License, or both.
+
+<EULA.Highlight>iii.	License Tiers and Customer License changes</>. If you change which Customer License types or License Tiers may be acquired for your Content, licenses you have already granted (including licenses granted under Customer Licenses or License Tiers you have decided to no longer offer) will not be affected.
+
+<EULA.Highlight>iv.	License Compliance</>. Customers are solely responsible for their compliance with the terms of the Customer License. Epic does not monitor how Customers use Content, including how Customers may use Content on Epic services. If you believe your Content is being infringed or misused on any Epic service, please report the suspected abuse <a style= "color: deepskyblue" href="https://www.epicgames.com/site/en-US/infringement" >here</a>.
+
+<EULA.Highlight>d.	License for Epic to Host Reference Assets</>. The Customer License you grant may allow Customers to access Content by means of a “reference asset” and to grant others permission to do the same in certain circumstances. Reference assets are files that, rather than containing a full copy of the Content, contain information about where a copy of the Content can be accessed online. In order for reference assets to function, there must be a copy of your content hosted online for the reference asset to point to. For this reason, when you grant a Customer License that permits Customers to access Content by means of a reference asset, you instruct Epic to host copies of the Content online on your behalf for that purpose. In case such Content is updated by you, you agree that Epic may host copies of a previous version of the Content and allow Customers to access it in case the updated version of the Content is deemed not viable for use (for instance, when the updated Content does not work properly). For more information about how reference assets work, see <a style= "color: deepskyblue" href="https://www.epicgames.com/fortnite/en-US/creative/docs/uefn/Verse/modules-and-paths-in-verse">https://www.epicgames.com/fortnite/en-US/creative/docs/uefn/Verse/modules-and-paths-in-verse</a>.
+
+<EULA.Highlight>e.	Waiver of Moral Rights</>. As described in Section 1©, a primary reason Customers acquire Content on a Marketplace is so they have freedom to incorporate Content into their projects without further restriction after acquiring said Content. Accordingly, you waive, to the extent permitted by applicable law, all rights of paternity, integrity, attribution, disclosure, withdrawal, and any other rights that may be known as “moral rights” (“<EULA.Highlight>Moral Rights</>”) with respect to the use of Content and Feedback (as defined in Section 18(d)) pursuant to this Agreement. To the extent this waiver is not permitted by applicable law, you will not enforce such Moral Rights against Epic, Marketplace Operators, or Customers or their respective permitted successors, licensees, and assigns. 
+
+<EULA.Header>3.	SUBMISSION AND CONTENT REQUIREMENTS</>
+
+<EULA.Highlight>a.	All Necessary Rights</>. You will not provide any Submission Materials or Content to Epic or a Marketplace Operator for which you do not have all necessary intellectual property, publicity, and other proprietary or third-party rights to grant all of the licenses described in this Agreement.
+
+<EULA.Highlight>b.	Update Parity</>. If your Content is made available to end users through channels other than the Marketplaces, you will provide any Updates to Epic no later than you provide them to any other third party.
+
+<EULA.Highlight>c.	Non-Compatible Licenses</>. Unless you and Epic agree otherwise, you will not provide any Submission Materials or Content to Epic that contains any code or other materials that are covered by a license that would directly or indirectly require that all or part of the Submission Materials or Content be governed under any terms other than those of this Agreement. This means, for example, that Submission Materials and Content may not include code or materials licensed under any of the following licenses: GNU General Public License (GPL), GNU Affero General Public License (AGPL), Lesser GPL (LGPL) (unless you are merely dynamically linking a shared library), or Creative Commons Attribution-ShareAlike License.
+
+<EULA.Highlight>d.	Full and Complete Information</>. You will only provide accurate and complete materials and information to Epic. This means, for example, Submission Materials must include all warnings, disclosures, and information required by law to be displayed with your Content. If you later become aware that materials or information you previously provided to Epic are or have become inaccurate or incomplete, you will immediately provide Epic with updated materials or information.
+
+<EULA.Highlight>e.	Additional Requested Information</>. You will provide Epic with any additional information that Epic requests about your Content. Such additional information you provide will be regarded as part of the Submission Materials. 
+
+<EULA.Highlight>f.	Content Requirements</>. Your Content must meet the following requirements:
+
+<EULA.Highlight>i.	</>products must be complete, fully functional as advertised upon submission, and consistent with the product description presented on the product page. Additional Files should pertain to the product listing they are included with;
+
+<EULA.Highlight>ii.	</>sample content from Epic Games must not be an integral part of a product, but used for display or example purposes only;
+
+<EULA.Highlight>iii.	</>content should meet standards set out in <a style= "color: deepskyblue" href="http://fab.com/technical-requirements">Fab Technical Requirements</a>;
+
+<EULA.Highlight>iv.	</>use of unmodified public domain content is limited to assisting with presentation, while not being the majority of the submission, and the content must have been modified so as to bring new value to the assets. You must cite the source and include a link to the source content in the asset’s Technical Information that includes clear public domain usage information;
+
+<EULA.Highlight>v.	</>content distributed through Fab is licensed only under the <a style= "color: deepskyblue" href="https://www.fab.com/eula">Fab End User License Agreement</a>, which is not superseded by custom licenses included in Content’s distributed files;
+
+<EULA.Highlight>vi.	</>content must not use third-party software licensed under GPL, LGPL, EPL, MSPL, or other licenses that would directly or indirectly require that all or part of the asset be governed under any terms other than the <a style= "color: deepskyblue" href="https://www.fab.com/eula">Fab End User License Agreement</a>.
+
+<EULA.Highlight>g.	Prohibited Materials</>. You will ensure that all Submission Materials and Content do not:
+
+<EULA.Highlight>i.	</>violate, infringe, or misappropriate any copyright, trademark, trade secret, trade dress, patent, publicity, privacy, or other right of any person or entity; 
+
+<EULA.Highlight>ii.	</>defame any person or violate their rights of publicity or privacy;
+
+<EULA.Highlight>iii.	</>violate contracts or terms you entered into with any party;
+
+<EULA.Highlight>iv.	</>violate any applicable law or regulation;
+
+<EULA.Highlight>v.	</>contain viruses, adware, spyware, or other malicious content;
+
+<EULA.Highlight>vi.	</>interfere with, disrupt, damage, or access without authorization any devices, networks, properties, or services of Epic or any third party (including Customers, Epic’s service providers, and network operators); or
+
+<EULA.Highlight>vii.	</>fail to comply with any additional Epic rules or guidelines provided by Epic at: <a style= "color: deepskyblue" href="https://www.epicgames.com/site/en-US/content-guidelines" >https://www.epicgames.com/site/en-US/content-guidelines</a> at the time you provide the Submission Materials or Content to Epic.
+
+<EULA.Highlight>h.	Content Created with Generative AI Programs</>. You will ensure all Content is appropriately tagged with “CreatedWithAI” where required by Section 18(k). 
+
+<EULA.Highlight>i.	Content for Fortnite</>. If you promote or advertise any Content as being suitable for use in Fortnite, you will ensure the Content can be used in compliance with the then current <a style= "color: deepskyblue" href="https://www.fortnite.com/news/fortnite-creative-creator-content-rules-and-guidelines">Fortnite Creative - Creator Content Rules and Guidelines</a>.
+
+<EULA.Highlight>j.	Union Guild</>. Each time you upload Content, you represent and warrant that: (i) the Content was not produced under the jurisdiction of any collective bargaining agreement; (ii) the Content is not subject to any union or guild restrictions or obligations; and (iii) no third party fees to, or permissions from, any guild, union or collective bargaining association, or any performer member thereof, will be required for the exploitation of the rights contemplated hereunder (including any rights you grant to a Customer). You expressly acknowledge that the Marketplace Operators are not signatories to any collective bargaining agreement with any guild or union which may claim jurisdiction over the services Marketplace Operators render pursuant to this Agreement, and no activities to be performed in connection with this Agreement or use of Content will cause Marketplace Operators or a Customer to become subject to the jurisdiction of any union or guild. 
+
+<EULA.Header>4.	YOUR AND EPIC’S RESPONSIBILITIES</>
+
+<EULA.Highlight>a.	Your Responsibilities</>. As between you and Epic, you are solely responsible for:
+
+<EULA.Highlight>i.	Content Creation</>: creating Content by (i) using your own equipment, materials, supplies and other resources at your own expense and (ii) exercising your own talent, skills, judgment and aesthetic sense;
+
+<EULA.Highlight>ii.	Content QA</>: performing industry standard quality assurance testing for the Content;
+
+<EULA.Highlight>iii.	Bug Fixes and Ongoing Compliance</>: providing Updates to Epic as needed to resolve bugs, ensure compliance with Marketplace requirements, or otherwise support and maintain your Content for as long as you make it available on the Marketplace, including when reasonably requested to do so by Epic and/or where necessary to cure a violation of this Agreement; and
+
+<EULA.Highlight>iv.	Content Customer Support</>: providing Customers with support and maintenance for Content they have acquired.
+
+<EULA.Highlight>b.	Epic Responsibilities</>. As between you and Epic, Epic is solely responsible for
+
+<EULA.Highlight>i.	Marketplace Support</>: Providing customer support and maintenance for the Marketplaces.
+
+<EULA.Header>5.	REVENUE SHARE</>
+
+<EULA.Highlight>a.	Revenue Share</>. When a Customer buys Digital Rights as described in Section 1 above, the Marketplace Operators collect their money and deduct any Sales Tax that they will remit to tax authorities, as required by law. The Marketplace Operators pay you 88% of the amount charged for a sale of Digital Rights, in each case after deducting applicable Sales Tax and amounts attributable to payment processing fees, discounts, and charges related to fraud; chargebacks and Customer refunds will also be deducted from the payout (“<EULA.Highlight>Seller Proceeds</>”).” 
+
+<EULA.Highlight>b.	Revenue Report</>. Epic will generate a Revenue Report for you no later than sixty (60) calendar days after the end of each calendar quarter. The Revenue Report shall be binding and conclusive upon you with respect to the Seller Proceeds payable or creditable to you thereunder unless challenged by you within twelve (12) months following receipt of the Revenue Report. 
+
+<EULA.Highlight>i.	Updated Reports</>. If the inputs used to calculate Seller Proceeds for a period change from what was initially reflected in a Revenue Report (e.g. because a Customer was issued a refund), Epic may issue an updated Revenue Report for up to twelve (12) months from when the original Revenue Report was provided.
+
+<EULA.Highlight>ii.	Challenging a Report</>. To challenge a Revenue Report, you must deliver to Epic a written notice that informs Epic you are challenging a Revenue Report and details the nature of your objections. No action, suit, or proceeding of any nature in respect of any Revenue Report or other accounting rendered by Epic under this Agreement may be maintained against Epic unless such action, suit or other proceeding is commenced within twelve (12) months after the date of Epic’s response to your challenge to a Revenue Report.
+
+<EULA.Highlight>c.	Payment Details</>. Here’s what to expect for receiving transfers of your Seller Proceeds from Epic:
+
+<EULA.Highlight>i.	Merchant Account</>: In order for Epic to transfer your amounts due under this Agreement, you must have a merchant account in good standing with a provider currently designated by Epic as being Marketplace-compatible (your “<EULA.Highlight>Merchant Account</>”). Epic does not administer Merchant Accounts and is not a party to any agreement you have with your Merchant Account provider. 
+
+<EULA.Highlight>ii.	Monthly Transfers</>: Subject to your ongoing compliance with Section 8(b), no later than 45 days from the end of each month Epic will initiate an electronic funds transfer to the Merchant Account whose details you have provided through your Marketplace portal. The amount transferred to you will be Epic’s then current calculation of the Seller Proceeds owed to you and other amounts you owed to Epic under this Agreement. All transfers to you will be payable in United States dollars. While there will be a delay between when a Customer makes a purchase and when the Seller Proceeds are credited to you, it will be no longer than 60 days from the end of the month in which a transaction occurred.
+
+<EULA.Highlight>iii.	Payout Minimum:</> Generally, we will only initiate transfers for amounts over $100. If you haven’t accrued $100 in unpaid Seller Proceeds, we will roll your unpaid Seller Proceeds over monthly and initiate a transfer to you only when the amount crosses the $100 payment threshold. We will, however, initiate a transfer for any Seller Proceeds that was earned more than a year ago, regardless of the amount.
+
+<EULA.Highlight>iv.	Bank Fees</>: If we incur any wire transfer, bank, or payment fees when making a transfer to your Merchant Account, we may deduct those fees from your Seller Proceeds. We have no responsibility for any of these types of fees incurred by you.
+
+<EULA.Highlight>d.	Taxes</>. Other than the Sales Tax described in Section 1(e), you are responsible for all other taxes, including income taxes, levies, VAT, and similar fees due on any transfer we make to you under this Agreement. In certain jurisdictions, tax regulations may require that we collect and/or report tax information about you, withhold taxes from payouts to you, or both. If you fail to provide us with documentation that we determine is sufficient to fulfill our obligation to withhold taxes from payouts to you, we may withhold payouts up to the amount as required by law, until you provide us with sufficient documentation. If we withhold taxes on amounts due to you under this Agreement, we will remit those taxes to the proper tax authorities. We will give you a receipt for any of these withholding taxes and we’ll also provide you other documents you reasonably request so that you can claim foreign tax credits or refunds.
+
+<EULA.Highlight>e.	Tax Forms</>. You must provide Epic a completed Form W-9 (if you are based in the United States) or Form W-8BEN (if you are not based in the United States) and other tax information that may be requested by Epic, and you must update Epic if any of your tax information changes. If you do not, Epic may not transfer any Seller Proceeds to you until you have provided full and complete information.
+
+<EULA.Highlight>f.	Negative Balances</>. If the amounts paid to you under this Agreement exceed the Seller Proceeds owed to you under this Agreement Epic may, at its choice, either (i) offset any overpayment against future Seller Proceeds otherwise due to you or (ii) require you to repay the overpayment to Epic. If Epic elects to require repayment, the parties shall negotiate in good faith with respect to a reasonable payment plan for such repayment.
+
+<EULA.Header>6.	USE OF BRAND FEATURES AND SUBMISSION MATERIALS</>
+
+<EULA.Highlight>a.	Brand Features</>. You and Epic each own or license trademarks, logos, and other Brand Features. As between you and Epic, you own your Brand Features and we own our Brand Features. No licenses are granted to either party’s Brand Features except as expressly stated in this Agreement.
+
+<EULA.Highlight>b.	Your Brand Features</>. As stated in Section 2(b), you grant the Marketplace Operators a limited license to make certain uses of your Submission Materials and Content. Any Brand Features, such as your name and logo, that are included in your Submission Materials or Content are included in that license. See Section 2(b) for how this license to the Marketplace Operators is restricted.
+
+<EULA.Highlight>c.	Epic’s Brand Features.</> Nothing in this Agreement gives you a right to use any of Epic’s Brand Features.
+
+<EULA.Header>Our Relationship</>
+
+<EULA.Header>7.	THIS AGREEMENT BETWEEN YOU AND EPIC</>
+
+<EULA.Highlight>a.	Amendments</>. This Agreement can only be amended: (i) in a writing signed by both you and Epic or (ii) by you agreeing to an updated version of this Agreement that is presented to you through a Marketplace. 
+
+If we make changes to this Agreement, you are not required to accept the amended version. Until you do accept the amended version, this Agreement will continue to apply. If we make changes to this Agreement, you may not be permitted to log in to your Epic account, access the Marketplace, or upload additional Content until you have accepted the amended Agreement.
+
+<EULA.Highlight>b.	Exhibits</>. You and Epic may, from time to time, execute exhibits with special terms related to certain Content (each, an “<EULA.Highlight>Exhibit</>”). An Exhibit will only be effective upon being signed by both parties. To the extent there is a conflict between an Exhibit and the body of this Agreement, the Exhibit will control to the extent of the conflict only with regard to the Content identified in the Exhibit. An Exhibit will not affect the terms applicable to Content not described in the Exhibit, and following the termination or expiration of an Exhibit, Content identified in the Exhibit will be subject to the standard terms of this Agreement. Following termination or expiration of an Exhibit, you may submit a Withdrawal Request for any Content you do not wish to remain in the Marketplaces under the standard terms. (See Section 10 for more information about Withdrawal Requests.)
+
+<EULA.Highlight>c.	Notice</>. Where this Agreement calls for notice from us, including written notice, we may provide notice to you through the Epic services or by any email address that you’ve provided to us. Where this Agreement calls for notice to us, including written notice, you may provide notice to us by emailing <a style= "color: deepskyblue" href="mailto:legal@epicgames.com">legal@epicgames.com</a>. Notices, when provided to you through the Epic services, will be effective when you access the Epic services, and when sent by email, will be effective when the email is sent.
+
+<EULA.Header>8.	WHO ARE YOU? </>
+
+<EULA.Highlight>a.	You</>. When you accept this Agreement on behalf of another person or entity, (i) all references to “you” throughout this Agreement will include, and this Agreement will be binding on, that person or entity, and (ii) in the event you violate this Agreement, that person or entity agrees to be responsible to us.
+
+<EULA.Highlight>b.	Eligibility</>. You must be of the age of legal majority where you live to enter into this Agreement. You must not be or be acting on behalf of any person or entity that is (i) on the Specially Designated Nationals and Blocked Persons List or other similar lists maintained by any U.S. government entity pursuant to economic sanctions laws or (ii) located in, organized in, or ordinarily resident in any country or territory that is subject to a U.S. embargo.
+
+<EULA.Header>9.	Privacy</>
+
+Your privacy is important to Epic. Please review our Privacy Policy (<a style= "color: deepskyblue" href="https://www.epicgames.com/privacypolicy">epicgames.com/privacypolicy</a>). It describes how Epic may collect, use, and share information when you use a Marketplace. You can also learn more about how we enable access to data <a style= "color: deepskyblue" href="https://www.fab.com/legal">here</a>. 
+
+<EULA.Header>10.	WITHDRAWING YOUR CONTENT</>
+
+<EULA.Highlight>a.	Withdrawal Requests</>. You can, at any time, request for any piece of Content to no longer be offered for sale on your behalf through the Marketplaces (each request, a “<EULA.Highlight>Withdrawal Request</>”). Withdrawal Requests must be submitted through your Marketplace account. 
+
+<EULA.Highlight>b.	Effects of Withdrawing Content</>. Within a commercially reasonable time after you submit a Withdrawal Request, Marketplace Operators will stop offering for sale the Content you have withdrawn on the Marketplaces.
+
+<EULA.Highlight>i.	Customers May Still Access Acquired Content</>. After Content is withdrawn, Marketplace Operators may exercise the license granted in Section 2(b) for the sole purpose of allowing Customers who have already acquired the Content to re-download the Content.
+
+<EULA.Highlight>ii.	Customers’ Continued Use of Content</>. Customer Licenses granted pursuant to Section 2© will be unaffected by Content being withdrawn. This means, for example, that Customers will have no obligation to delete previously acquired Content and may continue to freely use that Content after it is no longer offered for sale in the Marketplaces.
+
+<EULA.Header>11.	TERMINATION OF MARKETPLACE ACCOUNT</>
+
+You may terminate your Marketplace account at any time. Epic may terminate your Marketplace account if Epic reasonably believes you have violated the terms of this Agreement or other Agreements you have with Epic. The termination of your Marketplace account, or your Epic account, by either you or Epic, will be treated as a Withdrawal Request for all Content for sale through the Marketplace. See Section 10 for the effects of a Withdrawal Request.
+
+<EULA.Header>12.	CONFIDENTIALITY</>
+
+Any Confidential Information received or otherwise learned by a party (as “<EULA.Highlight>Recipient</>”) from the other party (as “<EULA.Highlight>Discloser</>”) will be treated by the Recipient as confidential and proprietary information of the Discloser and will be used by Recipient solely in connection with its performance of this Agreement. The Recipient will not disclose the Discloser’s Confidential Information, except to affiliates, employees, or anyone acting on its behalf who need to know it in connection with the performance of this Agreement and who have agreed in writing to keep it confidential. The Recipient will ensure that such persons and entities use the Confidential Information only to exercise rights and fulfill obligations under this Agreement and that they keep it confidential. The Recipient may disclose Confidential Information when legally compelled by a court or other government or tax authority. To the extent permitted by law, the Recipient will promptly provide the Discloser with sufficient notice of all available details of the legal requirement and reasonably cooperate with the Discloser’s efforts to challenge the disclosure, seek an appropriate protective order, or pursue such other legal action, as the Discloser may deem appropriate.
+
+<EULA.Header>Other Rights and Obligations</>
+
+<EULA.Header>13.	REPRESENTATIONS AND WARRANTIES</>
+
+a.	Your Representations and Warranties. 
+
+<EULA.Highlight>i.	Contract Formation</>. You represent and warrant that you meet all the eligibility criteria stated in Section 8(b). When you accept this Agreement on behalf of another person or entity, you additionally represent and warrant that you are authorized to accept this Agreement on that person’s or entity’s behalf.
+
+<EULA.Highlight>ii.	Product and Submission Materials</>. When you submit Content or Submission Materials to Epic, you represent and warrant that you have complied with all the terms of Section 3.
+
+<EULA.Header>14.	DISCLAIMERS</>
+
+<EULA.Highlight>a.	Who This Section Applies To</>. Nothing in this Agreement will prejudice any statutory rights that you have that may not be waived. Some countries, states, provinces or other jurisdictions do not allow the exclusion of certain warranties or the limitations of liability as stated in this and the next section, so the below terms may not fully apply to you. In those jurisdictions, the exclusions and limitations below apply only to the extent permitted by the applicable laws of such jurisdictions.
+
+<EULA.Highlight>b.	Disclaimers</>. THE MARKETPLACES ARE PROVIDED “AS IS” AND “AS AVAILABLE” AND YOU PROVIDE CONTENT FOR AND ENGAGE WITH THE MARKETPLACES AT YOUR SOLE RISK. EPIC AND ITS AFFILIATES, THIRD PARTY LICENSORS AND SERVICE PROVIDERS (THE “<EULA.Highlight>EPIC PARTIES</>”) ARE NOT RESPONSIBLE OR LIABLE FOR ANY UNAUTHORIZED USE OF CONTENT OUTSIDE OF THE MARKETPLACE INCLUDING ANY SALE OR DISTRIBUTION OF CONTENT ON PIRATE WEB SITES. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, THE EPIC PARTIES DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED OR STATUTORY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NONINFRINGEMENT. ADDITIONALLY, THE EPIC PARTIES DO NOT WARRANT THAT THE MARKETPLACE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. YOU AND EPIC ACKNOWLEDGE AND AGREE THAT THE WARRANTY DISCLAIMERS IN SECTION 14 WERE AN ESSENTIAL ELEMENT IN SETTING CONSIDERATION UNDER THIS AGREEMENT.
+
+<EULA.Header>15.	LIMITATION OF LIABILITY</>
+
+<EULA.Highlight>a.	You Are Responsible for Your Content</>. YOU ARE SOLELY RESPONSIBLE FOR (AND THE EPIC PARTIES HAVE NO RESPONSIBILITY TO YOU OR ANY THIRD PARTY FOR) CONTENT SOLD OR DISTRIBUTED THROUGH THE MARKETPLACE AND FOR THE CONSEQUENCES (INCLUDING ANY LOSS OR DAMAGE EPIC OR A THIRD PARTY SUFFERS) OF SELLING, DISTRIBUTING, OR USING THE CONTENT.
+
+<EULA.Highlight>b.	Special, Punitive, Incidental, Indirect, or Consequential Damages</>. NEITHER YOU NOR THE EPIC PARTIES SHALL, REGARDLESS OF THE FORM OF ACTION AND REGARDLESS OF WHETHER THE PARTIES HAVE KNOWLEDGE OF THE POSSIBILITY OF SUCH DAMAGES, HAVE ANY LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE OPERATION OF THE MARKETPLACES FOR (i) LOST REVENUES (ii) INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL LOSSES (WHETHER OR NOT FORESEEABLE OR CONTEMPLATED BY THE PARTIES AT THE EFFECTIVE DATE); OR (iii) EXEMPLARY OR PUNITIVE DAMAGES. 
+
+<EULA.Highlight>c.	Limitation of Liability</>. YOUR AGGREGATE LIABILITY AND THE EPIC PARTY’S AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT ARE EACH LIMITED TO THE LESSER OF AMOUNTS PAID TO YOU BY EPIC UNDER THIS AGREEMENT IN THE TWELVE MONTHS PRIOR TO A CLAIM OR THE ACTUAL DIRECT DAMAGES CLAIMED.
+
+<EULA.Highlight>d.	Exceptions</>. THE LIMITATIONS IN SECTIONS IN 15(B) AND (C) DO NOT LIMIT A PARTY’S LIABILITY FOR ITS (i) INDEMNIFICATION OBLIGATIONS, (ii) BREACH OF CONFIDENTIALITY, OR (iii) GROSS NEGLIGENCE OR INTENTIONAL/WILLFUL MISCONDUCT.
+
+<EULA.Header>16.	INDEMNIFICATION</>
+
+<EULA.Highlight>a.	Who This Section Applies To</>. This Section 16 only applies to the extent allowed by the applicable laws of your jurisdiction. If the applicable laws of your jurisdiction do not allow you to enter into the indemnification obligation below, then you assume, to the extent permitted by the applicable laws of your jurisdiction, all liabilities, damages, judgements, awards, losses, costs, expenses, and fees (including reasonable attorney and expert witness fees) that are the stated subject matter of the indemnification obligation below.
+
+<EULA.Highlight>b.	Your Indemnification of Epic</>. You will indemnify, hold harmless, and, at Epic’s request, defend the Epic Parties from and against all liabilities, damages, judgments, awards, losses, costs, expenses, and fees (including reasonable attorney and expert witness fees) arising out of or in connection with any third-party claims, demands, or actions (i) that, if true, would involve a breach by you of this Agreement, (ii) relate to Content, Submission Materials, Feedback, the Customer License, or your Brand Features or (iii) by any tax authority for any underpayment of any sales, use, goods and services, value added or other tax or levy, and any penalties and/or interest thereon.
+
+<EULA.Header>17.	DISPUTE RESOLUTION</>
+
+<EULA.Highlight>a.	Governing Law</>. This Agreement is governed by and will be interpreted under North Carolina State law, without regard to conflict of law rules (whether of the State of North Carolina or any other jurisdiction). You and Epic (i) submit to the exclusive jurisdiction of the Superior Court of Wake County, North Carolina, or, if federal court jurisdiction exists, the United States District Court for the Eastern District of North Carolina, (ii) waive any jurisdictional, venue, or inconvenient forum objections to such courts (without affecting either party’s rights to remove a case to federal court if permissible), as well as any right to a jury trial and (iii) agrees that any service of process may be affected by delivery of the summons in the manner provided in the delivery of notices set forth in Section 7© above. The Convention on Contracts for the International Sale of Goods will not apply. Any law or regulation which provides that the language of a contract will be construed against the drafter will not apply to this Agreement. This paragraph will be interpreted as broadly as applicable law permits. 
+
+<EULA.Highlight>b.	No Class Action</>. To the maximum extent permitted by applicable law, you and Epic agree to only bring disputes arising out of or related to this Agreement in an individual capacity and will not:
+
+     -	seek to bring, join, or participate in any class or representative action, collective or class-wide arbitration, or any other action where another individual or entity acts in a representative capacity (e.g., private attorney general actions); or
+
+     -	consolidate or combine individual proceedings or permit another to do so without the express consent of all parties to this Agreement.
+
+You have the right to opt-out of this class action waiver within 30 days of the date on which you first accepted this Agreement unless a longer period is required by applicable law. To exercise this right, you must send written notice of your decision to the following address: Epic Games, Inc., Legal Department, ATTN: CLASS ACTION OPT-OUT, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Your notice must include your name, mailing address, and account name, and state that you wish to opt-out of this class action waiver. To be effective, this notice must be received by Epic and postmarked or deposited within 30 days of the date on which you first accepted this Agreement. You are responsible for ensuring that Epic receives your opt-out notice, so you may wish to send it by a means that provides for a delivery receipt.
+
+<EULA.Highlight>c.	Complaints handling and ADR.</> If you are established in the European Union or United Kingdom and sell to users in the European Union or United Kingdom on the Marketplace, <a style= "color: deepskyblue" href="https://www.fab.com/legal">here</a> you can learn more about complaints handling and alternative dispute resolution.
+
+<EULA.Header>18.	MISCELLANEOUS</>
+
+<EULA.Highlight>a.	Assignment</>. You may not assign your rights or obligations under this Agreement without Epic’s prior written approval. Any attempted assignment in violation of the foregoing will be void. We may assign this Agreement, in whole or in part, with or without notice to you. Subject to the foregoing, this Agreement shall inure to the benefit of the parties and their respective successors and permitted assigns.
+
+<EULA.Highlight>b.	Section Headings</>. The section headings used in this Agreement are intended primarily for reference and have no interpretive value.
+
+<EULA.Highlight>c.	Entire Agreement</>. This Agreement together with any executed Exhibits and any document or information referred to in this Agreement, including <a style= "color: deepskyblue" href="https://www.fab.com/terms-of-service">Fab Terms of Service</a>, constitute the entire agreement between you and Epic relating to the subject matter covered by this Agreement. In the event of any conflict between the provisions of this Agreement and the provisions of <a style= "color: deepskyblue" href="https://www.fab.com/terms-of-service">Fab Terms of Service</a>, the provisions of this Agreement shall prevail. All other communications, proposals, and representations with respect to the subject matter covered by this Agreement are excluded.
+
+<EULA.Highlight>d.	Feedback</>. You grant Epic a right to freely use and disclose any feedback or suggestions that you provide to us regarding the Marketplace (“<EULA.Highlight>Feedback</>”). You acknowledge that we may use any Feedback, including any ideas contained in Feedback, for any purpose, commercial or otherwise, without acknowledgment or compensation to you, including to develop, copy, publish, modify, or improve the Marketplace in our sole discretion. You understand that we may treat Feedback as non-confidential. You represent and warrant that you have sufficient rights in any Feedback that you provide to Epic to grant Epic and other affected parties the rights described above. This includes but is not limited to intellectual property rights and other proprietary or personal rights. 
+
+<EULA.Highlight>e.	No Waiver</>. Any act by Epic to exercise, or failure or delay in exercise of, any of its rights under this Agreement, at law or in equity will not be deemed a waiver of those or any other rights or remedies available in contract, at law or in equity. 
+
+<EULA.Highlight>f.	Severability</>. If any portion or provision of this Agreement is found to be invalid or otherwise unenforceable by a court of competent jurisdiction, that portion or provision will be enforced to the fullest extent possible consistent with the intention of the parties. If a portion or provision is found to be incapable of enforcement by a court of competent jurisdiction, that portion or provision will be deemed to be deleted from this Agreement, while the remainder of this Agreement remains in full force and effect.
+
+<EULA.Highlight>g.	Remedies</>. Unless stated otherwise, a party’s choice of remedies under this Agreement are not exclusive of any other remedies, and all remedies are cumulative. Breaches of certain sections of this Agreement would cause significant and irreparable harm to the nonbreaching party, the extent of which would be difficult to ascertain. Accordingly, in addition to any other remedies (including, without limitation, equitable relief) to which the party claiming breach may be entitled, in the event of a breach by the other party or any of its employees or contractors of any such sections of this Agreement, the party claiming breach may be entitled to the immediate issuance without bond of ex parte injunctive relief or, if a bond is required under applicable law, on the posting of a bond in an amount not to exceed $50,000, enjoining any breach or threatened breach of any or all of such provisions.
+
+<EULA.Highlight>h.	Translations</>. To the fullest extent permitted by applicable law, the controlling language for this Agreement is English. It is the express wish of the parties that this Agreement and all related documents have been drawn up in English. Any translation has been provided for your convenience.
+
+<EULA.Highlight>i.	No third party beneficiaries</>. Unless this Agreement specifies, you and Epic agree that there are no third-party beneficiaries to this Agreement and that this Agreement does not confer any rights or remedies on any person other than the parties.
+
+<EULA.Highlight>j.	Obligations Subject to Law.</> Epic’s obligations are subject to existing laws and legal process, and Epic may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.
+
+<EULA.Highlight>k.	Artificial Intelligence. </>
+
+<EULA.Highlight>i.	Identifying Content that Should Not be Used With Generative AI Programs.</> You are able to tag Content with “NoAI” if you would like the Content to be prohibited from use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs. This tag will not be applied to your Content by default; you must actively designate your Content for the “NoAI” tag to apply. While Content remains tagged, labeled, or otherwise marked “NoAI” via the functionality provided by the platform, it will be known as “<EULA.Highlight>NoAI Content</>.”
+
+For purposes of this Agreement, “<EULA.Highlight>Generative AI Programs</>” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. The Standard License you grant to Customers who acquire NoAI Content prohibits the Customer from using the NoAI Content (a) in datasets utilized by Generative AI Programs; (b) in the development of Generative AI Programs; or (c) as inputs to Generative AI Programs.
+
+Epic agrees, whether or not Content is NoAI Content, not to exercise the license granted in Section 2(b) to use any of your Content or to license any of your Content to third parties for use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs.
+
+<EULA.Highlight>ii.	Identifying Content Created With Generative AI Programs</>. When your Content is created using Generative AI Programs, you are required to tag the Content as “CreatedWithAI” via the functionality provided by the Marketplace. Epic will not apply the “CreatedWithAI” tag to your Content; you are solely responsible for complying with the requirement to tag your Content.
+
+Under this Agreement, Content is considered to be created using Generative AI Programs where a material portion of the Content is generated with Generative AI Programs, whether characters, backgrounds, or other material elements. Content is not considered to be created using Generative AI Programs merely for use of features that solely operate on the Content (e.g., content-aware fill) or that don’t introduce material Generative AI elements into your work (e.g., AI based image upscaling).
+
+<EULA.Highlight>l.	Content ranking.</> To help our users more easily navigate Fab to find products that are interesting and relevant, we sometimes organize products for display to users. You can learn more about content ranking on Fab <a style= "color: deepskyblue" href="https://www.fab.com/legal">here</a>.
+
+<EULA.Header>19.	DEFINITIONS</>
+
+As used in this Agreement, the following capitalized words have the following meanings:
+
+“<EULA.Highlight>Agreement</>” means this Epic Marketplace Distribution Agreement.
+
+“<EULA.Highlight>Brand Feature</>” means any trade name, trademark, service mark, logo, domain name, or other distinctive brand feature of each party, respectively, as owned (or licensed) by such party from time to time.
+
+“<EULA.Highlight>Confidential Information</>” means information that one party (or its affiliate) discloses to the other party under this Agreement and that is marked as confidential or would normally be considered confidential information under the circumstances. It does not include information that was independently developed by the recipient, becomes public through no fault of the recipient, or is rightfully known by the recipient without confidentiality obligations.
+
+“<EULA.Highlight>Content</>” means content uploaded to a Marketplace by you through your Epic account or otherwise provided by you to a Marketplace Operator for sale on a Marketplace.
+
+“<EULA.Highlight>Customer</>” means any natural person, company, or other legal entity that acquired digital content from a Marketplace.
+
+“<EULA.Highlight>Customer License</>” has the meaning provided in Section 2©.
+
+“<EULA.Highlight>Epic</>” means one or more of the following, depending on where your Content is distributed:
+
+a.	to the extent your Content is distributed to a customer based in the United States, Epic Games, Inc., a Maryland Corporation having its principal business offices at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.
+
+b.	to the extent your Content is distributed to a customer based outside the United States, Epic Games Commerce GmbH, a Swiss company with limited liability having its principal business offices at Platz 10, 6039 Root D4, Switzerland.
+
+“<EULA.Highlight>Epic Parties</>” has the meaning provided in Section 14(b).
+
+“<EULA.Highlight>Feedback</>” has the meaning provided in Section 18(d).
+
+“<EULA.Highlight>Generative AI Programs</>” has the meaning means provided in Section 18(k)(i).
+
+“<EULA.Highlight>License Tiers</>” means the tier of licenses that are offered to Customers in the Marketplace, each of which, as defined in the Standard License, are subject to eligibility requirements.
+
+<EULA.Highlight>“Listing Price”</> has the meaning provided in Section 1(d).
+
+<EULA.Highlight>“Marketplace”</> means any online store owned and operated by a Marketplace Operator, which sells and/or distributes digital assets to Customers and allows Customers to access Content they have previously acquired.
+
+“<EULA.Highlight>Marketplace Operators</>” has the meaning provided in Section 1(a).
+
+“<EULA.Highlight>Moral Rights</>” has the meaning provided in Section 2(e).
+
+“<EULA.Highlight>Revenue Report</>” means a report, prepared by Epic, that contains reasonably detailed records and calculations to allow you to understand the basis for how the Revenue Share and Seller Proceeds are calculated.
+
+“<EULA.Highlight>Revenue Share</>” has the meaning provided in Section 5(a).
+
+“<EULA.Highlight>Sales Taxes</>” means (i) taxes imposed on the distribution, sale, or license of Content that are, by law or custom, collected from the Customer for payment to governmental authorities (such as sales, use, excise, value-added and other similar taxes) and (ii) digital services taxes or other similar taxes. Sales Taxes shall not include any taxes on the income or business operations of an entity, except digital services taxes and other similar taxes.
+
+“<EULA.Highlight>Seller Proceeds</>” has the meaning provided in Section 5(a).
+
+“<EULA.Highlight>Submission Materials</>” means any text, screenshots, videos, ratings information, disclosures, and other statements that you submit to Epic or a Marketplace Operator in connection with your submission of Content.
+
+“<EULA.Highlight>Territory</>” means all jurisdictions where the Marketplace Operators allow Customers to acquire Content.
+
+“<EULA.Highlight>Updates</>” means any updates, corrections, or enhancements to Content provided by you. Once provided to Epic, Updates will be regarded as Content.
+
+“<EULA.Highlight>Withdrawal Request</>” has the meaning provided in Section 10(a).
+
+<EULA.Header>Content Exhibit 1: Temporary change to Seller Proceeds and Revenue Share</>
+
+This Exhibit 1 (or “<EULA.Highlight>Exhibit</>”) is incorporated and forms a part of the Fab Distribution Agreement entered into by you and Epic. This Exhibit is entered into by and between you and Epic upon your acceptance of the terms of the Fab Distribution Agreement (“<EULA.Highlight>Exhibit Effective Date</>”). Capitalized terms used, but not defined in this exhibit shall have the meanings given to such terms in the Fab Distribution Agreement. In the event of any conflict between the provisions of this Exhibit and the provisions of the Fab Distribution Agreement, the provisions of this Exhibit shall prevail during the Exhibit Term (defined below). This Exhibit does not supersede or otherwise affect other agreements you may have with Epic.
+
+<EULA.Header>1.	COVERED CONTENT</>
+
+The terms of this Exhibit apply to the following Content (such Content being “<EULA.Highlight>Exhibit Content</>”):
+
+     -	Content sold by you on the Marketplace under Fab’s Standard License until 11:59:59 pm EDT on December 31st, 2024.
+
+<EULA.Header>2.	REVENUE SHARE</>
+
+During the Exhibit Term and only with regard to the Exhibit Content, Section 5(a) of the Fab Distribution Agreement will read as follows:
+
+When a Customer buys Digital Rights to the Exhibit Content as described in Section 1 above, the Marketplace Operators collect their money and deduct any Sales Tax that they will remit to tax authorities, as required by law. The Marketplace Operators pay you 100% of the amount charged for a sale of Digital Rights, in each case after deducting applicable Sales Tax and amounts attributable to payment processing fees, discounts, and charges related to fraud; chargebacks and Customer refunds will also be deducted from the payout (“<EULA.Highlight>Seller Proceeds</>”).
+
+This Exhibit does not amend Section 5(a) with regard to any other Content other than the Exhibit Content.
+
+<EULA.Header>3.	EXHIBIT TERM</>
+
+The terms of this Exhibit will begin on the Exhibit Effective Date and continue until 11:59:59 pm EDT on December 31st, 2024 (“<EULA.Highlight>Exhibit Term</>”).

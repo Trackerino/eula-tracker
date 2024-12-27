@@ -1,0 +1,141 @@
+Please read this Agreement carefully. It is a legal document that explains your rights and obligations related to your use of the Software, which includes the Twinmotion application, the Twinmotion Presenter application, and related plugins. By downloading or using the Software, or by otherwise indicating your acceptance of this Agreement, you are agreeing to be bound by the terms of this Agreement. If you do not or cannot agree to the terms of this Agreement, please do not download or use this Software.
+
+Please review Epic’s Privacy Policy found at <a href="https://www.epicgames.com/privacypolicy">https://www.epicgames.com/privacypolicy</a>, which also governs your use of the Software, to understand our practices. Your use of the Software is also governed by Epic’s Terms of Service, which may be found at <a href="https://www.epicgames.com/tos">https://www.epicgames.com/tos</a>. By downloading or using the Software, you also agree to Epic’s Terms of Service and acknowledge that you have read Epic’s Privacy Policy.
+
+If your primary residence (or primary place of business, if you are a legal entity like a corporation or an academic institution) is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games Commerce GmbH.
+
+Certain words or phrases are defined to have certain meanings when used in this Agreement. Those words and phrases are defined below in Section 15.
+
+NOTE: THIS AGREEMENT IS SUBJECT TO A WAIVER OF CLASS ACTION RIGHTS, AS DETAILED IN SECTION 11.
+
+<EULA.Header>1.        License Grant</>
+
+1.1 Software License. Licensor grants you a personal, non-exclusive, non-transferable, non-sublicensable limited right and license to use the Software for any lawful purpose (the “License”). In addition, if you are using the Educational Version, the Community Edition or the Trial Version, you may not use the Software for any commercial purpose. If you are using the Educational Version, you represent and warrant that you are a student or an instructor of an Academic Institution.
+
+1.2 Twinmotion Content. You may only use Twinmotion Content for the purpose of visualizing content within Twinmotion and exporting images and videos as permitted under this Agreement. For the avoidance of doubt, you may use and modify Twinmotion Content outside of Twinmotion provided that such use and modification is for the sole purpose of importing that content into Twinmotion for the above purpose.
+
+1.3 Restrictions and Limitations.
+
+The rights that Licensor grants you under the License are subject to the Seat limitations and other terms and restrictions specified in any applicable Software Order and the other terms of this Agreement, including full payment of all amounts due under Section 3 (if any), and you may only make use of the License if you comply with all applicable terms.
+
+The License becomes effective on the date you accept this Agreement. The Software is licensed, not sold, to you under the License. The License does not grant you any title or ownership in the Software.
+
+You may not do any of the following with respect to the Software or any of their parts: (a) copy, reproduce, display, perform, or otherwise use it in a way that is not expressly authorized in this Agreement; (b) sell, rent, lease, license, distribute, or otherwise transfer it; provided, however, that Twinmotion Presenter applications may be transferred to third parties for the sole purpose of sharing and viewing Twinmotion projects; (c) reverse engineer, derive source code from, modify, adapt, translate, decompile, or disassemble it or make derivative works based on it; (d) remove, disable, circumvent, or modify any proprietary notice or label or security technology included in it; (e) use it to infringe or violate the rights of any third party, including but not limited to any intellectual property, publicity, or privacy rights; (f) use, export, or re-export it in violation of any applicable law or regulation; or (g) use it to train or test any artificial intelligence, machine learning, deep learning, neural network or similar technology or for the purpose of building or enhancing any database for such purposes.
+
+<EULA.Header>2.        Seat Limitations</>
+
+You will ensure that anyone who obtains the Software from you, or otherwise uses the same pursuant to the licenses granted to you under this Agreement, complies with the limitations set forth below. Without limiting the foregoing, you will be responsible for each User’s compliance with the terms of this Agreement. You may not have a greater number of Users of the Software than the number of Seats of Software for which you have paid pursuant to the applicable Software Order. You may not have more than one individual use a particular installation at any given time (e.g., may not have multiple Users sharing a single installed copy over a network). Any use or installation of a Seat by you shall be in compliance with the relevant Software Order.
+
+If you are a student or an instructor of an Academic Institution that has received a valid license to use the Educational Version, you may install the Educational Version on any of your computers, and you may allow all users of those computers to use those Educational Versions under the License.
+
+Any Software Order executed by you and Licensor shall be automatically incorporated herein by reference as of the Software Order effective date specified therein. Subject to Section 3 and the paragraph below, in the event of an inconsistency between this Agreement and such Software Order, such Software Order shall prevail with respect to the Seats described therein.
+
+<EULA.Header>3.        License Fees</>
+
+Your License will be subject to payment of applicable License Fees unless your Software Order states otherwise. You agree to pay all License Fees in the Software Order according to the currency and payment schedule specified in the Software Order. Licensor may accept any payment in any amount without prejudice to Licensor’s right to recover the balance of the amount due or to pursue any other right or remedy. No endorsement or statement by you or acceptance by Licensor will be construed as an accord or satisfaction.
+
+You are responsible for all taxes on all payments required to be made to Licensor (other than taxes Licensor are required to make on its income, which is Licensor’s responsibility). If you are required by a government agency to reduce your payment to Licensor for any reason, you are required to provide sufficient documentation to Licensor supporting the withholding. For questions about withholding taxes or taxes in general, please go to http://help.epicgames.com.
+
+<EULA.Header>4.        Updates and Patches</>
+
+Licensor may provide patches, updates, or upgrades to the Software that must be installed in order for you to continue to use the Software. Licensor may update the Software remotely without notifying you, and you hereby consent to Licensor applying patches, updates, and upgrades. Licensor may modify, suspend, discontinue, substitute, replace, or limit your access to any aspect of the Software. Licensor does not have any maintenance or support obligations with respect to the Software. Licensor does not have any obligation to make any patches, updates, or upgrades of the Software available, nor does Licensor have any obligation to continue to make available for access or download any or all versions of the Software.
+
+<EULA.Header>5.        User Generated Content</>
+
+Licensor may provide functionality permitting you to upload, submit, transmit, or otherwise make available to Licensor and other users user generated content (“UGC”). You represent and warrant that your UGC does not (1) violate applicable law, (2) violate or infringe any third party rights, including intellectual property rights or privacy, publicity, or moral rights, or (3) contain any viruses or malicious code or content, such as any software that interferes with, disrupts, damages, or provides unauthorized access to devices, servers, networks or other properties or services of any third party. For a description of Licensor’s content moderation practices, please visit the Epic Games <a href="https://safety.epicgames.com/en-US">Safety and Security Center</a>.
+
+You hereby grant to Licensor a non-exclusive, fully-paid, royalty-free, and revocable license to distribute, publicly perform, and publicly display your UGC for the purpose of enabling you to share your UGC with other users.
+
+Licensor will not monetize your UGC unless You have entered into a separate agreement with Licensor. You acknowledge and agree that (1) You are not entitled to any compensation by Licensor for your UGC unless expressly provided in a separate agreement with Licensor, and (2) Licensor has no obligation to accept, distribute, or make available any of your UGC
+
+<EULA.Header>6.        Feedback.</>
+
+If you provide Licensor with any Feedback, you hereby grant Licensor a non-exclusive, fully-paid, royalty-free, irrevocable, perpetual, transferable, sublicensable license to use, reproduce, distribute, modify, adapt, prepare derivative works based on, publicly perform, publicly display, make, have made, use, sell, offer to sell, import, and otherwise exploit that Feedback for any purposes, for all current and future methods and forms of exploitation in any country.
+
+<EULA.Header>7.        Ownership</>
+
+Your use of the Software does not grant to Licensor any right, title, or interest in any of the content that you produce using the Software or any of the content that you import into the Software.
+
+Licensor and its licensors own all title, ownership rights, and intellectual property rights in the Software. The Twinmotion mark is a registered trademark of Licensor. All rights granted to you under this Agreement are granted by express license only and not by sale. No license or other rights shall be created hereunder by implication, estoppel, or otherwise.
+
+<EULA.Header>8.        Disclaimers and Limitation of Liability  </>
+
+<EULA.Header>The Software are provided on an “as is” and “as available” basis, “with all faults” and without warranty of any kind. Licensor , its affiliates, and its and their licensors and service providers (collectively, the “Licensor Parties”) disclaim all representations, warranties and conditions (whether express or implied) with respect to the Software, including without limitation regarding non-infringement, merchantability, or fitness or suitability for any purpose (whether or not Licensor knows or has reason to know of any such purpose), whether arising under law, by reason of custom or usage in the trade, or by course of dealing. Without limiting the generality of the foregoing, the Licensor Parties make no warranty that (1) the Software will operate properly, (2) the operation of the Software will be uninterrupted or free of bugs, errors, or malware (such as viruses), or (3) any defects in the Software can or will be corrected. This paragraph will apply to the maximum extent permitted by applicable law.</>
+
+<EULA.Header>To the maximum extent permitted by applicable law, the Licensor Parties shall not be liable for any loss of profits or any indirect, incidental, consequential, special, punitive, or exemplary damages arising out of or in connection with this Agreement, the Software, even if a Licensor Party has been advised of the possibility of such damages. Further, to the maximum extent permitted by applicable law, the aggregate liability of the Licensor Parties arising out of or in connection with this Agreement or the Software will not exceed the greater of (A) the total amounts you have paid (if any) to Licensor for the particular Software to which the liability relates during the twelve (12) months immediately preceding the events giving rise to such liability or (B) Five Hundred Dollars (USD $500). These limitations and exclusions regarding damages apply even if any remedy fails to provide adequate compensation.</>
+
+<EULA.Header>Notwithstanding the foregoing, some countries, states, provinces or other jurisdictions do not allow the exclusion of certain warranties or the limitation of liability as stated above, so the above terms may not apply to you. Instead, in such jurisdictions, the foregoing exclusions and limitations shall apply only to the extent permitted by the laws of such jurisdictions. Also, you may have additional legal rights in your jurisdiction, and nothing in this Agreement will prejudice the statutory rights that you may have as a consumer of the Software.</>
+
+<EULA.Header>9.        Termination  </>
+
+Without limiting any other rights of Licensor, this Agreement will terminate automatically without notice if you fail to comply with any of its terms and conditions. You may also terminate this Agreement by deleting all copies of the Software. Upon any termination, the License will automatically terminate, you may no longer exercise any of the rights granted to you by the License, and you must destroy all copies of the Software in your possession.
+
+Sections 1.3 (third paragraph only), 2, 3, and 6-15 will survive any termination of this Agreement.
+
+<EULA.Header>10.        Governing Law and Jurisdiction</> 
+
+You agree that this Agreement will be deemed to have been made and executed in the State of North Carolina, U.S.A., and any dispute will be resolved in accordance with the laws of North Carolina, excluding that body of law related to choice of laws, and of the United States of America. Any action or proceeding brought to enforce the terms of this Agreement or to adjudicate any dispute must be brought in the Superior Court of Wake County, State of North Carolina or the United States District Court for the Eastern District of North Carolina. You agree to the exclusive jurisdiction and venue of these courts. You waive any claim of inconvenient forum and any right to a jury trial. The Convention on Contracts for the International Sale of Goods will not apply. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this Agreement.
+
+<EULA.Header>11.        Class Action Waiver</>
+
+<EULA.Header>You agree not to bring or participate in a class or representative action, private attorney general action, or collective arbitration related to the Software or this Agreement. You also agree not to seek to combine any action or arbitration related to the Software or this Agreement with any other action or arbitration without the consent of all parties to this Agreement and all other actions or arbitrations.</>
+
+<EULA.Header>12.        U.S. Government Matters</> 
+
+The Software is a “Commercial Item” (as defined at 48 C.F.R. §2.101), consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation” (as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable). The Software is being licensed to U.S. Government end users only as Commercial Items and with only those rights as are granted to other licensees under this Agreement.
+
+You represent and warrant to Licensor that you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a “terrorist supporting” country, and that you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+<EULA.Header>13.        Amendments of this Agreement</> 
+
+<EULA.Header>Licensor may issue an amended Agreement at any time in its discretion by posting the amended Agreement on its website or by providing you with digital access to the amended Agreement through the Software or other means. The amended agreement may include a new Software Order for a new version of the Software. You are not required to accept the amended Agreement or new Software Order. However, in order to download or use a new version of the Software, you must accept the amended Agreement and new Software Order. If you do not accept the amended Agreement and new Software Order, you may not download or use any new version of the Software that is made available by Licensor contemporaneously with or after the issuance of that amended Agreement (but this will not terminate your license for the Software that you downloaded prior to the issuance of the amended Agreement). By using any new version of the Software after the amended Agreement becomes effective or otherwise indicating your acceptance of the amended Agreement or new Software Order, you are agreeing to be bound by the terms of the amended Agreement and new Software Order.</>
+
+<EULA.Header>14.        Assignment</> 
+
+You may not, without the prior written consent of Licensor, assign, transfer, charge, or sub-contract all or any of your rights or obligations under this Agreement, and any attempt without that consent will be null and void. If restrictions on transfer of the Software in this Agreement are not enforceable under the law of your country, then this Agreement will be binding on any transferee of the Software. Licensor may at any time assign, transfer, charge, or sub-contract all or any of its rights or obligations under this Agreement without notice to you.
+
+<EULA.Header>15.        Definitions</> 
+
+As used in this Agreement, the following capitalized words have the following meanings:
+
+“Academic Institution” means an educational institution such as, but not limited to, a university, college, or high school, as well as libraries.
+
+“Community Version” means a version of the Software that has been designated as a community version by Licensor.
+
+“Educational Version” means a version of the Software that has been designated as an educational version by Licensor.
+
+“Feedback” means any feedback or suggestions that you provide to Licensor regarding the Software or other Licensor products and services.
+
+“License Fees” mean, with respect to any Software Order, the license fees set forth therein.
+
+“Licensor” means, depending on the location of your primary residence or primary place of business:
+
+a. Epic Games, Inc., a Maryland Corporation having its principal business offices at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.; or
+
+b. Epic Games International S.à r.l., a Luxembourg Société à Responsibilité Limitée, located at Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Grand-Duchy of Luxembourg, acting through its Swiss branch, having its principal business offices at Platz 10, 6039 Root, Switzerland.
+
+“Seat” means one copy (whether partial or complete) of Software that is installed on any computer, server or other system.
+
+“Software” means Licensor’s proprietary applications known as Twinmotion and Twinmotion Presenter, and all of Licensor’s proprietary plugins for those applications. The term “Software” also includes any patches, updates, and upgrades to such Software, and all related content and documentation provided with or for the Software, including but not limited to all Twinmotion Content, software code, titles, themes, objects, characters, names, dialogue, catch phrases, locations, stories, artwork, animation, concepts, sounds, audio-visual effects, methods of operation, and musical compositions that are provided with or for the Software, and any copies of any of the foregoing.
+
+“Software Order” means an agreement incorporated by reference into this Agreement through which you contract with Licensor, directly or indirectly, to order a license to the Software and agree to any restrictions on use specified in the order. Such restrictions will include, but are not limited to, a maximum number of Seats.
+
+“Trial Version” means a version of the Software that has been designated as a trial version by Licensor.
+
+“Twinmotion Content” means all content and assets made available to you by Licensor through Twinmotion. Twinmotion Content does not include any content, assets or other materials that Licensor may make available to you under a separate agreement, even if those materials can be used with Twinmotion.
+
+“User” means an individual who is an employee or contractor of you or your affiliate.
+
+<EULA.Header>16.        Miscellaneous</> 
+
+This Agreement constitutes the entire agreement between you and Licensor relating to the subject matter covered by this Agreement. All other communications, proposals, and representations with respect to the subject matter covered by this Agreement are excluded.
+
+The original of this Agreement is in English; any translations are provided for reference purposes only. You waive any right you may have under the law of your country to have this Agreement written or construed in the language of any other country.
+
+This Agreement describes certain legal rights. You may have other rights under the laws of your jurisdiction. This Agreement does not change your rights under the laws of your jurisdiction if the laws of your jurisdiction do not permit it to do so. Limitations and exclusions of warranties and remedies in this Agreement may not apply to you because your jurisdiction may not allow them in your particular circumstance. In the event that certain provisions of this Agreement are held by a court or tribunal of competent jurisdiction to be unenforceable, those provisions shall be enforced only to the furthest extent possible under applicable law and the remaining terms of this Agreement will remain in full force and effect.
+
+Any act by Licensor to exercise, or failure or delay in exercise of, any of its rights under this Agreement, at law or in equity will not be deemed a waiver of those or any other rights or remedies available in contract, at law or in equity.
+
+You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated.
+
+Licensor’s obligations are subject to existing laws and legal process, and Licensor may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.

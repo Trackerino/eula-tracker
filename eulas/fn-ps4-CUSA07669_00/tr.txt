@@ -1,0 +1,370 @@
+<EULA.Highlight>Son güncelleme 17 Aralık 2024</>
+
+Lütfen bu Sözleşmeyi dikkatle okuyun. Bu belge, Yazılım aracılığıyla eriştiğiniz veya satın aldığınız tüm Hizmetler dâhil olmak üzere Epic Yazılımını kullanımınız ile ilgili haklarınızı ve yükümlülüklerinizi açıklayan yasal bir belgedir. Yazılımı indirerek veya kullanarak veya bu Anlaşmayı kabul ettiğinizi başka bir şekilde belirterek, bu Anlaşmanın şartlarıyla bağlı olmayı kabul etmiş olursunuz. Bu Anlaşmanın koşullarını kabul etmiyorsanız veya edemiyorsanız bu Yazılımı indiremez veya kullanamazsınız.
+
+Özellikle, bu Anlaşmadaki bazı önemli terimleri, politikaları ve prosedürleri vurgulamak istiyoruz. Bu Anlaşmayı kabul ederek:
+
+1. Bu Anlaşmaya açıkça dâhil edilen diğer Epic kurallarını ve politikalarını da kabul ediyorsunuz. Lütfen dikkatlice okuyun:
+
+<a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Gizlilik Politikamız</> sizden hangi bilgileri topladığımızı ve onları nasıl koruduğumuzu açıklamaktadır.
+
+<a id="url" href="https://www.epicgames.com/site/fan-art-policy" style="EULA.Hyperlink">Hayran İçeriği Politikamız</> oluşturduğunuz içerikte Epic’in Fikri Mülkiyeti ile neler yapabileceğinizi açıklamaktadır.
+
+<a id="url" href="https://www.epicgames.com/site/tos" style="EULA.Hyperlink">Hizmet Koşullarımız</> web sitelerimizin kurallarını açıklamaktadır.
+
+2. Epic'e, bu Hizmeti kullanarak oluşturduğunuz herhangi bir içeriği kullanma lisansı verirsiniz.  Aşağıda bulunan Kullanıcılar Tarafından Üretilen İçerikler bölümünde daha detaylı bilgi bulabilirsiniz.
+
+3. Siz ve Epic, aramızdaki uyuşmazlıkları bireysel tahkimde çözmeyi kabul edersiniz (mahkemede değil).  Alternatif uyuşmazlık çözüm süreci olan tahkimin herhangi bir uyuşmazlığı adil bir şekilde ve resmi mahkeme davalarından daha hızlı ve etkili olarak çözeceğine inanıyoruz. Bölüm 12 bu süreci ayrıntılı olarak açıklamaktadır. Bunu ön plana çıkardık (ve büyük harflerle yazdık) çünkü önem arz etmektedir:
+
+<EULA.Highlight>BU ANLAŞMA BİR BAĞLAYICI, BİREYSEL TAHKİM VE TOPLU DAVADAN FERAGAT HÜKMÜNÜ İÇERİR. BU ANLAŞMAYI KABUL EDERSENİZ, SİZ VE EPIC, UYUŞMAZLIKLARI BAĞLAYICI, BİREYSEL TAHKİMDE ÇÖZMEYİ KABUL EDERSİNİZ VE BİREYSEL ŞEKİLDE VEYA TOPLU BİR DAVANIN PARÇASI OLARAK MAHKEMEYE BAŞVURMA HAKKINDAN VAZGEÇERSİNİZ VE EPIC, UYUŞMAZLIKLARDA 10.000 ABD DOLARINA KADAR İYİ NİYETLE YAPILAN TAHKİM MASRAFLARINI ÖDEMEYİ KABUL ETMEKTEDİR (BÖLÜM 12’YE BAKIN). BU FERAGATTEN VAZGEÇMEK İÇİN ZAMAN SINIRLANDIRMALI BİR HAKKA SAHİPSİNİZ.</>
+
+BU LİSANS ANLAŞMASINA TARAF OLMAK İÇİN, İKAMET ETTİĞİNİZ ÜLKEDE REŞİT BİR YETİŞKİN OLMANIZ GEREKİR. HESABINIZA ERİŞMESİNE İZİN VERDİĞİNİZ HERKESİN EYLEMLERİ DE DAHİL OLMAK ÜZERE, YAZILIMIMIZI KULLANAN VEYA BUNLARA ERİŞEN TÜM EYLEMLERDEN YASAL VE MALİ OLARAK SORUMLUSUNUZ. REŞİT OLDUĞUNUZU, BU ANLAŞMAYI ANLADIĞINIZI VE KABUL ETTİĞİNİZİ (İTİLAF ÇÖZÜMÜ ŞARTLARI DAHİL) ONAYLIYORSUNUZ. REŞİT DEĞİLSENİZ, EBEVEYNİNİZ VEYA YASAL VELİNİZ BU ANLAŞMAYI KABUL ETMELİDİR.
+
+Belirli sözcükler veya ifadeler, bu Anlaşmada kullanıldığında belirli anlamlara sahip olacak şekilde tanımlanmıştır. Bu kelimeler ve ifadeler aşağıda Bölüm 16’da tanımlanmıştır.
+
+ Esas ikametgâhınız Amerika Birleşik Devletleri’ndeyse, sözleşmeniz Epic Games, Inc. iledir. Amerika Birleşik Devletleri’nde değilse, sözleşmeniz İsviçre şubesi üzerinden hareket eden Epic Games Entertainment International GmbH iledir. 
+
+<EULA.Header>1. Lisans Verme</>
+
+Epic size, kişisel eğlence amaçlı kullanımınız için sahip olduğunuz veya kontrol ettiğiniz uyumlu cihazlarda Yazılımı kurmak ve kullanmak için kişisel, münhasır olmayan, devredilemez, alt lisans verilemez bir sınırlı hak ve lisans vermektedir (“<EULA.Highlight>Lisans</>”). Epic'in size Lisans kapsamında verdiği haklar, bu Anlaşmanın hükümlerine tabidir ve Lisanstan yalnızca geçerli tüm koşullara uymanız halinde yararlanabilirsiniz.
+
+Lisans, bu Anlaşmayı kabul ettiğiniz tarihte yürürlüğe girer. Yazılım Lisans kapsamında size lisanslanmıştır, satılmamıştır. Lisans size Yazılım üzerinde herhangi bir hak veya mülkiyet vermez.
+
+<EULA.Header>2. Lisans Koşulları</>
+
+Yazılım veya herhangi bir parçası ile ilgili olarak aşağıdakilerden hiçbirini yapamaz veya yapmaya teşebbüs edemezsiniz: (a) Epic’in açıkça yetkilendirdiği durumlar dışında ticari şekilde veya bir tanıtım amacı ile kullanamazsınız; (b) bu Sözleşmede açıkça yetkilendirilmeyen bir şekilde kopyalayamaz, çoğaltamaz, dağıtamaz (bir ağ sunucusu aracılığıyla dâhil), görüntüleyemez veya kullanamazsınız; (c) onu satamaz, kiralayamaz, kiraya veremez, lisanslayamaz, dağıtamaz veya başka bir şekilde devredemezsiniz; (d) ona tersine mühendislik uygulayamaz, kaynak kodunu türetemez, değiştiremez, uyarlayamaz, çeviremez, derlemesini çözemez veya kaynak koduna çeviremez veya ona dayalı türev çalışmalar yapamazsınız; (e) içinde bulunan herhangi bir tescil bildirimini veya etiketini veya güvenlik teknolojisini kaldıramaz, devre dışı bırakamaz, atlatamaz veya değiştiremezsiniz; (f) herhangi bir çevrim içi veya diğer oyun modlarında avantaj elde etmek için yetkisiz yazılım programları oluşturamaz, geliştiremez, dağıtamaz veya kullanamazsınız; (g) fikri mülkiyet, tanıtım veya gizlilik hakları dâhil ancak bunlarla sınırlı olmamak üzere herhangi bir üçüncü tarafın haklarını ihlal etmek veya çiğnemek için kullanamazsınız; (h) geçerli herhangi bir yasa veya düzenlemeyi ihlal eden şekilde kullanamaz, ihraç edemez veya yeniden ihraç edemezsiniz veya (i) aşağıdakiler dâhil ancak bunlarla sınırlı olmamak üzere, Epic’in kendi takdirine bağlı olarak, Yazılımdan diğer kullanıcıların Epic tarafından amaçlanan şekilde faydalanmasına zarar verecek şekilde davranamazsınız - taciz, küfürlü veya saldırgan dil kullanımı, oyun terk etme, oyun sabotajı, spam gönderme, sosyal mühendislik, dolandırıcılık, size ve/veya başka bir kullanıcıya söz konusu yöntemleri kullanmayan diğer oyunculara göre avantaj sağlayarak veya bu tür yetkisiz yazılımları yaparak veya onlara başka bir şekilde katkıda bulunarak Epic tarafından yetkilendirilmemiş ve Yazılımın sonucuna ve/veya gidişatına müdahale eden yöntemler çalıştırmak veya kullanmak (Epic tarafından açıkça yetkilendirilmemiş Hileler, botlar, betikler veya modlar dâhil).
+
+Yazılımda Hile Algılama yazılımı veya özellikleri bulunabilir ya da Yazılımı kurmanız sırasında Hile Algılama yazılımını kurmanız istenebilir. Hile Algılama yazılımını kurmayı kabul etmezseniz veya Hile Algılama yazılımını veya özelliklerini herhangi bir zamanda kaldırır veya etkin olmaktan çıkarırsanız size verilen lisans otomatik olarak sona erer ve Yazılımı kullanamazsınız. Yazılım veya Hile Algılama yazılımı, Epic’in Gizlilik Politikasına tabi olarak, Hile Algılama ile bağlantılı şekilde hesabınız, oyun oynamanız ve potansiyel olarak yetki verilmemiş programlar veya süreçler hakkında ayrıntılar toplayabilir ve iletebilir. Hile algılandığı takdirde Epic’in bu Anlaşma kapsamındaki haklarından herhangi birini veya tümünü kullanabileceğini kabul ediyorsunuz.
+
+<EULA.Header>3. Güncellemeler ve Yamalar</>
+
+Epic, Yazılımı veya Hizmetleri kullanmaya devam edebilmeniz için yüklenmesi gereken Yazılım yamaları, güncellemeleri veya yükseltmeleri sağlayabilir. Epic, Yazılımı size bildirmeden uzaktan güncelleyebilir ve siz Epic'in yama, güncelleme ve yükseltmeleri uygulamasına burada onay veriyorsunuz. Epic, Yazılımın veya Hizmetlerin herhangi bir yönüne erişiminizde herhangi bir zamanda değişiklik yapabilir, onu askıya alabilir, durdurabilir, değiştirebilir, yerine başkasını koyabilir veya sınırlandırabilir. Yazılımı veya Hizmetleri kullanımınızın, (geçerli olduğunda) oyun içi ödüller, kupalar, başarılar, karakter seviyeleri, Oyun Parası veya İçeriği dâhil ancak bunlarla sınırlı olmamak üzere Yazılımın veya Hizmetlerin herhangi bir yönü veya özelliği üzerinde size parasal veya başka bir şekilde herhangi bir çıkar vermediğini kabul ediyorsunuz. Ayrıca, Yazılımı veya Hizmetleri kullanımınızla ilgili herhangi bir karakter verisi, oyun ilerlemesi, oyun özelleştirmesi verilerinin veya diğer verilerin, bir sınırlama olmaksızın Epic tarafından bir yama, güncelleme veya yükseltme uygulandıktan sonra olması dâhil, Epic tarafından bildirim yapılmadan herhangi bir zamanda size sağlanmasına son verilebileceğini de kabul ediyorsunuz. Epic’in Yazılım veya Hizmetlerle ile ilgili herhangi bir bakım veya destek yükümlülüğü yoktur.
+
+<EULA.Header>4. Oyun Parası ve İçeriği</>
+
+Epic size, aşağıdaki yollarla oyun içi parası (“<EULA.Highlight>Oyun Parası</>”) veya İçerik için lisanslar edinme olanağı sunabilir: (a) bir ücret karşılığında Oyun Parası kullanmak için sınırlı bir lisans satın almak (“<EULA.Highlight>Satın Alınan Oyun Parası</>”), (b) Yazılımda belirli görevleri gerçekleştirerek veya tamamlayarak Oyun Parası kullanmak için sınırlı bir lisans kazanmak veya (c) İçeriği kullanmak için sınırlı bir lisansı bir ücret karşılığında satın almak, Oyun Parası ile değiştirmek veya kazanmak. Ayrıca, Epic bazı durumlarda bir ücret karşılığında Yazılım aracılığıyla belirli İçeriğin alışverişini kolaylaştırabilir. Söz konusu Oyun Parası veya İçeriği (varsa) yalnızca ilgili ücreti öderseniz kullanabilirsiniz. Söz konusu Oyun Parasını veya İçeriği kazandığınızda veya elde etmek için ücret ödediğinizde, Epic’ten Lisansınızın söz konusu Oyun Parasını veya İçeriği içermesi hakkını elde edersiniz ya da satın alırsınız. Epic’in bu Anlaşma dışında Oyun Parası veya İçerik satın alma veya satma hakkında yapabileceği hiçbir atfa bakılmaksızın, gerek Oyun Parası gerekse İçerik, size satılmamakta, Lisans size kapsamında lisanslanmaktadır. Oyun Parasını veya İçeriği satın almak için bir Epic Hesap Bakiyesinin kullanılması Epic’in Hizmet Koşullarına tabidir.
+
+Oyun Parası veya İçerik, geçerli yasa aksini gerektirmediği sürece, Epic veya başka bir kişiden para veya parasal değer elde etmek için kullanılamaz. Oyun Parası ve İçeriğin gerçek para olarak karşılık gelen bir değeri yoktur ve gerçek paranın yerine geçmez. Ne Epic ne de başka herhangi bir kişi veya kuruluş, Oyun Parasını veya İçeriği gerçek para dâhil ancak bununla sınırlı olmamak üzere değerli herhangi bir şeyle değiştirmekle yükümlü değildir. Epic’in, geçerli yasa tarafından yasaklanmadığı sürece, Oyun Parası ve İçeriğinin algılanan değerini veya geçerliyse satın alma fiyatını etkileyebilecek eylemlerde bulunabileceğini kabul edersiniz.
+
+Geçerli yasanın aksini gerektirmesi dışında, Satın Alınan Oyun Parası ve İçeriğinin tüm satın alma işlemleri nihaidir ve hiçbir koşulda iade edilemez, devredilemez veya değiştirilemez. Epic, tamamen kendi takdirine bağlı olarak, satın alınabilecek, kazanılabilecek, biriktirilebilecek, kullanılabilecek veya başka bir şekilde kullanılabilecek Oyun Parası veya İçeriği miktarına sınırlamalar getirebilir.
+
+Geçerli yasa tarafından yasaklanmadığı sürece, Epic, tamamen kendi takdirine bağlı olarak, size bildirimde bulunmadan veya yükümlülük altına girmeden Oyun Parası veya İçeriğine erişme veya kullanma olanağınız dâhil olmak üzere Oyun Parası veya İçeriğini yönetme, tadil etme, ikame etme, değiştirme, askıya alma, iptal etme veya ortadan kaldırma mutlak hakkına sahiptir. Yazılım içinde ve Epic tarafından açıkça izin verilen durumlar dışında Oyun Parası veya İçeriğini aktaramaz, satamaz, hediye edemez, takas edemez, ticaretini yapamaz, kiralayamaz, alt lisans veremez veya kiraya veremezsiniz.
+
+Geçerli yasa tarafından yasaklanmadığı sürece Epic Oyun Parası ve İçeriğindeki veya içindeki tüm hakları, sahipliği ve çıkarı, mülkiyeti veya diğer hakları saklı ve elinde tutar. Lisans kapsamında Oyun Parası ve İçeriği lisansı, Lisansın feshi üzerine ve burada aksi belirtilmedikçe sona erecektir.
+
+Epic'e veya yetkili işlemcisine ödeme bilgilerini verdiğinizde, sizin tarafınızdan belirtilen ödeme kartı, PIN, anahtar, hesap veya diğer ödeme yönteminin yetkili kullanıcısı olduğunuzu beyan eder ve Epic'e işlemin tam tutarı için bu ödeme yöntemini ücretlendirme yetkisi verirsiniz.
+
+<EULA.Header>5. Kullanıcı Tarafından Oluşturulan İçerik</>
+
+Epic, Yazılım veya Hizmetler aracılığıyla İçerik (“UGC”) oluşturmanıza, geliştirmenize, değiştirmenize veya katkıda bulunmanıza ve Hizmetlerin bazı veya tüm kullanıcılarına UGC yüklemenize, yayınlamanıza veya başka bir şekilde onların kullanıma sunmanıza olanak tanıyan özellikler sağlayabilir. Bu özellikler ayrıca UGC ile tamamen veya kısmen etkileşime girmenize, onu uyarlamanıza ve değiştirmenize de olanak sağlayabilir. Epic, size bildirimde bulunmaksızın veya size karşı yükümlülük altına girmeksizin Hizmetin belirli özelliklerini değiştirebilir, sınırlayabilir veya sonlandırabilir.
+
+“UGC” bir sınırlandırma olmaksızın şunları içerir: bina oluşturmalar, sohbet gönderileri, karakter verileri, oyun özelleştirme, oyun içi yapılar, yeniden oynama, sinematikler, metinler ve programlar, modlar, oyun oynama, deneyimler, etkileşimli özellikler ve ekran görüntüleri, müzik, sesler, ses kayıtları (ve ona gömülü müzik yapıtları) görsel-işitsel bileşimler, müzik yapıtları, animasyonlar, sesli sohbet ses verileri ve diğer tür yapıtlar (tek başına veya bileşim hâlinde).
+
+İçerik moderasyonu uygulamalarımız konusunda daha fazla bilgi edinmek için lütfen, <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Güvenlik ve Emniyet Merkezimizi</> ziyaret edin.
+
+Sesli sohbet özelliğimizi kullanırsanız ve bir ses kanalında ses raporlama etkinse sesli sohbet ses verilerinin parçaları cihazınızda ve ses kanalındaki katılımcıların cihazlarında depolanacaktır. <a id="url" href="https://www.epicgames.com/community-rules" style="EULA.Hyperlink">Topluluk Kurallarımızın</> bir ihlali raporlanırsa bu parçalar bu kuralları yürürlüğe koymaya yardımcı olmak üzere iletilebilir ve incelenebilir. İnsan incelemesine tabi olarak, Epic, hizmetlerimizdeki zararlı, toksik veya hileli davranışı saptamaya yardımcı olmak için oyun sırasındaki iletişimlerinizi (metin ve sesli sohbet dâhil) makine öğrenimi teknolojileriyle analiz edebilir.
+
+<EULA.Highlight>Epic Lisansı.</> Hizmetlerde herhangi bir UGC sağlamanız veya kullanıma sunmuş olmanız halinde söz konusu UGC için kısmen veya tamamen, ticari tanıtım ve pazarlama amaçları dahil olmak üzere, herhangi bir ülkede Epic'e barındırma, kopyalama, içe aktarma, saklama, değiştirme, uyarlama, gösterme, halka açık olarak icra etme (dijital ses iletimleri aracılığıyla dahil), çoğaltma (ve ses kayıtlarında yer alan müzik eserlerinin mekanik reprodüksiyonlarını yapma), türev çalışmalar oluşturma (görsel görüntülerle senkronize etmek dahil), halka açık olarak sergileme, aktarma, alt lisans ve dağıtma (topluca “Kullanım”) izni verirsiniz. Bu izin kalıcı ve gayri kabili rücudur ve Yazılım ve Hizmetlerle bağlantılı her türlü medya, platform veya kanal için geçerlidir.
+
+Bu Bölümde Epic’e verdiğiniz haklar, izleyici kitlesine kadar temelinde sağlanmaktadır, yani üçüncü taraf hizmetlerinin sahipleri veya operatörleri size veya Hizmet aracılığıyla bu tür üçüncü taraf hizmetlerine sağlanan veya bunlarda kullanılan UGC için başka bir üçüncü tarafa karşı ayrı bir sorumluluğa sahip olmayacaktır. Epic, Hizmetlerin bir parçası olarak UGC'nizi oyunculara sunmak (başka bir deyişle, oyun içi) ve Hizmetler dışındaki yayıncılara ve içerik oluşturuculara sunmak için (örneğin, diğer platformlarda kullanım için) bu izinlere ihtiyaç duyar. UGC'nin oluşturulduktan sonra bizim tarafımızdan ve başkaları tarafından birçok kanalda dağıtılması nedeniyle bu hakların gayri kabili rücu olması gerekir.
+
+Epic’in bu Bölümde Epic’e verdiğiniz hakları kullanması dahil olmak üzere herhangi bir nedenle UGC’niz ile bağlantılı olarak herhangi bir tazminat, ücret, bedel veya başka bir ödeme alma hakkınız olmadığını ve Epic’in Sizin verdiğiniz hakları kullanmak zorunda olmadığını anlıyorsunuz.
+
+<EULA.Highlight>Önerilen İçerik</> Fortnite, hizmetteki deneyiminizi iyileştirmenize yardımcı olmak ve oynamak isteyebileceğiniz oyunları size daha fazla göstermek için adaları önermektedir. Keşfet bölümünde “trendler”, “yeni deneyimler” ve “arkadaşlarla harika” gibi çeşitli kategorilerimiz bulunmaktadır. Ana Sayfa Çubuğunuz, Keşfet sayfanızda gördüğünüz ilk satırdır ve bu farklı kategorilerdeki adalara dair önerileri bir araya getirir. Size gösterdiğimiz adaları, oyun geçmişiniz ve oynayan kullanıcı sayısı, favorilerinde bir adaya sahip oyuncu sayısı, bir adada yapılan düzenleme sayısı, bir içerik oluşturucunun adasını düzenlemek için harcadığı zaman, bir adanın ilk görüldüğü zaman, bir adada bulunan bina sayısı, ortalama grup büyüklüğü ve bir adanın ne sıklıkla ve ne kadar süre oynandığı gibi oyun bilgileriniz dâhil olmak üzere bir dizi faktöre göre düzenliyor ve sıralıyoruz.
+
+Keşfet sekmesini kullanırken kişiselleştirilmiş oyun deneyimi önerilerinizi kapatmak için doğrudan “hesap ve gizlilik” ve “oyun gizliliği” bölümü altında ayarlarınıza gidebilirsiniz ve burada bu ayarı açıp kapatabilirsiniz.
+
+<EULA.Highlight>Müzik Çalışmaları.</> Epic, takdir yetkisi münhasıran kendisine ait olmak üzere, UGC ile bağlantılı olarak ses kayıtlarını ve ses kayıtlarında yer alan müzik çalışmalarını (“Lisanslı Müzik”) kullanıma sunmayı seçebilir. Epic’in, UGC’nizde kullanılmak üzere Lisanslı Müziği kullanıma sunması hâlinde Epic size (a) Lisanslı Müziğin Hizmetler aracılığıyla kullanıma sunulduğu süre boyunca Lisanslı Müziğin UGC’ye senkronize edilmesi ve (b) Lisanslı Müziği içeren UGC’nin yalnızca Hizmetler aracılığıyla oynatılması, dinlenmesi ve onunla etkileşimde bulunulması için münhasır olmayan, kişisel, sınırlı, geri alınabilir, devredilemez bir lisans verir.
+
+Lisanslı Müziğin UGC ile senkronize edilmesi için yaptığınız değişiklikler (örneğin, düzenlemeler, bir kısmının kullanımı) Epic ve lisans verenleri tarafından tutulan hakların Lisanslı Müzik tanımına dahil edilmiş türev çalışmalar olarak kabul edilir.
+
+<EULA.Highlight>Kayıt Yapan Sanatçılar için Özel Kurallar.</> Bir müzik eserinin bestecisi veya yazarı olmanız ve (a) bir icra hakları kuruluşu (“PRO”) ile ilişkili veya onun bir üyesi olmanız, (b) bir kayıt etiketi ile sözleşme altında olmanız veya (c) haklarınızı bir müzik yayıncısına devretmiş olmanız halinde ilgili tarafı bu Anlaşma aracılığıyla Epic’e verdiğiniz telifsiz lisans hakkında bilgilendirmelisiniz. İlgili tarafın raporlama veya sözleşme yükümlülüklerine uyumu sağlamaktan ve (geçerli ise) Hizmet aracılığıyla etiketinizin hak iddia etmeye çalışabileceği herhangi bir yeni kayıt oluşturmanız dahil olmak üzere bu Anlaşmadaki telifsiz lisansı/lisansları vermek için ilgili tarafın onayını almaktan münhasıran siz sorumlusunuz.
+
+Lisanslı Müzik içeren herhangi bir UGC'nin, bir ses kaydı telif hakkı sahibi (örneğin, bir kayıt etiketi), bir müzik çalışması telif hakkı sahibi (örneğin, bir müzik yayıncısı), bir PRO (örneğin, ASCAP, BMI, SESAC, vb.), bir ses kaydı PRO'su, herhangi bir sendika veya lonca veya diğer üçüncü taraflar dahil ancak bunlarla sınırlı olmamak üzere herhangi bir üçüncü tarafa tabi olmadığını ve Epic'in telif ücreti ödeme yükümlülüğü olmadığını beyan ve garanti edersiniz.
+
+Epic, Yazılım veya Hizmetler aracılığıyla fikri mülkiyet hakkı ihlali faaliyetlerine izin vermez. Epic'e UGC'nin tüm unsurlarında (Lisanslı Müzik dahil) söz konusu bir lisans verme hakkına sahip olmadığınız hiçbir UGC'yi Yazılım veya Hizmetler aracılığıyla yaratamaz, oluşturamaz veya kullanıma sunamazsınız.
+
+Yazılım veya Hizmetler aracılığıyla UGC'nizi yaratmayı, oluşturmayı veya kullanıma sunmayı seçerseniz, UGC'nizden münhasıran Siz sorumlu olursunuz ve aşağıdakileri beyan ve garanti edersiniz:
+
+(a) yukarıda verilen lisansın yaratıcısı ve sahibi sizsiniz ve bunları kullanma ve Epic’e yukarıda verilen lisanstan yararlanması için yetki vermek üzere gerekli tüm lisanslara ve haklara sahipsiniz;
+
+(b) sizin UGC'niz ve Epic'in bu Anlaşma kapsamında öngörüldüğü şekilde UGC'yi kullanımı, telif hakkı, ticari marka, patent, ticari sır, manevi haklar veya gizlilik veya tanıtım hakları dahil olmak üzere herhangi bir üçüncü taraf hakkını çiğnemeyecek veya ihlal etmeyecektir;
+
+(c) Epic’in başka lisanslar alması, öznitelik sağlaması veya herhangi bir üçüncü tarafa telif ücreti veya başka bir ücret ödemesi gerekmez ve
+
+(d) Epic’in UGC’nizi kullanması herhangi bir üçüncü taraf sözleşmesini ihlal etmeyecek veya Epic’in geçerli herhangi bir yasa veya düzenlemeyi ihlal etmesine neden olmayacaktır.
+
+UGC'nizden siz sorumlusunuz; bu nedenle lütfen Hizmetlerde veya Hizmetler aracılığıyla itiraz edilebilir içerik sunmayın. Bunu yapmanız hâlinde bunu kaldırmamız gerekebilir. Epic, Yazılım veya Hizmetler aracılığıyla Sizin veya başkalarının kullanıma sunduğu herhangi bir UGC'yi düzenleyebilir veya kontrol edebilir ancak bu konuda hiçbir yükümlülüğü yoktur. Epic, takdir yetkisi münhasıran Epic’e ait olmak üzere istediği zaman bu Anlaşmayı ihlal eden veya sakıncalı olan UGC’yi önceden bildirimde bulunmaksızın veya Size veya herhangi bir üçüncü tarafa karşı herhangi bir yükümlülük altına girmeksizin görüntüleyebilir, silebilir, kaldırabilir, düzenleyebilir, engelleyebilir veya yayınlamayı reddedebilir. UGC sağlamanız halinde Epic'in sağladığı araçları yalnızca Hizmetin normal işlevselliği yoluyla söz konusu spesifik UGC türünü kaldırmak veya değiştirmek için kullanabilirsiniz.
+
+Yazılım veya Hizmetleri kullanırken çeşitli kaynaklardan UGC'ye maruz kalabileceğinizi anlıyor ve UGC'nin yanlış, saldırgan, uygunsuz veya başka bir şekilde sakıncalı olabileceğini kabul ediyorsunuz. Epic’in sizin veya başkalarının UGC’lerinden sorumlu veya yükümlü olmayacağını kabul ediyorsunuz.
+
+Yasaların izin verdiği en geniş ölçüde, söz konusu hak UGC'nizde veya UGC'nize ilişkin olarak bir “manevi hak” olarak anılsa da anılmasa da yazarlık, nesep, öznitelik, bütünlük, ifşa, geri çekme ve herhangi bir ülkede yürürlükte olan veya herhangi bir antlaşmada öngörülen herhangi bir yasal veya hakkaniyete uygun teorisi kapsamında tanınan “manevi haklar”, “sanatçı hakları”, “driot moral” veya diğer benzer haklarla ilgili tüm haklardan feragat ediyor ve feragat etmeyi kabul ediyorsunuz (toplu olarak “Manevi Haklar”). Bundan başka,  bilerek ve gayri kabili rücu olarak UGC'nizde ve UGC'nize ilişkin verilen hakların herhangi bir şekilde kullanılmasına müdahale edecek şekilde feragat etmediğiniz hiçbir Manevi Hakkı kullanmamayı kabul ediyorsunuz. UGC’niz sizin için kabul edilebilir olmayan bir şekilde değiştirilse veya tadil edilse bile Manevi Haklarınızdan feragat etmeyi ve bunları ileri sürmemeyi kabul ediyorsunuz.
+
+<EULA.Header>6. Geri Bildirim</>
+
+Epic’e Geri Bildirim sunduğunuz takdirde Epic’e tüm Geri Bildirimleri herhangi bir amaçla, mevcut ve gelecekteki tüm kullanma yöntemleri ve şekilleri için kullanmak, kopyalamak, değiştirmek, uyarlamak, dağıtmak, ona dayalı türev çalışmalar hazırlamak, herkese açık olarak icra etmek, herkese açık şekilde teşhir etmek, yapmak, yaptırmak, kullanmak, satmak, satmayı teklif etmek, ithal etmek ve diğer her türlü şekilde yararlanmak için münhasır olmayan, tümüyle ödenmiş, telifsiz, dünya çapında, daimi, feshedilemeyen, devredilebilir, alt lisans verilebilir ve temlik edilebilir bir lisans veriyorsunuz. “Geri bildirim”, Epic’e veya temsilcilerine doğrudan veya dolaylı olarak (çalışanlarınız, temsilcileriniz, yüklenicileriniz veya vekalet verdikleriniz dâhil) Hizmetler veya Yazılım ile ilgili olarak sağladığınız, yayınladığınız veya başka şekilde ilettiğiniz yazılım ve kod dâhil olmak üzere öneriler, yorumlar, fikirler ve diğer her türlü bilgi anlamına gelir. Söz konusu herhangi bir hak (manevi haklar ve diğer kişisel haklar gibi) geçerli yasalar kapsamında lisanslanamazsa, bu belge ile bu haklardan feragat ediyorsunuz ve bunları ileri sürmemeyi kabul ediyorsunuz. Epic'in sağladığınız herhangi bir Geri Bildirimden yararlanması gerekmediğini anlıyor ve kabul ediyorsunuz. Epic Geri Bildiriminizi kullanırsa, Epic'in katkınız için size kredi veya ödeme sağlaması gerekmediğini kabul ediyorsunuz. Epic'e ve diğer etkilenen taraflara yukarıda açıklanan hakları vermek için sağladığınız herhangi bir Geri Bildirimde yeterli haklara sahip olduğunuzu beyan ve garanti ediyorsunuz. Bu, fikri mülkiyet haklarını ve diğer mülkiyet veya kişisel hakları içerir ama bunlarla sınırlı değildir.
+
+<EULA.Header>7. Mülkiyet/Üçüncü Taraf Lisansları</>
+
+Epic ve lisans verenleri Yazılım ve Hizmetler üzerindeki tüm hak, mülkiyet hakları ve fikri mülkiyet haklarının sahibidir. Yazılım ve Hizmetler aracılığıyla, UGC’nizle (aşağıda tanımlanmıştır) bağlantılı olarak kullanılmak üzere önceden hazırlanmış şablonlar veya oyun içi ögeler sağlayan özellikler size sunulabilir, ancak bir şablonu kullanmanız size şablon üzerinde herhangi bir telif hakkı veya başka bir mülkiyet hakkı vermez. Epic, Epic Games, Unreal, Unreal Engine, Fortnite ve onların logoları, Epic ve bağlı kuruluşlarının Amerika Birleşik Devletleri ve başka yerlerdeki ticari markaları veya tescilli ticari markalarıdır. Bu Anlaşma kapsamında size verilen tüm haklar, satış yoluyla değil, yalnızca açık lisans ile verilmektedir. Bu belge kapsamında ima, itiraz hakkının düşmesi veya başka bir şekilde hiçbir lisans veya başka hak oluşturulmayacaktır.
+
+Yazılım, Epic’in lisans verenleri tarafından sağlanan belirli bileşenler içerir. Oyunun arayüzünde üçüncü taraf bileşenler için hak sahiplerinin ve bildirimlerin bir listesi bulunabilir.
+
+<EULA.Header>8. Sorumluluğun Reddi ve Sınırlandırılması</>
+
+<EULA.Highlight>Bu Anlaşmadaki hiçbir şey, Hizmetlerin bir tüketicisi olarak sahip olabileceğiniz hukuki haklara zarar vermeyecektir. Bazı ülkeler, eyaletler, şehirler veya diğer yargı bölgeleri, bu bölümde belirtildiği gibi belirli garantilerin hariç tutulmasına veya yükümlülüğün sınırlandırılmasına izin vermemektedir; bu nedenle aşağıdaki koşullar sizin için tam olarak geçerli olmayabilir. Bunun yerine, bu tür yargı alanlarında, aşağıdaki istisnalar ve sınırlamalar yalnızca bu tür yargı alanlarının yasaları tarafından izin verilen ölçüde geçerli olacaktır.</>
+
+<EULA.Highlight>Yazılım (Oyun Parası ve İçeriği dâhil) ve Hizmetler “olduğu gibi” ve “mevcut haliyle”, “tüm hataları ile birlikte” ve hiçbir garanti olmaksızın sağlanmaktadır. Epic, lisans verenleri ve bağlı kuruluşları Yazılım ve Hizmetlerle ilgili mülkiyet, kullanımınıza müdahale etmeme, yetki, ihlal etmeme, herhangi bir amaca elverişlilik veya uygunluk (Epic’in böyle bir amacı bilsin veya bilmesin ya da bilmek için nedeni olsun veya olmasın), sistem entegrasyonu, doğruluk veya eksiksizlik, sonuçlar, makul bakım, ustalıklı çaba, kusursuzluk ve virüs yokluğu gibi ister yasaya göre, ister adet veya ticari kullanım nedeniyle veya işin seyri sırasında ortaya çıktığı iddia edilsin tüm açık, zımni ve yasal garanti ve koşullar dâhil ama bunlarla sınırlı olmamak üzere tüm garantileri, koşulları, örfi hukuk görevlerini ve beyanları (açık, zımni, sözlü ve yazılı) reddeder. Yukarıdakilerin genelliğini sınırlamaksızın, Epic, lisans verenleri ve bağlı kuruluşları (1) Yazılım veya Hizmetlerin düzgün şekilde çalışacağı, (2) Yazılım veya Hizmetlerin gereksinimlerinizi karşılayacağını, (3) Yazılım veya Hizmetlerin işleyişinin her türlü koşulda kesintisiz, yazılım hataları olmadan veya hatasız olacağını veya (4) Yazılım veya Hizmetlerdeki kusurların düzeltilebilir olacağını veya düzeltileceğini garanti etmez. Birörnek Ticaret Yasasının 2-312. Bölümünde veya benzer bir başka yasada öngörülebilen tecavüze karşı herhangi bir garanti açıkça reddedilmektedir. Epic, lisans verenleri ve Epic’in ve onların bağlı kuruluşları Yazılım veya Hizmetlerin sürekli, hatasız, virüssüz veya güvenli bir şekilde çalışmasını veya onlara erişimi garanti etmez. Bu paragraf, geçerli yasaların izin verdiği azami ölçüde geçerli olacaktır.</>
+
+<EULA.Highlight>Geçerli yasaların izin verdiği azami ölçüde, ne Epic ne de lisans verenleri ne Epic’in veya onların bağlı kuruluşları ne de Epic’in hizmet sağlayıcılarından herhangi biri (topluca, “Epic Tarafları”), bu Anlaşmadan ya da Yazılım (Oyun Parası ve İçerik dâhil) veya Hizmetlerden ya da Yazılım veya Hizmetlerin kullanımında gecikme veya yetersizlik veya işlevsellik eksikliğinden kaynaklanan veya onlarla bağlantılı olan kâr kaybı ya da dolaylı, arızi, sonuç niteliğinde, özel, ceza niteliğinde veya örnek niteliğinde zararlardan, Epic Tarafının hatası, haksız fiil (ihmal dâhil), kusursuz sorumluluk, tazmin taahhüdü, ürün sorumluluğu, sözleşmenin ihlali, garanti ihlali veya başka bir şekilde olsa dahi ve bir Epic Tarafına bu tür hasarların olasılığı bildirilmiş olsa bile herhangi bir şekilde sorumlu olmayacaktır. Ayrıca, geçerli yasanın izin verdiği azami ölçüde Epic Taraflarının bu Anlaşmadan veya Yazılım (Oyun Parası ve İçerik dâhil) veya Hizmetlerden kaynaklanan veya onlarla bağlantılı olan toplam yükümlülüğü bu yükümlülüğe yol açan Yazılım (Oyun Parası ve İçerik dâhil) için önceki on iki (12) ay boyunca sizin tarafınızdan Epic’e ödenmiş olan toplam tutarları (varsa) aşmayacaktır. Zararlara ilişkin bu kısıtlamalar ve istisnalar herhangi bir çare yeterli oranda tazminat sağlamasa dahi uygulanır.</>
+
+<EULA.Header>9. Tazminat</>
+
+Bu bölüm, yalnızca yürürlükteki yasaların izin verdiği ölçüde geçerlidir. Aşağıdaki tazminat yükümlülüğüne girmeniz yasal açıdan yasaksa, yasaların izin verdiği ölçüde, aşağıdaki tazminat yükümlülüğünün belirtilen konusu olan tüm iddialar, talepler, eylemler, kayıplar, yükümlülükler ve masraflardan (avukatlık ücretleri, masraflar ve bilirkişi ücretleri dâhil) sorumluluğu siz üstlenirsiniz.
+
+Epic’i, lisans verenlerini, Epic’in ve bağlı şirketlerini ve onların çalışanlarını, yetkililerini, yönetim kurulu üyelerini, temsilcilerini, yüklenicilerini ve diğer temsilcilerini, (a) doğru olması halinde bu Anlaşmayı ihlal veya ihmalinizi oluşturan herhangi bir iddia, (b) Yazılımı (herhangi bir Oyun Parası veya İçerik dâhil) veya Hizmetleri kullanırken sizin tarafınızdan gerçekleştirilen herhangi bir eylem veya ihmal, veya (c) Epic’in bu Anlaşmanın 5. veya 6. Bölümlerinde belirtildiği şekilde sizin UGC’nizi veya Geri Bildiriminizi kullanımından kaynaklanan herhangi bir üçüncü taraf fikri mülkiyet hakkının ihlali veya çiğnenmesi iddiasından kaynaklanan veya bunlarla bağlantılı olan tüm iddialar, talepler, eylemler, kayıplar, yükümlülükler ve masraflar (avukatlık ücretleri, masraflar ve bilirkişi ücretleri dâhil) karşısında tazmin etmeyi, savunma masraflarını ödemeyi ve zarar görmemelerini sağlamayı kabul edersiniz. Bu Bölüm 9 kapsamındaki herhangi bir konu temelinde, ister bir mahkeme kararı ister bir uzlaşma sonucu olsun, Epic tarafından yapılan tüm savunma masraflarını ve Epic tarafından yapılan tüm ödemeleri veya maruz kalınan zararı talep üzerine Epic’e geri ödemeyi kabul ediyorsunuz.
+
+<EULA.Header>10. Fesih</>
+
+Epic'in diğer haklarını sınırlamaksızın, bu Anlaşma şart ve koşullarından herhangi birine uymamanız durumunda bildirimde bulunmaksızın otomatik olarak feshedilecektir. Yazılımı kurmuş olduğunuz tüm cihazlardan silerek de bu Anlaşmayı feshedebilirsiniz. Fesih üzerine Lisans otomatik olarak feshedilecektir, artık Lisans ile size verilen hakların hiçbirisini kullanamazsınız ve Yazılımın elinizdeki tüm kopyalarını imha etmelisiniz.
+
+<EULA.Highlight>Yasaların gerektirdiği durumlar dışında, bu Anlaşmanın feshedilip edilmediğine bakılmaksızın tüm ödemeler ve ücretler her koşulda iade edilemez niteliktedir.</>
+
+Bölüm 2, 5-13 ve 15-17 bu Anlaşmanın feshinden sonra da varlığını sürdürecektir.
+
+<EULA.Header>11. Geçerli Yasa ve Yargılama Yetkisi</>
+
+Bu Anlaşma, ABD’nin North Carolina Eyaletinde imzalanmıştır ve hukuk seçimi kuralları hariç olmak üzere, North Carolina Eyaletinin yasalarına tabi olacak ve bu yasalara uygun şekilde yorumlanacaktır. Aşağıdaki bölümde belirtildiği gibi bağlayıcı bireysel tahkime tabi olmadığı kabul edilen Uyuşmazlıklar için, siz ve Epic, Wake İlçesi, North Carolina Yüksek Mahkemesinin münhasır yargı yetkisine veya federal mahkemenin yargı yetkisi varsa North Carolina Doğu Bölgesi için Amerika Birleşik Devletleri Bölge Mahkemesine tabi olduğunu kabul edersiniz. Siz ve Epic, bu tür mahkemelere (taraflardan birinin izin veriliyorsa federal mahkemeye açılan davayı kaldırma haklarını etkilemeden) herhangi bir yargı, yer veya uygunsuz forum itirazından ve bir jüri duruşması hakkından feragat etmeyi kabul ediyorsunuz. Uluslararası Mal Satış Sözleşmelerine İlişkin Sözleşme geçerli olmayacaktır. Bir sözleşmenin dilinin taslağı hazırlayan kişiye karşı yorumlanmasını öngören herhangi bir yasa veya düzenleme bu Anlaşma için geçerli olmayacaktır. Bu paragraf, yürürlükteki yasaların izin verdiği şekilde genel olarak yorumlanacaktır.
+
+<EULA.Header>12. Bağlayıcı Bireysel Tahkim; Toplu Dava Olmaması</>
+
+LÜTFEN BU BÖLÜMÜ DİKKATLE OKUYUN. MAHKEMEDE DAVA AÇMA HAKKI DAHİL, HAKLARINIZI ETKİLER. TAHKİMDE HAKİM VEYA JÜRİ YOKTUR VE KEŞİF PROSEDÜRLERİ VE TEMYİZ HAKLARI MAHKEMEYE GÖRE DAHA SINIRLIDIR.
+
+Çoğu sorun Epic müşteri desteği ile irtibata geçerek hızlı ve dostça çözülebilir <a id="url" href="https://www.epicgames.com/customer-service" style="EULA.Hyperlink">https://www.epicgames.com/customer-service</>.  Ancak bazen anlaşmazlıkların müşteri desteği ile kolayca çözülemediğini biliyoruz.  Bu Bölüm, siz ve Epic'in bağlayıcı bireysel tahkim yoluyla (varsa) bu anlaşmazlıkları çözmeyi nasıl kabul ettiğinizi açıklamaktadır. 
+
+Tahkim, mahkemeye gitme formalitesi olmadan sorunları çözmemizi sağlayan alternatif bir uyuşmazlık çözüm prosedürüdür.  Siz ve Epic arasındaki herhangi bir anlaşmazlık adil ve hızlı bir çözüm için tarafsız bir hakeme (yargıç veya jüriye değil) gönderilir.  Tahkim hem sizin hem de Epic için daha etkilidir. 
+
+<EULA.Header>12.1 Gayri Resmi Çözüm</>
+
+Müşteri desteğimizin çözemeyeceği bir sorununuz varsa, tahkime başlamadan önce siz ve Epic, her iki taraf için de çözüm ve kontrol maliyetlerine gitmemize yardımcı olmak için anlaşmazlığı gayri resmi olarak çözmeye çalışmayı kabul edersiniz. Siz ve Epic, aramızdaki herhangi bir anlaşmazlığı en az 30 gün boyunca müzakere etmek için iyi niyetli bir çaba göstermeyi kabul edersiniz (“Gayri Resmi Çözüm”). Bu gayri resmi müzakereler, siz veya Epic'in bu Anlaşma uyarınca yazılı bir Uyuşmazlık Bildirimi aldığı gün başlayacaktır. 
+
+Uyuşmazlık Bildiriminizi Epic Games, Inc., Hukuk Departmanına aşağıdakinin DİKKATİNE göndereceksiniz: UYUŞMAZLIK BİLDİRİMİ, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, A.B.D. Adınızı, Fortnite oynarken kullandığınız hesap adını, adresinizi, sizinle nasıl iletişim kurulacağını, sorunun ne olduğunu ve Epic’in ne yapmasını istediğinizi ekleyin. Epic'in sizinle bir anlaşmazlığı varsa, Epic İhtilaf Bildirimimizi kayıtlı e-posta adresinize ve bize vermiş olduğunuz fatura adresine gönderecektir.  Taraflardan herhangi biri tarafından gönderilen Uyuşmazlık Bildirimi, gönderenin adını, adresini ve diğer iletişim bilgilerini, İhtilafın açıklamasını (ilgili hesap adları dâhil) ve İhtilaf için hangi çözümün istendiğini içermelidir. Uygulanabilir tüm zamanaşımı süreleri, bir tarafın diğerine uyumlu bir Uyuşmazlık Bildirimi gönderdiği günden itibaren durdurulmuş sayılacaktır. Siz veya Epic, öncelikle uyumlu bir Uyuşmazlık Bildirimi göndermeden ve Gayri Resmi Çözüm süresini tamamlamadan tahkime ilerleyemezsiniz. Uyumlu bir İhtilaf Bildirimi gönderilip gönderilmediği veya Gayri Resmi Çözüm tamamlanmadan bir tahkim başvurusu yapılıp yapılmadığı konusunda anlaşmazlık olması hâlinde, bu olumsuzluktan zarar gören taraf, North Carolina, Wake İlçesindeki eyalet mahkemelerinden veya federal yargı yetkisi varsa North Carolina Doğu Bölgesi Birleşik Devletler Bölge Mahkemesinden, Gayri Resmi Çözüm tamamlanana kadar tahkimin devam etmesini yasaklamak ve Gayri Resmi Çözüm sürecini takip etmeyen tarafın diğer tarafa hâlihazırda ortaya çıkmış tahkim ücretlerini ve masraflarını geri ödemesini emretmek için tazminat talep edebilir. Epic ve siz bu amaç için bu mahkemelerin yargı yetkisini kabul edersiniz.
+
+Eğer Avrupa Birliği'nde ("AB") ikamet ediyorsanız, şikâyetinizi Avrupa Komisyonu'nun <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">Çevrimiçi Uyuşmazlık Çözüm (ODR) Platformu'na</> gönderme hakkınız olabilir. ODR, AB tüketicilerine mahkemeye gitmeden çevrim içi mal ve hizmet alımlarıyla ilgili uyuşmazlıkları çözme olanağı sağlar.
+
+Uyuşmazlık, Gayri Resmi Çözüm veya asliye mahkemesi (aşağıda) tarafından çözülmezse, siz veya Epic bu Anlaşmaya uygun olarak bir tahkim başlatabilirsiniz.
+
+<EULA.Header>12.2 Asliye Mahkemesi</>
+
+Gayri Resmi Çözüm kullanmak yerine, Siz ve Epic, yaşadığınız idari bölgede veya Wake idari bölgesi, Kuzey Carolina’da (eğer asliye mahkemesinin gereksinimlerini karşılıyorsanız) seçtiğiniz asliye mahkemesinde bizi dava edebileceğinizi kabul etmektedir. Önce Gayri Resmi Çözümü deneyeceğinizi umuyoruz, ancak asliye mahkemesine gitmeden önce bunu denemenize gerek yoktur.
+
+<EULA.Header>12.3 Bağlayıcı Bireysel Tahkim</>
+
+BU BÖLÜMDEKİ TAHKİM İŞLEMLERİ SADECE BİREYSEL BAZDA YAPILACAKTIR.
+
+Siz ve Epic, Uyuşmazlıkların
+
+Ulusal Tahkim ve Arabuluculuk (“<EULA.Highlight>NAM</>”), https://namadr.com, tarafından bu Anlaşmayla değiştirilmiş haliyle, NAM’ın Uyuşmazlık ortaya çıktığında yürürlükte olan Kapsamlı Uyuşmazlık Çözüm Kuralları ve Prosedürlerine (“Kurallar”) göre bağlayıcı bireysel tahkimle çözümleneceğini kabul etmektedir. Bu Anlaşma eyaletler arası ticareti etkiler ve bu Bölümün uygulanabilirliği esas ve usul bakımından ABD Federal Tahkim Yasası (“<EULA.Highlight>FAA”</>), 9 U.S.C. § 1 ve devamı ve federal tahkim yasası tarafından yönetilecektir.
+
+Bu, siz ve Epic'in, herhangi bir Uyuşmazlığı, Uyuşmazlığı çözmek için nihai kararı veren tarafsız bir hakeme (yargıç veya jüriye değil) sunduğumuz bir uyuşmazlık çözüm sürecini kabul ettiğiniz anlamına gelir. NAM, 	 uyuşmazlıkları tahkim yoluyla çözümlemek için deneyimli profesyoneller kullanır ki bu, Sizin ve Epic’in uyuşmazlıkları adil ve mahkemeye gitmekten daha hızlı ve etkili bir şekilde çözümlemesine yardımcı olur. Hakem, bireysel olarak sizin için bir mahkemenin verebileceği ile aynı çözümler hakkında hüküm verebilir ancak bunu sadece bireysel talebinizi karşılamak için gereken ölçüde gerçekleştirir.
+
+Hakemin kararı, ABD Federal Tahkim Yasası uyarınca mahkemeler tarafından sınırlı bir inceleme dışında nihaidir ve diğer mahkeme kararı veya kararları gibi uygulanabilir. 
+
+<EULA.Header>12.3.1 Tahkime Götürmeyi Kabul Ettiğimiz Uyuşmazlıklar</>
+
+Siz ve Epic, Siz ve Epic arasındaki tüm uyuşmazlıkları bireysel bağlayıcı tahkime sunmayı kabul edersiniz.  “Uyuşmazlık”, bir sınırlandırma olmaksızın bu Bağlayıcı Bireysel Tahkim bölümünün geçerliliği, uygulanabilirliği veya kapsamı dâhil olmak üzere Epic Game Mağaza Uygulaması, Yazılım veya Hizmetleri kullanmanız veya kullanmaya teşebbüs etmenizle veya bu Anlaşma ile ilgili olarak Siz ve Epic arasındaki herhangi bir uyuşmazlık, talep veya anlaşmazlık anlamına gelir (aşağıda özellikle muaf tutulanlar hariç).
+
+Siz ve Epic, Uyuşmazlığın anlaşma, kanun, düzenleme, yönetmelik, haksız fiil (dolandırıcılık, yanlış beyan, hileli teşvik veya ihmal dahil) veya diğer yasal veya adil teorilere dayanıp dayanmadığına bakılmaksızın tüm İhtilafları tahkime götürmeyi kabul edersiniz.
+
+Gayri Resmi Çözüm ve Tahkim bölümleri (1) asliye hukuk mahkemesinde bireysel davalar; (2) yasa izin verirse bir devlet kurumu aracılığıyla kolluk işlemlerinin takibi; (3) AB Genel Veri Koruma Düzenlemesi uyarınca bir şikayet veya çözüm; (4) herhangi bir ön tahkim kararını uygulamak veya korumak için bir işlem; (5) Epic'in bir tahkim devam ederken statükoyu korumak için bir hukuk mahkemesinde Size karşı ihtiyati tedbir isteme hakkı; (6) korsanlık iddiaları, hilelerin oluşturulması, dağıtılması veya teşvik edilmesi ve fikri mülkiyet ihlali iddiaları ve (7) aşağıdaki Toplu Davadan Feragat maddesinin uygulanabilirliği için geçerli değildir.
+
+Siz ve Epic, bir uyuşmazlığın bu Anlaşma uyarınca tahkime tabi olup olmadığının mahkeme yerine hakem tarafından belirleneceğini kabul edersiniz.
+
+<EULA.Header>12.3.2 Tahkim Prosedürü</>
+
+Siz veya Epic, Kurallara uygun olarak NAM’a bir “Tahkim Talebi” göndererek Gayri Resmi Çözüm ile çözümlenmemiş herhangi bir Uyuşmazlık için tahkim başlatabilirsiniz. NAM’a Tahkim Talebi verme talimatları NAM web sitesinde bulunmaktadır veya NAM’a commercial@namadr.com adresinden e-posta göndererek edinilebilir.   Herhangi bir Tahkim Talebinin kopyasını Epic Games, Inc., Hukuk Departmanına aşağıdakinin DİKKATİNE göndereceksiniz: UYUŞMAZLIĞIN TAHKİMİ, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, A.B.D. Epic herhangi bir Tahkim Talebini kayıtlı e-posta adresinize ve bize sağladığınız herhangi bir fatura adresine gönderecektir.
+
+Tahkim, bir tek hakem tarafından yürütülecektir. Siz ve Epic, tahkimin İngilizce olarak yürütüleceğini ve hakemin bu Anlaşma ile bağlı olacağını kabul edersiniz.
+
+Şahsen duruşma gerekiyorsa, duruşma ya Wake İdari Bölgesi, Kuzey Carolina’da ya da ikamet ettiğiniz yerde gerçekleşecektir; 
+
+<EULA.Highlight>siz seçersiniz.</>
+
+Hakem (yargıç veya jüri değil) Uyuşmazlığı çözecektir. Siz ve Epic aksini kabul etmedikçe, herhangi bir karar veya hüküm, hakemin temel olgusal ve hukuki bulguları ve vardığı sonuçlar da dahil olmak üzere, her bir iddia hakkında kararı ve hükmün temelini belirten yazılı bir beyan içerecektir.  
+
+Hakem, yalnızca bireysel iddialarımızdan birini karşılamak için Sizin veya Epic’in talep ettiği yasal veya adil hukuki çözümlere (hakemin, güvenilir kanıtlarla desteklendiğini belirlediği) hükmedebilir. Geçerli yasanın izin verdiği en geniş ölçüde, hakem, sizden başka hiç kimse için Epic aleyhinde bir çözüm yoluna hükmedemez.
+
+Herhangi bir karar veya hüküm herhangi bir yetkili mahkeme tarafından nihai karar olarak uygulanabilir ya da, geçerli ise, herhangi bir hükmün ve uygulama emrinin adli olarak kabulü için söz konusu mahkemeye başvuru yapılabilir.
+
+<EULA.Header>12.3.3 Tahkim Ücretleri ve Yeri</>
+
+Tahkime başlarsanız, tüketici tahkimleri için gerekli NAM başvuru ücretini ödemeniz gerekir.
+
+Bazı durumlarda, Epic (umarız) hızlı ve adil bir çözüme ulaşmamız için ücretleriniz bakımından yardımcı olacaktır:
+
+Uyuşmazlık 10.000 ABD Doları veya daha azını içeriyorsa, Epic, ödemeniz gereken ücret de dâhil olmak üzere tüm Nam başvuru ücretini ödeyecektir.
+
+Yukarıdakiler Sizin için geçerli değilse ancak tahkime başvuru masraflarının dava masraflarına kıyasla fahiş olacağını kanıtlarsanız, Epic, hakemin tahkimin cesaret kırıcı şekilde fahiş olmasını (dava maliyeti ile karşılaştırıldığında) önlemek için gerekli olduğuna karar verdiği ölçüde başvuru ücretinizi ödeyecektir.
+
+Bu paragraf kapsamındaki zararların hesaplanması amacıyla, aynı veya koordine avukat tarafından temsil edilen birden fazla davacı tarafından ileri sürülen benzer talepler bir araya getirilecektir. Başka bir deyişle, aynı veya koordine avukat tarafından temsil edilen yirmi kişinin her biri 1.000$ talep ediyorsa, bu, bu bölümün amaçları bakımından 20.000$ Doların talep edildiği bir talep olarak ele alınacaktır.
+
+Epic tahkimi kazansa ve yürürlükteki yasa veya NAM Kuralları Epic’in NAM ücretlerinin bir kısmını sizden istemesine izin verse bile, bunu yapmayacağız.
+
+Yukarıda sunulan ücret yardımı, tahkim talebini Sizin "iyi niyetle" başlatmanıza bağlıdır. Eğer hakem, Epic'e karşı uygunsuz bir amaç için, gereksiz bir şekilde veya talepte bulunmadan önce gerçekler veya yürürlükteki yasalar hakkında yeterli araştırma yapmadan bir tahkim talebinde bulunduğunuzu tespit ederse, tüm ücretlerin ödenmesi Kurallara tabi olacaktır.
+
+Epic'in bu NAM masrafları bölümü kapsamında ödemeyi kabul ettiği başvuru ücretleri, Avukatlarınızın ücretlerini ve NAM maliyetlerini içermez ve bir uyuşmazlığın değeri belirlenirken bu ücretler ve maliyetler dikkate alınmaz.
+
+<EULA.Highlight>Epic, kanun veya Kurallar bize yetki verebilse bile, avukatlık ücretlerimizi veya masraflarımızı herhangi bir tahkimde sizden talep etmeyecektir. </>Bir avukat tarafından temsil edilmeyi seçerseniz, yürürlükteki yasalar aksini belirtmediği sürece kendi avukatlık ücretlerinizi ve masraflarınızı ödeyeceksiniz.
+
+<EULA.Header>12.3.4 Koordine Başvurular</>
+
+Benzer iddiaları gündeme getiren ve aynı veya koordine avukata sahip olan 25 veya daha fazla Uyuşmazlık Bildirimi gönderilirse, bunlar “<EULA.Highlight>Koordine Davalar</>” olarak değerlendirilecek ve bu Anlaşmada belirtildiği şekilde tahkimde Koordine Davaların açılması isteniyorsa ve bu ölçüde Kurallara göre toplu başvuru veya birden fazla dava başvurusu olarak ele alınacaktır. Epic veya siz, davaların Koordine Davalar olduğuna dair inancınızı veya düşüncenizi diğerine bildirebilirsiniz ve bir veya birden fazla davanın sözleşmedeki “Koordine Davalar” tanımına uyup uymadığı konusundaki uyuşmazlıklar, tahkim sağlayıcısı tarafından idari bir konu olarak karara bağlanacaktır. <EULA.Highlight>Koordine Davalarda Tahkim Talepleri, yalnızca aşağıda belirtilen örnek dava sürecinin izin verdiği şekilde tahkim sağlayıcısına sunulacaktır.  </>Epic, tahkime sunulan Koordine Davalar için yalnızca kendi tahkim ücreti payını ödeyecektir; davacılar bu ücretlerde kendi paylarından sorumlu olacaktır. 
+
+<EULA.Highlight>Koordine Davalarda ileri sürülen talepler için geçerli zamanaşımı süreleri, bir tarafın uyumlu Uyuşmazlık Bildirimini aldığı zamandan bu Anlaşmaya göre Koordine Davanın tahkime veya aşağıda belirtildiği gibi mahkemeye götürüldüğü zamana kadar duracaktır.</>
+
+Koordine Davalardaki avukatın Epic'e bu davalar için tüm veya neredeyse tüm Uyuşmazlık Bildirimlerinin sağlandığını bildirmesi üzerine tarafların avukatı, her bir tarafın argümanlarının esaslarını test etmek için makul bir fırsat sağlamak üzere tahkimde “örnek dava” olarak devam etmesi gereken dava sayısı hakkında iyi niyetle müzakere yapacaktır. Tarafların avukatı örnek dava sayısını kabul etmezse, tahkim sağlayıcısı tarafından idari bir konu olarak (veya tahkim sağlayıcısının takdirine bağlı olarak bir süreç hakemi tarafından) bir çift sayı seçilecektir. Tahkim sağlayıcısının, kaç tane örnek dava seçeceğine karar verirken göz önünde bulundurabileceği faktörler arasında uyuşmazlığın karmaşıklığı ve çeşitli davalar arasında olgulardaki veya geçerli yasalardaki farklılıklar yer almaktadır. Örnek davaların sayısının anlaşma yoluyla veya tahkim sağlayıcısı tarafından belirlenmesi üzerine, her iki taraf da uyumlu Uyuşmazlık Bildirimleri vermiş olan davacılar arasından bu sayının yarısını seçecek ve <EULA.Highlight>yalnızca </>bu seçilen davalar tahkim sağlayıcısına sunulabilecektir. Söz konusu örnek davalar sonuçlandırılana kadar başka hiçbir dava açılamaz ve Epic Games’in örnek dava olarak açılmasına izin verilenler dışındaki tahkim talepleri ile ilişkili herhangi bir ücreti ödemesi gerekli tutulamaz. Taraflar, örnek dava olarak seçilmeyen Koordine Davaların çözümünün bu örnek dava süreci ile gecikeceğini kabul etmektedir.
+
+Taraflar aksini kabul etmedikçe, her bir örnek dava için farklı bir hakem atanmalıdır.
+
+Yalnızca örnek davaların tahkimde yargılaması yapılacaktır. Tüm örnek davaların sonuçlandırılması üzerine (veya davacıların ve Epic'in avukatı kabul ederse daha erken), taraflar kalan tüm Koordine Davalar için tek bir arabuluculuk yapmalı ve her iki taraf da geçerli arabuluculuk ücretinin yarısını ödemelidir. Epic ve davacıların avukatı, son örnek davanın sonuçlanmasından itibaren 30 gün içinde bir arabulucu üzerinde anlaşmalıdır. Epic ve davacıların avukatı 30 gün içinde bir arabulucu üzerinde anlaşamazlarsa tahkim sağlayıcısı idari bir işlem olarak bir arabulucu atayacaktır. Epic ve davacıların avukatı, arabulucu atandıktan sonra arabuluculuğun mümkün olan en kısa sürede planlanmasını sağlamak amacıyla işbirliği yapacaktır.
+
+Arabuluculuk genel bir çözüm getirmezse, bu tahkim şartı diğer tarafça hakkında uyumlu bir Uyuşmazlık Bildirimi alınan ancak daha sonradan örnek dava işlemlerinde çözümlenmeyen Koordine Davalara konu olan Uyuşmazlıklar için geçerli olmayacaktır. Söz konusu Uyuşmazlıklar yalnızca Wake County, North Carolina'daki eyalet mahkemelerinde veya federal yargı yetkisi mevcutsa, Amerika Birleşik Devletleri North Carolina Doğu Bölgesi Bölge Mahkemesinde dava edilebilir ve Anlaşmanın bir parçası olarak bu tür davalar için bu mahkemelerin yer bakımından münhasır yetkisine onay veriyorsunuz. Bu paragraftaki hiçbir şey, sizin veya Epic'in geçerli yasa kapsamında taşınmasına izin veriliyorsa, bir davayı eyalet mahkemesinden federal mahkemeye taşımasını yasakladığı şeklinde yorumlanmayacaktır. Diğer kişilerle aynı iddiaları ileri sürmeniz ve ortak veya koordine bir avukat tarafından temsil edilmeniz halinde, tüm bu kişilerin birleştirilmesinin pratik olmadığı itirazından vazgeçmeyi kabul ediyorsunuz. Daha önce tahkime tabi olan bir Uyuşmazlık mahkemeye götürülürse, davacılar toplu muamele talep edebilir, ancak geçerli yasanın izin verdiği en geniş ölçüde, talep edilen sınıflar yalnızca uyumlu Uyuşmazlık Bildirimleri vermiş Koordine Davalardaki davacıları içerebilir. Herhangi bir taraf, dava sürecinin herhangi bir aşamasında ve herhangi bir uygun gerekçeyle sınıf sertifikasyonuna itiraz edebilir. 
+
+Wake İlçesi, North Carolina eyalet mahkemeleri veya federal yargı yetkisi mevcutsa, North Carolina Doğu Bölgesi Amerika Birleşik Devletleri Bölge Mahkemesi bu öncü süreci yürütme yetkisine sahip olacaktır ve buna uygun olmayan davaların veya tahkim taleplerinin açılmasını yasaklayabilir. Bu amaç için bu mahkemelerin yargı yetkisini kabul edersiniz.
+
+<EULA.Header>12.3.5 Bildirim ve Başvuru </>
+
+Bir Uyuşmazlığın tahkime götürülmesi gerekiyorsa, Siz veya Epic, Uyuşmazlığın ilk ortaya çıktığı tarihten itibaren iki (2) yıl içinde Uyuşmazlık için tahkimi başlamalısınız. Yürürlükteki yasa Uyuşmazlık ilk ortaya çıktıktan sonra iki yıldan önce Uyuşmazlık için talepte bulunmanızı gerektiriyorsa, daha erken olan dönemde tahkimi başlatmanız gerekir. Epic, bir Uyuşmazlığı çözmek için çalışabilmemiz için bir sorunu olanaklı olan en kısa sürede bize söylemenizi tavsiye eder. 
+
+<EULA.Highlight>Zamanında bildirimde bulunulmaması tüm dava taleplerini engelleyecektir.</>
+
+<EULA.Header>12.3.6 Yürürlüğün Devam Etmesi.</>
+
+Bu bölümde belirtilen uyuşmazlık çözüm süreci, bu Anlaşmanın veya Epic’in Size hizmet sağlamasının herhangi bir şekilde feshedilmesinden sonra da yürürlükte kalacaktır.
+
+<EULA.Header>12.3.6 Gelecekteki Tahkim Değişiklikleri</>
+
+Epic bu Anlaşmayı kendi takdirine bağlı olarak revize edebilirse de Epic’in herhangi bir Uyuşmazlık bakımından, bu Uyuşmazlık ortaya çıktıktan sonra tahkim şartlarını veya burada belirtilen kuralları, değişiklik, tahkim prosedürlerini davacı için dezavantajlı hale getirecekse, değiştirme hakkı yoktur. Değişen prosedürlerin davacı için dezavantajlı olup olmadığı hakem tarafından kararlaştırılacak bir konudur ve birden fazla davacının Koordine Davası devam etmekteyse, revize edilmiş şartların Koordine Davalara uygulanabilirliği hakkında bir süreç konusu olarak tahkim sağlayıcısı karar verecektir.
+
+<EULA.Header>12.4 Toplu Davadan Feragat</>
+
+Geçerli yasanın izin verdiği en geniş ölçüde, tahkim gerekliliğine tabi olmayan herhangi bir durum için (Koordine Davalar için yukarıda açıklanan sınırlı ölçü dışında), Siz ve Epic, bir Epic Ürünü veya genel olarak Epic Ürünleriyle, sizin bir Epic Ürününü kullanmanız veya kullanmaya teşebbüsünüzle veya bu Anlaşmayla ilgili olarak Epic’le aranızdaki uyuşmazlıkları, iddiaları veya anlaşmazlıkları yalnızca bireysel olarak ileri sürmeyi kabul ediyorsunuz ve:
+
+●	herhangi bir grup davası veya temsili dava, toplu veya grup çapında tahkim veya başka bir kişi veya kuruluşun temsilci sıfatıyla hareket ettiği diğer herhangi bir dava (örneğin özel başsavcı davaları) açmaya, bunlara katılmaya veya bunlara iştirak etmeye çalışmayacaksınız veya
+●	tüm taraflarının açık rızası olmadan bireysel işlemleri konsolide etmeyecek veya birleştirmeyecek veya bir başkasının bunu yapmasına izin vermeyeceksiniz.
+
+<EULA.Header>12.5 Bölünebilirlik</>
+
+Bu Bölümünün tümünün veya herhangi bir hükmünün geçersiz, uygulanamaz veya yasa dışı bulunması durumunda Siz ve Epic o hükmün ayrılacağını ve sözleşmenin geri kalanının yürürlükte kalacağını ve ayrılmış olan hükmün dâhil edilmemiş gibi yorumlanacağını kabul edersiniz. Bunun tek istisnası olarak, toplu tahkim yasağının geçersiz, uygulanamaz veya yasa dışı bulunması halinde siz ve Epic bunun ayrılabilir olmayacağını kabul ediyorsunuz; Bölüm 12.4 dışında işbu Bölüm 12’nin tamamı geçersiz ve uygulanamaz olacaktır ve herhangi bir uyuşmazlık, bu Anlaşmada belirtilen yer ve maddelerin seçimine tabi olarak mahkemede çözümlenecektir. Hiçbir koşulda, tahkim, Epic’in açık rızası olmadan toplu bir temelde yürütülmemelidir.
+
+<EULA.Header>12.6 30 Günlük Vazgeçme Hakkınız</>
+
+Bu Anlaşmada belirtilen tahkim ve toplu davadan feragat hükümlerinden vazgeçme ve bunlar ile bağlı olmama hakkına sahipsiniz. Bu hakkı kullanmak için aşağıdaki adrese kararınızın yazılı bildirimini göndermelisiniz: Epic Games, Inc., Hukuk Departmanı, şunun DİKKATİNE: ARBITRATION OPT-OUT, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, ABD. Bildiriminiz adınızı, posta adresinizi, Fortnite oynarken kullandığınız kullanıcı hesabınızın adını ve Epic’le ihtilafları tahkim yoluyla çözmek istemediğinizi açıkça belirten bir ifade <EULA.Highlight>içermelidir.</>  <EULA.Highlight>Geçerli olması için, geçerli yasa daha uzun bir süreyi şart kılmadıkça, bu anlaşmayı ilk kabul ettiğiniz tarihten sonra 30 gün içinde bu bildirime posta damgası basılmalı veya tevdi edilmelidir; aksi takdirde uyuşmazlıkları bu bölümle uyumlu şekilde tahkime götürmeye bağlı olacaksınız. </>Epic’in vazgeçme bildiriminizi almasını sağlamaktan sorumlusunuz bu yüzden bildirimi teslimat makbuzu sağlayan şekilde göndermek isteyebilirsiniz. Bu tahkim hükümlerini tercih dışı bırakırsanız Epic sizinle olan Uyuşmazlıklarla ilgili olarak bunlarla bağlı olmayacaktır.
+
+<EULA.Header>13. ABD Hükümeti Konuları</>
+
+Yazılım, “Ticari Bilgisayar Yazılımı” ve “Ticari Bilgisayar Yazılımı Belgeleri” (48 CFR §12.212 veya 48 CFR §227.7202’de kullanıldığı gibi) içeren bir “Ticari Eşya”dır (48 CFR §2.101’de tanımlandığı gibi). Yazılım, ABD hükümeti son kullanıcılarına yalnızca Ticari Eşyalar olarak ve yalnızca bu Anlaşma kapsamındaki diğer lisans sahiplerine verilen haklarla lisanslanmaktadır.
+
+Tüm geçerli federal ve yabancı yasalara, düzenlemelere ve kurallara uymayı ve gerekli tüm taahhütleri tamamlamayı kabul edersiniz. Yazılımı veya Hizmetleri, ABD’nin mal ambargosu koyduğu herhangi bir ülkede (veya bu ülkenin bir vatandaşına veya sakinine) veya ABD Hazine Bakanlığının Özel Olarak Belirlenmiş Vatandaşlar listesinde veya ABD Ticaret Bakanlığının Ret Emirleri Tablosunda yer alan herhangi bir kişiye kullanmamayı, ihraç etmemeyi, yeniden ihraç etmemeyi veya indirmemeyi kabul edersiniz. ABD’nin kısıtladığı veya yasakladığı veya herhangi bir ABD kısıtlı ve yasaklı listesindeki bir ülkede bulunmadığınızı, bu ülkenin kontrolü altında olmadığınızı veya bu ülkenin vatandaşı veya mukimi olmadığınızı beyan ve garanti edersiniz.
+
+<EULA.Header>14. Bu Anlaşmadaki Değişiklikler</>
+
+<EULA.Highlight>Epic, kendi takdirine bağlı olarak, değiştirilmiş Anlaşmayı, Hizmet Koşullarını veya Gizlilik Politikasını kendi web sitesinde yayınlayarak veya Yazılıma bir sonraki erişiminizde bu belgelerin herhangi birinin değiştirilmiş sürümlerine dijital erişim sağlayarak istediği zaman değiştirilmiş bir Anlaşma, Hizmet Koşulları veya Gizlilik Politikası yayınlayabilir. Bu Anlaşmada, Hizmet koşullarında veya Gizlilik Politikasında yapılan herhangi bir değişiklik sizin için kabul edilebilir değilse, bu Anlaşmayı feshedebilirsiniz; Hizmeti kullanmayı da durdurmalısınız. Yazılımı kullanmaya devam etmeniz, değiştirilen Anlaşmayı ve Hizmet Koşullarını kabul ettiğinizi ve değiştirilen Gizlilik Politikasını okuyup kabul ettiğinizi gösterecektir.</>
+
+<EULA.Header>15.	 Devir Yok</>
+
+Epic'in önceden yazılı onayı olmadan, bu Anlaşma kapsamındaki hak veya yükümlülüklerinizin tamamını veya herhangi birini devredemez, aktaramaz, ücretlendiremez veya alt yükleniciye veremezsiniz ve bu onay olmadan herhangi bir girişim geçersiz ve hükümsüz olacaktır. Bu Anlaşmadaki Yazılımın devrine ilişkin kısıtlamalar ülkenizin yasaları kapsamında uygulanamıyorsa, bu Anlaşma Yazılımın herhangi bir devralanı için bağlayıcı olacaktır. Epic, herhangi bir zamanda bu Anlaşma kapsamındaki haklarının veya yükümlülüklerinin tamamını veya herhangi birini temlik edebilir, devredebilir, başkasına yükleyebilir veya alt sözleşme ile verebilir.
+
+<EULA.Header>16. Tanımlar</>
+
+Bu Anlaşmada kullanıldığı şekliyle, aşağıdaki büyük harfle başlayan kelimeler aşağıdaki anlamlara sahiptir:
+
+“<EULA.Highlight>Hile Algılama</>” Hileleri tanımlamayı amaçlayan fonksiyonellik anlamına gelir.
+
+“<EULA.Highlight>Hileler</>” oyunculara Yazılımda adil olmayan bir rekabet avantajı sağlayabilecek olan programlar, yöntemler veya diğer süreçler anlamına gelir.
+
+“<EULA.Highlight>Gizli Bilgiler</>” oyun oynama veya diğer içerik, Oyun Parası, İçerik, Hizmetler, kendi geri bildiriminiz ve yorumlarınız ve Yazılımın başka bir lisans sahibinin veya herhangi bir Epic temsilcisinin geri bildirimi veya yorumları ile ilgili bilgiler dâhil ancak bunlarla sınırlı olmamak üzere Yazılımla ilgili herkese açık olmayan herhangi bir bilgi demektir.
+
+“<EULA.Highlight>İçerik</>” Epic’in Yazılım vasıtası ile veya onunla bağlantılı şekilde erişmeniz veya indirmeniz için kullanıma sunduğu herhangi bir sanal öge, sanal ortam (adalar gibi) veya başka içerik demektir ve Lisanslı Müziği ve bizim kullanıcılarımız tarafından bize lisanslanmış olan UGC’yi açıkça içerir.
+
+"<EULA.Highlight>Epic</>", birincil ikamet yerinize bağlı olarak şu anlama gelir:
+
+a. Merkezi Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, ABD adresinde bulunan bir Maryland Corporation şirketi olan Epic Games, Inc. veya
+
+b. İsviçre yasalarına tabi olarak kurulmuş sınırlı sorumlu bir şirket olan ve kayıtlı ofisi Platz 10 6039 Root D4, İsviçre adresinde bulunan Epic Games Entertainment International GmbH.
+
+“<EULA.Highlight>Geri Bildirim</>” Yazılım, Hizmetler veya diğer Epic ürünleri ve hizmetleri hakkında Epic’e sağladığınız herhangi bir geri bildirim veya öneri anlamına gelir.
+
+“<EULA.Highlight>Hizmetler</>” Oyun Para Birimi ve İçeriği elde etmek, muhafaza etmek ve kullanmak için hizmetler dâhil olmak üzere Yazılım aracılığıyla size sağlanan tüm hizmetler anlamına gelir.
+
+“<EULA.Highlight>Yazılım</>” tüm yazılım kodları, başlıklar, temalar, nesneler, karakterler, adlar, diyaloglar, sloganlar, konumlar, hikâyeler, çizimler, animasyonlar, kavramlar, sesler, görsel-işitsel efektler, çalışma yöntemleri ve uygulama ile ilgili müzik besteleri ve bunların kopyaları dâhil ancak bunlarla sınırlı olmamak üzere Fortnite olarak bilinen tescilli yazılım uygulaması ve uygulama için tüm yamalar, güncellemeler ve yükseltmeler ve Epic tarafından bu Sözleşme kapsamında size sunulan tüm ilgili içerik ve belgeler anlamına gelir. Yazılımda özellikle, Bölüm 4 uyarınca ilgili ücreti ödediğiniz veya başka bir şekilde lisans edindiğiniz tüm Oyun Para Birimi ve İçerik bulunmaktadır.
+
+<EULA.Header>17. Muhtelif</>
+
+Bu Anlaşma ve bu Anlaşmada atıfta bulunulan herhangi bir belge veya bilgi, bu Anlaşmanın kapsadığı konu ile ilgili olarak siz ve Epic arasındaki anlaşmanın tamamını oluşturur. Bu Anlaşmanın kapsadığı konu ile ilgili diğer tüm iletişimler, teklifler ve beyanlar hariç tutulmuştur.
+
+Bu Anlaşmanın aslı İngilizcedir; tüm çeviriler sadece bilgi amaçları için sağlanmıştır. Bu Koşulların ve ilgili tüm belgelerin İngilizce olarak hazırlanmış olması tarafların açık dileğidir. Les partiler déclarent qu'elles ont demandé et par les présentes confirment leur desir exprés que cette convention soit rédigee en anglais.  Ülkenizin yasaları uyarınca bu Anlaşmanın başka bir ülkenin dilinde yazılması ya da yorumlanması hakkından feragat edersiniz.
+
+Bu Anlaşma belirli yasal hakları tanımlamaktadır. Yargı alanınızın yasaları uyarınca başka haklarınız da olabilir. Bu Anlaşma, yargı alanınızın yasaları buna izin vermiyorsa, yargı alanınızın yasaları kapsamındaki haklarınızı değiştirmez. Bu Anlaşmadaki garantilerin ve telafilerin sınırlamaları ve istisnaları sizin için geçerli olmayabilir çünkü yargı alanınız sizin özel durumunuzda bunlara izin vermeyebilir. Bu Anlaşmanın belirli hükümlerinin bir mahkeme veya yargı yetkisine sahip bir heyet tarafından uygulanamaz olduğuna karar verilmesi durumunda, bu hükümler yalnızca geçerli yasa uyarınca mümkün olan en geniş ölçüde uygulanacaktır ve bu Anlaşmanın geri kalan hükümleri tam olarak yürürlükte ve geçerli kalacaktır.
+
+Epic’in bu Anlaşma, yasalar veya hakkaniyet kapsamında sahip olduğu haklarından herhangi birini kullanması, kullanmaması veya kullanmakta gecikmesi, anlaşmaya, yasalara veya hakkaniyete göre o haklardan veya mevcut diğer haklardan veya çözüm yollarından feragat ettiği anlamına gelmez.
+
+Açıkça belirtilmediği sürece bu Anlaşma ile Anlaşma tarafları dışında herhangi bir kişiye hak veya yasal çözüm yolu sağlanmadığını kabul etmektesiniz.
+
+Epic’in yükümlülükleri mevcut yasalara ve yasal sürece tabidir ve Epic bu Sözleşmede bulunan aksine herhangi bir hükme rağmen kolluk kuvvetleri veya düzenleyici taleplerine veya gerekliliklerine uyabilir.
+
+<EULA.Header>18. Platform için Ek Şartlar</>
+
+<EULA.Header>18.1 Sony PlayStation Kullanıcıları</>
+
+Aşağıda yer alan ek hüküm ve koşullar sahip olduğunuz ya da kontrol ettiğiniz PlayStation cihazlarında kullanıma uygun olan Yazılımlar için geçerlidir:
+
+Lütfen, Epic Gizlilik Politikasında açıklandığı gibi, e-posta adresiniz ve Çevrim İçi Kimlik Numaranız da dâhil, Sony Entertainment Network hesap bilgilerinizin Epic tarafından kaydedileceğine dikkat edin. Epic, kullanıcılarının SEN hesapları üzerinden diğer Epic hesapları için arama yapmalarına izin verebilir ve diğer Epic kullanıcıları size arkadaşlık isteği gönderebilir. SEN hesabınızın gizlilik ayarları Epic hesabınız için geçerli olmayacaktır.
+
+Herhangi bir Yazılım sanal parasını gerçek para birimine, maddi mallara ya da ayni karşılığa hiçbir koşul altında çeviremezsiniz ve söz konusu sanal paranın e-Bay ya da diğer açık artırma sitelerinde yapıldığı gibi platform dışı satışını ya da takasını yapmanız açık bir şekilde yasaklanmıştır.
+
+<EULA.Highlight>SIEA kullanıcıları için: </>Ürünlerin satın alınması ve kullanılması Ağ Hizmet Koşullarına ve Kullanıcı Sözleşmesine tabidir. Bu çevrim içi hizmet için size Sony Interactive Entertainment America tarafından alt lisans verilmiştir.
+
+<EULA.Highlight>SIEE kullanıcıları için: </>Oyun içi mağaza içinden satın alınan tüm içerik Sony Interactive Entertainment Network Europe Limited ("SIENE") şirketinden satın alınacak olup, PlayStation™Store'da bulunan PlayStation™Network Hizmet Şartları'na tabidir. Öğeden öğeye farklılık gösterebileceği için lütfen her satın almaya ilişkin kullanım haklarını kontrol edin. Aksi belirtilmediği müddetçe, oyun içi mağazadan satın alınan içerik, oyunla aynı yaş sınıflandırmasına sahiptir.
+
+<EULA.Header>18.2 Microsoft Xbox Kullanıcıları</>
+
+Aşağıda yer alan ek hüküm ve koşullar sahip olduğunuz ya da kontrol ettiğiniz Xbox Live cihazlarında kullanıma uygun olan Yazılımlar için geçerlidir:
+
+Ne Microsoft Corporation ne de bağlı şirketlerinden herhangi birinin (toplu olarak “<EULA.Highlight>Microsoft</>”), Yazılım ya da Hizmetlere ilişkin olarak herhangi bir bakım ya da destek yükümlülüğü bulunmamaktadır.
+
+Bu Sözleşmede yer alan hiç bir hüküm, Xbox Live kullanım koşulları dâhil Microsoft ile aranızda imzalanan sözleşmeler kapsamında Microsoft ile ilişkinizi herhangi bir şekilde düzenlemez ya da değiştirmez.
+
+Ayrıca, geçerli yasaların izin verdiği azami ölçüde, Epic Taraflarının (Microsoft dışındaki) bu Sözleşme veya Yazılımdan, (Oyun Para Birimi veya İçerik dâhil) veya Hizmetlerden kaynaklanan veya bunlarla bağlantılı olarak ortaya çıkan toplam sorumluluğu, (Oyun Para Birimi veya İçeriği de dâhil olmak üzere) söz konusu yükümlülüğe yol açan olaylardan hemen önceki on iki (12) ay boyunca Yazılım için Epic’e ödediğiniz (varsa) toplam tutarı aşmayacak ve Microsoft’un bu Sözleşme veya Yazılım (Oyun Para Birimi veya İçerik dâhil) veya Hizmetlerden kaynaklanan ya da bunlarla bağlantılı olarak ortaya çıkan hiç bir sorumluluğu olmayacaktır. Zararlara ilişkin bu kısıtlamalar ve istisnalar, herhangi bir çare yeterli tazminat sağlamasa dahi geçerlidir.
+
+<EULA.Header>18.3 Apple iOS Kullanıcıları</>
+
+Aşağıda yer alan ek hüküm ve koşullar, sahip olduğunuz ya da kontrol ettiğiniz herhangi bir Apple, Inc. (“Apple”) iPhone veya iPad cihazlarında kullanıma uygun olan Yazılımlar için geçerlidir:
+
+Sözleşmeyi Apple ile imzalamadığınızı kabul etmektesiniz. Yazılımdan ve içeriğinden Apple değil yalnızca Epic sorumludur.
+
+Yazılımı kullanımınız, Yazılımı indirdiğiniz ya da ilk olarak kullandığınız tarih itibarı ile bu Sözleşmenin koşullarına tabi olacak ve Uygulama Mağazası Hüküm ve Koşullarında belirtilen Kullanım Kuralları tarafından izin verilen şekilde olacaktır (inceleme fırsatı bulmuş olduğunuzu kabul ediyorsunuz).
+
+Apple’ın Yazılım veya Hizmetlere ilişkin herhangi bir bakım ya da destek yükümlülüğü olmadığını kabul etmektesiniz.
+
+Apple’ın, Yazılım veya Hizmetlerle ilgili olarak açıkça veya zımni herhangi bir ürün garantisinden sorumlu olmadığını kabul ve taahhüt edersiniz. Kendi ülkenizde ya da başka yargı bölgesinde yasal olarak bir garantiden yararlanma hakkınız varsa Yazılım veya Hizmetlerin söz konusu zorunlu garantiye uygun olmamaları durumunda Apple’ı bilgilendirebilirsiniz ve Yazılım için sizin tarafınızdan Apple’a ödenen satış bedelini, eğer varsa, Apple iade edecektir. Geçerli yasaların izin verdiği azami ölçüde, Yazılım veya Hizmetlerle ilgili olarak Apple’ın başka hiçbir garanti yükümlülüğü olmayacaktır ve bu tür zorunlu garantilere uymadığına dair herhangi bir iddia, kayıp, sorumluluk, zarar, maliyet veya harcamalar tamamen Epic’in sorumluluğunda olacaktır. Ancak bu Sözleşme uyarınca Epic’in Yazılım ve Hizmetlerle ilgili her türlü garantiyi reddettiğini ve bu nedenle de, yasaların gerektirdikleri dışında Yazılım veya Hizmetlere uygulanan hiçbir garantinin olmadığını beyan ve kabul edersiniz.
+
+Apple ile Epic arasında olmak üzere: (i) ürün sorumluluğu talepleri; (ii) Yazılım veya Hizmetlerin yürürlükteki herhangi bir yasa veya düzenleme gerekliliğine uymadığı iddiaları ve (iii) tüketicinin korunması veya benzer mevzuat kapsamında ortaya çıkan iddialar dâhil ancak bunlarla sınırlı olmamak üzere sizin veya üçüncü tarafların Yazılım veya Hizmetlerle ilgili iddialarını veya Yazılıma veya Hizmetlere sahip olmanız ve/veya onları kullanmanız ile ilgili üçüncü taraf iddialarını ele almaktan Apple değil Epic sorumludur. Herhangi bir üçüncü tarafın, Yazılım veya Hizmetlerin veya Yazılıma veya Hizmetlere sahip olmanızın ve onları kullanmanızın o üçüncü tarafın fikri mülkiyet haklarını ihlal ettiğini iddia etmesi durumunda söz konusu fikri mülkiyet hakkı ihlali hakkındaki soruşturma, savunma, uzlaşma ve tazminat için Apple değil Epic tek başına sorumlu olacaktır (bu Sözleşme uyarınca gerekli olması hâlinde ve gerekli olduğu ölçüde).
+
+Açıkça belirtilmediği sürece bu Sözleşme ile Sözleşme tarafları dışında herhangi bir kişiye hak veya yasal çözüm yolu sağlanmadığını kabul etmektesiniz. Yukarıdaki hükümlere bakılmaksızın, Apple ve Apple’ın iştirakleri bu Sözleşmenin üçüncü taraf lehtarlarıdır ve bu Sözleşmeyi kabul ettiğinizde, Apple bu Sözleşmeyi onun üçüncü taraf lehtar olarak aleyhinize yürürlüğe koyma hakkına sahip olacaktır (ve bu hakkı kabul etmiş sayılacaktır).
+
+Yazılımla ilgili son kullanıcı soruları, şikâyetleri veya iddiaları şu adrese yönlendirilmelidir: <a id="url" href="mailto:help@fortnite.com" style="EULA.Hyperlink">help@fortnite.com</>.
+
+<EULA.Header>18.4 Samsung GALAXY Kullanıcıları</>
+
+Aşağıda yer alan ek hüküm ve koşullar sahip olduğunuz ya da kontrol ettiğiniz Samsung GALAXY cihazlarında kullanıma uygun olan Yazılımlar için geçerlidir:
+
+Yazılım, Samsung’un Uygulama İçi Satın Alma UPA’ları aracılığıyla ödeme yapmanıza izin verebilir. Samsung’un Uygulama İçi Satın Alma sistemini kullanarak ödeme yaptığınızda, Samsung’un Uygulama İçi Satın Alma sistemini kullanmak için Samsung Electronics Co., Ltd. (veya iştirakleri) ile imzaladığınız Samsung GALAXY Uygulamaları Hüküm ve Koşulları ve eş değer hükümleri ödeme ve söz konusu ödeme ile ilgili tüm iadeler için geçerli olacaktır.
+
+<EULA.Highlight>Açıklama Gerekliliği - AB'deki Aylık Etkin Kullanıcı Sayısı (16 Ağustos 2024'te Güncellendi)</>
+
+Son altı ayda Fortnite’ın Avrupa Birliği’ndeki tahmini ortalama aylık etkin alıcı sayısı 19,4 milyondur.
+
+Son altı ayda Fortnite.com’un Avrupa Birliği’ndeki tahmini ortalama aylık etkin alıcı sayısı 2,3 milyondur.
+
+Belirli bir ay içinde Epic’in hizmetlerinden veya ürünlerinden birden fazlasına erişen kullanıcılar, her hizmet veya ürün için bir kullanıcı olarak sayılmaktadır.
