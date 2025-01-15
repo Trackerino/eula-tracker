@@ -1,12 +1,14 @@
+<EULA.Highlight>最後更新時間：2025 年 1 月 15 日</>
+
 請仔細閱讀本協議。這是一份法律文件，說明您使用 Epic Games Store 與標的軟體時的權利與義務，包括您透過標的軟體存取之標的服務或購買的任何內容。當您存取 Epic Games Store，下載或使用標的軟體，或透過其他方式表示您接受本協議時，即表示您同意受本協議條款之拘束。如果您不同意或無法同意本協議之條款，請勿存取 Epic Games Store 或下載或使用標的軟體。
 
 更明確來說，我們想特別強調本協議中的部分重要條款、政策及程序。當您接受本協議，即表示：
 
 1. 您同時同意以下所列的 Epic 政策與條款，且該等政策與條款係明確納入本協議中。請仔細閱讀：
 
-我們的隱私權政策 (<a id="url" href="https://www.epicgames.com/privacypolicy" style="EULA.Hyperlink">https://www.epicgames.com/privacypolicy</>) 說明我們向您蒐集哪些資訊，以及我們如何保護這些資訊。
-我們的玩家內容政策 (<a id="url" href="https://www.epicgames.com/fan-art-policy" style="EULA.Hyperlink">https://www.epicgames.com/fan-art-policy</>) 說明您在自己的創作內容中，可以如何使用 Epic 的智慧財產。
-我們的服務條款 (<a id="url" href="https://www.epicgames.com/tos" style="EULA.Hyperlink">https://www.epicgames.com/tos</>) 說明我們網站的規定。
+我們的隱私權政策 (<a id=“url” href=“https://www.epicgames.com/privacypolicy” style=“EULA.Hyperlink”>https://www.epicgames.com/privacypolicy</>) 說明我們向您蒐集哪些資訊，以及我們如何保護這些資訊。
+我們的玩家內容政策 (<a id=“url” href=“https://www.epicgames.com/fan-art-policy” style=“EULA.Hyperlink”>https://www.epicgames.com/fan-art-policy</>) 說明您在自己的創作內容中，可以如何使用 Epic 的智慧財產。
+我們的服務條款 (<a id=“url” href=“https://www.epicgames.com/tos” style=“EULA.Hyperlink”>https://www.epicgames.com/tos</>) 說明我們網站的規定。
 2. 您與 Epic 均同意透過個人仲裁（而非透過法院）解決我們之間的紛爭。我們認為，訴訟外紛爭解決機制的仲裁程序能公正解決任何紛爭，且比正式的法院訴訟更迅速且有效率。第 12 節會詳細說明該流程。我們把這段放在前頭（並且以粗體標示），是因為其內容很重要：
 
 <EULA.Header>本協議含有具拘束力的個人仲裁規定及集體訴訟棄權規定。如果您接受本協議，您與 EPIC 同意透過具拘束力之個人仲裁方式解決某些，並放棄以個人或集體訴訟成員身分訴諸法院之權利，並且 EPIC 同意就所有善意提出且最多 10,000 美元之紛爭，為您支付仲裁費用（參見第 12 節）。
@@ -153,7 +155,7 @@ Epic 茲保留權利，得在任何時間修改、暫停或取消獎勵計畫。
 
 請詳讀此節規定。本節規定會影響您的權利，包括您向法院提起訴訟的權利。。仲裁時並無法官或陪審團，且證據開示程序與上訴權比法院更受限制。
 
-大多數問題只要聯絡 Epic 客戶支援（<a id="url" href="https://www.epicgames.com/customer-service" style="EULA.Hyperlink">https://www.epicgames.com/customer-service</>），均可快速且友善地解決。但我們理解，有時候紛爭無法輕鬆地透過客戶支援解決。本節說明您與 Epic 同意如何解決該等紛爭，包括透過具拘束力的個人仲裁（如適用）。
+大多數問題只要聯絡 Epic 客戶支援（<a id=“url” href=“https://www.epicgames.com/customer-service” style=“EULA.Hyperlink”>https://www.epicgames.com/customer-service</>），均可快速且友善地解決。但我們理解，有時候紛爭無法輕鬆地透過客戶支援解決。本節說明您與 Epic 同意如何解決該等紛爭，包括透過具拘束力的個人仲裁（如適用）。
 
 仲裁是一種訴訟外紛爭解決機制，使我們無需訴諸法院即可解決問題。您與 Epic 之間的任何紛爭將會交由中立仲裁員（而非法官或審判團），以獲得公正且快速的解決。對於您與 Epic 而言，仲裁的效率較高。
 
@@ -163,7 +165,7 @@ Epic 茲保留權利，得在任何時間修改、暫停或取消獎勵計畫。
 
 您應將您的紛爭通知書寄給 Epic Games, Inc. 的法務部門，收件人為：NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.（美國）。請在內文中附註您的姓名、您使用軟體時的帳號名稱、地址、聯絡方式、問題為何以及您希望 Epic 怎麼做。若 Epic 與您有紛爭，Epic 將會把我們的紛爭通知書寄至您註冊電子郵件地址以及您曾向我們提供的任何帳單地址。雙方發送的紛爭通知書必須包括寄件者姓名、地址和其他聯絡方式、紛爭說明（包括所有相關帳號名稱）以及尋求的紛爭解決方案。所有相關時效將視為從一方當事人向另一方發送符合規定的紛爭通知書當日起算。在發送符合規定的紛爭通知書並完成非正式解決期間之前，您或 Epic 不能進行仲裁。若對是否發送出符合規定的紛爭通知書或在未完成非正式解決時提起仲裁存有異議，受此失敗影響的當事人可向北卡羅萊納州韋克縣州立法院，或（如果聯邦具有管轄權）向北卡羅萊納州東區的美國地方法院尋求救濟，禁止於非正式解決完成前進續進行仲裁程序，並命令未遵守非正式解決程序之當事人賠償另一方已產生的所有仲裁費用和成本。Epic 及您同意此類法院為此目的行使管轄權。
 
-若您居住在歐盟（即「EU」），您也可能有權向歐盟執行委員會之<a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">線上紛爭解決 (ODR) 平台</>投訴。ODR 讓歐盟消費者無需訴諸法院，即可解決與線上購買商品及服務相關的紛爭。
+若您居住在歐盟（即「EU」），您也可能有權向歐盟執行委員會之<a id=“url” href=“https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN” style=“EULA.Hyperlink”>線上紛爭解決 (ODR) 平台</>投訴。ODR 讓歐盟消費者無需訴諸法院，即可解決與線上購買商品及服務相關的紛爭。
 
 如未能透過非正式紛爭解決方式或小額索賠法院（見下文）解決紛爭者，您或 Epic 得根據本協議提起仲裁程序。
 
@@ -175,7 +177,7 @@ Epic 茲保留權利，得在任何時間修改、暫停或取消獎勵計畫。
 
 本節所訂之仲裁程序僅限以個人方式進行。
 
-您與 Epic 均同意，所有紛爭將由美國仲裁暨調解委員會（「<EULA.Highlight>NAM</>」，網址為 (<a id="url" href="https://namadr.com" style="EULA.Hyperlink">https://namadr.com</>)）根據產生紛爭時有效的《NAM 綜合紛爭解決規則和程序》（「規則」）並按本條款修改後進行具有約束力的個別仲裁解決。本協議影響州際商務，且本節可執行性於實質及程序上將受《美國聯邦仲裁法案》（「<EULA.Highlight>FAA</>」）、《美國法典》第9編第1條及其後續各條及聯邦仲裁法管轄。
+您與 Epic 均同意，所有紛爭將由美國仲裁暨調解委員會（「<EULA.Highlight>NAM</>」，網址為 (<a id=“url” href=“https://namadr.com” style=“EULA.Hyperlink”>https://namadr.com</>)）根據產生紛爭時有效的《NAM 綜合紛爭解決規則和程序》（「規則」）並按本條款修改後進行具有約束力的個別仲裁解決。本協議影響州際商務，且本節可執行性於實質及程序上將受《美國聯邦仲裁法案》（「<EULA.Highlight>FAA</>」）、《美國法典》第9編第1條及其後續各條及聯邦仲裁法管轄。
 這代表您與 Epic 均同意採用將紛爭交由中立仲裁員（而非法官或陪審團），作出最終決定以解決紛爭的紛爭解決程序。NAM 任用經驗豐富的專業人士仲裁紛爭，有助於您與 Epic 公正地解決紛爭，且比上法院更加迅速有效率。仲裁員可如同法院向您個人裁決相同的救濟，但僅在滿足您個人請求權的範圍內。
 
 除根據美國聯邦仲裁法案由法院進行有限審查之外，仲裁員的決定為最終決定，且可如同任何其他法院裁定或判決予以強制執行。
@@ -192,7 +194,7 @@ Epic 茲保留權利，得在任何時間修改、暫停或取消獎勵計畫。
 
 <EULA.Header>13.3.2 仲裁程序：</>
 
-您或 Epic 可以依照規則向 NAM 提交「提請仲裁書」來啟動任何未藉由非正式解決方案解決之紛爭仲裁。在 NAM 的網站或發送電子郵件至 <a id="url" href=" commercial@namadr.com " style="EULA.Hyperlink"> commercial@namadr.com </>給 NAM可以取得提請仲裁書提交指南。您應將任何提請仲裁書副本寄送至 Epic Games, Inc., Legal Department，收件人為：ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A（美國）。Epic 將會把提請仲裁書寄至您註冊電子郵件地址以及您曾向我們提供的任何帳單地址。
+您或 Epic 可以依照規則向 NAM 提交「提請仲裁書」來啟動任何未藉由非正式解決方案解決之紛爭仲裁。在 NAM 的網站或發送電子郵件至 <a id=“url” href=“ commercial@namadr.com “ style=“EULA.Hyperlink”> commercial@namadr.com </>給 NAM可以取得提請仲裁書提交指南。您應將任何提請仲裁書副本寄送至 Epic Games, Inc., Legal Department，收件人為：ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A（美國）。Epic 將會把提請仲裁書寄至您註冊電子郵件地址以及您曾向我們提供的任何帳單地址。
 
 仲裁將由一名仲裁員進行。您與 Epic 雙方均同意，仲裁將以英文進行，且仲裁員將受本協議之約束。
 
@@ -275,7 +277,9 @@ Epic同意根據本節支付的受理費不包括您的律師費及相關花費�
 
 於本協議中，下列經定義名詞具有以下含義：
 
-「<EULA.Highlight>Epic</>」係指 Epic Games, Inc., 一間依馬里蘭州法律成立之公司，其主營業地點位於 Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A（美國）。
+「<EULA.Highlight>Epic</>」 是指（取決於您的主要居住地）：
+- 若您居住於美國，與您簽訂本協議的 Epic 實體為於馬利蘭州成立的公司 Epic Games, Inc.，其郵寄地址為 Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.（美國）。
+- 若您居住於美國以外地區，與您簽訂本協議的 Epic 實體為一間有限責任瑞士公司 Epic Games Commerce GmbH，其主要業務辦公室位於 Platz 10, 6039 Root D4, Switzerland（瑞士）。
 
 「<EULA.Highlight>開發者</>」是指透過 Epic Games Store 提供標的軟體供銷售之當事人。
 
@@ -293,7 +297,7 @@ Epic同意根據本節支付的受理費不包括您的律師費及相關花費�
 
 <EULA.Header>18. 其他</>
 
-有關我們內容審核做法相關資訊，請造訪我們的<a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">安全與保障中心</>。
+有關我們內容審核做法相關資訊，請造訪我們的<a id=“url” href=“https://safety.epicgames.com/” style=“EULA.Hyperlink”>安全與保障中心</>。
 
 Epic Games Store 推薦產品給您的宗旨，在於改善您的服務體驗。
 

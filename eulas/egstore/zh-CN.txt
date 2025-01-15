@@ -1,3 +1,5 @@
+<EULA.Highlight>最后更新时间：2025 年 1 月 15 日</>
+
 请仔细阅读本协议。这是一份法律文件，其中解释了与您使用 Epic Games 商店和软件相关的权利和义务，包括您通过软件访问或购买的任何服务。访问 Epic Games 商店、下载或使用软件，或以其他方式表明您接受本协议，即表示您同意受本协议条款的约束。如果您不或不能同意本协议的条款，请不要访问 Epic Games 商店或下载或使用软件。
 
 特别是，我们想强调本协议中的一些重要条款、政策和程序。接受本协议，即表示：
@@ -163,7 +165,7 @@ Epic 保留随时修改、暂停或取消计划的权利。Epic 所做的任何�
 
 您应将您的争议通知发送给 Epic Games, Inc. 法务部，收件地址：NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.，并在通知中注明您的姓名、您在使用软件期间所使用的帐户名称、您的地址和联系方式、什么问题以及您希望 Epic 做什么。若 Epic 与您之前存在争议，Epic 将把争议通知发送至您注册的电子邮件地址以及您向我方提供的任何账单地址。任何一方发送的争议通知均必须包括发件人的姓名、地址和其他联系信息，争议的说明（包括任何相关的帐户名称）以及正在寻求的争议解决方案。所有适用的诉讼时效均应视为自您我双方中的一方向另一方发出符合规定的争议通知之日起中止。在未事先发出符合规定的争议通知以及非正式解决期限未结束的情况下，您或 Epic不得进行仲裁。如果对是否发送了符合规定的争议通知产生争议，或者在未完成非正式解决流程的情况下提交仲裁，因未完成非正式解决流程而受害的一方可向北卡罗来纳州维克县的州法院寻求救济，或者（如果此类争议在联邦法院的管辖范围内）可向北卡罗来纳州东区的美国联邦地区法院寻求救济，以便禁止进行仲裁，直至完成非正式解决流程为止，并判令未遵循非正式解决流程的一方向另一方偿付已产生的任何仲裁费用和成本。为此，Epic 和您同意此类法院的管辖权。
 
-如果您居住在欧盟（“<EULA.Highlight>EU</>”），您还有权将您的投诉提交给欧洲委员会的<a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">在线争议解决 (ODR) 平台</>。ODR 允许欧盟消费者自行解决与在线购买货物和服务相关的争议，而不必诉诸法院。
+如果您居住在欧盟（“<EULA.Highlight>EU</>”），您还有权将您的投诉提交给欧洲委员会的<a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">在线争议解决 (ODR) 平台</>。ODR 允许欧盟消费者自行解决与在线购买货物和服务相关的争议，而不必诉诸法院。
 
 如果争议未能通过非正式解决或小额索赔法院（见下文）解决，您或 Epic 可根据本协议启动仲裁。
 
@@ -280,7 +282,9 @@ Epic 在任何仲裁中均不会让您支付我方的律师费，即便法律或
 
 在本协议中，以下词语具有以下含义：
 
-“<EULA.Highlight>Epic</>”指 Epic Games, Inc.，这是一家马里兰州公司，其主要营业办事处位于 Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.。
+“<EULA.Highlight>Epic</>”指根据您的主要居住地确定的 Epic 实体：
+- 如果您居住在美国，则与您签订本协议的 Epic 实体是 Epic Games, Inc.（一家马里兰州公司，其邮寄地址为 Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.）。
+- 如果您居住在美国境外，则与您签订本协议的 Epic 实体是 Epic Games Commerce GmbH（一家瑞士有限责任公司，其主要营业办事处位于 Platz 10, 6039 Root D4, Switzerland）。
 
 “<EULA.Highlight>开发者</>”指通过 Epic Games 商店提供软件以供出售的一方。
 

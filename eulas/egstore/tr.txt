@@ -1,3 +1,5 @@
+<EULA.Highlight>Son güncelleme 15 Ocak 2025</>
+
 Lütfen bu Anlaşmayı dikkatlice okuyun. Bu belge, Yazılım aracılığıyla eriştiğiniz veya satın aldığınız Hizmetler dahil olmak üzere, Epic Games Mağazası ve Yazılımını kullanımınız ile ilgili haklarınızı ve yükümlülüklerinizi açıklayan yasal bir belgedir. Epic Games Mağazası’na erişerek, Yazılımı indirerek veya kullanarak veya bu Anlaşmayı kabul ettiğinizi başka bir şekilde belirterek, bu Anlaşmanın şartlarıyla bağlı olmayı kabul etmiş olursunuz. Bu Anlaşmanın şartlarını kabul etmiyorsanız veya edemiyorsanız, lütfen Epic Games Mağazası’na erişmeyin veya bu Yazılımı indirmeyin veya kullanmayın.
 
 Özellikle, bu Anlaşmadaki bazı önemli terimleri, politikaları ve prosedürleri vurgulamak istiyoruz. Bu Anlaşmayı kabul ederek:
@@ -163,7 +165,7 @@ Müşteri desteğimizin çözemeyeceği bir sorununuz varsa, tahkime başlamadan
 
 İhtilaf Bildiriminizi Epic Games, Inc., Hukuk Departmanına aşağıdakinin DİKKATİNE göndereceksiniz: UYUŞMAZLIK BİLDİRİMİ, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Adınızı, Yazılımı kullanırken kullandığınız hesap adını, adresinizi, sizinle nasıl iletişim kurulacağını, sorunun ne olduğunu ve Epic’in ne yapmasını istediğinizi ekleyin. Epic'in sizinle bir anlaşmazlığı varsa, Epic İhtilaf Bildirimimizi kayıtlı e-posta adresinize ve bize vermiş olduğunuz fatura adresine gönderecektir. Taraflardan herhangi biri tarafından gönderilen İhtilaf Bildirimi, gönderenin adı, adresi ve diğer iletişim bilgilerini, İhtilafın açıklamasını (ilgili tüm hesap adları dâhil) ve İhtilafa hangi çözümün arandığını içermelidir. Birimizin diğerine sözleşme koşullarına uygun bir İhtilaf Bildirimi gönderdiği günden itibaren geçerli tüm zaman aşımı hükümleri geçerliliğini yitirmiş sayılacaktır. Siz veya Epic, öncelikle sözleşme koşullarına uygun bir İhtilaf Bildirimi göndermeden ve Gayri Resmi Çözüm süresini tamamlamadan tahkime devam edemezsiniz. Sözleşme koşullarına uygun bir İhtilaf Bildiriminin gönderilip gönderilmediği veya Gayri Resmi Çözüm tamamlanmadan bir tahkim başvurusu yapılıp yapılmadığı konusunda ihtilaf olması durumunda, bunun gerçekleşmemesi nedeniyle mağdur olan taraf, Gayri Resmi Çözüm tamamlanana kadar tahkimin devam etmesini yasaklamak ve Gayri Resmi Çözüm sürecini takip etmeyen tarafa, diğer tarafa halihazırda gerçekleşmiş olan tahkim ücretleri ve masraflarını geri ödemesi talimatını vermek üzere Wake County, Kuzey Carolina'daki eyalet mahkemelerinden veya federal yargı yetkisi mevcutsa Amerika Birleşik Devletleri Kuzey Carolina Doğu Bölgesi Bölge Mahkemesi nezdinde telafi talebinde bulunabilir. Epic ve siz bu doğrultuda söz konusu mahkemelerin yargı yetkisini kabul ediyorsunuz.
 
-Avrupa Birliği'nde ("AB") ikamet ediyorsanız, şikayetinizi Avrupa Komisyonu'nun <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">Çevrimiçi İhtilaf Çözümü (ODR) Platformu</>‘na da iletebilirsiniz. ODR, AB tüketicilerine mahkemeye gitmeden çevrim içi mal ve hizmet alımlarıyla ilgili anlaşmazlıkları çözme olanağı sağlar.
+Avrupa Birliği'nde ("AB") ikamet ediyorsanız, şikayetinizi Avrupa Komisyonu'nun <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">Çevrimiçi İhtilaf Çözümü (ODR) Platformu</>‘na da iletebilirsiniz. ODR, AB tüketicilerine mahkemeye gitmeden çevrim içi mal ve hizmet alımlarıyla ilgili anlaşmazlıkları çözme olanağı sağlar.
 
 İhtilaf, Gayri Resmi Çözüm veya asliye mahkemesi (aşağıda) tarafından çözülmezse, siz veya Epic bu Anlaşmaya uygun olarak bir tahkim başlatabilirsiniz.
 
@@ -284,7 +286,9 @@ Epic'in önceden yazılı onayı olmadan, bu Anlaşma kapsamındaki hak veya yü
 
 Bu Anlaşmada kullanıldığı şekliyle, aşağıdaki büyük harfle başlayan kelimeler aşağıdaki anlamlara sahiptir:
 
-“<EULA.Highlight>Epic</>” terimi, merkezi Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, ABD adresinde bulunan bir Maryland Corporation şirketi olan Epic Games, Inc. anlamına gelir.
+“<EULA.Highlight>Epic</>”, birincil ikamet yerinize bağlı olarak şu anlama gelir:
+- Amerika Birleşik Devletleri’nde ikamet ediyorsanız sizinle bu Sözleşmeyi imzalayan Epic kuruluşu, posta adresi Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, ABD olan bir Maryland Şirketi olan Epic Games, Inc.’tir.
+- Amerika Birleşik Devletleri dışında ikamet ediyorsanız sizinle bu Sözleşmeyi imzalayan Epic kuruluşu, asli iş yeri Platz 10, 6039 Root D4, İsviçre adresinde bulunan sınırlı sorumlu bir İsviçre şirketi olan Epic Games Commerce GmbH’dir. 
 
 “<EULA.Highlight>Geliştirici</>”, Epic Games Mağazası vasıtası ile satılmak üzere Yazılım sunan taraf demektir.
 
