@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764c4b4e2b702045335464b` |
+| `id` | `67882734630c547f350b1d5b` |
 | `key` | `egstore` |
-| `version` | `5` |
-| `revision` | `5` |
+| `version` | `6` |
+| `revision` | `1` |
 | `title` | `<EULA.Header>اتفاقية ترخيص المستخدم النهائي بشأن متجر EPIC GAMES</>` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2024-12-20T01:13:24.865Z` |
-| `lastModifiedTimestamp` | `2024-12-20T01:13:24.865Z` |
+| `createdTimestamp` | `2025-01-15T21:23:00.616Z` |
+| `lastModifiedTimestamp` | `2025-01-15T21:23:00.616Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/ar/v5/r5/f69dac0d88de9d9e47144ffcfaea81a2.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/ar/v6/r1/f3e9bc650bfe82c21bbd58cf28dee7c2.pdf` |
 | `bodyFormat` | `HTML` |

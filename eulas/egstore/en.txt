@@ -1,4 +1,4 @@
-EPIC GAMES STORE END USER LICENSE AGREEMENT 
+<EULA.Highlight>Last Updated January 15, 2025</>
 
 Please read this Agreement carefully. It is a legal document that explains your rights and obligations related to your use of the Epic Games Store and Software, including any Services you access or purchases you make through the Software. By accessing the Epic Games Store, by downloading or using the Software, or by otherwise indicating your acceptance of this Agreement, you are agreeing to be bound by the terms of this Agreement. If you do not or cannot agree to the terms of this Agreement, please do not access the Epic Games Store or download or use this Software. 
 
@@ -168,7 +168,7 @@ If you have an issue that our customer support can’t resolve, prior to startin
 
 You will send your Notice of Dispute to Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Include your name, account name you use while using the Software, address, how to contact you, what the problem is, and what you want Epic to do. If Epic has a dispute with You, Epic will send our Notice of Dispute to your registered email address and any billing address You have provided us.  The Notice of Dispute sent by either party must include the sender’s name, address, and other contact information, a description of the Dispute (including any relevant account names) and what resolution to the Dispute is being sought.  All applicable statutes of limitations will be considered tolled beginning on the day one of us sends a compliant Notice of Dispute to the other.  You or Epic cannot proceed to arbitration without having first sent a compliant Notice of Dispute and completing the Informal Resolution period.  In the event of disagreements over whether a compliant Notice of Dispute was sent or an arbitration was filed without completing Informal Resolution, the party aggrieved by this failure can seek relief from the state courts in Wake County, North Carolina or, if federal jurisdiction exists, the United States District Court for the Eastern District of North Carolina, to enjoin the arbitration from proceeding until Informal Resolution has been completed, and to order the party that has not followed the Informal Resolution process to reimburse the other party for any arbitration fees and costs already incurred.  Epic and you consent to the jurisdiction of such courts for this purpose.
 
-If you reside in the European Union (“EU”), You may also be entitled to submit Your complaint to the European Commission’s <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">Online Dispute Resolution (ODR) Platform</>. ODR allows EU consumers to resolve disputes related to the online purchases of goods and services without going to court.
+If you reside in the European Union (“EU”), You may also be entitled to submit Your complaint to the European Commission’s <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">Online Dispute Resolution (ODR) Platform</>. ODR allows EU consumers to resolve disputes related to the online purchases of goods and services without going to court.
 
 If the dispute isn’t resolved within by Informal Resolution or small-claims court (below), You or Epic may start an arbitration in accordance with this Agreement.
 
@@ -280,7 +280,9 @@ You may not, without the prior written consent of Epic, assign, transfer, charge
 
 As used in this Agreement, the following capitalized words have the following meanings: 
 
-“<EULA.Highlight>Epic</>” means, Epic Games, Inc., a Maryland Corporation having its principal business offices at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. 
+“<EULA.Highlight>Epic</>” means, depending on the location of your primary residence:
+- If you reside in the United States of America, the Epic entity entering into this Agreement with you is Epic Games, Inc., a Maryland Corporation having its mailing address at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.
+- If you reside outside the United States of America, the Epic entity entering into this Agreement with you is Epic Games Commerce GmbH, a Swiss company with limited liability having its principal business offices at Platz 10, 6039 Root D4, Switzerland.
 
 “<EULA.Highlight>Developer</>” means the party who is offering Software for sale through the Epic Games Store. 
 

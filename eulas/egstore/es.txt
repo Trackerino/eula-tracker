@@ -1,3 +1,5 @@
+<EULA.Highlight>Última actualización el 15 de enero de 2025</>
+
 Lea este Acuerdo detenidamente. Es un documento legal en el que se explican sus derechos y obligaciones relacionados con su uso de Epic Games Store y del Software, incluidos los Servicios a los que accede o las compras que realiza a través del Software. Al acceder a la Epic Games Store, al descargar o usar el Software, o al indicar de otro modo su aceptación de este Acuerdo, usted acepta quedar vinculado por los términos de este Acuerdo. Si no acepta o no puede aceptar los términos de este Acuerdo, no acceda a la Epic Games Store ni descargue o utilice este Software.
 
 En particular, queremos destacar algunos términos, políticas y procedimientos importantes en este Acuerdo. Al aceptar este Acuerdo:
@@ -164,7 +166,7 @@ Si tuviese un problema que nuestro servicio de atención al cliente no pudiese r
 
 Enviará su Aviso de disputa a Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, EE. UU. Incluya su nombre, el nombre de cuenta que usa cuando usa el Software, su dirección, cómo ponerse en contacto con usted, cuál es el problema y qué desea que Epic hiciese. Si Epic tuviese una disputa con Usted, Epic enviará nuestro Aviso de disputa a su dirección de correo electrónico registrada y a cualquier dirección de facturación que nos hubiese proporcionado. Este Aviso de disputa enviado por cualquiera de las partes debe incluir el nombre, la dirección y demás información de contacto de la persona remitente, una descripción de la Disputa (incluidos los nombres de cuenta relevantes) y la resolución que se busca obtener. Todos los plazos de prescripción aplicables se considerarán suspendidos a partir del día en que una de las partes envíe a la otra un Aviso de disputa conforme. Ni usted ni Epic podrán iniciar un proceso de arbitraje sin antes haber enviado un Aviso de disputa conforme y completado el período de Resolución informal. En caso de que hubiera desacuerdos en cuanto a si fue enviado un Aviso de disputa conforme o si el proceso de arbitraje fue iniciado sin antes haber completado el período de Resolución informal, la parte agraviada por tal hecho puede procurar una reparación judicial ante los tribunales estatales del Condado de Wake, Carolina del Norte o, si existiera jurisdicción federal, ante el Tribunal de los Estados Unidos para el Distrito Este de Carolina del Norte, a fin de exigir suspender el arbitraje hasta tanto se complete el proceso de Resolución informal, y ordenar a la parte que no siguió el proceso de Resolución informal que reembolse a la otra parte los honorarios y costos del arbitraje en los que hubiera incurrido la parte agraviada. Usted y Epic aceptan someterse a la jurisdicción de esos tribunales a tal fin.
 
-Si residiese en la Unión Europea (“<EULA.Highlight>UE</>”), también puede tener derecho a presentar su demanda a la <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">Plataforma de resolución de disputas en línea (Online Dispute Resolution, ODR)</> de la Comisión Europea. La ODR permite a los consumidores de la UE resolver disputas relacionadas con las compras en línea de bienes y servicios sin ir a los tribunales.
+Si residiese en la Unión Europea (“<EULA.Highlight>UE</>”), también puede tener derecho a presentar su demanda a la <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">Plataforma de resolución de disputas en línea (Online Dispute Resolution, ODR)</> de la Comisión Europea. La ODR permite a los consumidores de la UE resolver disputas relacionadas con las compras en línea de bienes y servicios sin ir a los tribunales.
 
 Si la disputa no se resolviese por medio de una Resolución informal o en un tribunal de reclamos menores (a continuación), Usted o Epic pueden iniciar un arbitraje de conformidad con este Acuerdo.
 
@@ -278,7 +280,9 @@ Usted no puede, sin el consentimiento previo por escrito de Epic, ceder, transfe
 
 Según se utilizan en este Acuerdo, las siguientes palabras en mayúscula tienen los significados indicados a continuación:
 
-“<EULA.Highlight>Epic</>” significa Epic Games, Inc., una sociedad de Maryland que posee sus oficinas comerciales principales en Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, EE. UU.
+“<EULA.Highlight>Epic</>” significa, dependiendo de la ubicación de su residencia principal: 
+- Si usted reside en los Estados Unidos de América, la entidad de Epic que celebra este Acuerdo con usted es Epic Games, Inc., sociedad constituida en Maryland que tiene su dirección postal sita en Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, EE. UU.
+- Si usted reside por fuera de los Estados Unidos de América, la entidad de Epic que celebra este Acuerdo con usted es Epic Games Commerce GmbH, sociedad de responsabilidad limitada constituida en Suiza que tiene su sede comercial principal sita en Platz 10, 6039 Root D4, Suiza. 
 
 “<EULA.Highlight>Desarrollador</>” significa la parte que ofrece Software para la venta a través de Epic Games Store.
 
@@ -297,7 +301,7 @@ Según se utilizan en este Acuerdo, las siguientes palabras en mayúscula tienen
 <EULA.Header>18. Disposiciones varias</>
 
 
-Para obtener información sobre nuestras prácticas de moderación de contenido, visite nuestro our <a id="url" href="https://safety.epicgames.com" style="EULA.Hyperlink">Centro de seguridad y protección</>
+Para obtener información sobre nuestras prácticas de moderación de contenido, visite nuestro <a id="url" href="https://safety.epicgames.com" style="EULA.Hyperlink">Centro de seguridad y protección</>
 La Epic Games Store le hace recomendaciones de productos para ayudarle a mejorar su experiencia como usuario del servicio.
 
 Cuando Epic ofrece productos de forma algorítmica, se basa en una serie de parámetros principales, incluidas las interacciones agregadas de los usuarios con el servicio (como por ejemplo, las visualizaciones, las búsquedas y los filtros aplicados), información sobre un usuario en concreto (como por ejemplo, su edad y sus preferencias de idioma) e información sobre un producto en sí (como por ejemplo, la fecha de lanzamiento del producto, si es de pago o gratuito, su valoración y el número de descargas).

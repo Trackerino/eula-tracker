@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66986b49d7712f254c6c23d7` |
+| `id` | `67882734630c547f350b1d64` |
 | `key` | `egstore` |
-| `version` | `5` |
+| `version` | `6` |
 | `revision` | `1` |
 | `title` | `<EULA.Header>Contrato de Licença de Usuário Final da Epic Games Store</>` |
 | `locale` | `pt` |
-| `createdTimestamp` | `2024-07-18T01:09:29.214Z` |
-| `lastModifiedTimestamp` | `2024-07-18T01:09:29.214Z` |
+| `createdTimestamp` | `2025-01-15T21:23:00.687Z` |
+| `lastModifiedTimestamp` | `2025-01-15T21:23:00.687Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/pt/v5/r1/a17e14159c583f75bac5f446ddf15e5f.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/pt/v6/r1/f9f5b8a593942bcd4d11874d6322cdcf.pdf` |
 | `bodyFormat` | `HTML` |

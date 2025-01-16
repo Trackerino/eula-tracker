@@ -1,3 +1,5 @@
+<EULA.Highlight>Última actualización el 15 de enero de 2025</>
+
 Lea detenidamente este Contrato. Se trata de un documento legal que explica sus derechos y obligaciones relacionados con su uso de la Tienda y el Software de Epic Games, incluidos los Servicios a los que accede o las compras que realiza a través del Software. Al acceder a la Epic Games Store, al descargar o utilizar el Software, o al indicar de otro modo su aceptación de este Contrato, usted acepta quedar obligado por los términos de este Contrato. Si no acepta o no puede aceptar los términos de este Contrato, no acceda a la Epic Games Store ni descargue o utilice este Software.
 
 En particular, queremos destacar ciertos aspectos importantes de los términos, las políticas y los procedimientos en este Contrato. Al aceptar el presente Contrato:
@@ -163,7 +165,7 @@ Si tiene un problema que nuestro servicio de atención al cliente no puede resol
 
 Usted enviará su Notificación de disputa al departamento Jurídico de Epic Games, Inc., A/A: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, EE. UU. Incluya su nombre, el nombre de cuenta que use mientras utilice el Software, dirección, cómo ponerse en contacto con usted, cuál es el problema y qué espera que haga Epic. Si Epic tiene una disputa con usted, Epic enviará nuestra Notificación de disputa a su dirección de correo electrónico registrada y a cualquier dirección de facturación que nos haya proporcionado. La Notificación de disputa que envíe cualquiera de las partes debe incluir el nombre, la dirección y otros datos de contacto del remitente, una descripción de la Disputa (incluidos los nombres de las cuentas pertinentes) y qué resolución de la Disputa se espera. Todos los plazos de prescripción aplicables se considerarán suspendidos a partir del día en que una de las partes envíe a la otra una Notificación de disputa conforme. Ni usted ni Epic pueden proceder a un arbitraje sin haber enviado antes una Notificación de disputa conforme y haber completado el periodo de Resolución informal. En caso de desacuerdo sobre si se ha enviado una Notificación de disputa conforme o si se ha solicitado un arbitraje sin completar este proceso de Resolución informal, la parte perjudicada por este incumplimiento puede solicitar una reparación al Tribunal Superior del Condado de Wake, estado de Carolina del Norte o, si existe jurisdicción federal, el Tribunal de Distrito de los Estados Unidos para el Distrito Este de Carolina del Norte, para que impida que se proceda al arbitraje hasta que se haya completado esta Resolución informal, y que ordene a la parte que no ha seguido el proceso de Resolución informal que reembolse a la otra parte los honorarios y costes de arbitraje ya incurridos. Epic y usted están de acuerdo con la jurisdicción de dichas autoridades judiciales a estos efectos.
 
-Si reside en la Unión Europea ("<EULA.Highlight>UE</>"), también puede tener derecho a presentar su queja en la <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">Plataforma de resolución de litigios (RLL)</> de la Comisión Europea. La RLL permite a los consumidores de la UE resolver litigios relacionados con las compras en Internet de bienes y servicios sin recurrir a la vía judicial.
+Si reside en la Unión Europea ("<EULA.Highlight>UE</>"), también puede tener derecho a presentar su queja en la <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">Plataforma de resolución de litigios (RLL)</> de la Comisión Europea. La RLL permite a los consumidores de la UE resolver litigios relacionados con las compras en Internet de bienes y servicios sin recurrir a la vía judicial.
 
 Si el litigio no se resuelve mediante Resolución informal o en un juzgado para demandas de menor cuantía (a continuación) en un plazo de, Usted o Epic pueden iniciar un arbitraje conforme a este Acuerdo.
 
@@ -277,7 +279,9 @@ No podrá, sin el consentimiento previo por escrito de Epic, ceder, transferir, 
 
 Tal y como se utilizan en este Contrato, las siguientes palabras con mayúscula inicial tienen los siguientes significados:
 
-“<EULA.Highlight>Epic</>” se refiere a Epic Games, Inc., una sociedad e Maryland con sede principal en Box 254, 2474 Walnut Street, Cary, Carolina del Norte, 27518, EE. UU.
+“<EULA.Highlight>Epic</>” se refiere a, dependiendo de la ubicación de su residencia principal:
+- Si reside en los Estados Unidos de América, la entidad de Epic que suscribe el presente Contrato con usted será Epic Games, Inc., una sociedad de Maryland con dirección postal en Box 254, 2474 Walnut Street, Carolina del Norte, 27518, E.U.A.
+- Si reside fuera de los Estados Unidos de América, la entidad de Epic que subscribe el presente Contrato con usted será Epic Games Commerce GmbH, una sociedad suiza de responsabilidad  limitada con sede principal en Platz 10, 6039 Root D4, Suiza. 
 
 “<EULA.Highlight>Desarrollador</>” se refiere a la parte que ofrece Software a la venta a través de la Epic Games Store.
 

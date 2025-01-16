@@ -4,16 +4,16 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764c1620e79d66554b7bc8e` |
+| `id` | `67882734630c547f350b1d63` |
 | `key` | `egstore` |
-| `version` | `5` |
-| `revision` | `2` |
+| `version` | `6` |
+| `revision` | `1` |
 | `title` | `<EULA.Header>UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO SKLEPU EPIC GAMES STORE</>` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2024-12-20T00:59:14.650Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:59:14.650Z` |
+| `createdTimestamp` | `2025-01-15T21:23:00.677Z` |
+| `lastModifiedTimestamp` | `2025-01-15T21:23:00.677Z` |
 | `status` | `ACTIVE` |
 | `description` | `Store EULA` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/pl/v5/r2/91a0e80edba6a03f2a35371c4b5367be.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/pl/v6/r1/32eaca42a6f060a31afc7f36bf9a774f.pdf` |
 | `bodyFormat` | `HTML` |

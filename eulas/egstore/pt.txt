@@ -1,3 +1,5 @@
+<EULA.Highlight>Última atualização a 15 de janeiro de 2025</>
+
 Leia este Contrato com atenção. Este é um documento legal que explica os seus direitos e obrigações relacionados ao seu uso do Software, incluindo quaisquer Serviços que acessar ou compras que fizer por meio do Software. Ao fazer o download ou usar o Software, ou ao expressar de outra forma a sua aceitação deste Contrato, o usuário concorda em estar vinculado aos termos deste Contrato. Se não concordar ou não puder concordar com os termos deste Contrato, não faça download nem use este Software.
 
 Examine a Política de Privacidade da Epic, que pode ser encontrada em <a id="url" href="https://www.epicgames.com/privacypolicy" style="EULA.Hyperlink">https://www.epicgames.com/privacypolicy</>, que também rege a sua utilização do Software e dos Serviços, para entender as nossas práticas. Se usar Software ou Serviços de terceiros, as políticas de privacidade destes (licenciante ou distribuidor) também poderão reger o seu uso desse Software ou Serviços. Além disso, o seu uso dos Serviços também é regido pelos Termos de Serviço da Epic, que podem ser encontrados em <a id="url" href="https://www.epicgames.com/tos" style="EULA.Hyperlink">https://www.epicgames.com/tos</>. Ao fazer download ou usar o Software, também concorda com os Termos de Serviço da Epic e reconhece que leu a Política de Privacidade da Epic.
@@ -108,8 +110,9 @@ O usuário não poderá, sem consentimento prévio por escrito da Epic, atribuir
 
 Conforme usadas neste Contrato, as seguintes palavras em maiúsculo têm os significados a seguir:
 
-“Epic” significa, Epic Games, Inc., uma corporação de Maryland com sede em Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.
-
+“<EULA.Highlight>Epic</>” significa, dependendo da localização da sua residência principal:
+- Se reside nos Estados Unidos da América, a entidade Epic que celebra este Contrato consigo é a Epic Games, Inc., uma sociedade do Maryland com endereço postal em Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, EUA
+- Se reside fora dos Estados Unidos da América, a entidade Epic que celebra este Contrato consigo é a Epic Games Commerce GmbH, uma empresa suíça de responsabilidade limitada, com sede em Platz 10, 6039 Root D4, Suíça  
 “<EULA.Highlight>Desenvolvedor</>” significa o terceiro licenciante do Software.
 
 “Feedback” significa qualquer feedback ou sugestões que o usuário fornecer à Epic em relação ao Software, aos Serviços ou a outros produtos e serviços da Epic.

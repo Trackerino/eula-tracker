@@ -1,3 +1,5 @@
+<EULA.Highlight>Dernière mise à jour le 15 janvier 2025</>
+
 Veuillez lire attentivement le présent Accord. Il s’agit d’un document juridique qui explique vos droits et obligations liés à votre utilisation de l'Epic Games Store et du Logiciel, y compris tous les Services auxquels vous accédez ou les achats que vous effectuez par le biais du Logiciel. En accédant à l’Epic Games Store, en téléchargeant ou en utilisant le Logiciel, ou en indiquant autrement votre acceptation du présent Accord, vous convenez être lié par les termes du présent Accord. Si vous n’acceptez pas ou ne pouvez pas accepter les termes du présent Accord, veuillez vous abstenir d’accéder à l’Epic Games Store, de télécharger ou d’utiliser ce Logiciel.
 
 En particulier, nous souhaitons souligner certaines modalités, politiques et procédures importantes incluses au présent Accord. En acceptant le présent Accord :
@@ -165,7 +167,7 @@ Si vous avez un problème que notre service clientèle ne peut pas résoudre, av
 
 Vous enverrez votre Avis de litige à Epic Games, Inc., Legal Department, ATTN:NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, États-Unis. Incluez votre nom, tout nom de compte pertinent que vous utilisez lorsque vous utilisez le Logiciel, votre adresse, comment vous contacter, quel est le problème, et ce que vous attendez d’Epic. Si Epic a un différend avec vous, Epic enverra notre avis de différend à votre adresse électronique enregistrée et à toute adresse de facturation que vous nous avez fournie. L'avis de Litige envoyé par l'une ou l'autre partie doit inclure le nom, l'adresse et les autres coordonnées de l'expéditeur, une description du Litige (y compris tout nom de compte pertinent) et la résolution du Litige recherchée. Tous les délais de prescription applicables seront considérés comme suspendus à compter du jour où l'un d'entre nous envoie à l'autre un Avis de litige conforme. Vous ou Epic ne pouvez pas recourir à l'arbitrage sans avoir préalablement envoyé un Avis de litige conforme et sans avoir achevé la période de Résolution informelle.  En cas de désaccord sur la question de savoir si un Avis de litige conforme a été envoyé ou si une procédure d’arbitrage a été engagée sans que cette procédure de résolution informelle ait été menée à son terme, la partie lésée par ce manquement peut demander aux tribunaux d'État du comté de Wake, en Caroline du Nord, ou, en cas de compétence fédérale, au tribunal de district des États-Unis pour le district Est de la Caroline du Nord, de suspendre la procédure d’arbitrage jusqu’à ce que cette Résolution informelle ait été menée à son terme et d’ordonner à la partie qui n’a pas suivi la procédure de Résolution informelle de rembourser à l’autre partie tous les frais et coûts d’arbitrage déjà encourus. Epic et vous consentez à la compétence de ces tribunaux à cette fin.
 
-Si vous résidez dans l’Union européenne (« <EULA.Highlight>UE</>), vous pouvez également avoir le droit de soumettre votre plainte à la <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show" style="EULA.Hyperlink">Plateforme de règlement en ligne des litiges (ODR)</> de la Commission européenne. La plateforme RLL permet aux consommateurs de l’UE de résoudre les litiges liés à l’achat en ligne de biens et de services sans aller devant les tribunaux.
+Si vous résidez dans l’Union européenne (« <EULA.Highlight>UE</>), vous pouvez également avoir le droit de soumettre votre plainte à la <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">Plateforme de règlement en ligne des litiges (ODR)</> de la Commission européenne. La plateforme RLL permet aux consommateurs de l’UE de résoudre les litiges liés à l’achat en ligne de biens et de services sans aller devant les tribunaux.
 
 Lorsque le litige n’est pas résolu par résolution informelle ou devant le tribunal des petites créances (ci-dessous), vous ou Epic pouvez engager une procédure d’arbitrage conformément au présent Accord.
 
@@ -278,7 +280,9 @@ Vous ne pouvez pas, sans le consentement préalable d’Epic par écrit, céder,
 
 Dans le présent Accord, les termes commençant par une lettre majuscule ont la signification suivante :
 
-« <EULA.Highlight>Epic</> » désigne Epic Games, Inc., une société du Maryland dont le siège social est sis Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, États-Unis
+« <EULA.Highlight>Epic</> » désigne en fonction du lieu de votre résidence principale :
+- Si vous résidez aux États-Unis d'Amérique, l'entité Epic qui conclut ce Contrat avec vous est Epic Games, Inc, une société du Maryland dont l'adresse postale est Box 254, 2474 Walnut Street, Cary, Caroline du Nord, 27518, États-Unis d'Amérique.
+- Si vous résidez en dehors des États-Unis d'Amérique, l'entité Epic qui conclut ce Contrat avec vous est Epic Games Commerce GmbH, une société suisse à responsabilité limitée ayant son siège social à Platz 10, 6039 Root D4, Suisse.
 
 « <EULA.Highlight>Développeur</> » désigne la partie qui propose des Logiciels à la vente par l’intermédiaire de l’Epic Games Store.
 
