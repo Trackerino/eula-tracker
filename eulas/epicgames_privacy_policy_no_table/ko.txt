@@ -1,272 +1,520 @@
-Summary of changes
+<EULA.Highlight>변경사항 요약 </>
 
-We have updated our Privacy Policy and are now using moderation reports to train machine learning models to improve how we detect, moderate and enforce violations of our <a id="url" href="https://www.epicgames.com/site/en-US/community-rules" style="EULA.Hyperlink">Community Rules</>. This helps make our team of human moderators more effective and efficient. We apply a personal information filter before using report data to train these models. 
 
-We encourage you to refer to section 3 to review these changes and acknowledge the updated Privacy Policy below: 
+당사는 개인정보 처리방침을 업데이트했으며, 현재 <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">커뮤니티 규칙</> 위반을 감지, 조정 및 집행하는 방법을 개선하기 위해 머신러닝 모델을 훈련하는 데 조정 보고서를 사용하고 있습니다. 이를 통해 인간 조정자 팀이 더 효과적이고 효율적으로 일할 수 있습니다. 이러한 모델을 훈련시키기 위해 보고서 데이터를 사용하기 전에 개인정보 필터를 적용합니다.
 
-<EULA.Header>EPIC GAMES PRIVACY POLICY</>
 
+제3항을 참조하여 이러한 변경사항을 검토하고 아래의 업데이트된 개인정보 처리방침을 확인하시기 바랍니다.
 
-Last Updated: January 2025
 
+<EULA.Highlight>Epic Games 개인정보처리방침</>
 
-For  <a id="url" href="https://www.epicgames.com/site/privacypolicy#_heading=h.17dp8vu" style="EULA.Hyperlink">Children’s Privacy</> , see Section 5
 
+최종 업데이트: 2025년 1월
 
-Welcome to Epic!
-Epic Games, Inc. is headquartered in Cary, North Carolina. We and our subsidiaries have offices and operations located around the world that help create and deliver some of your favorite products and services, including games like Fortnite and development tools like Unreal Engine (see “Our Global Operations” below).
-This privacy policy describes the different ways we may collect, use, and share information on, through, or in connection with the Epic Services (see “What are the Epic Services?” below). If you have any questions, you can always reach out to us as described in “Contact Us” below.
-When we refer to “Epic” (or any similar terms like “we” or “us”) in this privacy policy, we mean the Epic Games entity that controls and is responsible for your information, including Epic Games, Inc. and its subsidiaries that help provide and support the Epic Services. You can also find details about the data controller for personal information we collect through different Epic Services in “Contact Us” below.
 
+<a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">아동 개인정보 보호</>에 관한 내용은 제5항 참조
 
-<EULA.SubHeader>1. WHAT ARE THE EPIC SERVICES?</>
-We use the term “Epic Services” to describe any Epic products or services that directly link to this privacy policy. These include, for example:
-games like <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</> (through our subsidiary Psyonix),<a id="url" href="https://fallguys.com/" style="EULA.Hyperlink"> Fall Guys</> (through our subsidiary Mediatonic), and <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</> (through our subsidiary Aquiris Game Studio LLC);
-websites, and applications such as <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> and the <a id="url" href="https://www.epicgames.com/store/" style="EULA.Hyperlink">Epic Games Store</>, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</> (through Life on Air), <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> (through Psyonix), and<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink"> www.fallguys.com</> (through Mediatonic);
-live events where this privacy policy is posted; and
-developer tools, including the <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">Developer Portal</> and <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</>.
-Note that your use of the Epic Services may also be subject to additional terms and conditions. For example, you must review and accept the <a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">Fortnite End User License Agreement</> to play Fortnite, the <a id="url" href="https://www.psyonix.com/tou/" style="EULA.Hyperlink">Psyonix Terms of Use</> to play Rocket League, the <a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink">Fall Guys: Ultimate Knockout – End User License Agreement</> to play Fall Guys, and the <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2 End User License Agreement</> to play Horizon Chase 2.
-Please read this entire privacy policy. You should also carefully review any other agreements that apply to the Epic Services you use, and confirm you understand and agree to them, before using those products or services.
 
+Epic에 오신 것을 환영합니다!
 
-<EULA.SubHeader>2. WHAT INFORMATION DO WE COLLECT?</>
-The types of information we collect depend on how you interact with us. Generally speaking, we collect information in three main ways: A) when you provide it to us, B) automatically when you use the Epic Services, and C) from service providers and third parties.
 
+Epic Games, Inc.는 노스캐롤라이나주 캐리(Cary)에 본사를 두고 있습니다. 당사와 당사의 자회사는 Fortnite와 같은 게임과 Unreal Engine과 같은 개발 툴을 포함하여 이용자가 좋아하는 제품 및 서비스의 일부를 개발하거나 제공하기 위해 전세계에 사무실 및 운영 시스템을 보유하고 있습니다(아래 “당사의 글로벌 운영 현황”을 참조).
 
-<EULA.Highlight>A. Information You Provide</>
-You can provide us with different kinds of information depending on how you interact with the Epic Services. Sometimes we’ll ask you to provide specific pieces of information, such as when we require it to provide parts of the Epic Services to you (for example, by prompting you to provide your date of birth or complete an online registration process). If we ask you to provide us with information in these cases and you choose not to, you may not be able to access the relevant Epic Services and/or some features may not operate as intended.
-For instance, in order to make purchases on the Epic Games Store and to play some of our games, you’ll need an Epic account. To create one, you’ll need to provide us with basic registration information like your name, a public-facing display name, password, the country you live in, and email address. If you want to make a purchase, we may ask you to provide payment-related information (like your credit card number and expiration date) to complete the transaction. In addition, many of our services require your date of birth to determine which features we can offer you and which settings to apply to your account based on your age and location.
-We also collect the information you voluntarily provide to sign up for email alerts, use social features like forums or chat, register for early access to our games, use our developer tools (including to create and publish games and other content), enable two-factor authentication, register for or attend our events, complete surveys, or contact us through Player Support requests or customer service. If you use our voice chat feature and voice reporting is enabled in a voice channel, snippets of voice chat audio data will be stored on your device and the devices of participants in the voice channel. If a violation of our Community Rules is reported, these snippets may be transmitted to Epic to help us enforce those Community Rules. If you enter a contest or competitive event, or participate in our <a id="url" href="https://www.epicgames.com/affiliate/overview" style="EULA.Hyperlink">Support-A-Creator</> or <a id="url" href="https://create.fortnite.com/island-creator/" style="EULA.Hyperlink">Island Creator</> programs, we’ll collect your application information and other information we may need to help confirm your eligibility and process payouts. We collect whatever information you choose to provide to us in those or other similar cases.
 
+본 개인정보 처리방침은 Epic Services(아래 “Epic Services란 무엇인가?” 참조)에서, 이를 통하여 또는 이와 관련하여 정보의 수집, 사용 및 공유에 대한 다양한 방법을 설명하고 있습니다. 문의 사항은 아래의 “연락처”에 기술된 바와 같이 언제든 당사에 연락해 주십시오.
 
-<EULA.SubHeader>B. Information We Collect Automatically</>
-We collect some information automatically when you visit, access, or use the Epic Services. This includes information about your gameplay or application usage, purchases, entitlements, and other activity in the Epic Services, that are typically associated with your account (if you are logged into your Epic account or use a third-party account to access the Epic Services) or with an identifier we have assigned to your device or profile. While the specific types of information that we automatically collect may vary, they generally include:
-Usage information and statistics about how you interact with the Epic Services, including the application you used or the game you played, how long you used or played it and when, gameplay attempts, progression and results, saved preferences, crash reports, the URLs of our websites that you have visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, and platform type;
-Technical information about your computer, device, hardware, or software you use to access our services, such as IP address, device identifiers, your internet service provider, plugins, or other transactional or identifier information for your device (such as device make and model, information about device operating systems and browsers, or other device or system-related specifications); and
-The general location of your device, which we typically derive from your device’s IP address.
-The Epic Services use technologies such as cookies, log files, and web beacons to automatically collect the types of information listed above. Some of these technologies may create small files or record-keeping tools that may be stored on your device. They help us, our service providers, and third parties recognize your device and provide information about how you use and interact with the Epic Services. For example, they support our ability to authenticate users, remember preferences, manage advertising, personalize experiences, and conduct data analytics.
-Please note that if certain features on the Epic Services are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of the Epic Services, their services, or others’ websites over time. For example, when you use Epic Services (like Unreal Engine) that include third party software, those third party providers may collect information through their technology. These features are subject to those third parties’ privacy notices and policies.
 
+본 개인정보 처리방침에서 “Epic”(또는 “당사” 또는 “당사에”와 같은 유사 용어)을 언급하면 이는 Epic Services를 제공하고 지원하는 Epic Games, Inc. 및 그 자회사를 포함하여 이용자의 정보를 관리하고 책임지는 Epic Games 법인을 의미합니다. 또한 아래의 “연락처”에서 다양한 Epic Services를 통해 당사가 수집하는 개인정보의 데이터 관리자에 대한 세부 정보를 확인할 수 있습니다.
 
-<EULA.SubHeader>C. Information We Collect from Other Sources</>
-In some cases, we may also receive information about you from service providers and third parties in connection with your use of the Epic Services or your interactions with us on other platforms.
-For example, some other developers allow you to use your Epic account to log in to their service. And if you choose to link your Epic account with your account on a third-party social media (like Facebook), gaming (like Steam), or other similar website or service, or if you interact with an ad for one of the Epic Services on an external website or service, the company that operates that website or service may share some information with Epic in accordance with their own privacy practices. Your privacy settings on the other company’s website or service typically control the specific types of information they can share with Epic, so please be sure to review and update them regularly. Common examples for linked accounts might include your third-party account display name and user ID, as well as associated device information, name, and email address. For participants in our Support-a-Creator program, we may also collect the number of social media account followers you have for program eligibility purposes.
-You can also buy, download, or access some Epic Services on or through services operated by third parties. If you do, they may provide us with information to facilitate your access to and use of the Epic Services. This typically includes information like your display name, user ID, and device and region information. For example, you can choose to download and play games like Fortnite on gaming consoles (like PlayStation®, Microsoft Xbox, and Nintendo Switch) through your gaming console account. When you do, the company operating that platform or service may share some information with us, which helps us do things like facilitate your gameplay and track your progression and entitlements.
 
+<EULA.Header>1. 에픽 서비스란 무엇인가?</>
 
-<EULA.Highlight>D. Fraud Prevention & Anti-Cheat</>
-Providing users with a fair, balanced, and competitive experience on the Epic Services is extremely important to us. We strictly enforce prohibitions against cheating, hacking, account stealing, and any other unauthorized or fraudulent activity on the Epic Services. We use a variety of anti-cheat and fraud prevention technologies to help us identify and prevent malicious activity. These services may collect and analyze data about your computer and the software on your computer to detect cheating and may be provided by Epic or by service providers such as BattlEye.
 
+당사는 본 개인정보 처리방침과 직접적으로 연결된 Epic 제품 또는 서비스를 지칭할 때 “Epic Services”라는 용어를 사용하며, 구체적인 예는 다음과 같습니다.
 
-<EULA.SubHeader>3. HOW DO WE USE INFORMATION?</>
-As a general matter, we use the information we collect (either individually or in combination with other information collected as described in this policy) to help us provide, improve, customize, analyze, and promote the Epic Services.
-This includes using it for purposes such as:
 
-    •Creating, verifying, and managing user accounts and features;
-    •Providing the Epic Services, as well as support and assistance for them, including by responding to inquiries, processing transactions or requests, and communicating with users (such as by sending service and account-related messages and updates);
-    •Developing, delivering, and improving the Epic Services and other offerings, some of which may be offered in partnership with other parties;
-    •Personalizing your experience, including by presenting content or features better tailored to you or your interests, or our inferences about your interests (for instance, if you frequently play games in a certain genre, we may infer that you’d be interested in that genre and suggest similar games to you);
-    •Promoting the Epic Services, including managing, customizing, and measuring the effectiveness of our advertisements, promotional offers, surveys, and events;
-    •Managing alpha, beta, or early access tests (and collecting feedback);
-    •Conducting data analytics (like analyzing how the Epic Services are used so we can better understand, improve, and personalize them);
-    •Complying with our legal or contractual obligations and enforcing our terms; and
-    •Securing the Epic Services, such as by detecting fraud and otherwise protecting Epic and other users from illegal or harmful actions; and
-    •Improving technologies or processes used to accomplish these purposes (like training machine learning models used to help detect or moderate toxic, illegal, or harmful content or conduct and enforce our terms and policies like our <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Community Rules</>).
+• <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</>(자회사 Psyonix를 통해 제공), <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</>(자회사 Mediatonic를 통해 제공), 그리고 <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</>(자회사 Aquiris Games Studio LLC를 통해 제공)와 같은 게임
 
-We may also process information that does not identify you individually, including aggregate or de-identified information that we create or collect from other sources. This information helps us better understand larger groups of users. If we combine this information with information that identifies you, we will treat it as described in this privacy policy. But please note that this privacy policy does not restrict our ability to process information that does not individually identify you, and we may use and disclose aggregated or de-identified information for any reason permitted by law.
 
+• 웹 사이트 및 애플리케이션 - <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> 및 <a id="url" href="https://www.epicgames.com/store/" style="EULA.Hyperlink">Epic Games Store</>, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>(Life on Air를 통해 제공), <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</>(Psyonix를 통해 제공), <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>(Mediatonic을 통해 제공)
 
 
-<EULA.SubHeader>4. HOW DO WE SHARE INFORMATION?</>
-We may share some of the information we collect to help operate and improve the Epic Services. Depending on how you interact with us, common examples might include sharing:
-With console and platform partners (for example, to facilitate gameplay when you access the Epic Services through a third-party console provider);
-With other game developers (such as to enable features for games you acquire through the Epic Games Store);
-With other users (like if you use social features such as chat);
-Publicly (for example, your display name, content you create or share, basic game statistics, and other similar information may be generally accessible to others);
-With service providers that operate on our behalf to help support the Epic Services in accordance with our instructions (for example, cloud storage providers, payment processors, or marketing and advertising partners);
-When we believe we must in order to comply with the law or to protect you, Epic, or others (for example, in response to court order or subpoena, as part of an investigation of fraud or other illegal activity, or violation of our terms or policies, or if necessary to protect others from death or serious harm to body or property);
-With other Epic entities (including to help provide support for the Epic Services internationally);
-In connection with certain types of corporate transactions (like in the event of a restructuring or the sale of all or a significant part of our business);
-With your permission (for example, if you link external accounts with your Epic account, or use your Epic account to sign in to third-party games and services or participate in cross-promotional events); and
-We may also share information that does not identify you with third parties, including aggregate or de-identified information.
-No mobile phone numbers provided to Epic for security purposes will be shared with third parties or affiliates for marketing/promotional purposes. 
-To the extent that we share your personal information with third parties, we endeavor to ensure these third parties provide the same or substantially similar protections as those that Epic describes in this privacy policy. 
-Third parties you interact with through Epic Services may have different privacy practices than Epic, so we encourage you to review their privacy policies before sharing your information with them.
+• 본 개인정보 처리방침이 게시되는 라이브 이벤트
 
 
-<EULA.SubHeader>5. CHILDREN’S PRIVACY</>
-We are designing the Epic Services to be welcoming to users of all ages around the world. This means that we collect age information from users, and some of our services will provide a different experience based on what we know about the age of a user and where they live. The information below is for parents and guardians to understand our privacy practices with respect to children (under 13 or the age of digital consent in the user’s region, whichever is higher).
-When a user indicates that they are a child, they are placed in a “Cabined Account” until they are no longer a child as defined above or until their parent or guardian provides additional privacy permission and enables parental controls. Cabined Accounts can play Epic’s games such as Fortnite and Fall Guys, but features like voice chat and real money purchases are disabled. Epic collects limited personal information from Cabined Accounts to operate them, in each case according to applicable youth privacy and protection laws:
-Date of birth and country to determine age and apply appropriate settings;
-Parent or guardian email address to provide notice and seek consent to additional features (which is deleted if the parent does not respond within 14 days);
-User email address for sign-in (which is only stored in an unreadable hashed and salted form); and
-Persistent identifiers like IP address, gaming platform account IDs, device identifiers, and similar data collected with website tracking technologies to provide and maintain the Epic Services (including analytics to improve them), protect the security and integrity of users, ensure legal and regulatory compliance, and facilitate in-game personalization such as game advancement and avatar choice.
-If a user with a Cabined Account contacts us with a question or request, any personal information provided will be deleted after the inquiry is resolved. When we share personal information from Cabined Accounts externally, it is to help us carry out these limited purposes (like sharing with consoles to help run your game or with our cloud storage provider). <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">Learn more about Cabined Accounts</>.
+• 개발 도구 - <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">Developer Portal</> 및 <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</> 
 
 
-<EULA.Highlight>Notice, Consent, and Parental Controls</>
-We collect a parent or guardian email address from a child player in order to send the parent or guardian an email notice that the child has created a Cabined Account. This notice also lets them review our privacy practices for non-Cabined Accounts, provide consent to a non-Cabined Account for their child to enable additional features, and set up Parental Controls. Please note that parents/guardians must complete our parent verification process in order to provide consent to a non-Cabined Account.
-We use Kids Web Services (KWS), a service offered by our subsidiary Kids Web Services Ltd, for parent/guardian and user age verification purposes. KWS will remember that you have verified your age the next time you use your email address to access other games/services powered by KWS technology, so that you won’t need to verify again. Epic and KWS are jointly responsible for the handling some of your personal information in this context. Learn more about <a id="url" href="https://www.epicgames.com/site/parental-consent" style="EULA.Hyperlink">verifiable parental consent</> and KWS in the <a id="url" href="https://www.kidswebservices.com/privacy-policy" style="EULA.Hyperlink">KWS Privacy Policy</>.
-When a parent or guardian gives permission for a non-Cabined Account for their child, Parental Controls are enabled automatically. Parental Controls can then be accessed using a PIN code, let you change choices about particular features made during the permission flow, and further customize your child’s experience. <a id="url" href="https://www.epicgames.com/site/parental-controls" style="EULA.Hyperlink">Learn more about Parental Controls</>.
-Once a parent has authorized a non-Cabined Account for their child, the privacy practices described elsewhere in this Privacy Policy generally apply, but younger users may not have access to all content or features (because of our default privacy settings, age requirements for certain service and features, and/or Parental Controls in place). Depending on the parental control settings and the user’s age, users may access communications and social features (like chat), and freely interact with most of the Epic Services (including downloading other games from the Epic Games Store). When a user accesses a third-party game or app through the Epic Games Store, some account information is shared with the publisher or developer of that game or app to enable the transaction and product features. You can see the developer and publisher on each product listing before download,or review our <a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink"> Publisher Index</>. Please contact us as described below with any questions about Epic’s data sharing with these third parties. For additional details, please see “What Information Do We Collect?”, “How Do We Use Information?”, and “How Do We Share Information?” above.
+Epic Services 이용 시 추가 약관이 적용될 수도 있습니다. 예를 들어, Fortnite을 플레이하려면 <a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">Fortnite 최종 사용자 라이선스 계약</>을 Rocket League를 플레이하려면 <a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">Psyonix 최종 사용자 라이선스 계약</>을 Fall Guys를 플레이하려면 <a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink">Fall Guys: Ultimate Knockout – 최종 사용자 라이선스 계약</>을 Horizon Chase 2를 플레이하려면 <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2 최종 사용자 라이선스 계약</>을 읽고 동의해야 합니다.
 
 
-Child and Parent Privacy Rights
-Child users and their parents can exercise their individual privacy rights as described in <a id="url" href="https://www.epicgames.com/site/privacypolicy#_heading=h.35nkun2" style="EULA.Hyperlink">Section 6 below</>. Parental Controls enable parents and guardians to change the choices they’ve made about their child’s use of specific features like voice chat. Parents and Guardians can also review the child’s personal information held by Epic Games, and delete their child’s Epic account (which deletes the personal information and stops further collection). To exercise these rights or ask any questions about how we handle children’s personal information, please see the “Contact Us” section below, or head straight to our <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Parent Support Request form</>.
+본 개인정보 처리방침 전부를 읽어 보시기 바랍니다. 또한 해당 제품 또는 서비스를 이용하기 전에 이용하는 Epic Services에 적용되는 기타 모든 계약을 주의 깊게 검토하여 이를 이해하고 이에 동의한다는 것을 확인해야 합니다.
 
 
-<EULA.SubHeader>6. YOUR CHOICES AND CONTROLS</>
-We seek to provide you with meaningful choices about the personal information we collect. The specific choices available to you often vary depending on the exact nature of our relationship with you, such as the Epic Services you use. Common examples include:
-You can request that we provide access to, or that we correct or delete, personal information we’ve collected from you. Please submit requests to access, update, or delete personal information associated with your Epic account by reaching out to us as described in “Contact Us” below. Note that we may ask you for additional information to help us verify who you are before completing your request.
-If applicable, you may also have the option to appeal or otherwise request human review of decisions made by automated means.
-You can change your email marketing preferences at any time, such as by using the opt-out mechanism provided in our marketing emails, updating your Epic account settings, or contacting us with your request (see “Contact Us” below).
-You can change your privacy settings on other parties’ websites (such as social networks) or platforms (like console providers) to limit the information they may share with us.
-You can change your browser or mobile device settings to block, manage, delete, or limit tracking technologies like cookies. In some cases, blocking or disabling cookies may cause the Epic Services not to work as intended and some features may not be available.
-If you’re under the age of 18 and have an Epic account, you can ask that we remove or anonymize certain content you’ve provided on the Epic Services. Please direct requests to help delete or edit content on the Epic Services to Epic as described in “Contact Us” below.
-Parents and guardians can adjust settings for their child’s Epic account <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">using Parental Controls</>.
-Some parts of the world provide individuals with specific choices related to their personal information by right under local law.
+<EULA.Header>2. 당사가 수집하는 정보</>
 
 
-<EULA.SubHeader>7. OUR GLOBAL OPERATIONS</>
-Epic Games, Inc. is based in the United States, but we operate globally to help provide users all around the world with a better experience on the Epic Services. We have subsidiaries, offices, service providers, and partners worldwide to support these operations in a number of different ways -- for example, the developer of Fall Guys is a subsidiary called Mediatonic Limited that is based in the United Kingdom. This means that Epic may process the information we collect in connection with your use of the Epic Services in places outside the region where you reside.
+당사가 수집하는 정보의 종류는 당사와 상호작용하는 방식에 따라 달라집니다. 일반적으로 말하면, 당사는 다음과 같은 세 가지 주요 방식으로 정보를 수집합니다. A) 당사에 정보를 제공할 때, B) Epic Services를 이용할 때 자동적으로, C) 서비스 제공자와 제3자로부터
 
 
-<EULA.Highlight>A. Data Transfers</>
-When you use the Epic Services, your information may be transferred to or stored in the United States or other countries where we or our service providers operate. The data protection laws and rules in these countries may be different than those where you live. We rely on various legal mechanisms to help lawfully support transfers of information outside the country of collection where appropriate. If permissible under local law, you’re authorizing Epic to process your information in any of the locations where we operate (including the United States) by using the Epic Services.
-To learn more about the Epic entity responsible for operating the Epic Services you use, see “Contact Us” below.
+<EULA.Highlight>A. 이용자가 제공하는 정보</>
 
 
-<EULA.Highlight>B. California Residents</>
-The California Consumer Privacy Act or “CCPA” provides consumers residing in California certain rights with respect to their personal information. If you are a California resident, you may have the right to: (1) request to know more about the categories and specific pieces of personal information we collect, use, and disclose; (2) request deletion of your personal information; (3) opt out of sale of your personal information (if any); and (4) not be discriminated against for exercising these rights.
-You or your authorized agent may make these requests by contacting us as described in “Contact Us” below. Note that we may ask you for additional information to help us verify who you are before completing your request. If we receive your request from an authorized agent, we may ask for evidence that you gave that person authority to submit requests to exercise rights on your behalf. We will not discriminate against you if you exercise your rights under the CCPA.
-We collect the following categories of personal information, as described in the CCPA:
-Identifiers (such as email addresses);
-Demographic information (like ages);
-Commercial information (including entitlements or purchase history);
-Internet or electronic network activity (for example, gameplay or website usage details);
-Audio, electronic, visual, or similar information (like voice chat);
-Geolocation information (such as may be derived from your IP address or included in your billing information);
-Other “personal information” as defined under California law (like your credit or debit card information); and
-Inferences drawn from any of these categories (for example, about the genres of games you may prefer to play based on your purchase history).
-For details about the precise data points we collect and the categories of sources where we got that information, please see “What Information Do We Collect?” above. We collect personal information for the business and commercial purposes described in “How Do We Use Information?” above.
-Epic does not sell or share (as those are defined in the CCPA) the personal information we collect. We do, however, disclose personal information as described in this policy (see “How Do We Share Information?” above). In the past 12 months, we have disclosed personal information to the following categories of recipients:
-Business partners (for example, if you request that we share your email address with the developer of a game you purchase on the Epic Games Store);
-Other Epic entities (like to subsidiaries that may help support certain Epic Services);
-Other users (for example, if you use chat or social features on the Epic Services);
-Service providers (as described in “How Do We Share Information?” above);
-Operating systems and platforms; and
-Government entities or other third parties in response to a legal request.
+이용자는 Epic Services와 상호작용하는 방식에 따라 다양한 종류의 정보를 제공할 수 있습니다. 때때로 당사는 Epic Services의 일부를 제공하기 위해 정보가 필요한 경우에 특정 정보 제공을 요청합니다(예: 생년월일을 제공하거나 온라인 등록 절차를 완료하라는 메시지 표시). 이러한 경우에 당사가 정보 제공을 요청하였으나 이를 제공하지 않는 경우 관련 Epic Services에 접속할 수 없거나 일부 기능이 의도한 대로 작동하지 않을 수 있습니다.
 
 
-<EULA.Highlight>C. Residents Of The European Economic Area, The United Kingdom, And Switzerland</>
-If you’re located in the European Economic Area (EEA), the United Kingdom (UK), or Switzerland, you have certain rights regarding how your personal data is processed.
+예를 들어, Epic Games Store에서 구매를 하고 당사의 일부 게임을 플레이하려면 Epic 계정이 필요합니다. 계정을 만들려면 이름, 공개 표시 이름, 비밀번호, 거주 국가 및 이메일 주소와 같은 기본 등록 정보를 당사에 제공해야 합니다. 구매를 원하는 경우, 당사는 해당 거래를 완료하기 위해 결제 관련 정보(예: 신용카드 번호 및 유효기간)를 제공해 줄 것을 요청할 수 있습니다. 아울러, 당사 서비스 중 다수는 당사가 어느 기능을 제공할 수 있는지와 어느 설정을 계정에 적용할지를 연령과 소재지를 기준으로 판단하기 위해 생년월일을 요구하고 있습니다.
 
 
-Data Subject Rights
-You may have the right to access, correct, or delete personal data we have collected about you through the Epic Services. You may also have the right to a portable copy of the personal data you have provided, and to object to or restrict processing of your personal data, such as for direct marketing. If applicable, you can request human review or contest decisions made by automated means. Where you have provided your consent to our data processing, you have the right to withdraw consent.
-You also have the right to make a complaint against us by contacting your local supervisory authority for data protection (if one exists in your country). We would, however, appreciate the chance to address your concerns before you contact a data protection regulator, and ask that you direct your complaint to us first.
-Please see the “Contact Us” section below to learn more about reaching out to Epic with any relevant concerns you may have. You can find more details about your local Data Protection Authority as follows:
-EEA: <a id="url" href="https://www.edpb.europa.eu/about-edpb/about-edpb/members" style="EULA.Hyperlink">European Data Protection Authorities</> 
-UK: <a id="url" href="https://ico.org.uk/global/contact-us/" style="EULA.Hyperlink">Information Commissioner's Office</>
-Switzerland: <a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">Federal Data Protection and Information Commissioner</> 
+당사는 또한 이메일 알림 등록, 포럼 또는 채팅과 같은 소셜 기능 사용, 게임 조기 액세스 등록, 당사 개발자 도구 사용(게임 및 기타 콘텐츠 생성 및 게시 포함), 2단계 인증 활성화, 당사 이벤트 등록 또는 참석, 설문 조사 작성, 또는 플레이어 지원 요청 또는 고객 서비스를 통한 당사 연락 시 자발적으로 당사에 제공하는 정보를 수집합니다. 음성 채널에서 음성 채팅 기능을 사용하고 음성 보고가 활성화되면, 음성 채팅 오디오 데이터 조각이 기기와 음성 채널 참가자들의 기기에 저장됩니다. 커뮤니티 규칙 위반이 보고되면 당사가 해당 커뮤니티 규칙을 집행할 수 있도록 이러한 데이터 조각이 Epic으로 전송될 수 있습니다. 콘테스트나 경쟁 이벤트에 참가하거나 <a id="url" href="https://www.epicgames.com/affiliate/overview" style="EULA.Hyperlink">Support-A-Creator</> 또는 <a id="url" href="https://create.fortnite.com/island-creator/" style="EULA.Hyperlink">Island Creator</> 프로그램에 참여하는 경우, 자격을 확인하고 상금을 처리하는 데 필요한 신청 정보 및 기타 정보를 수집합니다. 당사는 그러한 경우 또는 기타 유사한 경우에 당사에 제공하는 모든 정보를 수집합니다.
 
 
-Basis for Processing
-The legal bases we rely on to process your personal data depend on the Epic Services you use and how you interact with them. They primarily include:
-Contractual Necessity: we process personal data to perform the Epic Services you requested under our Terms of Service or other similar contractual agreements with you. For example, we process personal data to set up and maintain your account; process your purchases; authenticate users; provide user-experience features (like saving your preferences); monitor and analyze the Epic Services; detect and prevent fraud, cheating, or other similar misuse; facilitate features like cross-progression that allow you to play a game on one platform and continue your progress on another, which may require us to share your information with third-party partners; and contact you about your account, transactions, or other updates. We also rely on performance of a contract to manage our relationship with you, which includes responding to your support requests or general inquiries, and notifying you about changes to our applicable terms or policies.
-Legitimate Interests: we process personal data as needed for Epic’s business purposes, as balanced against the potential impact on your privacy rights. This includes many common purposes that you’d reasonably expect, such as to: communicate with you, respond to your requests, or provide you with updates and information; better understand our users and their preferences; personalize your experience, save your preferences, authenticate our users, and provide similar user experience features; develop, deliver, and improve the Epic Services and other offerings (some of which may be offered in partnership with other parties); manage and customize advertisements or promotional offers; manage (in-game) purchases; secure and protect the Epic Services; supporting auditing, data analysis, and other legitimate business operations; prevent or moderate fraudulent, toxic, harmful, or illegal content or conduct that breaches our terms. To support these business purposes, we may build, improve, and use machine learning technologies to help identify harmful, toxic, or fraudulent content in our services. The content identified by these technologies may be subject to human review. Otherwise, if applicable, you may have the ability to request human review of automated decisions.
-Legal Obligations: we process personal data when necessary to comply with legal obligations, such as responding to legitimate requests from law enforcement authorities or other government officials in accordance with relevant legal processes; to identify or moderate illegal content or conduct on the Epic Services; or processing date of birth to facilitate compliance with applicable youth protection laws.
-Consent: we process personal data when you provide us with your consent to do so. You aren’t required to provide consent if you do not want your personal data to be processed for the requested purposes, and you may withdraw your consent at any time.
+<EULA.Highlight>B. 당사가 자동으로 수집하는 정보</>
 
 
-<EULA.SubHeader>8. Retention</>
-Because the specific personal data we process and our reasons for doing so often vary depending on how you use the Epic Services, how long we retain it can also vary. We generally store personal data for as long as we reasonably need it for the purposes described in this policy (like complying with our legal obligations, managing internal records, enforcing our terms, and resolving disputes), unless a long retention period is required or permitted by law.
-The main criteria we consider in determining specific retention periods often include minimum requirements under applicable law, relevant industry standards, the types of data in question (such as its level of sensitivity), relevance to potential litigation or similar proceedings (like defending ourselves against legal claims), and whether the data is required to prevent fraud or similar abuse of the Epic Services (including to enforce prohibitions against cheating and other unauthorized behavior). For example, if you create an Epic account, we will generally store the personal data associated with your Epic account for as long as needed to maintain your account, provide the Epic Services you requested, enforce any terms that apply and govern your use of the Epic Services, and maintain appropriate records to reflect how we deliver the Epic Services to you.
-To learn more about requesting that Epic delete your personal data, please see “Your Choices and Controls” and “Data Subject Rights” above.
+당사는 Epic Services를 방문하거나, 접속 또는 사용할 때 일부 정보를 자동으로 수집합니다. 여기에는 일반적으로 계정(Epic 계정에 로그인하거나 제3자 계정을 사용하여 Epic Services에 액세스하는 경우)과 연관되거나 또는 당사가 기기 또는 프로필에 할당한 식별자와 연관된 Epic Services에서의 게임플레이 또는 애플리케이션 사용, 구매, 권한 부여 및 기타 활동에 대한 정보가 포함됩니다. 당사가 자동으로 수집하는 정보의 구체적인 유형은 다를 수 있지만, 일반적으로 다음의 정보가 포함됩니다.
 
 
-<EULA.SubHeader>9. SECURITY</>
-We maintain appropriate administrative, technical, and physical safeguards to protect your personal information from accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use and other unlawful forms of processing. In some cases, your information is accessible when you log into a feature we offer, and in those cases you need to keep your user credentials and password confidential and secure so that your information is protected. If we become aware of unauthorized disclosure of your personal information, we will notify you as required by law and take steps to help secure your information.
+• 사용한 앱 또는 플레이한 게임, 사용 혹은 게임 시간 및 시기, 게임 플레이 시도, 진행 상황 및 결과, 저장된 기본 설정, 충돌 보고서, 방문한 당사 웹사이트 URL, 참조하거나 종료한 페이지의 URL, 페이지 뷰, 페이지에서 보낸 시간, 클릭 횟수, 플랫폼 유형을 포함하여 Epic Services와 상호작용에 대한 통계 및 사용 방식
 
 
-<EULA.SubHeader>10. UPDATES</>
-We’ll update this policy from time to time to reflect changes in our practices or relevant laws. When we do, we’ll change the date noted at the top of the policy. In some cases we may also notify you of the relevant changes by email or within the Epic Services. Please review this policy regularly to make sure that you understand your relationship with Epic and the ways we may collect, use, and share information in connection with the Epic Services.
+• 당사 서비스에 접속하기 위해 사용하는 컴퓨터, 기기, 하드웨어 또는 소프트웨어 관련 기술 정보(예: IP 주소, 기기 식별자, 인터넷 서비스 제공업체, 플러그 인, 혹은 기타 거래 정보 또는 기기 식별 정보(기기 제조사 및 모델, 기기 운영체제 및 브라우저 정보, 기타 기기 또는 시스템 관련 사양) 등)
 
 
-<EULA.SubHeader>11. CONTACT US</>
-If you have questions or concerns about the Epic Services (such as game-related issues, trouble accessing your Epic account, bugs or other technical problems, payment matters, or content and entitlement issues), please contact our Player Support teams. 
-You can learn more about submitting support requests for products and services from:
-<a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</> (like Fortnite);
-<a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</> (such as Rocket League);
-<a id="url" href="https://www.postparty.gg/faq" style="EULA.Hyperlink">Life on Air</> (Postparty) ; and
-<a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Mediatonic</> (including Fall Guys).
+• 보통 사용하는 기기의 IP 주소에서 추출하는 일반적인 위치 정보
 
 
-If you want to learn more about our privacy practices or this policy, please email your questions about products and services from:
-Epic Games, Psyonix, Mediatonic, or Life on Air to privacy@support.epicgames.com;
-Aquiris to dpo@aquiris.com.br.
+Epic Services는 쿠키, 로그 파일 및 웹 비콘과 같은 기술을 사용하여 위에 나열된 유형의 정보를 자동으로 수집합니다. 이러한 기술 중 일부는 기기에 저장될 수 있는 작은 파일 또는 기록 보관 도구를 생성할 수 있습니다. 이를 통해 당사와 당사 서비스 제공업체 및 제3자가 기기를 인식하고 Epic Services를 사용하고 이와 상호작용하는 방법에 대한 정보를 제공하는 데 도움을 줍니다. 예를 들어, 이러한 정보들은 당사의 이용자 인증, 기본 설정 기억, 광고 관리, 경험 개인화, 데이터 분석 수행 등의 기능을 지원합니다.
 
 
-You can also contact us via postal mail (marked “Attn: Legal Department”) to Epic Games, Inc., located at 620 Crossroads Blvd., Cary, NC 27518, USA.
-If you live outside of the United States and you are using the Epic Games Store the data controller is: Epic Games, Inc.
-Contact information:
-620 Crossroads Blvd., Cary, NC 27518, USA
+Epic Services의 특정 기능이 제3자에 의해 제공되는 경우, 그러한 제3자 역시 자동화된 데이터 수집 수단을 사용할 수 있고 Epic Services, 제3자 서비스, 또는 다른 웹사이트 사용 정보를 일정 기간 기록할 수도 있습니다. 예를 들어, 제3자 소프트웨어가 포함된 Epic Services(예: Unreal Engine)를 이용할 때, 해당 제3자 제공업체에서 자체 기술을 통해 정보를 수집할 수 있습니다. 이러한 기능에는 해당 제3자의 개인정보 보호 고지 및 방침이 적용됩니다.
 
 
-For any questions or concerns about the handling of personal data, contact our Data Protection Officer at dpo@support.epicgames.com.
+<EULA.Highlight>C. 당사가 다른 출처에서 수집하는 정보</>
 
 
-You can contact Mishcon de Reya, our EU/UK representative, at representative@mishcon.com
+경우에 따라 당사는 Epic Services 사용 또는 다른 플랫폼에서의 당사와 상호작용과 관련하여 서비스 제공업체 및 제3자로부터 이용자에 대한 정보를 수신할 수도 있습니다.
 
 
-If you live outside of the United States and you are using any games provided by Epic Games, such as Fortnite, that link to this privacy policy the data controller is: Epic Games Entertainment International GmbH
-Contact information:
-Platz 10, 6039 Root D4, Switzerland
+예를 들어, 일부 다른 개발자는 이용자가 Epic 계정을 사용하여 해당 서비스에 로그인하는 것을 허용합니다. 제3자 소셜 미디어(Facebook 등), 게임(Steam 등) 또는 기타 유사한 웹사이트나 서비스의 계정과 Epic 계정을 연동하거나 외부 웹사이트 또는 서비스에서 Epic Services 중 하나에 대한 광고와 상호 작용하는 경우, 해당 웹사이트 또는 서비스를 운영하는 회사는 자체 개인정보 처리관행에 따라 일부 정보를 Epic과 공유할 수 있습니다. 일반적으로 다른 회사의 웹사이트 또는 서비스에 대한 개인정보 설정으로 Epic과 공유할 수 있는 특정 유형의 정보를 제어할 수 있으므로 정기적으로 그러한 설정을 검토하고 업데이트하십시오. 연결된 계정의 일반적인 예에는 제3자 계정 표시 이름과 이용자 ID뿐만 아니라 연결된 기기 정보, 이름 및 이메일 주소가 포함될 수 있습니다. 당사의 Support-a-Creator 프로그램 참가자의 경우에 당사는 프로그램 자격 확인 목적으로 소셜 미디어 계정 팔로워 숫자 정보를 수집할 수도 있습니다.
 
 
-For any questions or concerns about the handling of personal data, contact our Data Protection Officer at dpo@support.epicgames.com.
-You can contact Mishcon de Reya, our EU/UK representative, at representative@mishcon.com
+또한 제3자가 운영하는 서비스에서 또는 이를 통해 일부 Epic Services를 구매, 다운로드 또는 액세스할 수 있습니다. 그렇게 하는 경우, Epic Services에 대한 액세스 및 사용을 용이하게 하기 위해 당사에 정보를 제공할 수도 있습니다. 여기에는 일반적으로 이용자의 표시 이름, 이용자 ID, 기기 및 지역 정보와 같은 정보가 포함됩니다. 예를 들어 게임 콘솔 계정을 통해 게임 콘솔(예: PlayStation®, 마이크로소프트 Xbox 및 닌텐도 스위치)에서 Fortnite와 같은 게임을 다운로드하고 플레이하도록 선택할 수 있습니다. 그렇게 할 때 해당 플랫폼 또는 서비스를 운영하는 회사는 게임 플레이를 촉진하고 진행 상황 및 자격을 추적하는 것과 같은 일을 하는 데 도움이 되는 일부 정보를 당사와 공유할 수 있습니다.
 
 
-If you live outside of the United States and you are using any other products or services provided by Epic Games, such as Unreal Engine, that link to this privacy policy the data controller is: Epic Games Commerce GmbH
-Contact information:
-Platz 10, 6039 Root D4, Switzerland
-For any questions or concerns about the handling of personal data, contact our Data Protection Officer at dpo@support.epicgames.com.
-You can contact Mishcon de Reya, our EU/UK representative, at representative@mishcon.com
+<EULA.Highlight>D. 사기 방지 및 부정행위 방지</>
 
 
-If you live outside of the United States and you are using products or services provided by Mediatonic, such as Fall Guys, that link to this privacy policy the data controller is: Mediatonic Limited
-Contact information:
-Octagon Point, 5 Cheapside, London, EC2V 6AA, United Kingdom
-For any questions or concerns about the handling of personal data, you can contact privacy@support.epicgames.com or Mishcon de Reya, our EU representative, at representative@mishcon.com
+이용자에게 Epic Services에 대한 공정하고, 편파적이지 않으며, 경쟁력 있는 경험을 제공하는 것은 당사에 있어 매우 중요한 일입니다. 당사는 Epic Services에 대한 부정행위, 해킹, 계좌 도용, 및 기타 무단 혹은 사기 행위를 엄격히 금지합니다. 당사는 다양한 부정행위 방지 및 사기 방지 기술을 사용하여 악의적인 활동을 식별하고 방지합니다. 이러한 서비스는 부정행위를 탐지하기 위해 컴퓨터와 설치된 소프트웨어를 수집하고 분석할 수 있으며, Epic 또는 제3자가 이러한 서비스를 제공할 수 있습니다.
 
 
-If you live outside of the United States and you are using products or services provided by Psyonix, such as Rocket League, that link to this privacy policy the data controller is: Psyonix LLC
-Contact information:
-401 A St. #4200, San Diego, CA 92101, USA
-For any questions or concerns about the handling of personal data, you can contact privacy@support.epicgames.com or Mishcon de Reya, our EU/UK representative, at representative@mishcon.com 
+<EULA.Header>3. 당사가 정보를 이용하는 방식</>
 
 
-If you live outside of the United States and you are using KWS services provided by Kids Web Services Ltd the data controller is: Kids Web Services Ltd as a joint controller with Epic
-Contact information:
-Kids Web Services Ltd
-Octagon Point, 5 Cheapside, London, EC2V 6AA, United Kingdom
-For any questions or concerns about the handling of personal data, contact privacy@kidswebservices.com
-You can contact Mishcon de Reya, our EU representative, at representative@mishcon.com
+일반적으로, 당사는 당사가 수집(본 방침에 기술된 대로 개별적으로 또는 수집한 다른 정보와 결합하여)하는 정보를 Epic Services 제공, 개선, 맞춤화, 분석 및 마케팅을 지원하는 데 사용합니다.
 
 
-If you live outside of the United States and you are using products or services provided by Life on Air, such as Postparty, that link to this privacy policy the data controller is: Life on Air, Inc.
-Contact information:
-620 Crossroads Blvd., Cary, NC 27518, USA
+여기에는 다음과 같은 목적의 사용이 포함됩니다.
 
 
-For any questions or concerns about the handling of personal data, you can contact Mishcon de Reya, our EU/UK representative, at representative@mishcon.com
+• 이용자 계정 및 기능의 생성, 확인 및 관리
 
 
-If you live outside of the United States and you are using products or services provided by Aquiris, such as Horizon Chase 2, that link to this privacy policy the data controller is: Aquiris Games Studio LLC
-Contact information:
-c/o IBCPA, 20801 Biscayne Blvd, Ste 403, Office 415, Aventura, Florida, 33180, USA
-For any questions or concerns about the handling of personal data, you can contact our Data Protection Officer at dpo@aquiris.com.br.
+• 문의 응답, 거래 또는 요청 처리, 이용자와의 커뮤니케이션(예: 서비스 및 계정 관련 메시지 전송 및 업데이트)을 포함하여 Epic Services를 제공하고 그에 대한 지원 및 도움 제공
 
 
-You can contact Mishcon de Reya, our EU/UK representative, at representative@mishcon.com
+• Epic Services 및 기타 제안(그중 일부는 기타 당사자와의 협력하여 제공할 수 있음)을 개발, 제공 및 개선
+
+
+• 이용자 또는 이용자의 관심사에 더 잘 맞는 콘텐츠나 기능을 제공하거나 관심사에 대한 당사의 추론(예를 들어, 특정 장르의 게임을 자주 하는 경우, 당사는 이용자가 해당 장르에 관심이 있을 것이라고 추론할 수 있으며 유사한 게임을 제안합니다)을 포함하여 이용자의 경험을 개인화
+
+
+• 당사의 광고, 판촉 제안, 설문조사 및 이벤트의 관리, 맞춤화 및 효과 측정을 포함하여 Epic Services 홍보
+
+
+• 알파, 베타 또는 조기 액세스 테스트(및 피드백 수집) 관리
+
+
+• 데이터 분석 수행 목적(예: Epic Services를 더 잘 이해하고 개선하며 개인화하기 위하여 Epic Services의 사용 방식을 분석)
+
+
+• 당사의 법적 또는 계약상의 의무를 준수하고 당사의 약관을 집행
+
+
+• 사기를 탐지하고 달리 Epic과 기타 이용자를 불법적이거나 유해한 행위로부터 보호하는 등 Epic Services 보호
+
+
+• 이러한 목적을 달성하는 데 사용되는 기술 또는 절차 개선(예: 유해하거나 불법적이거나 피해를 줄 수 있는 콘텐츠나 행위를 감지 또는 조정하고 <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">커뮤니티 규칙</>과 같은 약관 및 정책을 집행하는 데 사용되는 머신 러닝 모델 훈련)
+
+
+또한 당사는 다른 출처에서 생성하거나 수집하는 집계된 또는 익명화된 정보를 포함하여 이용자를 개별적으로 식별할 수 없는 정보를 처리할 수 있습니다. 이 정보는 당사가 더 규모가 큰 이용자 그룹을 이해하는 데 도움이 됩니다. 만약 당사가 이 정보를 이용자를 식별하는 정보와 결합하는 경우, 당사는 이러한 정보를 본 개인정보 처리방침에 기술된 대로 처리합니다. 그러나 이 개인정보 처리방침은 당사가 이용자를 개별적으로 식별하지 않는 정보를 처리할 수 있는 능력을 제한하지 않으며 당사는 법률이 허용하는 모든 이유로 집계되거나 식별되지 않는 정보를 사용 및 공개할 수 있습니다.
+
+
+<EULA.Header>4. 당사가 정보를 공유하는 방식</>
+
+
+당사는 Epic Services의 운영 및 개선을 돕기 위해 수집한 정보 중 일부를 공유할 수 있습니다. 당사와 상호작용하는 방식에 따라 다음 사례의 공유가 일반적으로 포함됩니다.
+
+
+• 콘솔 및 플랫폼 파트너와 공유(예: 제3자 콘솔 제공업체를 통해 Epic Services에 액세스할 때 게임 플레이를 용이하게 하기 위해)
+
+
+• 다른 게임 개발자와 공유(예: Epic Games Store를 통해 이용자가 획득한 게임의 기능 활성화하기 위해)
+
+
+• 다른 이용자와 공유(예: 채팅과 같은 소셜 기능을 사용하는 경우)
+
+
+• 공개적으로 공유(예: 표시 이름, 생성하거나 공유하는 콘텐츠, 기본 게임 통계 및 기타 유사한 정보는 일반적으로 다른 사람이 액세스할 수 있습니다)
+
+
+• 당사의 지시에 따라 당사를 대신하여 Epic Services 지원을 도와주는 서비스 제공업체와 공유(예: 클라우드 스토리지 제공업체, 결제 처리자, 또는 마케팅 및 광고 파트너)
+
+
+• 법을 준수하거나 이용자, Epic 또는 다른 사람을 보호하기 위해 당사가 공유해야 한다고 믿는 경우(예: 사기 또는 기타 불법 활동 또는 당사의 약관이나 방침 위반 조사의 일환으로 법원 명령이나 소환장에 대해 응답하거나 또는 다른 사람의 사망 또는 신체 또는 재산에 대한 심각한 피해를 보호하기 위해 필요한 경우)
+
+
+• 다른 Epic 법인과 공유(Epic Services를 국제적으로 지원하기 위한 경우 포함)
+
+
+• 특정 유형의 기업 거래와 관련된 경우(예: 당사의 구조 조정 또는 당사 사업의 전부 또는 상당 부분 매각 시)
+
+
+• 허용하는 경우(예: 외부 계정을 Epic 계정과 연결하거나, 혹은 Epic 계정을 사용하여 제3자 게임 및 서비스에 로그인하거나 교차 프로모션 이벤트에 참여하는 경우)
+
+
+• 당사는 또한 집계 또는 익명화된 정보를 포함하여 이용자를 식별하지 않는 정보를 제3자와 공유할 수 있습니다.
+
+
+Epic에 보안 목적으로 제공된 휴대폰 번호는 제3자 또는 계열사와 마케팅/홍보 목적으로 공유되지 않습니다.
+
+
+당사가 개인정보를 제3자와 공유하는 범위 내에서, 당사는 이러한 제3자가 본 개인정보 처리방침에서 설명하는 것과 동일하거나 실질적으로 유사한 보호 조치를 제공하도록 보장하기 위해 노력합니다.
+
+
+Epic Services를 통해 상호작용하는 제3자는 Epic과는 다른 개인정보 처리 관행을 가질 수 있으므로 정보를 공유하기 전에 해당 제3자의 개인정보 처리 관행을 검토해 보실 것을 권장합니다.
+
+
+<EULA.Header>0.5 아동 개인정보 보호</>
+
+
+당사는 Epic Services를 세계 전역의 모든 연령대의 이용자에게 기꺼이 받아들여지도록 설계하고 있습니다. 이는 당사가 이용자로부터 연령 정보를 수집하고 있으며, 당사 서비스 중 일부는 당사가 이용자의 연령 및 소재지에 관해 알고 있는 바를 근거로 상이한 경험을 제공한다는 의미입니다. 아래 정보는 부모 또는 보호자가 아동(13세 미만 또는 이용자의 지역의 디지털 동의 연령 중 더 높은 것)에 관한 당사의 개인정보 처리관행을 파악하도록 하기 위한한 것입니다.
+
+
+이용자가 자신이 아동임을 표시하면 위에 정의된 대로 더 이상 아동이 아니거나 부모 또는 보호자가 추가 개인정보 보호 권한을 제공하고 자녀 보호 기능을 활성화할 때까지 ‘제한 계정’에 배치됩니다. 제한 계정은 Fortnite 및 Fall Guys와 같은 Epic의 게임을 플레이할 수 있으나, 음성 채팅 및 현금 구매 같은 기능은 비활성화됩니다. Epic은 제한 계정으로부터 다음과 같은 제한된 개인정보를 수집하여 운용하며, 각 경우에 적용되는 청소년 개인정보 보호법에 따릅니다.
+
+
+• 생년월일 및 국가 - 연령을 판단하여 적절한 설정을 적용하기 위함
+
+
+• 부모 또는 보호자의 이메일 주소 - 통지를 제공하여 추가적인 기능에 대한 동의를 구하기 위함(부모가 14일 이내에 응답하지 않으면 삭제됨)
+
+
+• 이용자 이메일 주소 - 로그인용(판독 불가능한 해시 및 솔트 적용된 형태로만 보관됨)
+
+
+• 영구 식별자(IP 주소, 게임 플랫폼 계정 ID, 기기 식별자 및 웹 사이트 추적 기술을 사용하여 수집된 유사한 데이터 등) - Epic Services를 제공 및 유지(개선을 위한 분석 포함)하고, 이용자의 보안 및 무결성 보호, 법률 및 규제를 준수하고, 게임 승급 및 아바타 선택 등 게임 내 개인화를 용이하게 하기 위함
+
+
+제한 계정을 가진 이용자가 질문 또는 요청을 가지고 당사에 연락할 경우, 제공된 일체의 개인정보는 해당 문의가 해결된 후 삭제됩니다. 당사가 제한 계정의 개인정보를 외부에 공유할 때는, 당사가 이러한 제한된 목적을 수행하기 위한 경우입니다(이용자의 게임을 실행할 수 있도록 콘솔을 공유하거나 당사의 클라우드 스토리지 제공업체와 공유하는 등). <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">미성년자 제한 계정에 대해 자세히 알아보세요</>.
+
+
+<EULA.Highlight>통지, 동의 및 자녀 보호</>
+
+
+당사는 부모나 보호자에게 아동이 제한 계정을 만들었다는 이메일 통지를 보내기 위해 해당 아동 플레이어로부터 부모나 보호자의 이메일 주소를 수집합니다. 이러한 통지는 또한 그분들이 비제한 계정에 대한 당사의 개인정보 처리관행을 검토하고, 해당 아동의 비제한 계정에 대한 동의를 제공하여 추가적인 기능을 활성화하고, 자녀 보호 기능을 설정하도록 합니다. 참고로 부모/보호자가 비제한 계정에 대한 동의를 제공하기 위해서는 당사의 부모 인증 프로세스를 완료해야 합니다.
+
+
+당사는 부모/보호자 및 이용자 연령 확인을 위해 자회사인 Kids Web Services Ltd에서 제공하는 서비스인 키즈 웹 서비스(KWS)를 사용합니다. KWS는 다음에 이메일 주소를 사용하여 KWS 기술로 구동되는 다른 게임/서비스에 접속할 때 연령을 인증한 사실을 기억하므로 다시 인증할 필요가 없습니다. Epic과 KWS는 이와 관련하여 이용자의 개인정보 취급에 대한 공동 책임이 있습니다. <a id="url" href="https://www.epicgames.com/site/parental-consent" style="EULA.Hyperlink">확인 가능한 부모 동의</> 및 KWS에 대한 자세한 내용은 <a id="url" href="https://www.kidswebservices.com/privacy-policy" style="EULA.Hyperlink">KWS 개인정보 처리방침</>을 참조하십시오.
+
+
+부모나 보호자가 해당 아동의 비제한 계정을 허락하면, 자녀 보호 기능이 자동으로 활성화됩니다. 그런 다음 PIN 코드를 사용하여 자녀 보호 기능에 액세스하고, 이를 통해 허락 과정에서 특정 기능에 대한 선택 사항을 변경하고, 자녀의 환경을 추가로 맞춤 설정할 수 있습니다. <a id="url" href="https://www.epicgames.com/site/parental-controls" style="EULA.Hyperlink">자녀 보호 기능에 대해 자세히 알아보세요</>.
+
+
+일단 부모가 해당 아동의 비제한 계정을 승인하고 나면, 본 개인정보 처리방침에 기술된 개인정보 처리관행이 전반적으로 적용되지만, 청소년 이용자는 모든 콘텐츠나 기능을 이용하지 못할 수 있습니다(당사의 기본 개인정보 보호 설정, 특정 서비스 및 기능에 대한 연령 요건, 및/또는 자녀 보호 기능 적용으로 인해). 자녀 보호 설정 및 이용자의 연령에 따라, 이용자는 커뮤니케이션 및 소셜 기능(채팅 등)에 액세스하고, 대부분의 Epic Services와 자유롭게 상호 작용할 수 있습니다(Epic Games Store에서 다른 게임을 다운로드하는 등). 이용자가 제3자 게임이나 앱에 Epic Games Store를 통해 액세스하면, 거래 및 제품 기능을 활성화하기 위해 일부 계정 정보가 해당 게임이나 앱의 퍼블리셔 또는 개발사와 공유됩니다. 다운로드하기 전에 각 제품 목록에서 개발자와 퍼블리셔를 확인하거나 <a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink">퍼블리셔 색인</>을 확인할 수 있습니다. Epic과 해당 제3자와 정보 공유에 대한 궁금한 사항은 아래 연락처로 문의하여 주십시오. 자세한 내용은 위 “당사가 수집하는 정보”, “당사의 정보 사용 방법” 및 “당사의 정보 공유 방법”을 확인하십시오.
+
+
+<EULA.Highlight>B. 아동 및 부모 개인정보 보호 권리</>
+
+
+아동과 부모는 <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">아래 6항</>에 설명된 개인의 개인정보 보호 권리를 행사할 수 있습니다. 자녀 보호 기능은 부모 및 보호자가 해당 아동의 음성 채팅 같은 특정 기능 이용에 관해 선택한 선택 사항을 변경할 수 있습니다. 부모 및 보호자는 또한 Epic Games가 보유한 아동의 개인정보를 검토하고, 해당 아동의 Epic 계정을 삭제할 수 있습니다(이는 개인정보를 삭제하고 더 이상의 수집을 중단합니다). 이러한 권리를 행사하거나 아동의 개인정보를 처리하는 방법에 대한 궁금한 사항은 아래 ‘연락처’ 섹션을 참조하시거나, 당사의 <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">부모 지원 요청 양식</>을 통해 문의할 수 있습니다.
+
+
+<EULA.Header>6. 정보 주체의 선택 및 통제</>
+
+
+당사가 수집하는 개인정보에 대해 의미 있는 선택을 할 수 있도록 당사는 노력하고 있습니다. 이용 가능한 선택 사항은 이용하는 Epic Services 등 당사와 이용자 간 관계의 성격에 따라 달라집니다. 일반적인 예는 다음과 같습니다.
+
+
+• 당사가 이용자로부터 수집한 개인정보에 대한 액세스 제공 또는 수정 또는 삭제를 요청할 수 있습니다. 아래 “연락처”에 기술된 대로 당사에 연락하여 Epic 계정 관련 개인정보에 대한 액세스, 업데이트 또는 삭제 요청을 제출하십시오. 당사는 요청을 이행하기 전에 본인 확인을 위해 추가 정보를 요청할 수 있습니다.
+
+
+• 해당되는 경우 자동화된 수단을 통해 내린 결정에 대해 이의를 제기하거나 사람이 검토하도록 요청할 수도 있습니다.
+
+
+• 당사 마케팅 이메일에 제공된 수신 거부 메커니즘을 사용하거나 Epic 계정 설정을 업데이트하거나 당사에 요청을 보내 언제든지 이메일 마케팅 기본 설정을 변경할 수 있습니다(아래 “연락처” 참조).
+
+
+• 다른 당사자의 웹사이트(예: 소셜 네트워크) 또는 플랫폼(예: 콘솔 제공업체)에서 개인정보 설정을 변경하여 당사와 공유할 수 있는 정보를 제한할 수 있습니다.
+
+
+• 브라우저 또는 모바일 기기 설정을 변경하여 쿠키와 같은 추적 기술을 차단, 관리, 삭제 또는 제한할 수 있습니다. 경우에 따라 쿠키를 차단하거나 비활성화하면 Epic Services가 의도된 대로 작동하지 않을 수도 있으며 일부 기능을 사용하지 못할 수도 있습니다.
+
+
+• 만 18세 미만이며 Epic 계정을 보유한 경우, Epic Services에 제공한 특정 콘텐츠를 제거하거나 익명화하도록 요청할 수 있습니다. 아래 “연락처”에 기술된 대로 Epic Services의 콘텐츠 삭제 또는 편집 도움 요청을 Epic에 보내주십시오.
+
+
+• 부모와 보호자는 <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">자녀 보호 기능</>을 사용하여 자녀의 Epic 계정 설정을 조정할 수 있습니다.
+
+
+세계의 일부 지역에서는 현지 법률에 따른 권리로서 개인정보와 관련된 특정 선택권을 개인에게 제공합니다.
+
+
+<EULA.Header>7. 당사 글로벌 운영</>
+
+
+Epic Games, Inc.는 미국에 기반을 두고 있지만 전 세계 이용자에게 Epic Services에 대한 더 나은 경험을 제공하기 위해 전 세계적으로 운영하고 있습니다. 당사는 다양한 방식으로 이러한 운영을 지원하기 위해 전 세계에 자회사, 사무소, 서비스 제공업체 및 파트너를 보유하고 있습니다. 예를 들어 Fall Guys의 개발자는 영국에 기반을 둔 Mediatonic Limited라는 자회사입니다. 이는 Epic이 거주하는 지역 이외의 장소에서 Epic Services 사용과 관련하여 수집한 정보를 처리할 수 있음을 의미합니다.
+
+
+<EULA.Highlight>A. 데이터 이전</>
+
+
+Epic Services를 이용할 때 이용자의 정보는 당사 또는 당사의 서비스 제공업체가 운영되는 미국 또는 기타 국가로 이전되거나 저장될 수 있습니다. 이들 국가의 데이터 보호 법과 규칙은 거주하는 국가와 다를 수 있습니다. 당사는 적절한 경우 수집 국가 외부로 정보 이전을 합법적으로 지원하기 위해 다양한 법적 메커니즘에 의존합니다. 현지 법률에 따라 허용되는 경우 Epic Services를 사용하여 당사가 사업을 운영하는 모든 위치(미국 포함)에서 Epic이 개인정보를 처리할 수 있도록 승인합니다.
+
+
+이용하는 Epic Services의 운영을 책임지는 Epic 법인에 관한 추가 정보는 아래의 “연락처”를 참조하십시오.
+
+
+<EULA.Highlight>B. 캘리포니아주 거주자</>
+
+
+캘리포니아 소비자 개인정보보호법 또는 “CCPA”는 캘리포니아에 거주하는 소비자에게 개인정보에 대한 일정한 권리를 부여합니다. 캘리포니아 거주자인 경우 이용자는 (1) 당사가 수집, 사용 및 공개하는 개인정보의 범주 및 특정 부분에 대한 자세한 정보 요청 권리, (2) 개인정보 삭제 요청 권리, (3) 개인정보 판매 거부 권리(있는 경우), (4) 이러한 권리 행사를 이유로 차별 받지 않을 권리를 가질 수도 있습니다.
+
+
+이용자 또는 권한을 부여한 대리인은 아래 “연락처”에 기술된 대로 당사에 연락하여 이러한 요청을 할 수 있습니다. 당사가 요청을 완료하기 전에 본인 확인을 위해 추가 정보를 요청할 수 있습니다. 권한 있는 대리인으로부터 요청을 받으면 당사는 이용자가 해당 대리인에게 권한을 위임한 증거를 요청할 수 있습니다. CCPA에 따라 권리를 행사하더라도 당사는 이용자를 차별하지 않습니다.
+
+
+당사는 CCPA에 기술된 대로 다음 범주의 개인정보를 수집합니다.
+
+
+• 식별자(예: 이메일 주소)
+
+
+• 인구 통계 정보(예: 연령)
+
+
+• 상업적 정보(자격 또는 구매 이력 포함)
+
+
+• 인터넷 또는 전자 네트워크 활동(예: 게임 플레이 또는 웹사이트 사용 세부 정보)
+
+
+• 오디오, 전자, 영상 또는 이와 유사한 정보(예: 음성 채팅)
+
+
+• 지리적 위치 정보(예: IP 주소에서 파생되거나 청구 정보에 포함된 정보)
+
+
+• 캘리포니아 법률에 정의된 기타 “개인정보”(예: 신용카드 또는 직불카드 정보)
+
+
+• 이러한 범주에서 도출된 추론(예: 구매 이력을 기반으로 선호할 수 있는 게임 장르에 대한 정보)
+
+
+당사가 수집하는 정확한 데이터 포인트 및 당사가 해당 정보를 얻은 출처의 범주에 대한 자세한 내용은 위에 명시된 “당사가 수집하는 정보”를 참조하십시오. 당사는 위에 명시된 “당사의 정보 사용 방법”에 기술된 비즈니스 및 상업적 목적으로 개인정보를 수집합니다.
+
+
+Epic은 당사가 수집하는 개인정보를 판매하거나 공유하지 않습니다(CCPA에 정의). 그러나 당사는 본 방침에서 설명된 대로 개인정보를 공개합니다(위에 명시된 “당사의 정보 공유 방법” 참조). 지난 12개월 동안 당사는 다음 범주의 수신자에게 개인정보를 공개했습니다.
+
+
+• 사업 파트너(예: 당사에 Epic Games Store에서 구매한 게임 개발자와 이메일 주소 공유를 요청하는 경우)
+
+
+• 기타 Epic 법인(예: 특정 Epic Services를 지원하는 자회사)
+
+
+• 다른 이용자(예: Epic Services에서 채팅 또는 소셜 기능을 사용하는 경우)
+
+
+• 서비스 제공업체(위에 명시된 “당사의 정보 공유 방법”에 설명 참조)
+
+
+• 운영 체제 및 플랫폼
+
+
+• 법적 요청에 부응하여 정부 기관 또는 기타 제3자
+
+
+<EULA.Highlight>C. 유럽 경제 지역, 영국 및 스위스 거주자</>
+
+
+유럽 경제 지역(EEA), 영국(UK) 또는 스위스에 거주하는 경우 이용자는 개인 데이터 처리 방식에 관한 특정 권리를 가지고 있습니다.
+
+
+<EULA.Highlight>데이터 주체 권리</>
+
+
+Epic Services를 통해 당사가 수집한 개인 데이터에 액세스, 수정 또는 삭제할 권리가 있습니다. 또한 이용자가 제공한 개인 데이터의 휴대용 사본에 대한 권리가 있으며, 직접 마케팅과 같은 목적으로 개인 데이터를 처리하는 것을 반대하거나 제한할 수 있습니다. 해당되는 경우, 자동화된 수단에 의해 내려진 결정에 대해 사람의 검토를 요청하거나 이의를 제기할 수 있습니다. 당사의 데이터 처리에 동의한 경우, 동의를 철회할 권리가 있습니다.
+
+
+또한 현지 데이터 보호 감독 기관(거주 국가에 있는 경우)에 연락하여 당사에 대한 불만을 제기할 수 있습니다. 그러나 데이터 보호 규제 기관에 연락하기 전에 당사가 이용자의 우려 사항을 해결할 수 있는 기회를 주시기 바라며 우려 사항을 당사에 먼저 직접 연락해 주시기를 바랍니다.
+
+
+우려 사항과 관련하여 Epic에 연락하는 방법은 아래 “연락처” 섹션을 참조하십시오. 현지 데이터 보호 기관에 대한 자세한 내용은 아래에서 확인할 수 있습니다.
+
+
+• EEA: <a id="url" href="https://www.edpb.europa.eu/about-edpb/about-edpb/members" style="EULA.Hyperlink">유럽 데이터 보호 당국</> 
+
+
+• 영국: <a id="url" href="https://ico.org.uk/global/contact-us/" style="EULA.Hyperlink">정보 보호 위원회</>
+
+
+• 스위스: <a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">연방 데이터 보호 및 정보 위원회</> 
+
+
+<EULA.Highlight>처리 근거</>
+
+
+당사가 개인 데이터를 처리하기 위해 의존하는 법적 근거는 이용하는 Epic Services 및 이러한 서비스와 상호 작용하는 방식에 따라 다릅니다. 여기에는 주로 다음이 포함됩니다.
+
+
+• <EULA.Highlight>계약상 필요:</> 당사는 서비스 약관 또는 체결한 기타 유사한 계약에 따라 요청한 Epic Services를 수행하기 위해 개인 데이터를 처리합니다. 예를 들어, 당사는 계정 설정 및 유지, 구매 처리, 이용자 인증, 이용자 경험 기능 제공(예: 기본 설정 저장), Epic Services 모니터링 및 분석, 사기, 부정 행위 또는 기타 유사한 오용의 탐지 및 방지, 한 플랫폼에서 게임을 플레이하고 다른 플랫폼에서 계속 게임을 진행할 수 있도록 하는 교차 진행과 같은 기능을 용이하게 하기 위해(이 경우에 당사가 제3자 파트너와 정보를 공유해야 할 수 있습니다), 계정, 거래 또는 기타 업데이트에 대해 연락하기 위해 개인 데이터를 처리합니다. 또한 당사는 이용자와 관계를 관리하기 위해 계약 이행에 의존하는데, 여기에는 지원 요청 또는 일반 문의에 응답하고 이용자에게 관련 약관 또는 방침 변경 사항을 통지하는 것이 포함됩니다.
+
+
+• <EULA.Highlight>정당한 이익:</> 당사는 이용자의 개인정보 보호 권리에 대한 잠재적 영향과 균형을 이루면서 Epic의 비즈니스 목적에 필요한 개인 데이터를 처리합니다. 여기에는 이용자와 소통하고, 요청에 응하거나 업데이트 및 정보를 제공하고, 이용자와 선호 사항을 면밀히 파악하고, 이용자의 경험을 개인화하고, 선호 사항을 저장하고, 이용자를 인증하고, 유사한 이용자 경험 기능을 제공하고, Epic Services 및 기타 제품(일부는 다른 당사자와 제휴하여 제공할 수 있음)을 개발, 제공 및 개선하고, 광고 또는 프로모션 제안을 관리 및 맞춤화하고, (게임 내) 구매를 관리하고, Epic Services의 보안을 유지 및 보호하고, 감사, 데이터 분석 및 기타 정당한 사업 운영을 지원하고, 사기 또는 유해하거나 피해를 주거나 불법적인 콘텐츠나 당사 약관을 위반하는 행위를 방지 또는 조정하는 등 이용자가 합리적으로 예상할 수 있는 많은 일반적인 목적이 포함됩니다. 이러한 사업상 목적을 지원하기 위해 당사는 서비스 내 유해하고, 피해를 유발하며, 사기성 콘텐츠를 식별하기 위한 목적으로 머신 러닝 기술을 구축, 개선 및 사용합니다. 이러한 기술로 확인된 콘텐츠는 사람의 검토를 거칩니다. 그 외에는 해당되는 경우 자동화된 결정에 대한 사람의 검토를 요청할 수 있습니다.
+
+
+• <EULA.Highlight>법적 의무:</> 당사는 관련 법적 절차에 따라 법 집행 기관 또는 기타 공무원의 합법적인 요청에 응하거나, Epic Services상의 불법 콘텐츠 또는 행위를 식별 또는 조정하거나, 관련 청소년 보호법을 준수하기 위해 생년월일을 처리하는 등 법적 의무를 준수하는 데 필요한 경우 개인정보를 처리합니다.
+
+
+• <EULA.Highlight>동의:</> 당사는 이용자가 데이터 처리에 동의하면 개인 데이터를 처리합니다. 개인정보가 요청된 목적대로 처리되지 않기를 바라는 경우 동의하실 필요가 없으며, 언제든지 동의를 철회할 수 있습니다.
+
+
+<EULA.Header>8. 보관</>
+
+
+당사가 처리하는 개인정보 유형 및 처리 이유는 이용자가 Epic Services를 사용하는 방식에 따라 다르기 때문에 당사가 이를 보관하는 기간도 달라질 수 있습니다. 당사는 일반적으로 법률에 장기 보관 기간이 명시되거나 허용되는 경우를 제외하고 본 방침에 기술된 목적(예: 법적 의무 준수, 내부 기록 관리, 약관 행사 및 분쟁 해결)을 위해 합리적으로 필요한 기간 동안만 개인정보를 저장합니다.
+
+
+구체적인 보관 기간을 결정할 때 당사가 고려하는 주요 기준에는 종종 관련 법률에 따른 최소 요구 사항, 관련 업계 표준, 문제가 되는 데이터 유형(예: 민감도 수준), 잠재적 소송 또는 유사한 소송과의 관련성(예: 법적 청구에 대한 방어) 그리고 Epic Services의 사기 또는 유사한 남용을 방지하기 위해 데이터가 필요한지 여부(속임수 및 기타 승인되지 않은 행동에 대한 금지 사항의 시행 포함)가 포함됩니다. 예를 들어, 이용자가 Epic 계정을 만드는 경우, 당사는 계정을 유지하고, 요청한 Epic Services를 제공하고, Epic Services 이용에 적용되는 해당 약관을 집행하고, 당사가 어떻게 이용자에게 Epic Services를 제공하였는지를 반영할 수 있는 적절한 기록을 유지하기 위하여 필요한 기간 동안 Epic 계정과 관련된 개인정보를 저장합니다.
+
+
+Epic이 개인 데이터를 삭제하도록 요청하는 방법에 대해 자세히 알아 보려면 위에 명시된 “정보 주체의 선택 및 통제” 및 “데이터 주체 권리”를 참조하십시오.
+
+
+<EULA.Header>9. 보안</>
+
+
+당사는 적절한 관리상, 기술적 및 물리적 보호 조치를 통해 개인정보가 사고, 불법 또는 무단 파괴, 분실, 변경, 액세스, 공개, 사용 및 기타 불법적 형태로 처리되지 않도록 보호합니다. 경우에 따라 당사에서 제공하는 기능에 로그인할 때 개인정보에 접근할 수 있으며, 이러한 경우 정보를 보호하기 위해 로그인 정보 및 비밀번호를 안전하게 기밀로 유지해야 합니다. 당사가 이용자의 개인정보에 대한 무단 공개를 알게 될 경우, 법에서 요구하는 대로 이용자에게 통지하고 이용자의 정보 보안을 위한 조치를 취할 것입니다.
+
+
+<EULA.Header>10. 업데이트</>
+
+
+당사는 당사의 관행 또는 관련 법률의 변경 사항을 반영하기 위해 본 방침을 수시로 업데이트할 것입니다. 그럴 경우에, 방침 상단에 명시된 날짜를 변경합니다. 경우에 따라 당사는 이메일이나 Epic Services 내에서 관련 변경 사항을 통지할 수도 있습니다. 이 정책을 정기적으로 검토하여 이용자와 Epic의 관계 및 당사가 Epic Services와 관련된 정보를 수집, 사용 및 공유하는 방법을 숙지하도록 하십시오.
+
+
+<EULA.Header>11. 연락처</>
+
+
+Epic Services에 관하여 질문이나 우려 사항(게임 관련 문제, Epic 계정 액세스 문제, 버그 또는 기타 기술적인 문제, 결제 문제, 또는 콘텐츠 및 자격 문제)이 있으면 당사의 플레이어 지원팀에 연락하시기 바랍니다. 제품 및 서비스에 대한 지원 요청 제출에 대해 다음에서 자세히 알아볼 수 있습니다.
+
+
+• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</>(예: Fortnite)
+
+
+• <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</>(예: Rocket League)
+
+
+• <a id="url" href="https://www.postparty.gg/faq" style="EULA.Hyperlink">Life on Air</>(예: Postparty)
+
+
+• <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Mediatonic</>(예: Fall Guys)
+
+
+당사의 개인정보 처리관행 또는 본 방침에 대한 자세한 내용은 privacy@support.epicgames.com, dpo@support.epicgames.com 또는 아래 나와 있는 해당 지역 관련 Epic Services를 제공하는 법인 연락처로 문의하시기 바랍니다. 620 Crossroads Blvd., Cary, NC 27518, USA에 위치한 Epic Games, Inc.로 우편(“수신: 법무 부서”로 표시)으로 연락할 수도 있습니다.
+
+<EULA.Highlight>미국 외 지역에 거주하는 경우, 사용 중인 제품 또는 서비스와 관련된 다른 연락처 정보는 아래를 참조하십시오.</>
+
+<EULA.Highlight>Epic Games Store를 사용하는 경우</>
+
+• 데이터 관리자: Epic Games, Inc.
+
+• 주소: 620 Crossroads Blvd., Cary, NC 27518, USA 
+
+• 개인정보 보호 책임자: dpo@support.epicgames.com
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com) 
+
+<EULA.Highlight>Fortnite와 같이 Epic Games가 제공하고 본 개인정보 처리방침에 연결되는 모든 게임을 이용하는 경우:</>
+
+• 데이터 관리자: Epic Games Entertainment International GmbH
+
+• 주소: Platz 10, 6039 Root D4, Switzerland
+
+• 개인정보 보호 책임자: dpo@support.epicgames.com
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com) 
+
+<EULA.Highlight>Unreal Engine과 같이 Epic Games에서 제공하고 본 개인정보 처리방침이 링크된 기타 모든 제품 또는 서비스를 이용하는 경우:</>
+
+• 데이터 관리자: Epic Games Commerce GmbH
+
+• 주소: Platz 10, 6039 Root D4, Switzerland
+
+• 개인정보 보호 책임자: dpo@support.epicgames.com
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com) 
+
+<EULA.Highlight>Fall Guys와 같이 Mediatonic에서 제공하고 본 개인정보 처리방침이 링크된 기타 모든 제품 또는 서비스를 이용하는 경우:</>
+
+• 데이터 관리자: Mediatonic Limited
+
+• 주소: Octagon Point, 5 Cheapside, London, EC2V 6AA, United Kingdom
+
+• 담당자: privacy@support.epicgames.com
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com) 
+
+<EULA.Highlight>Rocket League와 같이 Psyonix가 제공하고 본 개인정보 처리방침이 링크된 기타 모든 제품 또는 서비스를 이용하는 경우:</>
+
+• 데이터 관리자: Psyonix LLC
+
+• 주소: 401 A St. #4200, San Diego, CA 92101, USA
+
+• 담당자: privacy@support.epicgames.com
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com) 
+
+<EULA.Highlight>Kids Web Services Ltd에서 제공하는 KWS 서비스를 이용하는 경우:</>
+
+• 데이터 관리자: Epic과 공동 컨트롤러인 Kids Web Services Ltd
+
+• 주소: Octagon Point, 5 Cheapside, London, EC2V 6AA, United Kingdom
+
+• 담당자: privacy@kidswebservices.com
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com) 
+
+<EULA.Highlight>Postparty와 같이 Life on Air에서 제공하고 본 개인정보 처리방침이 링크된 기타 모든 제품 또는 서비스를 이용하는 경우:</>
+
+• 데이터 관리자: Life on Air, Inc.
+
+• 주소: 620 Crossroads Blvd., Cary, NC 27518, USA
+
+• DPO: privacy@support.epicgames.com
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com) 
+
+<EULA.Highlight>Horizon Chase 2와 같이 Aquiris에서 제공하고 본 개인정보 처리방침이 링크된 기타 모든 제품 또는 서비스를 이용하는 경우:</>
+
+• 데이터 관리자: Aquiris Games Studio LLC
+
+• 주소: c/o IBCPA, 20801 Biscayne Blvd, Ste 403, Office 415, Aventura, Florida, 33180, USA
+
+• 개인정보 보호 책임자: dpo@aquiris.com.br
+
+• EU/UK 법인: Mishcon de Reya (representative@mishcon.com)
+
+

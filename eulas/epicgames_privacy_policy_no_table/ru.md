@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67869275bb0dea0455c7e071` |
+| `id` | `6789282b0c4a0463ba68cf14` |
 | `key` | `epicgames_privacy_policy_no_table` |
 | `version` | `1` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `EPIC GAMES PRIVACY POLICY` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2025-01-14T16:36:05.647Z` |
-| `lastModifiedTimestamp` | `2025-01-14T16:36:05.647Z` |
+| `createdTimestamp` | `2025-01-16T15:39:23.136Z` |
+| `lastModifiedTimestamp` | `2025-01-16T15:39:23.136Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/ru/v1/r2/7e80492ccb64c54604c436496e071c4c.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/ru/v1/r3/0f14a0809f0f4748b5a3045761b239a6.pdf` |
 | `bodyFormat` | `MD` |
