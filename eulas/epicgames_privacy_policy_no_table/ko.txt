@@ -435,6 +435,28 @@ Epic Services에 관하여 질문이나 우려 사항(게임 관련 문제, Epic
 
 당사의 개인정보 처리관행 또는 본 방침에 대한 자세한 내용은 privacy@support.epicgames.com, dpo@support.epicgames.com 또는 아래 나와 있는 해당 지역 관련 Epic Services를 제공하는 법인 연락처로 문의하시기 바랍니다. 620 Crossroads Blvd., Cary, NC 27518, USA에 위치한 Epic Games, Inc.로 우편(“수신: 법무 부서”로 표시)으로 연락할 수도 있습니다.
 
+또한 회사는 고객의 개인정보를 보호하고 개인정보와 관련한 불만을 처리하기 위하여 아래와 같이 개인정보보호 국내 대리인을 지정하고 있습니다.
+ 
+개인정보 보호 책임자(국내 대리인)
+성명: 박성철
+직위: 대표
+전자우편: <a id="url" href="mailto:egk-help@epicgames.com" style="EULA.Hyperlink">egk-help@epicgames.com</>
+전화번호: 070-7718-5712
+주소: 서울특별시 강남구 언주로 855
+
+
+아래에 있는 에픽 법인은 귀하의 지역에 에픽 서비스를 제공할 책임을 지고 본 방침에 따라 수집된 개인 데이터의 관리자 역할을 합니다.
+
+이용자는 회사의 서비스를 이용하면서 발생하는 모든 개인정보보호 관련 민원을 개인정보보호 국내 대리인에게 신고하실 수 있습니다.
+에픽은 이용자들의 신고 또는 불편 사항에 대해 신속하고 충분한 답변을 드릴 것입니다.
+
+추가로 기타 개인정보침해에 대한 신고나 상담이 필요하신 경우에는 아래 기관에 문의하시기 바랍니다.
+ 
+1. 개인정보침해신고센터 (<a id="url" href="http://privacy.kisa.or.kr/" style="EULA.Hyperlink">privacy.kisa.or.kr</> / ☎ 국번없이 118)
+2. 대검찰청 사이버수사과 (<a id="url" href="http://spo.go.kr/" style="EULA.Hyperlink">spo.go.kr</> / ☎ 국번없이 1301)
+3. 경찰청 사이버안전국 (<a id="url" href="http://cyberbureau.police.go.kr/" style="EULA.Hyperlink">cyberbureau.police.go.kr</> / ☎ 국번없이 182)
+4. 개인정보분쟁조정위원회 (<a id="url" href="http://kopico.go.kr/" style="EULA.Hyperlink">kopico.go.kr</> / ☎ 국번없이 1833-6972)
+
 <EULA.Highlight>미국 외 지역에 거주하는 경우, 사용 중인 제품 또는 서비스와 관련된 다른 연락처 정보는 아래를 참조하십시오.</>
 
 <EULA.Highlight>Epic Games Store를 사용하는 경우</>
