@@ -338,7 +338,7 @@ You agree that this Agreement does not confer any rights or remedies on any pers
 
 Any end-user questions, complaints or claims with respect to the Software should be directed to help@fortnite.com.
 
-<EULA.Header> Disclosure Requirement - Monthly Active Users in the EU (Updated August 16, 2024) </>
-The estimated average monthly active recipients in the European Union of Fortnite for the past six months was 19.4M.
-The estimated average monthly active recipients in the European Union of Fortnite.com for the past six months was 2.3M.
+<EULA.Header>Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2025)</>
+The estimated average monthly active recipients in the European Union of Fortnite for the past six months was 22.1M.
+The estimated average monthly active recipients in the European Union of Fortnite.com for the past six months was 3.6M.
 Users who accessed more than one of Epic’s services or products in a given month are counted as a user for each service or product.

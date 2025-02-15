@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bad8b9187662618c6a41` |
+| `id` | `67afd67007045b204bd377ee` |
 | `key` | `fn` |
 | `version` | `9` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Лицензионное соглашение с конечным пользователем продукта Fortnite®` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2024-12-20T00:31:20.453Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:31:20.453Z` |
+| `createdTimestamp` | `2025-02-14T23:49:04.398Z` |
+| `lastModifiedTimestamp` | `2025-02-14T23:49:04.398Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/ru/v9/r2/0df3e743397c4f4d4a4caca846dc859a.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/ru/v9/r3/9bd563c6d10af71dd9bf958eb2ea6c49.pdf` |
 | `bodyFormat` | `HTML` |
