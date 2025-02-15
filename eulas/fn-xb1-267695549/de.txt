@@ -359,10 +359,8 @@ Die folgenden zusätzlichen Bedingungen gelten in Bezug auf Software, die für d
 
 Die Software kann Ihnen die Möglichkeit bieten, Zahlungen über die In-App-Kauf-APIs von Samsung durchzuführen. Für den Fall, dass Sie eine Zahlung unter Verwendung von Samsungs In-App-Käufen tätigen, gelten die Geschäftsbedingungen der Samsung-GALAXY-Apps, die Sie mit Samsung Electronics Co., Ltd (oder seinen verbundenen Unternehmen) über die Nutzung von Samsungs In-App-Käufen abgeschlossen haben, und die entsprechenden Bedingungen gelten für die Zahlung und alle mit dieser Zahlung verbundenen Rückerstattungen.
 
-<EULA.Highlight>Offenlegungspflicht – Monatliche aktive Benutzer in der EU (aktualisiert am 16. August 2024)</>
+<EULA.Highlight>Offenlegungspflicht – Monatliche aktive Benutzer in der EU (aktualisiert am 14. Februar 2025)</>
 
-Die geschätzte durchschnittliche Zahl der monatlich aktiven Empfänger von Fortnite in der Europäischen Union lag in den letzten sechs Monaten bei 19,4 Millionen.
-
-Die geschätzte durchschnittliche Zahl der monatlich aktiven Empfänger von Fortnite.com in der Europäischen Union lag in den letzten sechs Monaten bei 2,3 Millionen.
-
+Die geschätzte durchschnittliche Zahl der monatlich aktiven Empfänger von Fortnite in der Europäischen Union lag in den letzten sechs Monaten bei 22,1 Millionen.
+Die geschätzte durchschnittliche Zahl der monatlich aktiven Empfänger von Fortnite.com in der Europäischen Union lag in den letzten sechs Monaten bei 3,6 Millionen.
 Benutzer, die in einem bestimmten Monat mehr als einen Dienst oder ein Produkt von Epic in Anspruch genommen haben, werden für jeden Dienst oder jedes Produkt als ein Benutzer gezählt.

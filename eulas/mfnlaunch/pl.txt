@@ -304,10 +304,8 @@ Użytkownik przyjmuje, że na mocy niniejszej Umowy nie przyznaje się żadnego 
 
 Zobowiązania Epic podlegają istniejącemu prawu i postępowaniom prawnym, a Epic może stosować się do wniosków bądź wymogów organów porządkowych lub regulacyjnych mimo warunków sprzecznych zawartych w niniejszej Umowie.
 
-<EULA.Highlight>Wymóg ujawniania informacji – miesięczna liczba aktywnych użytkowników w UE (zaktualizowano 16 sierpnia 2024 r.)</>
+<EULA.Highlight>Wymóg ujawnienia informacji – comiesięczni aktywni użytkownicy w UE (aktualizacja: 14 lutego 2025 r.)</>
 
-Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 19,4 mln.
-
-Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite.com w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 2,3 mln.
-
-Użytkownicy, którzy uzyskali dostęp do więcej niż jednej usługi lub produktu Epic w danym miesiącu, są liczeni osobno dla każdej usługi lub produktu.
+Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 22,1 mln.
+Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite.com w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 3,6 mln.
+Użytkownicy, którzy uzyskali dostęp do więcej niż jednej usługi albo produktu Epic w danym miesiącu, są liczeni jako użytkownik w odniesieniu do każdej usługi albo produktu.

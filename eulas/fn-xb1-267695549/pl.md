@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bc75a8dcd66ae51846ca` |
+| `id` | `67affb4eb9aa3f09c883c7e4` |
 | `key` | `fn-xb1-267695549` |
 | `version` | `5` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Umowa licencyjna użytkownika końcowego oprogramowania Fortnite®` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2024-12-20T00:38:13.853Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:38:13.853Z` |
+| `createdTimestamp` | `2025-02-15T02:26:22.040Z` |
+| `lastModifiedTimestamp` | `2025-02-15T02:26:22.040Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/pl/v5/r2/0d3ae3ad47cfe8c2ba25991491546ee6.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/pl/v5/r3/5de77e1b973ae52024d7d60c48aa5364.pdf` |
 | `bodyFormat` | `HTML` |

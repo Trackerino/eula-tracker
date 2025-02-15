@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bf7eb9187662618c6a47` |
+| `id` | `67afdecfc7d179189dbfee41` |
 | `key` | `mfnlaunch` |
 | `version` | `2` |
-| `revision` | `2` |
+| `revision` | `4` |
 | `title` | `Fortnite® 行動終端使用者授權協定` |
 | `locale` | `zh-HK` |
-| `createdTimestamp` | `2024-12-20T00:51:10.941Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:51:10.941Z` |
+| `createdTimestamp` | `2025-02-15T00:24:47.476Z` |
+| `lastModifiedTimestamp` | `2025-02-15T00:24:47.476Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/zh-HK/v2/r2/c99ffbddcc91c901dd7a3378d855a9a4.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/zh-HK/v2/r4/5b902b03244fa049039ff54eed23c641.pdf` |
 | `bodyFormat` | `HTML` |

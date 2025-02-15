@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bf2c7e54d21da784fcbc` |
+| `id` | `67afdb24b9aa3f09c883c798` |
 | `key` | `mfnlaunch` |
 | `version` | `2` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Fortnite®モバイルエンドユーザーライセンス契約` |
 | `locale` | `ja` |
-| `createdTimestamp` | `2024-12-20T00:49:48.136Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:49:48.136Z` |
+| `createdTimestamp` | `2025-02-15T00:09:08.061Z` |
+| `lastModifiedTimestamp` | `2025-02-15T00:09:08.061Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/ja/v2/r2/580444967fe42b8bb6f9cc4fa424a420.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/ja/v2/r3/300cc3d4d1c0ecd8047aa301c1cb1ce3.pdf` |
 | `bodyFormat` | `HTML` |

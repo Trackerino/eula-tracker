@@ -359,10 +359,8 @@ Następujące dodatkowe warunki obowiązują w zakresie Oprogramowania dostępne
 
 Oprogramowanie może zapewniać użytkownikowi możliwość dokonywania płatności poprzez interfejs API firmy Samsung do zakupów w aplikacji. Jeśli użytkownik dokona płatności przy pomocy Samsung In-App-Purchase (zakup w aplikacji), mają zastosowanie Warunki dotyczące aplikacji Samsung GALAXY obowiązujące między użytkownikiem a Samsung Electronics Co., Ltd. (albo jej jednostkami stowarzyszonymi) odnośnie do wykorzystania Samsung In-App-Purchase; równoważne warunki obowiązują wobec płatności i wszelkich zwrotów kosztów związanych z takimi płatnościami.
 
-<EULA.Highlight>Wymóg ujawnienia informacji – comiesięczni aktywni użytkownicy w UE (aktualizacja: 16 sierpnia 2024 r.)</>
+<EULA.Highlight>Wymóg ujawnienia informacji – comiesięczni aktywni użytkownicy w UE (aktualizacja: 14 lutego 2025 r.)</>
 
-Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 19,4 mln.
-
-Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite.com w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 2,3 mln.
-
+Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 22,1 mln.
+Szacowana średnia miesięczna liczba aktywnych odbiorców Fortnite.com w Unii Europejskiej w ciągu ostatnich sześciu miesięcy wyniosła 3,6 mln.
 Użytkownicy, którzy uzyskali dostęp do więcej niż jednej usługi albo produktu Epic w danym miesiącu, są liczeni jako użytkownik w odniesieniu do każdej usługi albo produktu.

@@ -359,10 +359,8 @@ Aplicam-se os seguintes termos e condições adicionais relativamente ao Softwar
 
 O Software pode permitir que o Utilizador efetue pagamentos através das IPA da Samsung de Compra na Aplicação. Caso o Utilizador efetue um pagamento recorrendo à Compra na Aplicação da Samsung, os Termos e Condições das Aplicações Samsung Galaxy que celebrou com a Samsung Electronics Co., Ltd. (ou com as respetivas filiais) relativamente à utilização da Compra na Aplicação da Samsung e os respetivos termos correspondentes aplicar-se-ão ao pagamento e a quaisquer reembolsos relacionados com o mesmo.
 
-<EULA.Highlight>Requisito de Divulgação – Utilizadores Ativos Mensais na UE (Atualizado a 16 de agosto de 2024)</>
+<EULA.Highlight>Requisito de Divulgação – Utilizadores Ativos Mensais na UE (Atualizado a 14 de fevereiro de 2024)</>
 
-Nos últimos seis meses, a média mensal estimada de destinatários ativos do Fornite na União Europeia foi de 19,4 milhões.
-
-Nos últimos seis meses, a média mensal estimada de destinatários ativos do Fornite.com na União Europeia foi de 2,3 milhões.
-
+Nos últimos seis meses, a média mensal estimada de destinatários ativos do Fortnite na União Europeia foi de 22,1 milhões.
+Nos últimos seis meses, a média mensal estimada de destinatários ativos do Fortnite.com na União Europeia foi de 3,6 milhões.
 Os utilizadores que acederam a mais do que um dos serviços ou produtos da Epic num determinado mês são contabilizados como um utilizador individual para cada serviço ou produto.

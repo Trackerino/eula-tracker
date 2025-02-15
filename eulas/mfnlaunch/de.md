@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764beebe1dbe3521df7d57c` |
+| `id` | `67afd9dfddd8ae56eadc4ab6` |
 | `key` | `mfnlaunch` |
 | `version` | `2` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `FORTNITE® ENDBENUTZER-LIZENZVEREINBARUNG FÜR MOBILGERÄTE` |
 | `locale` | `de` |
-| `createdTimestamp` | `2024-12-20T00:48:43.202Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:48:43.202Z` |
+| `createdTimestamp` | `2025-02-15T00:03:43.178Z` |
+| `lastModifiedTimestamp` | `2025-02-15T00:03:43.178Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/de/v2/r2/94b26250b1114454d890e907e696f514.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/de/v2/r3/c14f18412d5e7684f747b00efd10009c.pdf` |
 | `bodyFormat` | `HTML` |

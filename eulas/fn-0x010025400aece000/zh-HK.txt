@@ -403,8 +403,8 @@ Microsoft Corporation 及其任何關係企業（以下統稱「<EULA.Highlight>
 
 本軟體得讓您能夠透過 Samsung 的應用程式內購買 API 進行付款。如果您使用 Samsung 的應用程式內購買進行付款，則您針對使用 Samsung 的應用程式內購買而與 Samsung Electronics Co., Ltd.（或其關係企業）簽訂的 Samsung GALAXY 應用程式條款與條件及其同等條款，應適用於付款以及與該等付款相關之任何退款。
 
-<EULA.Highlight>披露要求 - 歐盟每月活躍使用者（2024 年 8 月 16 日更新）</>
+<EULA.Highlight>披露要求 - 歐盟每月活躍使用者（2024 年 2 月 14 日更新）</>
 
-過去六個月，歐盟 Fortnite 每月平均活躍收受者估計為 1,940 萬人。
-過去六個月中，歐盟 Fortnite.com 的每月平均活躍收受者估計為 230 萬人。
+過去六個月，歐盟 Fortnite 每月平均活躍收受者估計為 2,210 萬人。
+過去六個月中，歐盟 Fortnite.com 的每月平均活躍收受者估計為 360 萬人。
 於特定月份存取超過一項 Epic 服務或產品的使用者，將視為每項服務或產品的使用者。

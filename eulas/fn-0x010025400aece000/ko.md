@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bbca33878e6d65b80a16` |
+| `id` | `67affd769f519343e10447e8` |
 | `key` | `fn-0x010025400aece000` |
 | `version` | `5` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `포트나이트® 최종이용자 라이선스계약` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2024-12-20T00:35:22.917Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:35:22.917Z` |
+| `createdTimestamp` | `2025-02-15T02:35:34.440Z` |
+| `lastModifiedTimestamp` | `2025-02-15T02:35:34.440Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-0x010025400aece000/ko/v5/r2/97c96468fcfacd6872d5de1d62656888.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-0x010025400aece000/ko/v5/r3/b329c8b7d94d4ace3997e74bf8c32bbb.pdf` |
 | `bodyFormat` | `HTML` |

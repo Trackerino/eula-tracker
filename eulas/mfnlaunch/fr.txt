@@ -300,8 +300,8 @@ Vous convenez que le présent Contrat ne confère pas de droits ou de recours à
 
 Les obligations d’Epic sont soumises aux lois et procédures légales en vigueur, et Epic peut se conformer aux demandes ou exigences des autorités chargées de l’application de la loi ou de la réglementation, malgré toute clause contraire dans le présent Contrat.
 
-<EULA.Highlight>Obligations de divulgation - Utilisateurs actifs mensuels dans l'Union européenne (mise à jour le 16 août 2024)</>
+<EULA.Highlight>Obligation de divulgation - Nombre mensuel d’utilisateurs actifs dans l’UE (mis à jour le 14 février 2025)</>
 
-La moyenne mensuelle estimée des bénéficiaires actifs dans l'Union européenne de Fortnite pour les six derniers mois est de 19,4 millions.
-La moyenne mensuelle estimée des bénéficiaires actifs dans l'Union européenne de Fortnite.com pour les six derniers mois est de 2,3 millions.
-Les utilisateurs qui ont accédé à plus d'un service ou produit d'Epic au cours d'un mois donné sont comptés comme un utilisateur pour chaque service ou produit.
+La moyenne mensuelle estimée des bénéficiaires actifs de Fortnite dans l’Union européenne au cours des six derniers mois était de 22,1 millions.
+La moyenne mensuelle estimée des bénéficiaires actifs de Fortnite.com dans l’Union européenne au cours des six derniers mois était de 3,6 millions.
+Les utilisateurs qui ont accédé à plus d’un des services ou produits d’Epic au cours d’un mois donné sont comptés comme utilisateurs pour chaque service ou produit.

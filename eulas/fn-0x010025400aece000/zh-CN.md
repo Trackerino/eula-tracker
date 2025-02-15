@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bc09b9187662618c6a43` |
+| `id` | `67affdd83c8d734e9cdec910` |
 | `key` | `fn-0x010025400aece000` |
 | `version` | `5` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Fortnite®（堡垒之夜）最终用户许可协议` |
 | `locale` | `zh-CN` |
-| `createdTimestamp` | `2024-12-20T00:36:25.416Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:36:25.416Z` |
+| `createdTimestamp` | `2025-02-15T02:37:12.856Z` |
+| `lastModifiedTimestamp` | `2025-02-15T02:37:12.856Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-0x010025400aece000/zh-CN/v5/r2/7c21d969ab5e516cee76fa51e5d3e7a9.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-0x010025400aece000/zh-CN/v5/r3/ce43ac664dbd795003e946dc0393b51b.pdf` |
 | `bodyFormat` | `HTML` |

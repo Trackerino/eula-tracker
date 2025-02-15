@@ -361,10 +361,8 @@ I seguenti ulteriori termini e condizioni si applicano al Software disponibile p
 
 Il Software può fornire all’utente la possibilità di effettuare pagamenti tramite le API In-App-Purchase di Samsung. Nel caso in cui l’utente effettui un pagamento utilizzando In-App-Purchase di Samsung, al pagamento e agli eventuali rimborsi relativi a tale pagamento si applicheranno i Termini e condizioni delle app Samsung GALAXY stipulati dall’utente con Samsung Electronics Co., Ltd. (o le sue affiliate) per quanto riguarda l’utilizzo dell’In-App-Purchase di Samsung e i suoi termini equivalenti.
 
-<EULA.Highlight>Requisito di divulgazione - Utenti attivi mensili nell’UE (aggiornato al 16 agosto 2024)</>
+<EULA.Highlight>Requisito di divulgazione - Utenti attivi mensili nell’UE (aggiornato al 14 febbraio 2025)</>
 
-La media stimata dei destinatari attivi mensili nell’Unione europea di Fortnite.com negli ultimi sei mesi è stata di 19,4 milioni.
-
-La media stimata dei destinatari attivi mensili nell’Unione europea di Fortnite.com negli ultimi sei mesi è stata di 2,3 milioni.
-
+La media stimata dei destinatari attivi mensili nell’Unione europea di Fortnite.com negli ultimi sei mesi è stata di 22,1 milioni.
+La media stimata dei destinatari attivi mensili nell’Unione europea di Fortnite.com negli ultimi sei mesi è stata di 3,6 milioni.
 Gli utenti che hanno avuto accesso a più di un servizio o prodotto Epic in un dato mese sono conteggiati come un utente di ciascun servizio o prodotto.

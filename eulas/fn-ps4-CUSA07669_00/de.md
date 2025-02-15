@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bdb6a8dcd66ae51846cc` |
+| `id` | `67afe120c59e627f85f2c8c4` |
 | `key` | `fn-ps4-CUSA07669_00` |
 | `version` | `6` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Fortnite® Endnutzer-Lizenzvereinbarung` |
 | `locale` | `de` |
-| `createdTimestamp` | `2024-12-20T00:43:34.519Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:43:34.519Z` |
+| `createdTimestamp` | `2025-02-15T00:34:40.753Z` |
+| `lastModifiedTimestamp` | `2025-02-15T00:34:40.753Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07669_00/de/v6/r2/43d2e6de9437f3469c7a6a72defea8b2.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07669_00/de/v6/r3/f106c54ff18e66fa5aab8a82624df4de.pdf` |
 | `bodyFormat` | `HTML` |

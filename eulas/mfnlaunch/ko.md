@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6764bf3a9e754601bbd3e7a6` |
+| `id` | `67afdbc66afcce47bfd7d49f` |
 | `key` | `mfnlaunch` |
 | `version` | `2` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `FORTNITE® 모바일 최종 사용자 라이선스 계약` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2024-12-20T00:50:02.455Z` |
-| `lastModifiedTimestamp` | `2024-12-20T00:50:02.455Z` |
+| `createdTimestamp` | `2025-02-15T00:11:50.666Z` |
+| `lastModifiedTimestamp` | `2025-02-15T00:11:50.666Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/ko/v2/r2/1d2dc8364131f556600718d5b9fd667f.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/ko/v2/r3/0c6371206a73a476cb3ead606a7aadfd.pdf` |
 | `bodyFormat` | `HTML` |
