@@ -10,7 +10,7 @@
 | `locale` | `ar` |
 | `createdTimestamp` | `2025-02-15T00:33:30.382Z` |
 | `lastModifiedTimestamp` | `2025-02-15T00:33:30.382Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07669_00/ar/v6/r2/1855dd0b95db741fbacb194df0de8ced.pdf` |
 | `bodyFormat` | `HTML` |

@@ -10,7 +10,7 @@
 | `locale` | `ko` |
 | `createdTimestamp` | `2025-02-14T23:41:51.251Z` |
 | `lastModifiedTimestamp` | `2025-02-14T23:41:51.251Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/ko/v9/r3/48ff73273be3abb4a02caca72c80492d.pdf` |
 | `bodyFormat` | `HTML` |

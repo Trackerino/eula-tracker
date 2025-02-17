@@ -10,7 +10,7 @@
 | `locale` | `zh-HK` |
 | `createdTimestamp` | `2025-02-15T00:24:47.476Z` |
 | `lastModifiedTimestamp` | `2025-02-15T00:24:47.476Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/zh-HK/v2/r4/5b902b03244fa049039ff54eed23c641.pdf` |
 | `bodyFormat` | `HTML` |

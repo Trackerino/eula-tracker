@@ -10,7 +10,7 @@
 | `locale` | `zh-CN` |
 | `createdTimestamp` | `2025-02-14T23:50:36.056Z` |
 | `lastModifiedTimestamp` | `2025-02-14T23:50:36.056Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/zh-CN/v9/r3/50aa8c682fc64001eba4bf708706f6c3.pdf` |
 | `bodyFormat` | `HTML` |
