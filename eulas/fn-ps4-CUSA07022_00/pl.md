@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67aff843ddd8ae56eadc4b13` |
+| `id` | `67d99335a5655d0b7a50b417` |
 | `key` | `fn-ps4-CUSA07022_00` |
 | `version` | `6` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `Umowa licencyjna użytkownika końcowego oprogramowania Fortnite®` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2025-02-15T02:13:23.839Z` |
-| `lastModifiedTimestamp` | `2025-02-15T02:13:23.839Z` |
+| `createdTimestamp` | `2025-03-18T15:37:25.659Z` |
+| `lastModifiedTimestamp` | `2025-03-18T15:37:25.659Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/pl/v6/r3/af6b5586ff663b96f500a1ee40509f27.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/pl/v6/r4/f630650115d84df63a981bd19e64550e.pdf` |
 | `bodyFormat` | `HTML` |

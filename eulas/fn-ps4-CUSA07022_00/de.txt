@@ -313,9 +313,9 @@ Die Verpflichtungen seitens Epic unterliegen den geltenden Gesetzen und rechtlic
 
 <EULA.Header>18. Zusätzliche Plattformbedingungen</>
 
-<EULA.Header>18.1 Benutzer der Sony PlayStation</>
+<EULA.Header>18.1 Benutzer der Sony PlayStation®</>
 
-Die folgenden zusätzlichen Bedingungen gelten in Bezug auf Software, die für die Verwendung auf PlayStation-Geräten, die sich in Ihrem Besitz oder unter Ihrer Kontrolle befinden, verfügbar ist:
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf Software, die für die Verwendung auf PlayStation®-Geräten, die sich in Ihrem Besitz oder unter Ihrer Kontrolle befinden, verfügbar ist:
 
 Bitte beachten Sie, dass Epic die Kontoinformationen aus dem Sony Entertainment Network speichert, einschließlich Ihrer E-Mail-Adresse und Online-ID, wie in den Datenschutzrichtlinien von Epic erläutert. Epic kann seinen Nutzern erlauben, über ihr SEN-Konto nach anderen Epic-Konten zu suchen, und andere Epic-Nutzer können Ihnen Freundschaftsanfragen senden. Ihre Datenschutzeinstellungen für das SEN-Konto gelten nicht für Ihr Epic-Konto.
 
@@ -323,7 +323,7 @@ In keinem Fall dürfen Sie eine virtuelle Software-Währung in eine reale Währu
 
 <EULA.Highlight>Für SIEA-Benutzer: </>Der Kauf und die Nutzung von Artikeln unterliegen den Nutzungsbedingungen und der Nutzungsvereinbarung des Netzwerks. Dieser Online-Service wurde von Sony Interactive Entertainment America an Sie unterlizenziert.
 
-<EULA.Highlight>Für SIEE-Benutzer: </>Alle Inhalte, die in In-Game-Shops käuflich erworben werden, werden von Sony Interactive Entertainment Network Europe Limited („SIENE“) erworben und unterliegen den Nutzungsbedingungen und der Endbenutzervereinbarung von PlayStation™Network, die über PlayStation™Store eingesehen werden können. Wir empfehlen, die Nutzungsrechte für jedes erworbene Produkt zu überprüfen, da sie sich von Fall zu Fall unterscheiden können. Sofern nicht anders angegeben, gilt für sämtliche Inhalte, die in In-Game-Shops erhältlich sind, dieselbe Altersfreigabe wie für das entsprechende Spiel.
+<EULA.Highlight>Für SIEE-Benutzer: </>Alle Inhalte, die in In-Game-Shops käuflich erworben werden, werden von Sony Interactive Entertainment Network Europe Limited („SIENE“) erworben und unterliegen den Nutzungsbedingungen und der Endbenutzervereinbarung von PlayStation® Network, die über PlayStation® Store eingesehen werden können. Wir empfehlen, die Nutzungsrechte für jedes erworbene Produkt zu überprüfen, da sie sich von Fall zu Fall unterscheiden können. Sofern nicht anders angegeben, gilt für sämtliche Inhalte, die in In-Game-Shops erhältlich sind, dieselbe Altersfreigabe wie für das entsprechende Spiel.
 
 <EULA.Header>18.2 Benutzer der Microsoft Xbox</>
 

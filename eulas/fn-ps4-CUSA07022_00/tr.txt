@@ -315,9 +315,9 @@ Epic’in yükümlülükleri mevcut yasalara ve yasal sürece tabidir ve Epic bu
 
 <EULA.Header>18. Platform için Ek Şartlar</>
 
-<EULA.Header>18.1 Sony PlayStation Kullanıcıları</>
+<EULA.Header>18.1 Sony PlayStation® Kullanıcıları</>
 
-Aşağıda yer alan ek hüküm ve koşullar sahip olduğunuz ya da kontrol ettiğiniz PlayStation cihazlarında kullanıma uygun olan Yazılımlar için geçerlidir:
+Aşağıda yer alan ek hüküm ve koşullar sahip olduğunuz ya da kontrol ettiğiniz PlayStation® cihazlarında kullanıma uygun olan Yazılımlar için geçerlidir:
 
 Lütfen, Epic Gizlilik Politikasında açıklandığı gibi, e-posta adresiniz ve Çevrim İçi Kimlik Numaranız da dâhil, Sony Entertainment Network hesap bilgilerinizin Epic tarafından kaydedileceğine dikkat edin. Epic, kullanıcılarının SEN hesapları üzerinden diğer Epic hesapları için arama yapmalarına izin verebilir ve diğer Epic kullanıcıları size arkadaşlık isteği gönderebilir. SEN hesabınızın gizlilik ayarları Epic hesabınız için geçerli olmayacaktır.
 
@@ -325,7 +325,7 @@ Herhangi bir Yazılım sanal parasını gerçek para birimine, maddi mallara ya 
 
 <EULA.Highlight>SIEA kullanıcıları için: </>Ürünlerin satın alınması ve kullanılması Ağ Hizmet Koşullarına ve Kullanıcı Sözleşmesine tabidir. Bu çevrim içi hizmet için size Sony Interactive Entertainment America tarafından alt lisans verilmiştir.
 
-<EULA.Highlight>SIEE kullanıcıları için: </>Oyun içi mağaza içinden satın alınan tüm içerik Sony Interactive Entertainment Network Europe Limited ("SIENE") şirketinden satın alınacak olup, PlayStation™Store'da bulunan PlayStation™Network Hizmet Şartları'na tabidir. Öğeden öğeye farklılık gösterebileceği için lütfen her satın almaya ilişkin kullanım haklarını kontrol edin. Aksi belirtilmediği müddetçe, oyun içi mağazadan satın alınan içerik, oyunla aynı yaş sınıflandırmasına sahiptir.
+<EULA.Highlight>SIEE kullanıcıları için: </>Oyun içi mağaza içinden satın alınan tüm içerik Sony Interactive Entertainment Network Europe Limited ("SIENE") şirketinden satın alınacak olup, PlayStation® Store'da bulunan PlayStation® Network Hizmet Şartları'na tabidir. Öğeden öğeye farklılık gösterebileceği için lütfen her satın almaya ilişkin kullanım haklarını kontrol edin. Aksi belirtilmediği müddetçe, oyun içi mağazadan satın alınan içerik, oyunla aynı yaş sınıflandırmasına sahiptir.
 
 <EULA.Header>18.2 Microsoft Xbox Kullanıcıları</>
 

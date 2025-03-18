@@ -313,9 +313,9 @@ As obrigações da Epic estão sujeitas a leis e processos legais existentes e a
 
 <EULA.Header>18. Termos Adicionais da Plataforma</>
 
-<EULA.Header>18.1 Utilizadores da Sony PlayStation</>
+<EULA.Header>18.1 Utilizadores da Sony PlayStation®</>
 
-Aplicam-se os seguintes termos e condições adicionais relativamente ao Software disponível para utilização em dispositivos PlayStation que o Utilizador detenha ou controle:
+Aplicam-se os seguintes termos e condições adicionais relativamente ao Software disponível para utilização em dispositivos PlayStation® que o Utilizador detenha ou controle:
 
 Queira assinalar que a Epic armazenará as informações da conta da Sony Entertainment Network (“SEN”), incluindo o seu endereço de e-mail e ID online, conforme explicado na Política de Privacidade da Epic. A Epic pode permitir que os seus utilizadores pesquisem outras contas Epic através da respetiva conta SEN e outros utilizadores da Epic poderão enviar-lhe pedidos de amizade. As definições de privacidade da sua conta SEN não se aplicarão à sua conta Epic.
 
@@ -323,7 +323,7 @@ Em caso algum poderá converter qualquer moeda virtual do Software em moeda real
 
 <EULA.Highlight>Para utilizadores da SIEA: </>A compra e o uso de itens estão sujeitos aos Termos de serviço e Contrato do usuário da Network. Este serviço online foi sublicenciado a você pela Sony Interactive Entertainment America.
 
-<EULA.Highlight>Para utilizadores da SIEE: </>Qualquer conteúdo comprado numa loja de jogo é comprado à Sony Interactive Entertainment Network Europe Limited (“SIENE”) e está sujeito aos Termos de Serviço e Acordo de Utilizador da PlayStation™Network, disponíveis na PlayStation™Store. Verifique os direitos de utilização relativos a cada compra, uma vez que estes podem diferir de um artigo para outro. Salvo indicação em contrário, o conteúdo disponível em qualquer loja de jogo possui a mesma classificação etária que o próprio jogo.
+<EULA.Highlight>Para utilizadores da SIEE: </>Qualquer conteúdo comprado numa loja de jogo é comprado à Sony Interactive Entertainment Network Europe Limited (“SIENE”) e está sujeito aos Termos de Serviço e Acordo de Utilizador da PlayStation® Network, disponíveis na PlayStation® Store. Verifique os direitos de utilização relativos a cada compra, uma vez que estes podem diferir de um artigo para outro. Salvo indicação em contrário, o conteúdo disponível em qualquer loja de jogo possui a mesma classificação etária que o próprio jogo.
 
 <EULA.Header>18.2 Utilizadores da Microsoft Xbox</>
 

@@ -313,9 +313,9 @@ Epicの義務には既存の法律と法的手続きが適用されるため、�
 
 <EULA.Header>18. 追加のプラットフォーム条件</>
 
-<EULA.Header>18.1 ソニーPlayStationユーザー</>
+<EULA.Header>18.1 ソニーPlayStation® ユーザー</>
 
-お客様が所有または管理するPlayStationデバイスで使用可能なソフトウェアに関して、次の追加の契約条件が適用されます。
+お客様が所有または管理するPlayStation® デバイスで使用可能なソフトウェアに関して、次の追加の契約条件が適用されます。
 
 Epicは、Epicのプライバシーポリシーに記載されているとおり、お客様のメールアドレスやオンラインIDなど、Sony Entertainment Networkのアカウント情報を保存しますのでご承知おきください。Epicは、ユーザーがSENアカウントを使用して他のEpicアカウントを検索することを許可し、他のEpicユーザーがお客様にフレンドリクエストを送信する場合があります。お客様のSENアカウントのプライバシー設定は、お客様のEpicアカウントには適用されません。
 
@@ -323,7 +323,7 @@ Epicは、Epicのプライバシーポリシーに記載されているとおり
 
 <EULA.Highlight>SIEAユーザー向け：</>アイテムの購入および使用には、ネットワーク利用規約およびユーザー規約が適用されます。本オンラインサービスは、Sony Interactive Entertainment Americaによってサブライセンスされています。
 
-<EULA.Highlight>SIEEユーザー向け：</>ゲーム内ストアで購入されたコンテンツはすべて、Sony Interactive Entertainment Network Europe Limited（「SIENE」）から購入され、そのコンテンツにはPlayStation™ Network利用規約およびPlayStation® Storeで入手可能なユーザー規約が適用されます。商品によって使用権が異なる場合がありますので、購入ごとに使用権をご確認ください。特に示されていない限り、ゲーム内ストアで入手可能なコンテンツの年齢制限はゲームと同じです。
+<EULA.Highlight>SIEEユーザー向け：</>ゲーム内ストアで購入されたコンテンツはすべて、Sony Interactive Entertainment Network Europe Limited（「SIENE」）から購入され、そのコンテンツにはPlayStation® Network利用規約およびPlayStation® Storeで入手可能なユーザー規約が適用されます。商品によって使用権が異なる場合がありますので、購入ごとに使用権をご確認ください。特に示されていない限り、ゲーム内ストアで入手可能なコンテンツの年齢制限はゲームと同じです。
 
 <EULA.Header>18.2 Microsoft Xboxユーザー</>
 

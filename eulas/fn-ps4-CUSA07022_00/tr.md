@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67aff9111867f355714e2d8b` |
+| `id` | `67d993a68d627245a5fa6afc` |
 | `key` | `fn-ps4-CUSA07022_00` |
 | `version` | `6` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `Fortnite® Son Kullanıcı Lisans Sözleşmesi` |
 | `locale` | `tr` |
-| `createdTimestamp` | `2025-02-15T02:16:49.664Z` |
-| `lastModifiedTimestamp` | `2025-02-15T02:16:49.664Z` |
+| `createdTimestamp` | `2025-03-18T15:39:18.420Z` |
+| `lastModifiedTimestamp` | `2025-03-18T15:39:18.420Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/tr/v6/r3/0140418c46959fd36fdff169aff00d18.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/tr/v6/r4/f9e1d1cd1ffe7dae7be52f6126003539.pdf` |
 | `bodyFormat` | `HTML` |

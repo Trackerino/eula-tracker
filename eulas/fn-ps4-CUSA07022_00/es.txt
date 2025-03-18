@@ -315,9 +315,9 @@ Las obligaciones de Epic están sujetas a las leyes y los procesos legales vigen
 
 <EULA.Header>18. Condiciones adicionales de la plataforma</>
 
-<EULA.Header>18.1 Usuarios de Sony PlayStation</>
+<EULA.Header>18.1 Usuarios de Sony PlayStation®</>
 
-Los siguientes términos y condiciones adicionales se aplican con respecto al Software disponible para su uso en los dispositivos PlayStation que usted posee o controla:
+Los siguientes términos y condiciones adicionales se aplican con respecto al Software disponible para su uso en los dispositivos PlayStation® que usted posee o controla:
 
 Tenga en cuenta que Epic almacenará la información de la cuenta de Sony Entertainment Network, incluida su dirección de correo electrónico y su identificación en línea, tal y como se explica en la Política de Privacidad de Epic. Epic puede permitir a sus usuarios buscar otras cuentas de Epic a través de su cuenta SEN (Sony Entertainment Network, SEN) y otros usuarios de Epic pueden enviarle solicitudes de amistad. La configuración de privacidad de su cuenta SEN no se aplicará a su cuenta de Epic.
 
@@ -325,7 +325,7 @@ En ningún caso podrá convertir ninguna moneda virtual del Software en moneda r
 
 <EULA.Highlight>Para usuarios de SIEA (Sony Interactive Entertainment America): </>La compra y uso de artículos están sujetos a los Términos de Servicio y Acuerdo de Usuario de la Network. Una sublicencia de este servicio online le ha sido otorgada por Sony Interactive Entertainment America.
 
-<EULA.Highlight>Para usuarios de SIEE (Sony Interactive Entertainment Europe): </>Cualquier contenido adquirido en una tienda del juego se le comprará a Sony Interactive Entertainment Network Europe Limited (“SIENE”) y estará sujeto a los Términos de servicio / Acuerdo de usuario de PlayStation™Network que está disponible en PlayStation™Store. Le rogamos que compruebe los derechos de uso en cada compra, ya que pueden variar según el producto. A menos que se indique lo contrario, el contenido disponible en una tienda del juego tiene la misma clasificación por edades que el juego.
+<EULA.Highlight>Para usuarios de SIEE (Sony Interactive Entertainment Europe): </>Cualquier contenido adquirido en una tienda del juego se le comprará a Sony Interactive Entertainment Network Europe Limited (“SIENE”) y estará sujeto a los Términos de servicio / Acuerdo de usuario de PlayStation® Network que está disponible en PlayStation® Store. Le rogamos que compruebe los derechos de uso en cada compra, ya que pueden variar según el producto. A menos que se indique lo contrario, el contenido disponible en una tienda del juego tiene la misma clasificación por edades que el juego.
 
 <EULA.Header>18.2 Usuarios de Microsoft Xbox</>
 

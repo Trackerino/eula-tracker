@@ -313,9 +313,9 @@ Zobowiązania Epic podlegają istniejącemu prawu i postępowaniom prawnym, a Ep
 
 <EULA.Header>18. Dodatkowe warunki korzystania dla poszczególnych platform</>
 
-<EULA.Header>18.1 Użytkownicy Sony PlayStation</>
+<EULA.Header>18.1 Użytkownicy Sony PlayStation®</>
 
-Następujące dodatkowe warunki obowiązują w zakresie Oprogramowania dostępnego do użytku na urządzeniach PlayStation będących własnością albo kontrolowanych przez użytkownika:
+Następujące dodatkowe warunki obowiązują w zakresie Oprogramowania dostępnego do użytku na urządzeniach PlayStation® będących własnością albo kontrolowanych przez użytkownika:
 
 Należy pamiętać, że Epic będzie przechowywał dane konta Sony Entertainment Network, w tym adres e-mail i identyfikator online użytkownika, w sposób przedstawiony w Polityce prywatności Epic. Epic może umożliwiać swoim użytkownikom wyszukiwanie innych kont Epic wg ich kont SEN, a inni użytkownicy Epic mogą wysyłać użytkownikowi zaproszenia do znajomych. Ustawienia prywatności konta SEN użytkownika nie zostaną zastosowane wobec konta Epic tego użytkownika.
 
@@ -323,7 +323,7 @@ W żadnym razie nie wolno użytkownikowi wymieniać żadnej wirtualnej waluty w 
 
 <EULA.Highlight>Dotyczy użytkowników SIEA: </>Zakupy i korzystanie z nich podlegają Warunkom korzystania z usługi Sieci i Umowie z użytkownikiem. Użytkownik otrzymał sublicencję na tę usługę online od Sony Interactive Entertainment America.
 
-<EULA.Highlight>Zawartość zakupiona za pośrednictwem sklepu udostępnionego w grze oznacza, że została ona zakupiona od firmy Sony Interactive Entertainment Network Europe Limited („SIENE”) i podlega Warunkom świadczenia usług obowiązującym w sieci PlayStation™Network, z którymi można zapoznać się w sklepie PlayStation™Store. Prawa użytkowania należy sprawdzać przy każdym zakupie, ponieważ mogą one być różne w zależności od pozycji. Jeśli nie zaznaczono inaczej, zawartość dostępna w dowolnym sklepie udostępnionym w grze jest objęta tą samą klasyfikacją co gra.</>
+<EULA.Highlight>Zawartość zakupiona za pośrednictwem sklepu udostępnionego w grze oznacza, że została ona zakupiona od firmy Sony Interactive Entertainment Network Europe Limited („SIENE”) i podlega Warunkom świadczenia usług obowiązującym w sieci PlayStation® Network, z którymi można zapoznać się w sklepie PlayStation® Store. Prawa użytkowania należy sprawdzać przy każdym zakupie, ponieważ mogą one być różne w zależności od pozycji. Jeśli nie zaznaczono inaczej, zawartość dostępna w dowolnym sklepie udostępnionym w grze jest objęta tą samą klasyfikacją co gra.</>
 
 <EULA.Header>18.2 Użytkownicy Microsoft Xbox</>
 

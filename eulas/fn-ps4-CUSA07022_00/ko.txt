@@ -355,7 +355,7 @@ Epic의 의무는 기존의 법률 및 법적 절차의 적용을 받으며, Epi
 
 <EULA.Highlight>18. 추가 플랫폼 약관</>
 
-<EULA.Highlight>18.1 Sony PlayStation 사용자:</>
+<EULA.Highlight>18.1 Sony PlayStation® 사용자:</>
 
 사용자가 소유하거나 제어하는 플레이스테이션 장치에서 사용할 수 있는 소프트웨어와 관련하여 다음과 같은 추가 이용약관이 적용됩니다. 
 
