@@ -323,7 +323,7 @@ Epicは、Epicのプライバシーポリシーに記載されているとおり
 
 <EULA.Highlight>SIEAユーザー向け：</>アイテムの購入および使用には、ネットワーク利用規約およびユーザー規約が適用されます。本オンラインサービスは、Sony Interactive Entertainment Americaによってサブライセンスされています。
 
-<EULA.Highlight>SIEEユーザー向け：</>ゲーム内ストアで購入されたコンテンツはすべて、Sony Interactive Entertainment Network Europe Limited（「SIENE」）から購入され、そのコンテンツにはPlayStation® Network利用規約およびPlayStation® Storeで入手可能なユーザー規約が適用されます。商品によって使用権が異なる場合がありますので、購入ごとに使用権をご確認ください。特に示されていない限り、ゲーム内ストアで入手可能なコンテンツの年齢制限はゲームと同じです。
+<EULA.Highlight>SIEEユーザー向け：</>ゲーム内ストアで購入されたコンテンツはすべて、Sony Interactive Entertainment Network Europe Limited（「SIENE」）から購入され、そのコンテンツにはPlayStation™Network利用規約およびPlayStation™Storeで入手可能なユーザー規約が適用されます。商品によって使用権が異なる場合がありますので、購入ごとに使用権をご確認ください。特に示されていない限り、ゲーム内ストアで入手可能なコンテンツの年齢制限はゲームと同じです。
 
 <EULA.Header>18.2 Microsoft Xboxユーザー</>
 

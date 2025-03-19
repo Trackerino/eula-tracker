@@ -323,7 +323,7 @@ W żadnym razie nie wolno użytkownikowi wymieniać żadnej wirtualnej waluty w 
 
 <EULA.Highlight>Dotyczy użytkowników SIEA: </>Zakupy i korzystanie z nich podlegają Warunkom korzystania z usługi Sieci i Umowie z użytkownikiem. Użytkownik otrzymał sublicencję na tę usługę online od Sony Interactive Entertainment America.
 
-<EULA.Highlight>Zawartość zakupiona za pośrednictwem sklepu udostępnionego w grze oznacza, że została ona zakupiona od firmy Sony Interactive Entertainment Network Europe Limited („SIENE”) i podlega Warunkom świadczenia usług obowiązującym w sieci PlayStation® Network, z którymi można zapoznać się w sklepie PlayStation® Store. Prawa użytkowania należy sprawdzać przy każdym zakupie, ponieważ mogą one być różne w zależności od pozycji. Jeśli nie zaznaczono inaczej, zawartość dostępna w dowolnym sklepie udostępnionym w grze jest objęta tą samą klasyfikacją co gra.</>
+<EULA.Highlight>Zawartość zakupiona za pośrednictwem sklepu udostępnionego w grze oznacza, że została ona zakupiona od firmy Sony Interactive Entertainment Network Europe Limited („SIENE”) i podlega Warunkom świadczenia usług obowiązującym w sieci PlayStation™Network, z którymi można zapoznać się w sklepie PlayStation™Store. Prawa użytkowania należy sprawdzać przy każdym zakupie, ponieważ mogą one być różne w zależności od pozycji. Jeśli nie zaznaczono inaczej, zawartość dostępna w dowolnym sklepie udostępnionym w grze jest objęta tą samą klasyfikacją co gra.</>
 
 <EULA.Header>18.2 Użytkownicy Microsoft Xbox</>
 

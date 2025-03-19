@@ -325,7 +325,7 @@ In nessun caso l’utente può convertire alcuna valuta virtuale del Software in
 
 <EULA.Highlight>Per gli utenti SIEA: </>L’acquisto e l’utilizzo di articoli sono soggetti ai Termini di servizio e all’Accordo per gli utenti della Rete. Questo servizio online è stato concesso in sublicenza all’utente da Sony Interactive Entertainment America.
 
-<EULA.Highlight>Per gli utenti SIEE: </>Tutti i contenuti acquistati in un negozio in-game saranno acquistati da Sony Interactive Entertainment Network Europe Limited ("SIENE") e saranno soggetti ai Termini di servizio e alle Condizioni d'uso di PlayStation® Network disponibili su PlayStation® Store. Consulta i diritti d'uso per ogni acquisto effettuato, poiché possono differire in base al contenuto. Se non diversamente specificato, i contenuti disponibili nei negozi in-game sono rivolti ad utenti con la stessa età consigliata per il gioco.
+<EULA.Highlight>Per gli utenti SIEE: </>Tutti i contenuti acquistati in un negozio in-game saranno acquistati da Sony Interactive Entertainment Network Europe Limited ("SIENE") e saranno soggetti ai Termini di servizio e alle Condizioni d'uso di PlayStation™Network disponibili su PlayStation™Store. Consulta i diritti d'uso per ogni acquisto effettuato, poiché possono differire in base al contenuto. Se non diversamente specificato, i contenuti disponibili nei negozi in-game sono rivolti ad utenti con la stessa età consigliata per il gioco.
 
 <EULA.Header>18.2 Utenti di Microsoft Xbox</>
 

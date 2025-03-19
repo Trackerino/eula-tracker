@@ -325,7 +325,7 @@ En aucun cas, vous ne pourrez convertir de monnaie virtuelle du Logiciel en monn
 
 <EULA.Highlight>Pour les utilisateurs SIEA: </>L'achat et l'utilisation des articles sont soumis aux Conditions d'utilisation et à l'Accord utilisateur de Network. Une sous-licence d'utilisation de ce service en ligne vous a été concédé par Sony Interactive Entertainment America.
 
-<EULA.Highlight>Pour les utilisateurs SIEE: </>Tout contenu acheté dans la boutique d'un jeu est acheté à Sony Interactive Entertainment Network Europe Limited ("SIENE") et est soumis aux Conditions d'utilisation et Accord utilisateur de PlayStation® Network disponibles sur PlayStation® Store. Vérifiez les droits d’utilisation lors de chaque achat car ceux-ci peuvent varier d’un article à l’autre. Sauf indication contraire, la classification du contenu disponible dans la boutique d'un jeu est identique à celle du jeu lui-même.
+<EULA.Highlight>Pour les utilisateurs SIEE: </>Tout contenu acheté dans la boutique d'un jeu est acheté à Sony Interactive Entertainment Network Europe Limited ("SIENE") et est soumis aux Conditions d'utilisation et Accord utilisateur de PlayStation™Network disponibles sur PlayStation™Store. Vérifiez les droits d’utilisation lors de chaque achat car ceux-ci peuvent varier d’un article à l’autre. Sauf indication contraire, la classification du contenu disponible dans la boutique d'un jeu est identique à celle du jeu lui-même.
 
 <EULA.Header>18.2 Utilisateurs Microsoft Xbox</>
 
