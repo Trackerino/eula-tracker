@@ -116,7 +116,7 @@
 
 <p><strong><b>10. PRIVACY</b></strong></p>
 
-<p>Please review the Privacy Policy at www.epicgames.com/privacypolicy for information about how Epic may collect, use, and share information when you access or use Content.</p>
+<p>Please review the Privacy Policy at <a style= "color: deepskyblue" href="http://www.epicgames.com/privacypolicy">www.epicgames.com/privacypolicy</a> for information about how Epic may collect, use, and share information when you access or use Content.</p>
 
 <p><b><u>Other Rights and Obligations</b></u></p>
 
