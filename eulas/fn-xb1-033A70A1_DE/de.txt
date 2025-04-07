@@ -1,0 +1,267 @@
+<EULA.Highlight>FORTNITE® ENDBENUTZER-LIZENZVEREINBARUNG</>
+
+<EULA.Highlight>Zuletzt aktualisiert am [6. April 2025]</>
+
+Bitte lesen Sie sich diese Vereinbarung sorgfältig durch. Sie ist ein rechtliches Dokument und erläutert Ihre Rechte und Pflichten in Verbindung mit Ihrer Nutzung von Epics Software, einschließlich den Diensten, auf die Sie über die Software zugreifen, und den Käufen, die Sie über die Software tätigen. Indem Sie die Software herunterladen oder nutzen oder indem Sie anderweitig dieser Vereinbarung zustimmen, erklären Sie dich damit einverstanden, an die Bedingungen dieser Vereinbarung gebunden zu sein. Wenn Sie den Bedingungen dieser Vereinbarung nicht zustimmen oder zustimmen können, dürfen Sie diese Software nicht herunterladen oder verwenden.
+
+Insbesondere möchten wir einige wichtige Begriffe, Richtlinien und Verfahren in dieser Vereinbarung hervorheben. Durch Annahme dieser Vereinbarung erklären Sie zudem Folgendes:
+
+1. Sie stimmen außerdem weiteren Regeln und Richtlinien von Epic zu, die ausdrücklich in diese Vereinbarung einbezogen werden. Bitte lesen Sie sich Folgendes sorgfältig durch:
+
+Unsere <a id="url" href="https://www.epicgames.com/site/privacypolicy?lang=de" style="EULA.Hyperlink">Datenschutzrichtlinie</> erklärt, welche Informationen wir von Ihnen erheben und wie wir sie schützen.
+Unsere <a id="url" href="https://www.epicgames.com/site/fan-art-policy?lang=de" style="EULA.Hyperlink">Richtlinie für Fan-Inhalte</> erklärt, was Sie mit dem Geistigen Eigentum von Epic in den von Ihnen erstellten Inhalten tun können.
+
+Unsere <a id="url" href="https://www.epicgames.com/site/tos?lang=de" style="EULA.Hyperlink">Nutzungsbedingungen</> erläutern die Regeln für unsere Websites.
+
+2. Sie gewähren Epic eine Lizenz zur Nutzung jeglicher Inhalte, die Sie mithilfe des Dienstes erstellen. Weitere Informationen erhalten Sie im nachstehenden Abschnitt 5 zu Benutzergenerierten Inhalten.
+
+UM DIESE LIZENZVEREINBARUNG ABZUSCHLIESSEN, MÜSSEN SIE IN DEM LAND, IN DEM SIE WOHNEN, VOLLJÄHRIG SEIN. SIE SIND FÜR ALLE HANDLUNGEN, DIE DURCH DEN ZUGRIFF AUF UNSERE SOFTWARE VORGENOMMEN WERDEN, RECHTLICH UND FINANZIELL VERANTWORTLICH, EINSCHLIESSLICH FÜR HANDLUNGEN VON PERSONEN, DENEN SIE ERLAUBEN, AUF IHR KONTO ZUZUGREIFEN. SIE BESTÄTIGEN, DASS SIE VOLLJÄHRIG SIND, DIESE VEREINBARUNG VERSTEHEN UND ANNEHMEN. WENN SIE NOCH NICHT VOLLJÄHRIG SIND, MÜSSEN IHRE ELTERN ODER ERZIEHUNGSBERECHTIGTEN DIESER VEREINBARUNG ZUSTIMMEN.
+
+Bestimmte Wörter oder Ausdrücke haben eine bestimmte Bedeutung, wenn sie in dieser Vereinbarung verwendet werden. Diese Wörter und Ausdrücke sind unten in Abschnitt 16 definiert.
+
+Wenn sich Ihr Hauptwohnsitz in den Vereinigten Staaten von Amerika befindet, wird Ihre Vereinbarung mit Epic Games, Inc. abgeschlossen. Wenn sich Ihr Hauptwohnsitz nicht in den Vereinigten Staaten von Amerika befindet, wird Ihre Vereinbarung mit der Epic Games Entertainment International GmbH abgeschlossen.
+
+
+<EULA.Header>1.	Lizenzgewährung</>
+
+Epic gewährt Ihnen ein persönliches, nicht ausschließliches, nicht übertragbares, nicht unterlizenzierbares, eingeschränktes Recht und eine Lizenz zur Installation und Nutzung der Software auf kompatiblen Vorrichtungen, die Sie besitzen oder kontrollieren, für Ihren persönlichen Unterhaltungsgebrauch (die „<EULA.Highlight>Lizenz</>“). Die Rechte, die Epic Ihnen im Rahmen dieser Lizenz gewährt, unterliegen den Bedingungen dieser Vereinbarung und Sie dürfen die Lizenz nur nutzen, wenn Sie alle geltenden Bedingungen einhalten.
+
+Die Lizenz tritt an dem Tag in Kraft, an dem Sie diese Vereinbarung akzeptieren. Die Software wird gemäß der Lizenz an Sie lizenziert, nicht verkauft. Die Lizenz gewährt Ihnen keinerlei Eigentumsrechte an der Software.
+
+
+<EULA.Header>2.	Lizenzbedingungen</>
+
+Die folgenden Handlungen oder Versuche in Bezug auf die Software oder einen ihrer Teile sind untersagt: (a) die Software kommerziell oder zu Werbezwecken nutzen, es sei denn, dass Epic dies ausdrücklich genehmigt; (b) die Software kopieren, vervielfältigen, vertreiben (einschließlich über einen Netzwerkserver), anzeigen oder in einer Weise nutzen, die in dieser Vereinbarung nicht ausdrücklich genehmigt ist; (c) die Software verkaufen, vermieten, verleasen, lizenzieren, vertreiben oder anderweitig übertragen; (d) die Software zurückentwickeln (Reverse Engineering), den Programmcode davon ableiten, modifizieren, anpassen, übersetzen, dekompilieren oder disassemblieren oder davon abgeleitete Werke erstellen; (f) nicht autorisierte Softwareprogramme erstellen, entwickeln, vertreiben oder verwenden, um sich Vorteile in Online- oder anderen Spielmodi zu verschaffen; (g) die Software verwenden, um die Rechte Dritter zu verletzen, einschließlich unter anderem der Rechte auf geistiges Eigentum, Veröffentlichungs- oder Datenschutzrechte; (h) die Software unter Verletzung geltender Gesetze oder Vorschriften nutzen, exportieren oder reexportieren; (i) sich auf eine Art und Weise verhalten, die den Genuss der Software durch andere Benutzer, wie von Epic beabsichtigt, beeinträchtigt, unter anderem durch: Belästigung, Verwendung beleidigender oder anstößiger Sprache, Spielabbruch, Spielsabotage, Spamming, Social Engineering, Scamming, das Ausführen oder Verwenden von Methoden, die nicht von Epic autorisiert sind und die das Ergebnis und/oder den Ablauf der Software beeinträchtigen (einschließlich Cheats, Bots, Skripte oder Mods, die nicht ausdrücklich von Epic autorisiert sind), indem sie Ihnen und/oder einem anderen Benutzer einen Vorteil gegenüber anderen Spielern verschaffen, die solche Methoden nicht verwenden, oder das Erstellen oder anderweitige Beitragen zu solcher nicht autorisierter Software; (j) sich auf eine Art und Weise verhalten, die den Genuss der Software durch andere beeinträchtigt, wie von Epic beabsichtigt und in den <a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">Inhaltsrichtlinien</> und <a id="url" href="https://www.epicgames.com/site/en-US/community-rules" style="EULA.Hyperlink">Community-Regeln</> von Epic angegeben.
+
+Die Software kann Cheat-Erkennungs-Software oder -funktionen enthalten oder Sie können während der Installation der Software aufgefordert werden, Cheat-Erkennungs-Software zu installieren. Wenn Sie der Installation der Cheat-Erkennungs-Software nicht zustimmen oder die Cheat-Erkennungs-Software zu irgendeinem Zeitpunkt entfernen oder deaktivieren, endet die Ihnen gewährte Lizenz automatisch und Sie dürfen die Software nicht mehr nutzen. Die Software oder Cheat-Erkennungs-Software kann im Zusammenhang mit der Cheat-Erkennung Einzelheiten zu Ihrem Konto, Ihrem Gameplay und möglicherweise nicht genehmigten Programmen oder Prozessen gemäß der Datenschutzrichtlinie von Epic erfassen und übertragen. Sie erklären sich damit einverstanden, dass Epic in dem Fall, dass Cheats identifiziert werden, jegliche oder alle Rechte aus dieser Vereinbarung ausüben kann.
+
+
+<EULA.Header>3.	Updates und Patches</>
+
+Epic kann Patches, Updates oder Upgrades für die Software zur Verfügung stellen, die installiert werden müssen, damit Sie die Software und Dienste weiterhin nutzen können. Epic kann die Software per Fernzugriff aktualisieren, ohne Sie davon in Kenntnis zu setzen, und Sie erklären sich hiermit einverstanden, dass Epic Patches, Updates und Upgrades anwendet. Epic kann die Software jederzeit modifizieren, aussetzen, einstellen, ersetzen, austauschen oder Ihren Zugang zu jedem Aspekt der Software oder Dienste einschränken. Sie erkennen an, dass Sie durch die Nutzung der Software oder der Dienste keinerlei Ansprüche, weder finanzieller noch sonstiger Art, auf irgendeinen Aspekt oder eine Funktion der Software oder der Dienste erheben, wie unter anderem (falls zutreffend) Belohnungen, Trophäen, Erfolge, Charakterstufen, Spielwährung oder Inhalte.  
+
+
+<EULA.Header>4.	Spielwährung und Inhalte</>
+
+Epic kann Ihnen die Möglichkeit bieten, Lizenzen für Spielwährung („<EULA.Highlight>Spielwährung</>“) oder Inhalte zu erwerben, zum Beispiel durch: (a) den Kauf einer begrenzten Lizenz zur Nutzung von Spielwährung gegen eine Gebühr („<EULA.Highlight>Gekaufte Spielwährung</>“), (b) den Erwerb einer begrenzten Lizenz zur Nutzung von Spielwährung durch die Ausführung oder Erfüllung bestimmter Aufgaben in der Software oder (c) den Kauf gegen eine Gebühr, den Tausch von Spielwährung oder den Erwerb einer begrenzten Lizenz zur Nutzung von Inhalten. Epic kann den Austausch von bestimmten Inhalten über die Software auch erleichtern, in einigen Fällen gegen eine Gebühr. Sie dürfen eine solche Spielwährung oder einen solchen Inhalt nur verwenden, wenn Sie die damit verbundene Gebühr (falls zutreffend) bezahlen. Wenn Sie die Gebühr für den Erhalt einer solchen Spielwährung oder eines solchen Inhalts verdienen oder bezahlen, erhalten oder kaufen Sie von Epic das Recht, dass Ihre Lizenz diese Spielwährung oder diesen Inhalt umfasst. Unabhängig davon, ob Epic außerhalb dieser Vereinbarung auf den Kauf oder Verkauf von Spielwährung oder Inhalten Bezug nimmt, werden sowohl die Spielwährung als auch die Inhalte im Rahmen der Lizenz an Sie lizenziert und nicht verkauft. Die Verwendung eines Epic-Kontoguthabens zum Kauf von Spielwährung oder Inhalten unterliegt den Nutzungsbedingungen von Epic.
+
+Weder die Spielwährung noch der Inhalt können gegen Geld oder einen monetären Wert von Epic oder einer anderen Person eingetauscht werden, es sei denn, dass dies durch geltendes Recht vorgeschrieben ist. Spielwährung und Inhalt haben keinen Gegenwert in realer Währung und dienen nicht als Ersatz für reale Währung. Weder Epic noch eine andere natürliche oder juristische Person ist verpflichtet, Spielwährung oder Inhalte in Wertgegenstände, wie unter anderem reale Währung, umzutauschen. Sie erklären sich damit einverstanden, dass Epic jederzeit Maßnahmen ergreifen kann, die sich auf den wahrgenommenen Wert oder den Kaufpreis (falls zutreffend) von Spielwährung und Inhalten auswirken können, sofern dies nicht durch geltendes Recht verboten ist.
+
+Alle Käufe von Gekaufter Spielwährung und Inhalten sind endgültig und unter keinen Umständen erstattungsfähig, übertragbar oder umtauschbar, sofern das geltende Recht nichts anderes vorschreibt. 
+
+Sie haben ein gesetzliches Widerrufsrecht für jeden Kauf von Spielwährung oder Inhalten. Die vorstehenden Ausführungen sollen Ihr gesetzliches Widerrufsrecht nicht einschränken. Sie können aufgefordert werden, ausdrücklich auf dieses Recht zu verzichten, bevor Sie einen Kauf von Spielwährung oder Inhalten über die Software oder die Dienste abschließen, um Zugang zu der entsprechenden Spielwährung oder den Inhalten zu erhalten. In diesem Fall wird Epic Sie darüber informieren, dass ein solcher Verzicht den Verlust Ihres Widerrufsrechts zur Folge hat. Um mehr über Ihr gesetzliches Widerrufsrecht zu erfahren, konsultieren Sie bitte die <a id="url" href="https://www.epicgames.com/site/en-US/right-of-withdrawal" style="EULA.Hyperlink">Informationen von Epic zum </><a id="url" href="https://www.epicgames.com/site/right-of-withdrawal?lang=de" style="EULA.Hyperlink">Widerrufsrecht für Nutzer mit Wohnsitz in der Europäischen Union</>. 
+
+Epic kann nach eigenem Ermessen Grenzen für die Menge an Spielwährung oder Inhalten festlegen, die gekauft, verdient, angesammelt, eingelöst oder anderweitig verwendet werden können. 
+
+Sofern nicht anderweitig durch geltendes Recht verboten, hat Epic nach eigenem Ermessen das uneingeschränkte Recht, Spielwährung oder Inhalte, einschließlich Ihrer Möglichkeit, auf Spielwährung oder Inhalte zuzugreifen oder diese zu verwenden, ohne Vorankündigung oder Haftung Ihnen gegenüber zu verwalten, zu ändern, zu ersetzen, auszusetzen, zu stornieren oder zu löschen. 
+
+Sie dürfen Spielwährung oder Inhalte nicht übertragen, verkaufen, verschenken, eintauschen, handeln, leasen, unterlizenzieren oder vermieten, außer innerhalb der Software und wie von Epic ausdrücklich gestattet.
+
+Sofern nicht anderweitig durch geltendes Recht untersagt, behält sich Epic alle Rechte, Eigentumsrechte und Interessen an der Spielwährung und dem Inhalt vor. Die Lizenz für die Spielwährung und den Inhalt im Rahmen der Lizenz endet mit der Kündigung der Lizenz und wie hierin anderweitig vorgesehen.
+
+Wenn Sie Epic oder einem von Epic autorisierten Auftragsverarbeiter Zahlungsinformationen zur Verfügung stellen, erklären Sie, dass Sie ein autorisierter Benutzer der von Ihnen angegebenen Zahlungskarte, PIN, des Schlüssels, Kontos oder einer anderen Zahlungsmethode sind, und Sie ermächtigen Epic, diese Zahlungsmethode mit dem vollen Betrag der Transaktion zu belasten.
+
+
+<EULA.Header>5.	Benutzergenerierte Inhalte</>
+
+Epic kann über die Software oder die Dienste Funktionen bereitstellen, die es Ihnen ermöglichen, Inhalte (User Generated Content, „UGC“) zu erstellen, zu entwickeln, zu ändern oder beizutragen und UGC hochzuladen, zu veröffentlichen oder auf andere Weise einigen oder allen Benutzern der Dienste zur Verfügung zu stellen. Diese Funktionen können es Ihnen auch ermöglichen, mit UGC zu interagieren, sie zu manipulieren und ganz oder teilweise zu verändern. Epic kann bestimmte Funktionen des Dienstes ohne vorherige Ankündigung oder Haftung Ihnen gegenüber ändern, einschränken oder einstellen.
+
+„UGC“ bezieht sich insbesondere auf Bauwerke, Chat-Posts, Charakterdaten, Spielanpassung, In-Game-Konstruktionen, Wiedergaben, Kinematographie, Skripte und Programme, Verfahren, Gameplay, Erfahrungen, interaktive Elemente und Screenshots, Musik, Töne, Tonaufnahmen (und die darin enthaltenen Musikwerke), audiovisuelle Kombinationen, Musikwerke, Animationen, Sprachchat-Audiodaten und andere Formate (einzeln oder in Kombination).
+
+Ihr Zugriff auf die Software oder Dienste und deren Nutzung wird nicht beeinträchtigt, wenn Sie sich entscheiden, keine UGC zu erstellen und/oder zu veröffentlichen. Wenn Sie sich dafür entscheiden, über unsere Software oder Dienste UGC zu erstellen und zu veröffentlichen, tun Sie dies auf freiwilliger Basis. Wenn Sie möchten, dass Ihr UGC Teil der Dienste wird und anderen Benutzern gefällt, dann können Sie UGC veröffentlichen.  
+
+Die Rechte, die Sie Epic in diesem Abschnitt gewähren, werden auf einer „Through-to-the-Audience“-Basis bereitgestellt, was bedeutet, dass die Eigentümer oder Betreiber von Drittanbieterdiensten Ihnen oder anderen Dritten gegenüber keine gesonderte Haftung für UGC übernehmen, die diesen Drittanbieterdiensten über den Dienst zur Verfügung gestellt oder von diesen genutzt werden. Epic benötigt diese Genehmigungen, um Ihren UGC den Spielern als Teil der Dienste (d. h. im Spiel) zur Verfügung zu stellen und um ihn Streamern und Inhaltserstellern außerhalb der Dienste (z. B. zur Verwendung auf anderen Plattformen) zur Verfügung zu stellen. Diese Rechte müssen unwiderruflich sein, da UGC nach ihrer Erstellung über viele Kanäle von uns und anderen verbreitet werden.
+
+Informationen zu unseren Methoden zur Inhaltsmoderation finden Sie in unserem <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Sicherheitszentrum</>.
+
+Wenn Sie unsere Voice-Chat-Funktion nutzen und die Sprachausgabe in einem Sprachkanal aktiviert ist, werden Ausschnitte der Audiodaten des Voice-Chats auf Ihrem Gerät und den Geräten der Teilnehmer des Sprachkanals gespeichert. Wenn ein Verstoß gegen unsere <a id="url" href="https://www.epicgames.com/community-rules" style="EULA.Hyperlink">Community-Regeln</> gemeldet wird, können diese Ausschnitte an Epic übermittelt und überprüft werden, um die Regeln durchzusetzen. Vorbehaltlich einer menschlichen Überprüfung kann Epic Ihr Kommunikationsverhalten im Rahmen eines Spiels (einschließlich Text- und Voice-Chat-Nachrichten) mithilfe maschinenbasierter Lerntechnologien analysieren, um schädigendes, gefährliches oder betrügerisches Verhalten in unseren Diensten zu erkennen.
+
+<EULA.Highlight>Lizenz für Epic. </> Wenn Sie UGC in den Diensten zur Verfügung stellen oder gestellt haben, erteilen Sie Epic die Erlaubnis, diese UGC zu hosten, zu kopieren, zu importieren, zu speichern, zu modifizieren, anzupassen, darzustellen, öffentlich aufzuführen (einschließlich mittels digitaler Audioübertragungen), zu reproduzieren (und mechanische Reproduktionen von Musikwerken, die in Tonaufnahmen verkörpert sind, zu erstellen), abgeleitete Werke davon zu erstellen (einschließlich der Synchronisierung mit visuellen Bildern), öffentlich darzustellen, zu übertragen, Unterlizenzen zu vergeben und zu vertreiben (zusammenfassend als „Nutzung“ bezeichnet), und zwar ganz oder teilweise, auch für kommerzielle Werbe- und Marketingzwecke, in jedem Land. Diese Erlaubnis ist unbefristet und unwiderruflich und gilt für alle Medien, Plattformen oder Kanäle in Verbindung mit der Software oder den Diensten. Die Epic oben gewährte Lizenz ist auf den Umfang beschränkt, der erforderlich ist, damit Ihr UGC Teil der Dienste wird. 
+
+ 
+
+Sie erklären sich auch damit einverstanden, dass UGC als Teil unserer Dienste in anderen Medien erscheinen kann. Sie sind sich darüber im Klaren, dass unsere Dienste hauptsächlich zu Ihrer Unterhaltung dienen und Sie keine Lizenzgebühren erwarten können. Wenn Sie daran interessiert sind, darüber hinaus zu unseren Diensten beizutragen, können Sie in Erwägung ziehen, sich für das „Island Creator“-Programm von Epic zu bewerben.
+
+<EULA.Highlight>Empfohlene Inhalte.</> Fortnite empfiehlt Ihnen Inseln, um Ihre Erfahrung mit dem Dienst zu verbessern und Ihnen mehr Inhalte zu zeigen, die Sie vielleicht spielen möchten. Wir haben mehrere Kategorien in Entdecken, wie „Trending“, „Neue Erfahrungen“ und „Großartig mit Freunden“. Ihre Startleiste ist die erste Zeile, die Sie auf Ihrer Entdecken-Seite sehen und die Empfehlungen von Inseln aus diesen verschiedenen Kategorien zusammenfasst. Wir organisieren und ordnen die Inseln, die wir Ihnen zeigen, basierend auf einer Reihe von Faktoren, einschließlich Ihres Spielverlaufs und Spielinformationen, wie etwa die Anzahl der spielenden Benutzer, die Anzahl der Spieler, die eine Insel zu ihren Favoriten hinzugefügt haben, die Anzahl der Bearbeitungen für eine Insel, wie lange ein Ersteller mit der Bearbeitung seiner Insel verbracht hat, wann eine Insel zum ersten Mal gesehen wurde, die Anzahl der Gebäude, die eine Insel hat, die durchschnittliche Gruppengröße und wie oft und wie lange eine Insel gespielt wurde.
+
+Sie können Ihre personalisierten Empfehlungen für das Spielerlebnis deaktivieren, wenn Sie die Registerkarte Entdecken verwenden. Gehen Sie dazu direkt in Ihre Einstellungen, unter „Konto und Datenschutz“ und „Gameplay-Datenschutz“, wo Sie diese Einstellung ein- und ausschalten können.
+
+<EULA.Highlight>Musikalische Werke.</> Epic kann nach eigenem Ermessen entscheiden, Tonaufnahmen und die in den Tonaufnahmen verkörperten Musikwerke („lizenzierte Musik“) in Verbindung mit UGC zur Verfügung zu stellen. Wenn Epic Lizenzierte Musik zur Verwendung in Ihren UGC zur Verfügung stellt, gewährt Epic Ihnen eine nicht-exklusive, persönliche, begrenzte, widerrufbare, nicht übertragbare Lizenz, um: (a) die Lizenzierte Musik während des Zeitraums, in dem die Lizenzierte Musik über die Dienste zur Verfügung gestellt wird, in UGC zu synchronisieren und (b) UGC, die Lizenzierte Musik enthalten, ausschließlich über die Dienste abzuspielen, anzuhören und damit zu interagieren.
+
+Ihre Änderungen (z. B. Bearbeitungen, Verwendung eines Teils) der lizenzierten Musik zur Synchronisierung mit dem UGC werden als abgeleitete Werke betrachtet, die in der Definition der lizenzierten Musik enthalten sind und deren Rechte bei Epic und seinen Lizenzgebern verbleiben.
+
+<EULA.Highlight>Besondere Regeln für Musikkünstler.</> Wenn Sie Komponist oder Autor eines musikalischen Werks sind und (a) einer Organisation für Aufführungsrechte (Performing-rights Organization, „PRO“) angehören oder Mitglied einer solchen Organisation sind, (b) einen Vertrag mit einem Plattenlabel haben oder (c) Ihre Rechte an einen Musikverlag abgetreten haben, müssen Sie die interessierte Partei über die gebührenfreie Lizenz informieren, die Sie Epic durch diesen Vertrag gewähren. Sie sind allein dafür verantwortlich, dass Sie die Melde- oder Vertragspflichten der betreffenden Partei einhalten und (falls zutreffend) die Zustimmung dieser Partei zur Gewährung der in dieser Vereinbarung vorgesehenen gebührenfreien Lizenz(en) einholen, auch wenn Sie über den Dienst neue Aufnahmen erstellen, die Ihr Label möglicherweise zu beanspruchen versucht.
+
+Sie sichern zu und gewährleisten, dass UGC, der lizenzierte Musik enthält, nicht der Verpflichtung unterliegt und Epic nicht verpflichtet ist, Lizenzgebühren an Dritte zu zahlen, insbesondere an Inhaber von Urheberrechten an Tonträgern (z. B. ein Plattenlabel), an Inhaber von Urheberrechten an Musikwerken (z. B. ein Musikverlag), an PRO (z. B. ASCAP, BMI, SESAC usw.), an eine PRO für Tonträger, an Gewerkschaften oder Zünfte oder an andere Dritte.
+
+Epic gestattet keine Aktivitäten zur Verletzung von geistigem Eigentum durch die Software oder die Dienste. Sie dürfen keine UGC erstellen, generieren oder über die Software oder die Dienste verfügbar machen, für die Sie nicht das Recht haben, Epic eine solche Lizenz für alle Elemente (einschließlich der lizenzierten Musik) der UGC zu gewähren.
+
+Wenn Sie sich dafür entscheiden, Ihren UGC über die Software oder die Dienste zu erstellen, zu generieren oder zur Verfügung zu stellen, sind Sie allein für Ihren UGC verantwortlich und sichern zu und gewährleisten, dass:
+
+(a) Sie der Ersteller und Eigentümer sind und über alle erforderlichen Lizenzen und Rechte verfügen, um die oben gewährte Lizenz zu nutzen und Epic zu ermächtigen, diese zu nutzen;
+
+(b) Ihr UGC und die Nutzung des UGC durch Epic gemäß dieser Vereinbarung keine Rechte Dritter verletzen, einschließlich Urheberrechte, Markenrechte, Patente, Geschäftsgeheimnisse, moralische Rechte oder das Recht auf Datenschutz oder Öffentlichkeit;
+
+(c) Epic keine weiteren Lizenzen erwerben, keine Namensnennung vornehmen und keine Lizenzgebühren oder andere Entschädigungen an Dritte zahlen muss; und
+
+(d) die Nutzung Ihres UGC durch Epic keine Verträge mit Dritten verletzt oder Epic veranlasst, gegen geltende Gesetze oder Vorschriften zu verstoßen.
+
+Sie sind für Ihre UGC verantwortlich, also stellen Sie bitte keine anstößigen Inhalte in oder über die Dienste zur Verfügung. Wenn Sie das tun, müssen wir die Seite möglicherweise löschen. Epic ist berechtigt, aber nicht verpflichtet (es sei denn, dass dies gesetzlich vorgeschrieben ist), UGC zu bearbeiten oder zu überprüfen, den Sie oder andere über die Software oder die Dienste zur Verfügung stellen. Epic kann UGC, die gegen diese Vereinbarung verstoßen oder anderweitig zu beanstanden sind, jederzeit nach alleinigem Ermessen von Epic und ohne vorherige Ankündigung oder Haftung Ihnen oder Dritten gegenüber überprüfen, entfernen, löschen, bearbeiten, blockieren oder die Veröffentlichung verweigern. Wenn Sie UGC zur Verfügung stellen, dürfen Sie nur die Werkzeuge verwenden, die Epic im Rahmen der normalen Funktionalität des Dienstes zur Verfügung stellt, um diese spezielle Art von UGC zu entfernen oder zu ändern.
+
+Sie verstehen, dass Sie bei der Nutzung der Software oder der Dienste UGC aus einer Vielzahl von Quellen ausgesetzt sein können und erkennen an, dass UGC ungenau, beleidigend, unanständig oder anderweitig anstößig sein können. Sie erklären sich damit einverstanden, dass Epic nicht für Ihren UGC oder den UGC anderer verantwortlich oder haftbar ist (es sei denn, dass dies nach geltendem Recht erforderlich ist).
+
+Soweit gesetzlich zulässig, verzichten Sie auf alle Rechte der Urheberschaft, der Schirmherrschaft, der Zurechnung, der Integrität, der Offenlegung, des Rücktritts und alle anderen Rechte, die als „moralische Rechte“, „Künstlerrechte“, „Gewohnheitsrecht“ oder andere ähnliche Rechte bekannt sind oder als solche bezeichnet werden, die unter einer gesetzlichen oder vergleichbaren Theorie eines Landes oder unter einem Vertrag anerkannt sind, unabhängig davon, ob dieses Recht als „moralisches Recht“ (zusammen „Moralische Rechte“) an und für Ihre UGC bezeichnet wird. Sie stimmen außerdem wissentlich und unwiderruflich zu, keine moralischen Rechte an und für Ihre UGC auszuüben, auf die Sie nicht in einer Weise verzichtet haben, die die Ausübung der gewährten Rechte beeinträchtigt. Sie verzichten auf Ihre Moralischen Rechte und erklären sich damit einverstanden, diese nicht geltend zu machen, selbst wenn Ihr UGC in einer Weise verändert wird, mit der Sie nicht einverstanden sind.
+
+
+<EULA.Header>6.	Feedback</>
+
+„Feedback“ bezeichnet schriftliche oder mündliche Mitteilungen an Epic oder seine Tochtergesellschaften in Form von Meinungen, Vorschlägen, Kommentaren, Ideen und allen anderen Formen von Beiträgen (einschließlich, beispielsweise, Vorschläge für Software und Code oder Verbesserungen an bestehender Software und bestehendem Code), die Sie Epic oder seinen Beauftragten zur Verfügung stellen, veröffentlichen oder anderweitig direkt oder indirekt mitteilen (einschließlich der Mitteilung durch Ihre Mitarbeiter, Beauftragten, Auftragnehmer oder Vertreter) und die sich auf Ihre Vorschläge, Ansichten und Meinungen in Bezug auf die Software, Dienste oder andere Produkte und Dienste von Epic beziehen. Feedback gilt nicht als UGC (siehe Abschnitt 5 für weitere Informationen über UGC). 
+
+Sie sind nicht verpflichtet, Feedback zu geben; Jegliches Feedback, das Sie über die verfügbaren Kanäle geben, erfolgt freiwillig. Wenn Sie Epic Feedback zur Verfügung stellen, gewähren Sie Epic hiermit eine nicht-exklusive, weltweite, unbefristete, unwiderrufliche und im erforderlichen Umfang unterlizenzierbare, übertragbare und abtretbare Lizenz zur Nutzung, Vervielfältigung, Reproduktion, Verbreitung, Änderung, Anpassung, Erstellung abgeleiteter Werke, Veröffentlichung, öffentlichen Aufführung, öffentlichen Darstellung, Übersetzung, Herstellung, Anfertigung, Verwendung, anderweitigen Verwertung jeglichen Feedbacks. 
+
+Sie verstehen und erklären sich damit einverstanden, dass Epic nicht verpflichtet ist, das von Ihnen bereitgestellte Feedback zu verwenden. Sie erklären sich damit einverstanden, dass Epic im Falle der Verwendung Ihres freiwillig abgegebenen Feedbacks nicht verpflichtet ist, Ihnen für Ihren Beitrag Anerkennung zu zollen oder Sie zu entschädigen. Sie verstehen, dass Sie, wenn Sie sich entscheiden, Epic Feedback zu geben, dies eine freiwillige Meinungsäußerung darüber ist, wie Sie unsere Dienste am besten nutzen können, die nicht von Epic veranlasst ist und für die Sie keine Lizenzgebühren erwarten können. Sie sichern zu und gewährleisten, dass Sie über ausreichende Rechte an jeglichem Feedback verfügen, das Sie Epic zur Verfügung stellen, um Epic und anderen betroffenen Parteien die oben beschriebenen Rechte zu gewähren. Dies umfasst unter anderem Rechte des geistigen Eigentums und andere Eigentums- oder Persönlichkeitsrechte.
+
+
+<EULA.Header>7.	Eigentum/Drittlizenzen</>
+
+Epic und seine Lizenzgeber sind die Eigentümer aller Titel, Eigentumsrechte und geistigen Eigentumsrechte an der Software und den Diensten. Über die Software und die Dienste können Ihnen Funktionen zur Verfügung gestellt werden, die vorgefertigte Vorlagen oder Ingame-Elemente bereitstellen, die Sie in Verbindung mit Ihrem UGC (wie unten definiert) verwenden können. Durch die Verwendung einer Vorlage erhalten Sie jedoch keine Urheberrechte oder andere Eigentumsrechte an der Vorlage. Epic, Epic Games, Unreal, Unreal Engine und Fortnite sowie die entsprechenden Logos sind Marken oder eingetragene Marken von Epic und seinen Tochtergesellschaften in den Vereinigten Staaten von Amerika und anderswo. Alle Rechte, die Ihnen im Rahmen dieser Vereinbarung gewährt werden, werden nur durch ausdrückliche Lizenz und nicht durch Verkauf gewährt. Im Rahmen dieser Vereinbarung werden keine Lizenz- oder sonstigen Rechte stillschweigend, durch Rechtsverwirkung oder anderweitig begründet.
+
+Die Software enthält bestimmte Komponenten, die von den Lizenzgebern von Epic bereitgestellt werden. Eine Liste mit Credits und Hinweisen zu Komponenten von Drittanbietern finden Sie in der Spieloberfläche.
+
+
+<EULA.Header>8.	Haftungsausschluss und Haftungsbeschränkungen</>
+
+<EULA.Highlight>Es gelten Ihre gesetzlichen Gewährleistungsrechte, sofern nicht anderweitig darauf verzichtet wird.</>
+
+<EULA.Highlight>Die gesetzliche Haftung von Epic für Vorsatz und grobe Fahrlässigkeit sowie für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit bleibt von dieser Vereinbarung unberührt. Epic haftet für seine fahrlässigen Handlungen oder Unterlassungen nur, wenn dadurch eine wesentliche Vertragspflicht verletzt wird. Eine „wesentliche Vertragspflicht“ im Sinne dieser Klausel ist eine Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner daher regelmäßig vertrauen darf. Die Haftung von Epic für die Verletzung einer wesentlichen Vertragspflicht ist auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehen typischerweise gerechnet werden muss. Die Haftungsbeschränkungen in dieser Klausel gelten zugunsten der Mitarbeiter, Beauftragten und Erfüllungsgehilfen von Epic. Jegliche Haftung von Epic für von Epic gegebene Garantien, Ansprüche aus zwingend geltendem Produkthaftungsrecht oder Datenschutzverletzungen bleibt unberührt.</>
+
+
+<EULA.Header>9.	Schadloshaltung</>
+
+Dieser Abschnitt findet nur Anwendung, soweit er nach geltendem Recht zulässig ist. Wenn es Ihnen gesetzlich verboten ist, die Entschädigungspflicht unten einzugehen, übernehmen Sie, soweit gesetzlich zulässig, die gesamte Haftung für alle Ansprüche, Forderungen, Klagen, Verluste, Verbindlichkeiten und Aufwendungen (einschließlich Anwaltsgebühren, -kosten sowie Gebühren für Sachverständige), die Gegenstand der nachstehenden Entschädigungspflicht sind.
+
+Sie erklären sich damit einverstanden, Epic, seine Lizenzgeber, seine und deren verbundene Unternehmen sowie seine und deren Mitarbeiter, leitende Angestellte, Geschäftsführer, Agenten, Auftragnehmer und andere Vertreter hinsichtlich aller Ansprüchen, Forderungen, Klagen, Verlusten, Haftungen und Ausgaben (einschließlich Anwaltsgebühren, Kosten und Sachverständigengebühren) freizustellen und deren Verteidigungskosten zu tragen, die sich aus oder in Verbindung mit (a) einem Anspruch ergeben, der, wenn er zuträfe, einen Verstoß gegen diese Vereinbarung oder Fahrlässigkeit Ihrerseits darstellen würde, (b) einer Handlung oder Unterlassung Ihrerseits bei der Nutzung der Software (einschließlich Spielwährung und Inhalt) oder der Dienste oder (c) einem Anspruch auf Verletzung oder Verstoß gegen Rechte des geistigen Eigentums Dritter, die sich aus der Nutzung Ihres UGC oder Feedbacks durch Epic gemäß den Abschnitten 5 oder 6 dieser Vereinbarung ergeben. Sie verpflichten sich, Epic auf Verlangen alle angefallenen Verteidigungskosten sowie alle Zahlungen oder Verluste zu erstatten, die als Folge eines Gerichtsurteils oder eines Vergleichs aufgrund einer unter diesen Abschnitt 9 fallenden Angelegenheit von Epic geleistet wurden bzw. Epic entstanden sind.
+
+
+<EULA.Header>10.	Kündigung</>
+
+Sie können diese Vereinbarung kündigen, indem Sie die Software von allen Geräten löschen, auf denen Sie sie installiert haben. Bei Kündigung dürfen Sie keines der Rechte, die Ihnen durch die Lizenz gewährt werden, mehr ausüben und müssen alle Kopien der Software in Ihrem Besitz vernichten.
+
+Epic ist außerdem berechtigt, diese Vereinbarung zu kündigen oder Ihren Zugriff auf die Software und/oder die Dienste ganz oder teilweise vorübergehend oder dauerhaft einzuschränken oder auszusetzen, wenn Sie für einen Verstoß (i) gegen die Bedingungen dieser Vereinbarung oder (ii) durch oder während der Nutzung der Software oder der Dienste verantwortlich sind. In beiden Fällen wird Epic angemessene Schritte unternehmen, um Sie vor der Beendigung der Vereinbarung zu verwarnen. Epic ist nicht verpflichtet, Ihnen eine vorherige Verwarnung zukommen zu lassen, wenn Ihr Verstoß so schwerwiegend war, dass eine sofortige Kündigung dieser Vereinbarung und Ihrer Lizenz für die Software und die Dienste gerechtfertigt ist.
+
+Die Abschnitte 2, 5–12 und 15–16 überdauern jede Kündigung dieser Vereinbarung.
+
+
+<EULA.Header>11.	Anwendbares Recht und Zuständigkeit</>
+
+Alle Ansprüche oder Streitigkeiten, die aus oder im Zusammenhang mit dieser Vereinbarung oder dem Dienst erwachsen, unterliegen den Gesetzen Ihres Wohnsitzlandes. 
+
+
+<EULA.Header>12.	 ‬Informelle Streitbeilegung‬‬‬</>
+
+Wenn Sie ein Problem haben, das unser Kundendienst nicht beheben kann, bittet Epic Sie, zu versuchen, den Streitfall informell zu lösen, um eine Lösung herbeizuführen und die Kosten für beide Parteien niedrig zu halten. Wenn Sie sich für eine informelle Lösung entscheiden, verpflichten sich Sie und Epic, sich nach bestem Wissen und Gewissen mindestens 30 Tage lang zu bemühen, einen Streitfall zwischen uns zu verhandeln („informelle Beilegung“). Diese informellen Verhandlungen werden an dem Tag aufgenommen, an dem Epic eine schriftliche Streitanzeige in Übereinstimmung mit dieser Vereinbarung erhält.
+
+Sie werden Ihre Streitanzeige an Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, USA, senden. Geben Sie Ihren Namen, den Kontonamen, den Sie beim Spielen von Fortnite verwenden, Ihre Anschrift, wie Sie kontaktiert werden können, worin das Problem besteht und was Sie von Epic erwarten, an. Die von Ihnen gesendete Streitanzeige muss den Namen, die Adresse und andere Kontaktinformationen des Absenders, eine Beschreibung der Streitigkeit (einschließlich aller relevanten Kontonamen) und die angestrebte Beilegung der Streitigkeit enthalten. Alle anwendbaren Verjährungsfristen gelten ab dem Tag, an dem Sie eine ordnungsgemäße Streitanzeige an Epic senden, als gehemmt.
+
+
+<EULA.Header>13.	U.S.-Regierungsangelegenheiten</>
+
+Die Software ist ein „kommerzieller Artikel“ (wie in 48 C.F.R. § 2.101 definiert), bestehend aus „kommerzieller Computersoftware“ und „kommerzieller Computersoftware-Dokumentation“ (wie in 48 C.F.R. § 12.212 oder 48 C.F.R. § 227.7202 vorgesehen). Die Software wird an Endbenutzer der US-Regierung nur als kommerzieller Artikel und mit nur den Rechten lizenziert, die anderen Lizenznehmern im Rahmen dieser Vereinbarung gewährt werden.
+
+Sie verpflichten sich, alle geltenden bundesstaatlichen und ausländischen Gesetze, Vorschriften und Regeln einzuhalten und alle erforderlichen Verpflichtungen zu erfüllen. Sie verpflichten sich, die Software oder die Dienste nicht zu nutzen, zu exportieren, zu reexportieren oder herunterzuladen in ein Land (oder an einen Staatsangehörigen oder Einwohner eines Landes), gegen das die USA ein Embargo verhängt haben, oder an Personen, die auf der Liste der Specially Designated Nationals des US-Finanzministeriums oder der Table of Denial Orders des US-Handelsministeriums stehen. Sie sichern zu und gewährleisten, dass Sie nicht in einem von den USA gesperrten oder verbotenen Land ansässig sind, sich nicht unter der Kontrolle eines solchen Landes befinden, kein Staatsangehöriger oder Einwohner eines solchen Landes sind und auch nicht auf einer von den USA gesperrten oder verbotenen Liste geführt werden.
+
+
+<EULA.Header>14.	 Änderungen dieser Vereinbarung</>
+
+<EULA.Highlight>Epic ist berechtigt, diese Vereinbarung, die Nutzungsbedingungen oder die Datenschutzrichtlinie jederzeit in angemessener Weise zu ändern, mit Ausnahme der Bestimmungen, die Ihre primären vertraglichen Verpflichtungen und die von Epic im Rahmen dieser Vereinbarung festlegen, wenn und soweit solche Änderungen aufgrund der Umsetzung gesetzlicher Anforderungen, von Gesetzesänderungen oder der Rechtsprechung sowie zu Klarstellungszwecken erforderlich sind. Epic wird Sie über alle vorgeschlagenen Änderungen dieser Vereinbarung informieren, Ihnen die neue Version dieser Vereinbarung zur Verfügung stellen und Sie über das Datum informieren, ab dem die neue Vereinbarung wirksam wird. Wir werden Sie 30 Tage im Voraus schriftlich oder per E-Mail über alle Änderungen informieren. Epic informiert Sie über das Recht, innerhalb der 30-Tage-Frist Widerspruch einzulegen, und über die Folgen, wenn Sie die vorgeschlagene Änderung nicht ausdrücklich ablehnen. Wenn Sie der jeweiligen Änderung nicht innerhalb von 30 Tagen nach Inkrafttreten der neuen Vereinbarung ausdrücklich widersprechen, wird davon ausgegangen, dass Sie die Änderung dieser Vereinbarung genehmigt haben.</>
+
+<EULA.Highlight> </>
+
+
+<EULA.Header>15.	 Keine Abtretung</>
+
+Sie sind nicht berechtigt, ohne die vorherige schriftliche Zustimmung von Epic alle oder einzelne Ihrer Rechte oder Verpflichtungen aus dieser Vereinbarung abzutreten, zu übertragen, zu belasten oder einen Untervertrag abzuschließen. Wenn Beschränkungen für die Übertragung der Software in dieser Vereinbarung nach dem Recht Ihres Landes nicht durchsetzbar sind, ist dieser Vereinbarung für jeden Empfänger der Software bindend. Epic kann jederzeit alle oder einen Teil seiner Rechte oder Pflichten aus dieser Vereinbarung abtreten, übertragen, in Rechnung stellen oder als Unterauftrag vergeben.
+
+
+<EULA.Header>16.	 Definitionen</>
+
+In dieser Vereinbarung haben die folgenden (im englischen Original) großgeschriebenen Wörter die folgende Bedeutung:
+
+„<EULA.Highlight>Cheat-Erkennung</>“ bezeichnet Funktionen, die zur Identifizierung von Cheats bestimmt sind.
+
+„<EULA.Highlight>Cheats</>“ bezeichnet Programme, Methoden oder andere Verfahren, die Spielern einen unfairen Wettbewerbsvorteil in der Software verschaffen können.
+
+„<EULA.Highlight>Vertrauliche Informationen</>“ bezeichnet alle nicht öffentlichen Informationen im Zusammenhang mit der Software, insbesondere Informationen im Zusammenhang mit dem Spiel oder anderen Inhalten, der Spielwährung, dem Inhalt, den Diensten, Ihrem eigenen Feedback und Ihren Kommentaren sowie dem Feedback oder den Kommentaren anderer Lizenznehmer der Software oder eines Vertreters von Epic.
+
+„<EULA.Highlight>Inhalt</>“ bezeichnet alle virtuellen Elemente, virtuellen Umgebungen (wie z. B. Inseln) oder andere Inhalte, die Epic Ihnen über die Software oder in Verbindung mit der Software zum Zugriff oder Herunterladen zur Verfügung stellt, und schließt ausdrücklich Lizenzierte Musik und UGC ein, die von unseren Nutzern an uns lizenziert wurden.
+
+„<EULA.Highlight>Epic</>“ bezeichnet, je nach Standort Ihres Hauptwohnsitzes:
+
+a. Epic Games, Inc., eine Gesellschaft aus Maryland mit Hauptgeschäftssitz in Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, USA; oder
+
+b. Epic Games Entertainment International GmbH, eine Gesellschaft mit beschränkter Haftung nach schweizerischem Recht mit Sitz in Platz 10 6039 Root D4, Schweiz.
+
+„<EULA.Highlight>Dienste</>“ bezeichnet alle Dienste, die Ihnen über die Software zur Verfügung gestellt werden, einschließlich der Dienste zum Erwerb, zur Beibehaltung und zur Nutzung von Spielwährung und Inhalten.
+
+„<EULA.Highlight>Software</>“ bezeichnet die urheberrechtlich geschützte Softwareanwendung, die als Fortnite bekannt ist, sowie alle Patches, Updates und Upgrades für die Anwendung und alle damit zusammenhängenden Inhalte und Dokumentationen, die Ihnen von Epic im Rahmen dieser Vereinbarung zur Verfügung gestellt werden, einschließlich unter anderem sämtlicher Softwarecodes, Titel, Themen, Objekten, Charakteren, Namen, Dialogen, Schlagworten, Orten, Geschichten, Kunstwerken, Animationen, Konzepten, Klängen, audiovisuellen Effekte, Betriebsmethoden und musikalischen Kompositionen, die mit der Anwendung zusammenhängen, sowie alle Kopien des Vorgenannten. Die Software umfasst insbesondere sämtliche Spielwährung und Inhalte, für die Sie die zugehörige Gebühr bezahlt oder anderweitig eine Lizenz gemäß Abschnitt 4 erworben haben.
+
+
+<EULA.Header>17.	 Sonstiges </>
+
+Diese Vereinbarung sowie alle Dokumente oder Informationen, auf die in dieser Vereinbarung Bezug genommen wird, stellen die gesamte Vereinbarung zwischen Ihnen und Epic bezüglich des in dieser Vereinbarung behandelten Vertragsgegenstandes dar. Alle anderen Mitteilungen, Angebote und Zusicherungen in Bezug auf den von dieser Vereinbarung erfassten Vertragsgegenstand sind ausgeschlossen.
+
+Die Originalsprache dieser Vereinbarung ist Englisch. Alle Übersetzungen werden nur zu Referenzzwecken zur Verfügung gestellt. Es ist der ausdrückliche Wunsch der Parteien, dass diese Bedingungen und alle zugehörigen Dokumente in englischer Sprache abgefasst werden. Sie verzichten auf jedes Recht, das Ihnen nach dem Recht Ihres Landes zusteht, diesen Vertrag in der Sprache eines anderen Landes abzufassen oder auszulegen.
+
+Diese Vereinbarung beschreibt bestimmte gesetzliche Rechte. Möglicherweise haben Sie nach den Gesetzen Ihres Heimatlandes andere Rechte. Diese Vereinbarung ändert nichts an Ihren Rechten gemäß den Gesetzen Ihrer Gerichtsbarkeit, wenn die Gesetze Ihrer Gerichtsbarkeit dies nicht zulassen. Die in dieser Vereinbarung enthaltenen Beschränkungen und Ausschlüsse von Gewährleistungen und Rechtsmitteln gelten möglicherweise nicht für Sie, da Ihr Heimatland diese unter Ihren besonderen Umständen möglicherweise nicht zulässt. Für den Fall, dass bestimmte Bestimmungen dieser Vereinbarung von einem zuständigen Gericht für nicht durchsetzbar befunden werden, werden diese Bestimmungen nur so weit durchgesetzt, wie es nach geltendem Recht möglich ist, und die übrigen Bestimmungen dieser Vereinbarung bleiben in vollem Umfang in Kraft und wirksam.
+
+Ein Verzicht von Epic auf die Ausübung oder eine Unterlassung oder Verzögerung bei der Ausübung seiner Rechte aus dieser Vereinbarung, nach dem Gesetz oder nach Billigkeitsrecht gilt nicht als Verzicht auf diese oder andere Rechte oder Rechtsmittel, die vertraglich, nach dem Gesetz oder nach Billigkeitsrecht verfügbar sind.
+
+Sie erklären sich damit einverstanden, dass diese Vereinbarung keiner anderen Person als den Parteien dieser Vereinbarung Rechte oder Rechtsbehelfe gewährt, es sei denn, dass ausdrücklich darauf hingewiesen wird.
+
+Die Verpflichtungen seitens Epic unterliegen den geltenden Gesetzen und rechtlichen Verfahren, und Epic ist berechtigt, trotz gegenteiliger Bestimmungen in dieser Vereinbarung Anfragen von Strafverfolgungsbehörden oder behördlichen Anforderungen nachzukommen.
+
+
+<EULA.Header>18. Zusätzliche Plattformbedingungen</>
+
+
+<EULA.Header>18.1 Benutzer der Sony PlayStation:</>
+
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf Software, die für die Verwendung auf PlayStation-Geräten, die sich in Ihrem Besitz oder unter Ihrer Kontrolle befinden, verfügbar ist:
+
+Bitte beachten Sie, dass die Kontoinformationen des PlayStation™Network-Kontos, einschließlich Ihrer E-Mail-Adresse und Online-ID, von Epic gespeichert werden, wie in der Datenschutzrichtlinie von Epic erläutert. Epic kann seinen Nutzern erlauben, über ihr PlayStation™Network-Konto nach anderen Epic-Konten zu suchen und andere Epic-Nutzer können Ihnen Freundschaftsanfragen senden. Die Datenschutzeinstellungen Ihres PlayStation™Network-Kontos gelten nicht für Ihr Epic-Konto.
+
+In keinem Fall dürfen Sie eine virtuelle Software-Währung in eine reale Währung, materielle Güter oder Sachleistungen umwandeln, und es ist Ihnen ausdrücklich untersagt, außerhalb der Plattform Verkäufe oder Austausche dieser virtuellen Währung durchzuführen, wie beispielsweise auf eBay oder anderen Auktionsseiten.
+
+<EULA.Highlight>Für SIEA-Benutzer:</> Der Kauf und die Nutzung von Artikeln unterliegen den Nutzungsbedingungen und der Nutzungsvereinbarung des Netzwerks. Dieser Online-Service wurde von Sony Interactive Entertainment America an Sie unterlizenziert.
+
+<EULA.Highlight>Für SIEE-Benutzer:</> Alle in einem In-Game-Shop gekauften Inhalte werden von Sony Interactive Entertainment Network Europe Limited („SIENE“) gekauft und unterliegen den Nutzungsbedingungen und der Nutzungsvereinbarung des PlayStation™Network, die im PlayStation™Store verfügbar sind. Bitte überprüfen Sie die Nutzungsrechte für jeden Kauf, da diese von Artikel zu Artikel unterschiedlich sein können. Sofern nicht anders angegeben, haben die in einem In-Game-Shop verfügbaren Inhalte die gleiche Altersfreigabe wie das Spiel.
+
+
+<EULA.Header>18.2 Benutzer der Microsoft Xbox</>
+
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf Software, die für die Verwendung auf Xbox-Live-Geräten verfügbar ist und sich in Ihrem Besitz oder unter Ihrer Kontrolle befindet:
+
+Weder die Microsoft Corporation noch ihre verbundenen Unternehmen (zusammen „<EULA.Highlight>Microsoft</>“) haben Wartungs- oder Supportverpflichtungen in Bezug auf die Software oder Dienstleistungen.
+
+Nichts in dieser Vereinbarung regelt oder ändert in irgendeiner Weise Ihre Beziehung zu Microsoft im Rahmen von Vereinbarungen zwischen Ihnen und Microsoft, einschließlich der Xbox-Live-Nutzungsbedingungen.
+
+Darüber hinaus übersteigt die Gesamthaftung der Epic- Parteien (mit Ausnahme von Microsoft), die sich aus oder im Zusammenhang mit dieser Vereinbarung oder der Software (einschließlich der Spielwährung oder des Inhalts) oder den Dienstleistungen ergeben, nicht die Gesamtbeträge, die Sie (falls zutreffend) an Epic für die Software (einschließlich der Spielwährung oder des Inhalts) während der zwölf (12) Monate unmittelbar vor den Ereignissen, die zu einer solchen Haftung führen, bezahlt haben, und Microsoft übernimmt keine Haftung Ihnen gegenüber, die sich aus oder im Zusammenhang mit dieser Vereinbarung oder der Software (einschließlich der Spielwährung oder des Inhalts) oder den Dienstleistungen ergibt. Diese Beschränkungen und Ausschlüsse bezüglich des Schadenersatzes gelten auch dann, wenn ein Rechtsbehelf keine angemessene Entschädigung leistet.
+
+
+<EULA.Header>18.3 Benutzer von Apple iOS.</>
+
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf Software, die für die Verwendung auf allen Apple, Inc. („Apple“) iPhone- oder iPad-Geräten verfügbar ist und die sich in Ihrem Besitz oder unter Ihrer Kontrolle befindet:
+
+Sie erklären sich damit einverstanden, dass Ihre Vereinbarung nicht mit Apple getroffen wurde. Epic, nicht Apple, ist allein verantwortlich für die Software und deren Inhalt.
+
+Ihre Nutzung der Software unterliegt den Bedingungen dieser Vereinbarung und ist durch die in den Allgemeinen Geschäftsbedingungen des App Store festgelegten Nutzungsregeln ab dem Datum, an dem Sie die Software (von der Sie bestätigen, dass Sie die Möglichkeit hatten, sie zu überprüfen) herunterladen oder zum ersten Mal verwenden, gestattet.
+
+Sie stimmen zu, dass Apple keine Wartungs- oder Supportverpflichtungen in Bezug auf die Software oder die Dienste hat.
+
+Sie erkennen an und stimmen zu, dass Apple in Bezug auf die Software oder die Dienste nicht für Produktgewährleistungen verantwortlich ist, weder ausdrücklich noch implizit nach dem Gesetz. Wenn Sie in Ihrem Land oder einer anderen Rechtsordnung Anspruch auf eine Gewährleistung haben, können Sie Apple benachrichtigen, falls die Software oder die Dienste einer solchen erforderlichen Gewährleistung nicht entsprechen, und Apple wird den von Ihnen an Apple gezahlten Kaufpreis für die Software zurückerstatten. Soweit es das geltende Recht zulässt, hat Apple keine andere Gewährleistungsverpflichtung in Bezug auf die Software oder die Dienste, und alle anderen Ansprüche, Verluste, Verbindlichkeiten, Schäden, Kosten oder Ausgaben, die auf eine Nichteinhaltung dieser erforderlichen Gewährleistung zurückzuführen sind, liegen in der alleinigen Verantwortung von Epic. Sie verstehen und erklären sich jedoch damit einverstanden, dass Epic in Übereinstimmung mit dieser Vereinbarung alle Gewährleistungen jeglicher Art in Bezug auf die Software und die Dienste abgelehnt hat, und daher gibt es keine Gewährleistungen, die auf die Software oder die Dienste anwendbar sind, außer denjenigen, die gesetzlich vorgeschrieben sind.
+
+Zwischen Apple und Epic ist Epic, nicht Apple, dafür verantwortlich, Ihre oder die Ansprüche eines Dritten in Bezug auf die Software oder die Dienste oder Ihren Besitz und/oder Ihre Nutzung der Software oder der Dienste, einschließlich unter anderem der folgenden Punkte, zu klären: (i) Produkthaftungsansprüche; (ii) jegliche Behauptung, dass die Software oder die Dienstleistungen nicht mit den geltenden gesetzlichen oder behördlichen Anforderungen übereinstimmen, und (iii) Ansprüche, die sich aus dem Verbraucherschutzrecht oder ähnlichen Gesetzen ergeben. Im Falle einer Behauptung eines Dritten, dass die Software oder die Dienste oder Ihr Besitz und Ihre Nutzung der Software oder der Dienste die Rechte des geistigen Eigentums Dritter verletzen, ist Epic, nicht Apple, allein verantwortlich für die Untersuchung, Verteidigung, Beilegung und Erledigung einer solchen behaupteten Verletzung geistigen Eigentums (falls zutreffend und in dem Umfang, der in dieser Vereinbarung gefordert wird).
+
+Sie erklären sich damit einverstanden, dass diese Vereinbarung keiner anderen Person als den Parteien dieser Vereinbarung Rechte oder Rechtsbehelfe gewährt, es sei denn, dass ausdrücklich darauf hingewiesen wird. Ungeachtet des Vorstehenden sind Apple und die Tochtergesellschaften von Apple Drittbegünstigte dieser Vereinbarung, und nach Ihrer Annahme dieser Vereinbarung hat Apple das Recht (und es wird davon ausgegangen, dass Apple dieses Recht akzeptiert hat), diese Vereinbarung gegen Sie als Drittbegünstigten durchzusetzen.
+
+Alle Fragen, Beschwerden oder Ansprüche von Endbenutzern in Bezug auf die Software sind an help@fortnite.com zu richten.

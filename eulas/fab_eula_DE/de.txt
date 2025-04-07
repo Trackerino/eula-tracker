@@ -1,0 +1,216 @@
+<b>Zuletzt aktualisiert: 6. April 2025</b>
+
+<b>Endbenutzer-Lizenzvereinbarung für Fab</b>
+
+
+Diese Lizenzvereinbarung für Fab („<b>Vereinbarung</b>“) gilt für Ihre Nutzung bestimmter digitaler Assets („<b>Inhalte</b>“), die über den Online-Marktplatz für digitale Assets von Epic (der „<b>Epic Marketplace</b>“) zur Verfügung gestellt werden. Diese Vereinbarung ist eine rechtliche Vereinbarung zwischen Ihnen und dem Inhaltslizenzgeber. Indem Sie hier klicken, um Ihre Annahme dieser Vereinbarung zu bestätigen, erklären Sie sich mit den Bedingungen dieser Vereinbarung einverstanden.
+
+Wenn wir „<b>Epic</b>“ sagen, beziehen wir uns auf die Epic-Einheit für Ihre Region, wie in Abschnitt 9 definiert. Wenn wir „<b>Sie</b>“, „<b>Ihr</b>“ oder „<b>sich</b>“ sagen, meinen wir Sie als Einzelperson oder die juristische Person, die die Rechte aus dieser Vereinbarung über Sie ausübt. Wenn wir „<b>Inhaltslizenzgeber</b>“, „<b>wir</b>“ oder „<b>uns</b>“ sagen, meinen wir die Partei, die Ihnen eine begrenzte Lizenz für den Inhalt gewährt. Epic ist möglicherweise nicht der Inhaltslizenzgeber. Siehe Abschnitt 1(b) zur Identifizierung des Inhaltslizenzgebers.
+
+
+<b><u>Inhalte über einen Epic Marketplace kaufen</u></b>
+
+
+<b><u>1.	</b>MARKETPLACE-INHALTE</u></b>
+
+<b>a.	Die Rolle von Epic auf dem Epic Marketplace</b>. Epic und seine verbundenen Unternehmen oder Tochtergesellschaften betreiben den Epic Marketplace und können es Ihnen ermöglichen, Inhalte zu Ihrer Bibliothek hinzuzufügen, entweder durch den Kauf der Inhalte oder durch das kostenlose Hinzufügen zu Ihrer Bibliothek (jedes Mal, wenn Sie Inhalte zu Ihrer Bibliothek hinzufügen, eine „<b>Transaktion</b>“). Ihre Nutzung des Epic Marketplace unterliegt den Nutzungsbedingungen von Epic, den Nutzungsbedingungen von Fab und allen zusätzlichen Bedingungen in Bezug auf den Epic Marketplace, denen Sie zugestimmt haben. Diese Vereinbarung ersetzt, ändert oder beeinflusst anderweitig keine anderen Vereinbarungen, die Sie möglicherweise mit Epic haben.
+
+<b>b.	Erhalt einer Lizenz für Inhalte. </b>Wenn Sie eine Transaktion für Inhalte abschließen, wird Ihnen vom Inhaltslizenzgeber eine Lizenz für diese Inhalte gewährt. Der Inhaltslizenzgeber kann Epic oder eine andere Partei sein, die den Inhalt auf den Epic Marketplace hochgeladen hat. Wenn eine andere Partei als Epic der Inhaltslizenzgeber ist, wird der Inhaltslizenzgeber im Epic Marketplace identifiziert, bevor Sie Ihre Transaktion abschließen (z. B. kann der Inhaltslizenzgeber in der Beschreibung für Inhalte im Epic Marketplace identifiziert werden). Wenn ein Inhaltslizenzgeber nicht im Epic Marketplace identifiziert wird, ist Epic der Inhaltslizenzgeber für diese Inhalte.
+
+<b>c.	Was verkauft wird</b>. Wenn wir in dieser Vereinbarung darauf hinweisen, dass Inhalte „gekauft“ oder
+
+„erworben“ werden, meinen wir damit, dass Sie eine Lizenz für die Inhalte erwerben. Ihnen wird kein Eigentum an Inhalten gewährt, die auf dem Epic Marketplace zum Verkauf angeboten oder verkauft werden.
+
+<b>d.	</b>Lizenzvereinbarungen. Jedes Mal, wenn Sie eine Transaktion abschließen, schließen Sie diese Vereinbarung mit dem jeweiligen Inhaltslizenzgeber ab (oder bestätigen erneut Ihre vorherige Zustimmung dazu), der Ihnen eine Lizenz aus dieser Transaktion gewährt. Das bedeutet, dass Sie diese Vereinbarung mit dem jeweiligen Inhaltslizenzgeber abschließen, der Ihnen eine Lizenz gewährt.
+
+
+<b><u>2.	LIZENZGEWÄHRUNG FÜR INHALTE</u></b>
+
+<b>a.	Lizenzstufen. </b>Inhalte können auf verschiedenen Lizenzstufen angeboten werden, und vor Abschluss einer Transaktion müssen Sie möglicherweise zwischen der Stufe „Persönlich – Nur Referenz“, der Stufe „Persönlich“ und der Stufe „Professionell“ (jeweils eine „<b>Lizenzstufe</b>“) auswählen. Sie haben nur dann Anspruch auf die Stufe „Persönlich – Nur Referenz“ oder „Persönlich“, wenn Sie zum Zeitpunkt der Transaktion zusammen mit einer kontrollierenden Einheit und anderen Einheiten unter gemeinsamer Kontrolle mit Ihnen nicht mehr als
+
+100.000 USD an Bruttoeinnahmen aus Ihren kommerziellen Aktivitäten im Bereich der digitalen Inhalte in den letzten 12 Monaten erzielt haben. Für die Zwecke dieser Berechnung umfasst der Umsatz alle erhaltenen Vorschüsse oder sonstigen Mittel. Wenn Sie eine Transaktion für eine Lizenzstufe abschließen, für die Sie zum Zeitpunkt des Kaufs nicht berechtigt waren, müssen Sie Epic auf Anfrage den Restbetrag zahlen, den Sie geschuldet hätten, wenn Sie eine Lizenzstufe erworben hätten, für die Sie berechtigt gewesen wären.
+
+<b>b.	Standard-Inhaltslizenz. </b>Außer wie in Abschnitt 2© angegeben, gewährt Ihnen der Lizenzgeber, wenn Sie eine Transaktion für eine Lizenzstufe abschließen, für die Sie berechtigt sind, eine Standardlizenz für Inhalte (wie in Abschnitt 3(a) definiert), um die Inhalte, die Gegenstand der Transaktion waren, zu teilen und zu verwenden.
+
+<b>c.	Alternative Lizenz. </b>Der Epic Marketplace kann Inhalte als im Rahmen einer Open-Source-Lizenz angeboten kennzeichnen. Wenn Sie eine Transaktion für solche Inhalte abschließen, gewährt Ihnen der Inhaltslizenzgeber eine Lizenz für die Inhalte unter der angegebenen Open-Source-Lizenz („<b>Alternative Lizenz</b>“). Ihnen wird keine Standardlizenz für solche Inhalte gewährt. Wenn die Inhalte einer alternativen Lizenz unterliegen, wird die alternative Lizenz im Epic Marketplace identifiziert. Alle allgemeinen Beschreibungen alternativer Lizenzen, die auf dem Epic Marketplace angeboten werden, dienen nur Zweckmäßigkeitsgründen und ändern nicht die Bedingungen dieser Vereinbarung oder der alternativen Lizenz, die Ihnen gewährt wird, und werden nicht als Meinung oder Beratung angeboten.
+
+<b>d.	Inhaltsformate. </b>Wenn Sie eine Standardlizenz erhalten, kann Ihnen durch die gewährte Lizenz der Zugriff auf den Inhalt als Quell-Asset, als Referenz-Asset oder sowohl als Quell-Asset als auch als Referenz-Asset ermöglicht werden. Die Formate, in denen Sie auf die Inhalte zugreifen dürfen, hängen davon ab, welche Lizenz und welche Lizenzstufe Ihnen gewährt wird:
+
+i.	Standardlizenz unter der Stufe „Persönlich – Nur Referenz“: Sie können auf den Inhalt nur als Referenz- Asset zugreifen
+
+ii.	Standardlizenz im Rahmen einer persönlichen oder professionellen Stufe: Sie können auf den Inhalt sowohl als Quell- als auch als Referenz-Asset zugreifen, je nach der auf der Produktseite beschriebenen Verfügbarkeit.
+
+iii.	Creative Commons-Lizenz: Sie können auf den Inhalt in den vom Inhaltslizenzgeber festgelegten Formaten zugreifen. Quell-Assets sind Dateien, die vollständige Kopien des Inhalts im Unreal Engine-Format enthalten und möglicherweise andere Formate (wie aufgeführt) enthalten, die geändert und in Ihre Projekte integriert werden können. Referenz-Assets sind Dateien, die Snapshots des Inhalts und eine universelle Ressourcenkennung enthalten, die identifiziert, wo der Inhalt vom Inhaltslizenzgeber gehostet werden kann. Wenn ein Referenz-Asset als Abhängigkeit in einem Projekt enthalten ist, das Sie auf eine Online-Plattform hochladen, kann eine kompatible Plattform möglicherweise eine vollständige Kopie des Inhalts mithilfe der universellen Ressourcenkennung abrufen und in Ihr Projekt integrieren. Ihre Nutzung von Online-Plattformen unterliegt allen Vereinbarungen, die Sie mit dem Plattformbetreiber abgeschlossen haben, und diese Vereinbarung ersetzt, ändert oder beeinträchtigt nicht die Vereinbarungen, die Sie mit dem Plattformbetreiber haben.
+
+<b>e.	Plugins. </b>Code-Plugins, die auf dem Epic Marketplace angeboten werden, einschließlich Unreal Engine Plugins und Unity Plugins („<b>Plugins</b>“), werden Ihnen auf einer Einzelplatzbasis angeboten und dürfen nur von der Anzahl von Benutzern verwendet werden, für die Sie Lizenzen erworben haben.
+
+<b><u>Wer ist Eigentümer von was. </u></b>Im Verhältnis zwischen Ihnen und uns sind Sie Inhaber aller Rechte, außer der Rechte an den Inhalten, von allem, was Sie im Rahmen dieser Vereinbarung mit den Inhalten entwickeln, und wir sind Inhaber aller Titel, Eigentumsrechte und Rechte an geistigem Eigentum an den lizenzierten Inhalten.
+
+
+<b><u>Verwendung und Freigabe von Inhalten unter einer Standardlizenz</u></b>
+
+
+<b><u>3.	WIE SIE INHALTE ZUR ENTWICKLUNG VON PROJEKTEN NUTZEN KÖNNEN</u></b>
+
+<b>a.	Lizenzgewährung. </b>Eine „<b>Standardlizenz</b>“ gewährt Ihnen eine nicht exklusive und nicht übertragbare Lizenz zur privaten Nutzung, Vervielfältigung, Darstellung, Vorführung und Änderung der lizenzierten
+
+Technologie gemäß den Bedingungen dieser Vereinbarung. Das bedeutet, dass Sie die Inhalte, solange Sie nicht gegen diese Vereinbarung verstoßen, z. B. durch die Nutzung der Inhalte unter Verstoß gegen geltende Gesetze oder Vorschriften oder für einen rechtswidrigen Zweck, privat nutzen können, wie Sie es unter einer Standardlizenz wünschen. Wenn Sie die Inhalte oder alles, was Sie mit diesen herstellen, mit anderen teilen möchten, erfahren Sie in den Abschnitten 4 und 5 unten, wann und wie Sie dies tun können.
+
+<b>b.	Inhalte erneut herunterladen. </b>Möglicherweise haben Sie nach Abschluss einer Transaktion die Möglichkeit, Inhalte vom Epic Marketplace herunterzuladen. Wir können Ihnen auch einige Inhalte zum erneuten Herunterladen über den Epic Marketplace zur Verfügung stellen. Wir garantieren jedoch nicht, dass Sie Inhalte immer wieder vom Epic Marketplace herunterladen oder auf diese zugreifen können. Gründe für die Entfernung können sein: Verletzung des geistigen Eigentums oder andere Rechtsverletzungen, Verletzung der Nutzungsbedingungen durch den Verkäufer und Obsoleszenz. Wir empfehlen Ihnen, eine Sicherungskopie der von Ihnen gekauften Inhalte anzulegen.
+
+
+<b><u>4.	WIE SIE PROJEKTE, DIE SIE MIT INHALTEN ERSTELLT HABEN, TEILEN KÖNNEN</u></b>
+
+<b><u>a.	Projekte. </u></b>Wenn Sie im Rahmen einer Standardlizenz Projekte entwickeln, die (i) unter Verwendung der Inhalte durchgeführt werden oder (ii) die Inhalte mit einer anderen Software oder anderen Inhalten kombinieren, unabhängig davon, wie viel oder wenig der Inhalte verwendet wird (zusammen „<b>Projekte</b>“), dürfen Sie diese Projekte nur so vertreiben, wie dies ausdrücklich gemäß dieser Vereinbarung zulässig ist.
+
+„<b>Vertreiben</b>“ bedeutet im Hinblick auf ein Projekt, das Projekt bereitzustellen oder eine Kopie des Produkts der Öffentlichkeit oder einer anderen natürlichen oder juristischen Person zur Verfügung zu stellen oder die Funktionalität des Produkts in einem Netzwerk verfügbar zu machen.
+
+<b><u>b.	Vertreiben linearer Medienprojekte. </u></b>Vorbehaltlich geltender Einschränkungen in Abschnitt 6 (Beschränkungen zur Nutzung von Inhalten) können Sie ein Projekt, das ein gerendertes lineares Medienprodukt ist, frei vertreiben. Das bedeutet beispielsweise, dass Sie Folgendes frei vertreiben können:
+
+i.	gerenderte Videodateien (z. B. übertragene oder gestreamte Videodateien, Cartoons, Filme oder Bilder) und
+
+ii.	Bilder, die mit Inhalten erstellt wurden.
+
+<b><u>c.	Vertreiben anderer Projekte. </u></b>Vorbehaltlich aller geltenden Einschränkungen in Abschnitt 6 (Beschränkungen zur Nutzung von Inhalten) können Sie ein Projekt vertreiben, das Inhalte als eine eingeschlossene Abhängigkeit für Endbenutzer enthält. Wenn Sie einen solchen Vertrieb vornehmen, dürfen Sie Endbenutzer jedoch nur autorisieren, Inhalte ausschließlich wie im Projekt im Objektcode enthalten zu verwenden, und Sie müssen Endbenutzer daran hindern, Inhalte außerhalb des Projekts zu extrahieren oder anderweitig zu verwenden.
+
+Sie können Dritte einsetzen, um ein Projekt in Ihrem Namen in Übereinstimmung mit dieser Vereinbarung zu vermarkten und zu vertreiben. Das bedeutet beispielsweise, dass Sie Softwareanwendungen (wie Videospiele), die Inhalte enthalten, an die allgemeine Öffentlichkeit vertreiben können, sei es direkt durch Sie oder über einen Händler oder Verlag. Sie und Ihre Endnutzer können auch (i) die Inhalte, die in das Projekt integriert sind, in Werbematerialien verwenden, die das Projekt enthalten, und (ii) Systeme entwickeln, um sich vor verbotenen Inhalten oder Aktivitäten zu schützen.
+
+
+<b><u>5.	WIE MAN SELBST INHALTE TEILEN KANN</u></b>
+
+<b>a.	Teilen von Inhalten. </b>Im Rahmen einer Standardlizenz dürfen Sie Inhalte nicht eigenständig an Dritte weitergeben, außer an Ihre Mitarbeiter (entweder direkt oder über ein Repository eines Dritten), die die Inhalte in gutem Glauben verwenden, um ein Projekt mit Ihnen oder in Ihrem Namen zu entwickeln. Das bedeutet beispielsweise, dass Sie Inhalte an Ihre Mitarbeiter, verbundenen Unternehmen und Auftragnehmer in einem privaten Online-Repository weitergeben können, während Sie gemeinsam an einem Projekt arbeiten. Diesen Mitarbeitern, mit denen Sie Inhalte teilen, ist es nicht gestattet, die Inhalte weiter zu vertreiben (einschließlich wie in einem Projekt integriert) und sie müssen die Inhalte löschen, sobald sie nicht mehr für die Entwicklung eines Projekts mit Ihnen oder in Ihrem Namen benötigt werden. Sie sind dafür verantwortlich, sicherzustellen, dass alle Dritten, mit denen Sie Inhalte teilen, die Bedingungen dieser Vereinbarung einhalten. Sie haften allein für jeden Verstoß gegen diese Vereinbarung durch Mitarbeiter in Bezug auf Inhalte, die Sie teilen.
+
+<b>b.	Weitergabe von Plugins. </b>Die Weitergabe von Plugins im Quellformat an Ihre Mitarbeiter, verbundenen Unternehmen und Auftragnehmer ist gestattet, solange die Nutzung durch diese Mitarbeiter, verbundenen Unternehmen und Auftragnehmer nicht dazu führt, dass Sie die Anzahl der bezahlten Benutzer, die Sie für das Plugin erworben haben, überschreiten. Alle derartigen Übertragungen unterliegen den Bestimmungen von Abschnitt 5 der Vereinbarung. Für Unreal Engine Plugins gilt außerdem, dass alle Projekte, in die Sie Plugins einbinden, nur als Engine Tools gemäß der Unreal Engine-Vereinbarung vertrieben werden dürfen.
+
+
+<b><u>Einschränkungen bei der Nutzung von Inhalten</u></b>
+
+
+<b><u>6.	STANDARD-LIZENZBESCHRÄNKUNGEN</u></b>
+
+<b>a.	Nicht-kompatible Lizenzen. </b>Sie dürfen die Ihnen lizenzierten Inhalte unter einer Standardlizenz nicht mit Code oder anderen Inhalten kombinieren, vertreiben oder anderweitig nutzen, die unter eine Lizenz fallen, die direkt oder indirekt vorschreibt, dass die Inhalte ganz oder teilweise anderen Bedingungen als denen dieser Vereinbarung unterliegen. Das bedeutet zum Beispiel, dass Sie Inhalte im Rahmen einer Standardlizenz nicht mit Code oder Inhalten kombinieren dürfen, die unter einer der folgenden Lizenzen lizenziert sind: GNU General Public License (GPL), Lesser GPL (LGPL) (es sei denn, Sie verlinken lediglich dynamisch eine gemeinsam genutzte Bibliothek) oder Creative Commons Attribution-ShareAlike License.
+
+<b><u>Allgemeine Beschränkungen. </u></b>Für Inhalte, die Ihnen im Rahmen einer Standardlizenz lizenziert wurden, dürfen Sie nicht:
+
+i.	versuchen, Quellcode oder Daten aus den Inhalten zurückzuentwickeln, zu dekompilieren, zu übersetzen, zu disassemblieren oder abzuleiten;
+
+ii.	die Inhalte auf einer „eigenständigen Basis“ verkaufen, vermieten, verleasen oder übertragen (dies bedeutet beispielsweise, dass Projekte, die Sie vertreiben, einen Wert nach vernünftigem Ermessen über den Wert des Inhalts hinaus schaffen müssen und der Inhalt lediglich Bestandteil des Projekts und nicht der Hauptschwerpunkt des Projekts sein muss);
+
+iii.	Dritten gestatten, Inhalte in ihre eigenen Produkte, Dienstleistungen oder andere Projekte zu integrieren (das bedeutet beispielsweise, dass Sie Inhalte nicht in Welt- oder Level-Editing-Tools oder Vorlagen oder anderen Modellierungstools zur Verfügung stellen dürfen, die den Export von Werken ermöglichen);
+
+iv.	die Inhalte unter Verstoß gegen geltendes Recht verwenden;
+
+v.	die Inhalte in einer Weise verwenden, die die Rechte eines Dritten verletzt;
+
+vi.	jegliche Eigentumshinweise oder -etiketten, die im Inhalt enthalten sind, entfernen, deaktivieren, umgehen oder ändern;
+
+vii.	NoAI-Inhalte (i) in Datensätzen verwenden, die von generativen KI-Programmen verwendet werden; (ii) bei der Entwicklung von generativen KI-Programmen verwenden; oder (iii) als Schulungs-Input für generative KI- Programme verwenden. Siehe Abschnitt 16(l) für die Definitionen von NoAI-Inhalten und generativen KI- Programmen.
+
+
+<b><u>Unsere Beziehung</u></b>
+
+
+<b><u>7.	DIESE VEREINBARUNG ZWISCHEN IHNEN UND DEM INHALTSLIZENZGEBER</u></b>
+
+<b>a.	Änderungen. </b>Wenn wir Änderungen an dieser Vereinbarung vornehmen, müssen Sie die geänderte Version nicht akzeptieren. Bis Sie die geänderte Fassung akzeptieren, gilt diese Vereinbarung weiterhin. Es kann jedoch sein, dass Sie nicht berechtigt sind, neue Inhalte zu erwerben oder bereits erworbene Inhalte zu aktualisieren. Eine solche Änderung ist nur wirksam, wenn sie Ihnen von Epic mitgeteilt wird. Alle Inhalte, die Sie vor den geänderten Bedingungen erworben haben (unabhängig davon, ob sie kostenlos oder kostenpflichtig sind), unterliegen weiterhin den Lizenzbedingungen, die zu dem Zeitpunkt galten, als Sie die Inhalte erworben haben.
+
+<b>b.	Alternative Bedingungen. </b>Diese Vereinbarung ersetzt, ändert oder berührt anderweitig nicht andere Vereinbarungen, die Sie möglicherweise mit uns oder, wenn Epic nicht der Inhaltslizenzgeber ist, mit Epic haben. Wenn Epic Ihnen beispielsweise eine Lizenz für die Nutzung der Inhalte erteilt, um ein oder mehrere Produkte unter einer benutzerdefinierten Lizenz zu entwickeln, regelt diese benutzerdefinierte Lizenz und nicht diese Vereinbarung Ihre Nutzung der Inhalte.
+
+<b>c.	Benachrichtigung. </b>Wenn diese Vereinbarung eine Benachrichtigung unsererseits erfordert, einschließlich einer schriftlichen Benachrichtigung, können wir Sie entweder über den Epic Marketplace oder über eine E- Mail-Adresse, die Sie uns zur Verfügung gestellt haben, oder, wenn Epic nicht der Inhaltslizenzgeber ist, die Sie Epic zur Verfügung gestellt haben, benachrichtigen. Wenn diese Vereinbarung eine Benachrichtigung von Epic erfordert, einschließlich einer schriftlichen Mitteilung, können Sie Epic eine Mitteilung per E-Mail an
+
+ <a id="url" href="mailto:legal@epicgames.com" style="EULA.Hyperlink">legal@epicgames.com</a> zukommen lassen. Mitteilungen, die Ihnen im Rahmen der Epic-Dienste zukommen, werden wirksam, wenn Sie auf die Epic-Dienste zugreifen, und wenn sie per E-Mail gesendet werden, werden sie wirksam, sobald sie gesendet werden.
+
+
+<b><u>8.	WER SIND SIE? </u></b>
+
+<b>a.	Sie. </b>Wenn Sie diese Vereinbarung im Namen einer anderen natürlichen oder juristischen Person akzeptieren,
+
+(i) umfassen alle Verweise auf „Sie“ in dieser Vereinbarung diese natürliche oder juristische Person, und diese Vereinbarung ist für diese verbindlich, (ii) für den Fall, dass Sie oder diese Person gegen diese Vereinbarung verstoßen, erklärt sich diese natürliche oder juristische Person bereit, uns gegenüber für diesen Verstoß haftbar zu sein.
+
+<b>b.	Berechtigung. </b>Sie müssen volljährig sein, um diesen Vertrag abzuschließen. Sie bestätigen, dass Sie volljährig sind und diese Vereinbarung verstanden haben und annehmen. Wenn Sie noch nicht volljährig sind, müssen Ihre Eltern oder Erziehungsberechtigten dieser Vereinbarung zustimmen. Sie dürfen keine Person sein oder im Namen einer natürlichen oder juristischen Person handeln, die: (i) auf der Liste der
+
+„Specially Designated Nationals“ (Speziell ausgewiesene Staatsangehörige) und „Blocked Persons“ (gesperrte Personen) oder anderen ähnlichen Listen stehen, die von einer US-Regierungsbehörde im Rahmen von Wirtschaftssanktionsgesetzen geführt werden, oder (ii) in einem Land oder Gebiet ansässig sind, das einem US-Embargo unterliegt.
+
+<b>c.	Epic-Konto</b>. Um Zugang zu den Inhalten zu erhalten und diese herunterzuladen, müssen Sie zunächst ein Konto bei Epic einrichten, für das die Nutzungsbedingungen von Epic gelten (epicgames.com/tos).
+
+
+<b><u>9.	WER IST EPIC? </u></b>
+
+Die Epic-Einheit für Ihre Region entspricht Ihrem Wohnort (oder Ihrem Hauptgeschäftssitz), wie unten dargelegt:
+
+•	Wenn Sie <b><u>in den Vereinigten Staaten von Amerika </u></b>leben (oder dort ihren Hauptgeschäftssitz) haben, ist die Epic-Einheit, die diese Vereinbarung mit Ihnen schließt, 
+•	<b><u>Epic Games, Inc. </u></b>
+•	Wenn Sie <b><u>außerhalb der Vereinigten Staaten von Amerika </u></b>leben (oder dort ihren Hauptgeschäftssitz) haben, ist die Epic-Einheit, die diese Vereinbarung mit Ihnen abschließt, die <b><u>Epic Games Commerce GmbH</u></b>.
+
+
+<b><u>10.	DATENSCHUTZ</u></b>
+
+Bitte lesen Sie die Datenschutzrichtlinie unter <a id="url" href="http://www.epicgames.com/privacypolicy" style="EULA.Hyperlink">www.epicgames.com/privacypolicy,</a> um Informationen darüber zu erhalten, wie Epic Informationen erheben, verwenden und weitergeben kann, wenn Sie auf Inhalte zugreifen oder diese nutzen.
+
+<b><u>Sonstige Rechte und Pflichten</u></b>
+
+
+<b><u>11.	ZUSICHERUNGEN UND GEWÄHRLEISTUNGEN</u></b>
+
+<b>a.	Ihre Zusicherungen und Gewährleistungen. </b>Sie sichern zu und gewährleisten, dass Sie alle in Abschnitt 8(b) genannten Eignungskriterien erfüllen. Wenn Sie diese Vereinbarung im Namen einer anderen natürlichen oder juristischen Person akzeptieren, sichern Sie zusätzlich zu und garantieren, dass Sie befugt sind, diese Vereinbarung im Namen dieser natürlichen oder juristischen Person anzunehmen.
+
+
+<b><u>12.	AUSSCHLÜSSE</u></b>
+
+<b>a.	Für wen dieser Abschnitt gilt. </b>Nichts in dieser Vereinbarung berührt Ihre gesetzlichen Rechte, auf die Sie nicht verzichten können. Einige Länder, Staaten, Provinzen oder andere Rechtsordnungen lassen den Ausschluss bestimmter Gewährleistungen oder Haftungsbeschränkungen, wie in diesem und dem nächsten Abschnitt angegeben, nicht zu, so dass die nachstehenden Bedingungen möglicherweise nicht in vollem Umfang auf Sie zutreffen. In diesen Rechtsordnungen gelten die nachstehenden Ausschlüsse und Beschränkungen nur in dem Umfang, der nach den geltenden Gesetzen dieser Rechtsordnungen zulässig ist.
+
+<b>b.	Disclaimers.</b>
+
+Ihre gesetzlichen Gewährleistungsrechte bleiben gewahrt.
+
+
+<b><u>13.	HAFTUNGSAUSSCHLUSS. </u></b>
+
+<b>a.	Die gesetzliche Haftung des Inhaltslizenzgebers, seiner verbundenen Unternehmen, Lizenzgeber und Dienstleister sowie, falls Epic nicht der Inhaltslizenzgeber ist, von Epic („PARTEIEN, DIE INHALTE LIZENZIEREN“) für Vorsatz und grobe Fahrlässigkeit sowie für Schäden, die aus der Verletzung des Lebens, des Körpers oder der Gesundheit resultieren, bleibt von dieser Vereinbarung unberührt. Die Parteien, die Inhalte lizenzieren, haften nur für fahrlässige Handlungen oder Unterlassungen, wenn dies zu einer Verletzung einer wesentlichen vertraglichen Verpflichtung führt. Eine „wesentliche Vertragspflicht“ im Sinne dieser Klausel ist eine Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner daher regelmäßig vertrauen darf. Die Haftung der Parteien, die Inhalte lizenzieren, für die Verletzung einer wesentlichen Vertragspflicht ist auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehung typischerweise gerechnet werden muss. Die Haftungsbeschränkungen in dieser Klausel gelten zugunsten der Mitarbeiter, Vertreter und Erfüllungsgehilfen der Parteien, die Inhalte lizenzieren. Eine etwaige Haftung der Parteien, die Inhalte lizenzieren, für von ihnen abgegebene gewerbliche Garantien sowie für Ansprüche aufgrund zwingender Produkthaftungsvorschriften oder Datenschutzverletzungen bleibt unberührt.</b>
+
+
+<b><u>14.	ENTSCHÄDIGUNG</u></b>
+
+<b>a.	Für wen dieser Abschnitt gilt. </b>Dieser Abschnitt gilt nur in dem nach den geltenden Gesetzen Ihrer Rechtsordnung zulässigen Umfang. Wenn die anwendbaren Gesetze Ihrer Rechtsordnung es Ihnen nicht gestatten, die nachstehende Entschädigungspflicht einzugehen, dann übernehmen Sie, soweit dies nach den anwendbaren Gesetzen Ihrer Rechtsordnung zulässig ist, die Verantwortung für alle Haftungsansprüche, Schäden, Urteile, Schiedssprüche, Verluste, Kosten, Ausgaben und Gebühren (einschließlich angemessener Anwalts- und Sachverständigengebühren), die Gegenstand der nachstehenden Entschädigungspflicht sind.
+
+<b>b.	Ihre Schadloshaltung von Epic. </b>Sie erklären sich damit einverstanden, die Parteien, die die Inhalte lizenzieren, von jeglicher Haftung, allen Schäden, Urteilen, Schiedssprüchen, Verlusten, Kosten, Ausgaben und Gebühren (einschließlich angemessener Anwalts- und Sachverständigenkosten) freizustellen und schadlos zu halten, die sich aus oder im Zusammenhang mit Ansprüchen, Forderungen oder Klagen Dritter ergeben,
+
+(i) die, falls zutreffend, einen Verstoß Ihrerseits gegen diese Vereinbarung darstellen würden (einschließlich, aber nicht beschränkt auf die Verbreitung oder Unterlizenzierung der Inhalte unter Verstoß gegen diese Vereinbarung) oder (ii) mit Ihrem Projekt oder Ihrer Ausübung einer Ihnen vom Inhaltslizenzgeber gewährten Lizenz in Zusammenhang stehen (es sei denn, der Dritte behauptet, dass Ihre autorisierte Nutzung unveränderter Inhalte, die von Epic erstellt und Ihnen ursprünglich von Epic im Rahmen dieser Vereinbarung zur Verfügung gestellt wurden, Patente, Marken oder Urheberrechte verletzt). Auf Verlangen des Inhaltslizenzgebers werden Sie alle derartigen Ansprüche gegen den Inhaltslizenzgeber verteidigen. Sollte Epic nicht der Inhaltslizenzgeber sein, werden Sie sich auf Anfrage von Epic gegen solche Ansprüche gegen Epic verteidigen.
+
+
+<b><u>15.	ANWENDBARES RECHT. </u></b>
+
+Alle Ansprüche oder Streitigkeiten, die aus oder im Zusammenhang mit dieser Vereinbarung erwachsen, unterliegen den Gesetzen Ihres Wohnsitzlandes.
+
+
+<b><u>16.	SONSTIGES</u></b>
+
+<b><u>a.	Endbenutzer der US-Regierung; Exportkontrolle. </u></b>Der Inhalt ist ein „kommerzielles Produkt“ (gemäß Definition in 48 C.F.R. §2.101), bestehend aus „kommerzieller Computersoftware“ und „kommerzieller Computersoftwaredokumentation“ (gemäß Verwendung in 48 C.F.R. §12.212 oder 48 C.F.R. §227.7202, je nach Anwendbarkeit). Die Inhalte werden an Endbenutzer der US-Regierung nur als kommerzielle Produkte und mit nur den Rechten lizenziert, die anderen Lizenznehmern im Rahmen dieser Vereinbarung gewährt werden. Sie nehmen zur Kenntnis und stimmen zu, dass die Inhalte nicht unter Verstoß gegen geltende Exportkontroll-, Wirtschaftssanktions- und Importgesetze und -vorschriften, wie etwa die U.S. Export Administration Regulations und die Vorschriften des Office of Foreign Assets Control des U.S. Department of the Treasury verwendet, aufgerufen, heruntergeladen oder anderweitig exportiert, wiederexportiert oder übertragen werden dürfen.
+
+<b><u>b.	Abtretung. </u></b>Sie dürfen Ihre Rechte oder Pflichten aus dieser Vereinbarung nicht ohne die vorherige schriftliche Genehmigung von Epic abtreten. Jeder Versuch einer Abtretung, der gegen die vorstehenden Bestimmungen verstößt, ist nichtig. Wir hingegen dürfen diese Vereinbarung ohne Benachrichtigung an Sie ganz oder teilweise abtreten. Vorbehaltlich des Vorstehenden ist diese Vereinbarung für die Parteien, ihre Rechtsnachfolger und zulässigen Abtretungsempfänger bindend und zu deren Vorteil auszulegen.
+
+<b><u>c.		Unabhängige Auftragnehmer. </u></b>Sie und der Inhaltslizenzgeber sind unabhängige Auftragnehmer und nicht der gesetzliche Vertreter, Beauftragte, Joint Venturer, Partner oder Mitarbeiter der anderen Partei.
+
+<b><u>d.	Überschriften der Abschnitte. </u></b>Die in dieser Vereinbarung verwendeten Abschnittsüberschriften dienen in erster Linie der Bezugnahme und haben keinen Auslegungswert.
+
+<b><u>e.	Gesamte Vereinbarung. </u></b>Diese Vereinbarung sowie alle Dokumente oder Informationen, auf die in dieser Vereinbarung Bezug genommen wird, stellen die gesamte Vereinbarung zwischen Ihnen und dem Inhaltslizenzgeber bezüglich des in dieser Vereinbarung behandelten Vertragsgegenstandes dar. Alle anderen Mitteilungen, Angebote und Zusicherungen in Bezug auf den von dieser Vereinbarung erfassten Vertragsgegenstand sind ausgeschlossen.
+
+<b><u>f.	Kein Verzicht. </u></b>Ein Verzicht des Inhaltslizenzgebers, oder, wenn Epic nicht der Inhaltslizenzgeber ist, seitens Epic auf die Ausübung von Rechten aus dieser Vereinbarung, aus gesetzlichen Bestimmungen oder aus Billigkeitsgründen oder eine Unterlassung oder Verzögerung bei der Ausübung dieser Rechte gilt nicht als Verzicht auf diese oder andere Rechte oder Rechtsmittel, die vertraglich, gesetzlich oder aus Billigkeitsgründen bestehen.
+
+<b><u>g.	Salvatorische Klausel. </u></b>Wenn ein Teil oder eine Bestimmung dieser Vereinbarung von einem zuständigen Gericht für ungültig oder anderweitig nicht durchsetzbar befunden wird, wird dieser Teil oder diese Bestimmung im größtmöglichen Umfang im Einklang mit der Absicht der Parteien durchgesetzt. Sollte sich herausstellen, dass ein Teil oder eine Bestimmung nicht von einem zuständigen Gericht durchgesetzt werden kann, gilt dieser Teil oder diese Bestimmung als aus dieser Vereinbarung gelöscht, während der Rest dieser Vereinbarung in vollem Umfang in Kraft bleibt.
+
+<b><u>h.	Abhilfen. </u></b>Sofern nicht anders angegeben, gilt die Wahl der Rechtsmittel einer Partei im Rahmen dieser Vereinbarung nicht ausschließlich anderer Rechtsmittel, und alle Rechtsmittel sind kumulativ. Verstöße gegen bestimmte Abschnitte dieser Vereinbarung würden der nicht verletzenden Partei erheblichen und irreparablen Schaden zufügen, dessen Ausmaß schwer zu ermitteln wäre. Dementsprechend kann die Partei, die die Verletzung geltend macht, zusätzlich zu allen anderen Rechtsmitteln (einschließlich ohne Einschränkung, billigkeitsrechtliche Abhilfe), die ihr zur Verfügung stehen, Anspruch darauf haben, im Falle eines Verstoßes der anderen Partei oder eines ihrer Mitarbeiter oder Auftragnehmer gegen solche Abschnitte dieser Vereinbarung, die sofortige Erlassung einer einstweiligen Verfügung ohne Kaution zu verlangen oder wenn eine Kaution nach geltendem Recht erforderlich ist, auf die Hinterlegung einer Kaution in Höhe von höchstens 50.000 US-Dollar, um eine Verletzung oder drohende Verletzung einer oder aller dieser Bestimmungen zu verhindern.
+
+<b><u>i.	Übersetzungen. </u></b>Soweit gesetzlich zulässig, ist die maßgebliche Sprache für diese Vereinbarung Englisch. Es ist der ausdrückliche Wunsch der Parteien, dass dieser Vertrag und alle damit zusammenhängenden Dokumente in englischer Sprache abgefasst werden. Eine eventuelle Übersetzung dient lediglich der besseren Verständlichkeit.
+
+<b><u>j.	 Keine Drittbegünstigten. </u></b>Wenn Epic nicht der Inhaltslizenzgeber ist, ist Epic ein Drittbegünstigter dieser Vereinbarung. Sofern in diesem Abschnitt nicht anders angegeben, gibt es keine anderen Drittbegünstigten an dieser Vereinbarung und diese Vereinbarung überträgt keine Rechte oder Rechtsmittel auf andere natürliche oder juristische Personen als die Parteien.
+
+<b><u>k.	Gesetzliche Verpflichtungen. </u></b>Die Verpflichtungen seitens des Inhaltslizenzgebers unterliegen den geltenden Gesetzen und rechtlichen Verfahren, und der Inhaltslizenzgeber ist berechtigt, trotz gegenteiliger Bestimmungen in dieser Vereinbarung Anfragen von Strafverfolgungsbehörden oder behördlichen Anforderungen nachzukommen.
+
+<b><u>l.	Künstliche Intelligenz. </u></b>
+
+<b>i.	Inhalte, die nicht als Trainings-Input für generative KI-Programme verwendet werden dürfen. </b>Inhalte, die zum Zeitpunkt Ihrer Transaktion im Epic Marketplace mit „NoAI“ gekennzeichnet sind, sind „<b>NoAI-Inhalte</b>“. Im Rahmen einer Standardlizenz dürfen Sie NoAI-Inhalte nicht verwenden (a) in Datensätzen, die von generativen KI-Programmen verwendet werden, (b) bei der Entwicklung von generativen KI-Programmen oder (c) als Trainings-Input für generative KI-Programme.
+
+Für die Zwecke dieser Vereinbarung bezeichnet der Begriff „generative KI-Programme“ künstliche Intelligenz, maschinelles Lernen, Deep Learning, neuronale Netzwerke oder ähnliche Technologien, die die Generierung neuer Inhalte automatisieren oder bei der Erstellung neuer Inhalte helfen sollen, einschließlich, aber nicht beschränkt auf audio-, visuelle oder textbasierte Inhalte. Programme erfüllen diese Definition von generativen KI-Programmen nicht, wenn sie, als nicht einschränkendes Beispiel, (a) ausschließlich mit den ursprünglichen Inhalten arbeiten; (b) Tags zur Klassifizierung von visuellen Eingabeinhalten erzeugen; oder (c) Anweisungen zur Anordnung vorhandener Inhalte erzeugen, ohne neue Inhalte zu erstellen.
+
+<b>ii.	Inhalte, die mit generativen KI-Programmen erstellt werden. </b>Die Richtlinien von Epic Marketplace verlangen von Inhaltslizenzgebern, Inhalte mit „CreatedWithAI“ zu kennzeichnen, wenn sie unter Verwendung von generativen KI-Programmen erstellt wurden. Für diese Richtlinie gelten die Inhalte als unter Verwendung von generativen KI-Programmen erstellt, wenn ein wesentlicher Teil der Inhalte mit generativen KI- Programmen generiert wird, unabhängig davon, ob es sich um Zeichen, Hintergründe oder andere wesentliche Elemente handelt. Inhalte gelten nicht als unter Verwendung von generativen KI-Programmen erstellt, wenn es sich bei ihnen lediglich um Funktionen handelt, die ausschließlich auf die Inhalte wirken (z. B. inhaltsbewusstes Ausfüllen) oder die keine wesentlichen generativen KI-Elemente in ein Werk einbringen (z. B. KI-basiertes Bild- Upscaling). Der Inhaltslizenzgeber ist allein für die Einhaltung dieser Anforderung verantwortlich.

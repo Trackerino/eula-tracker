@@ -1,0 +1,275 @@
+<EULA.Highlight>FORTNITE® MOBILE END USER LICENSE AGREEMENT</>
+
+<EULA.Highlight>Last Updated April 6, 2025</>
+
+Please read this Agreement carefully. It is a legal document that explains your rights and obligations related to your use of Epic’s Software, including any Services you access or purchases you make through the Software. By downloading or using the Software, or by otherwise indicating your acceptance of this Agreement, you are agreeing to be bound by the terms of this Agreement. If you do not or cannot agree to the terms of this Agreement, you may not download or use this Software.
+
+In particular, we want to highlight some important terms, policies, and procedures in this Agreement. By accepting this Agreement:
+
+1. You are also agreeing to other Epic rules and policies that are expressly incorporated into this Agreement. Please read them carefully:
+
+Our <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Privacy Policy</> explains what information we collect from you and how we protect it.
+Our <a id="url" href="https://www.epicgames.com/site/fan-art-policy" style="EULA.Hyperlink">Fan Content Policy</> explains what you can do with Epic’s Intellectual Property in the content you create.
+
+Our <a id="url" href="https://www.epicgames.com/site/tos" style="EULA.Hyperlink">Terms of Service</> explain the rules for our websites.
+
+2. You grant Epic a license to use whatever content you create using the Service. You can find more information in the User Generated Content section below.
+
+TO ENTER INTO THIS LICENSE AGREEMENT, YOU MUST BE AN ADULT OF THE LEGAL AGE OF MAJORITY IN YOUR COUNTRY OF RESIDENCE. YOU ARE LEGALLY AND FINANCIALLY RESPONSIBLE FOR ALL ACTIONS USING OR ACCESSING OUR SOFTWARE, INCLUDING THE ACTIONS OF ANYONE YOU ALLOW TO ACCESS TO YOUR ACCOUNT. YOU AFFIRM THAT YOU HAVE REACHED THE LEGAL AGE OF MAJORITY, UNDERSTAND AND ACCEPT THIS AGREEMENT. IF YOU ARE UNDER THE LEGAL AGE OF MAJORITY, YOUR PARENT OR LEGAL GUARDIAN MUST CONSENT TO THIS AGREEMENT.
+
+Certain words or phrases are defined to have certain meanings when used in this Agreement. Those words and phrases are defined below in Section 16.
+
+If your primary residence is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games Entertainment International GmbH.
+
+
+<EULA.Header>1.	License Grant</>
+
+Epic grants you a personal, non-exclusive, non-transferable, non-sublicensable limited right and license to install and use the Software on compatible devices you own or control for your personal entertainment use (the “<EULA.Highlight>License</>”). The rights that Epic grants you under the License are subject to the terms of this Agreement, and you may only make use of the License if you comply with all applicable terms.
+
+The License becomes effective on the date you accept this Agreement. The Software is licensed, not sold, to you under the License. The License does not grant you any title or ownership in the Software.
+
+
+<EULA.Header>2.	License Conditions</>
+
+You may not do or attempt to do any of the following with respect to the Software or any of its parts: (a) use it commercially or for a promotional purpose except as Epic expressly authorizes; (b) copy, reproduce, distribute (including via a network server), display, or use it in a way that is not expressly authorized in this Agreement, including on rooted or “jailbroken” devices; (c) sell, rent, lease, license, distribute, or otherwise transfer it; (d) reverse engineer, derive source code from, modify, adapt, translate, decompile, or disassemble it or make derivative works based on it; (e) remove, disable, circumvent, or modify any proprietary notice or label or security technology included in it; (f) create, develop, distribute, or use any unauthorized software programs to gain advantage in any online or other game modes; (g) use it to infringe or violate the rights of any third party, including but not limited to any intellectual property, publicity, or privacy rights; (h) use, export, or re-export it in violation of any applicable law or regulation; (i) behave in a manner which is detrimental to the enjoyment of the Software by other users as intended by Epic, including but not limited to the following – harassment, use of abusive or offensive language, game abandonment, game sabotage, spamming, social engineering, scamming, running or using methods which are not authorized by Epic and which interfere with the outcome and/or the course of the Software (including Cheats, bots, scripts, or mods not expressly authorized by Epic) by giving you and/or another user an advantage over other players who do not use such methods, or making or otherwise contributing to such unauthorized software; or (j) behave in a manner which is detrimental to the enjoyment of the Software by others as intended by Epic and identified in Epic’s <a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">Content Guidelines</> and <a id="url" href="https://www.epicgames.com/site/en-US/community-rules" style="EULA.Hyperlink">Community Rules</>.
+
+The Software may contain Cheat Detection software or features or you may be prompted to install Cheat Detection software during your installation of the Software. If you do not agree to install the Cheat Detection software or at any time remove or disable the Cheat Detection software or features, the License granted to you automatically terminates and you may not make use of the Software. The Software or the Cheat Detection software may collect and transmit details about your account, gameplay, and potentially unauthorized programs or processes in connection with Cheat Detection, subject to Epic’s Privacy Policy. In the event that Cheats are identified, you agree that Epic may exercise any or all of its rights under this Agreement.
+
+
+<EULA.Header>3.	Updates and Patches</>
+
+Epic may provide patches, updates, or upgrades to the Software that must be installed in order for you to continue to use the Software or Services. Epic may update the Software remotely without notifying you, and you hereby consent to Epic applying patches, updates, and upgrades. Epic may modify, suspend, discontinue, substitute, replace, or limit your access to any aspect of the Software or Services at any time. You acknowledge that your use of the Software or Services does not confer on you any interest, monetary or otherwise, in any aspect or feature of that Software or Services, including but not limited to (where applicable) any in-game rewards, trophies, achievements, character levels, Game Currency, or Content.  
+
+
+<EULA.Header>4.	Game Currency and Content</>
+
+Epic may offer you the ability to acquire licenses to in-game currency (“<EULA.Highlight>Game Currency</>”) or Content, such as by: (a) purchasing a limited license to use Game Currency for a fee (“<EULA.Highlight>Purchased Game Currency</>”), (b) earning a limited license to use Game Currency by performing or accomplishing specific tasks in the Software, or (c) purchasing for a fee, exchanging Game Currency for, or earning a limited license to use Content. Also, Epic may facilitate the exchange of certain Content through the Software, in some cases for a fee. You may only use such Game Currency or Content if you pay the associated fee (if any). When you earn or pay the fee to obtain such Game Currency or Content, you are obtaining or purchasing from Epic the right to have your License include such Game Currency or Content. Regardless of any references Epic may make outside this Agreement to purchasing or selling Game Currency or Content, both Game Currency and Content are licensed, not sold, to you under the License. Use of an Epic Account Balance to purchase Game Currency or Content is subject to Epic’s Terms of Service.
+
+Neither Game Currency nor Content are redeemable for money or monetary value from Epic or any other person, except as otherwise required by applicable law. Game Currency and Content do not have an equivalent value in real currency and do not act as a substitute for real currency. Neither Epic nor any other person or entity has any obligation to exchange Game Currency or Content for anything of value, including, but not limited to, real currency. You agree that Epic may engage in actions that may impact the perceived value or purchase price, if applicable, of Game Currency and Content at any time, except as prohibited by applicable law.
+
+All purchases of Purchased Game Currency and Content are final and are not refundable, transferable, or exchangeable under any circumstances, except as otherwise required by applicable law. 
+
+You have a statutory right of withdrawal for any purchase of Game Currency or Content. The foregoing is not intended to limit your statutory right of withdrawal. You may be asked to expressly waive this right prior to completing a purchase of Game Currency or Content through the Software or Services in order to access the relevant Game Currency or Content. In this case, Epic will inform you that such a waiver will result in the loss of your right of withdrawal beforehand. To find out more about your statutory right of withdrawal, please consult Epic’s <a id="url" href="https://www.epicgames.com/site/en-US/right-of-withdrawal" style="EULA.Hyperlink">Information regarding the </><a id="url" href="https://www.epicgames.com/site/en-US/right-of-withdrawal" style="EULA.Hyperlink">Right of Withdrawal for Users domiciled in the European Union</>. 
+
+Epic, in its sole discretion, may impose limits on the amount of Game Currency or Content that may be purchased, earned, accumulated, redeemed or otherwise used. 
+
+Except as otherwise prohibited by applicable law, Epic, in its sole discretion, has the absolute right to manage, modify, substitute, replace, suspend, cancel or eliminate Game Currency or Content, including your ability to access or use Game Currency or Content, without notice or liability to you. 
+
+You may not transfer, sell, gift, exchange, trade, lease, sublicense, or rent Game Currency or Content except within the Software and as expressly permitted by Epic.
+
+Except as otherwise prohibited by applicable law, Epic reserves and retains all rights, title, and interest, property or otherwise, in and to the Game Currency and Content. The license to Game Currency and Content under the License will terminate upon termination of the License and as otherwise provided herein.
+
+When you provide payment information to Epic or its authorized processor, you represent that you are an authorized user of the payment card, PIN, key, account or other payment method specified by you, and you authorize Epic to charge such payment method for the full amount of the transaction.
+
+
+<EULA.Header>5.	User Generated Content</>
+
+Epic may provide features through the Software or the Services that allow You to create, develop, modify, or contribute Content (“UGC”) and to upload, publish, or otherwise make available UGC to some or all users of the Services. These features may also allow you to interact with, manipulate, and change UGC in whole or in part. Epic may modify, limit, or discontinue certain features of the Service without notice or liability to you.
+
+"UGC" includes, without limitation buildings, chat posts, character data, game customization, in-game constructions, replays, cinematics, scripts and programs, modes, gameplay, experiences, interactive features, and screenshots, music, sounds, sound recordings (and the musical works embodied therein) audiovisual combinations, musical works, animations, voice chat audio data, and other types of works (standalone or in combination).
+
+Your access to and use of the Software or Services will not be impacted if you choose not to create and/or publish any UGC. If you choose to create and publish UGC through our Software or Services, you do so on a voluntary basis. You may publish UGC if you want your UGC to become part of the Services and want other users to enjoy it.  
+
+The rights you grant to Epic in this Section are provided on a through-to-the-audience basis, which means the owners or operators of third-party services will not have any separate liability to you or any other third-party for UGC provided to or used on such third-party services via the Service. Epic needs these permissions in order to make your UGC available to players as part of the Services (i.e., in-game), and to make it available to streamers and content creators off of the Services (e.g., for use on other platforms). These rights need to be irrevocable because of the many channels in which UGC is distributed by us and others after it’s created.
+
+For information about our content moderation practices, please visit our <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Safety and Security Center</>
+
+If you use our voice chat feature and voice reporting is enabled in a voice channel, snippets of voice chat audio data will be stored on your device and the devices of participants in the voice channel. If a violation of our <a id="url" href="https://www.epicgames.com/community-rules" style="EULA.Hyperlink">Community Rules</> is reported, these snippets may be transmitted to Epic and reviewed to enforce those rules. Subject to human review, Epic may analyze your in-game communications (including text and voice chat) with machine learning technologies to help identify harmful, toxic, or fraudulent behavior in our services.
+
+<EULA.Highlight>License to Epic.</> If You make or have made available any UGC in the Services, You give Epic permission to host, copy, import, store, modify, adapt, display, publicly perform (including by means of digital audio transmissions), reproduce (and make mechanical reproductions of musical works embodied in sound recordings ), create derivative works of (including synchronize to visual images), publicly display, transfer, sublicense, and distribute (collectively “Use”) that UGC, in whole or in part, including for commercial publicity and marketing purposes, in any country. This permission is perpetual and irrevocable and applies to any media, platform, or channel in connection with the Software or Services.The license granted to Epic above is limited to the extent necessary to make your UGC become part of the Services. 
+
+You also agree that the UGC can appear in other media as part of our Services. You understand that our Services are mainly intended for your entertainment and you cannot expect any royalties. If you are interested in contributing further to our Services, you can consider applying for Epic’s Island Creator Program.
+
+<EULA.Highlight>Suggested Content.</> Fortnite recommends islands to you to help improve your experience on the service and show you more of what you might like to play. We have several categories in Discover, such as “trending”, “new experiences”, and “great with friends.” Your Homebar is the first row you see in your Discover page, which brings together recommendations of islands from these different types of categories. We organize and rank the islands we show you based on a range of factors, including your play history, and game information, such as the number of users playing, the number of players with an island on their favorites, the number of edits for an island, how long a creator has spent editing their island, when an island was first seen, the number of buildings an island has, the average party size, and how often an island has been played and for how long.
+
+You can choose to turn off your personalized game experience recommendations when using the Discover tab by going directly into your settings, under “account and privacy” and “gameplay privacy”, where you can switch this setting on and off.
+
+<EULA.Highlight>Musical Works.</> Epic may, in its sole discretion, choose to make available sound recordings and the musical works embodied in the sound recordings (“Licensed Music”) in connection with UGC. If Epic makes available Licensed Music for use in your UGC, Epic grants you a non-exclusive, personal, limited, revocable, non-transferable license to: (a) synchronize the Licensed Music into UGC during the period of time that the Licensed Music is made available through the Services, and (b) play, listen, and interact with UGC containing Licensed Music solely through the Services.
+
+Your modifications (e.g., edits, use of a portion of) the Licensed Music to synchronize into the UGC are considered derivative works included in the definition of Licensed Music, the rights to which are retained by Epic and its licensors.
+
+<EULA.Highlight>Special Rules for Recording Artists.</> If you are a composer or author of a musical work and are (a) affiliated with or a member of a performing-rights organization (“PRO”), (b) under contract with a record label, or (c) have assigned your rights to a music publisher, then you must notify the interested party of the royalty-free license you grant through this Agreement to Epic. You are solely responsible for ensuring your compliance with the relevant party’s reporting or contractual obligations, and (if applicable) obtaining the consent of that party to grant the royalty-free license(s) in this Agreement, including if you create any new recordings through the Service that your label may attempt to claim.
+
+You represent and warrant that any UGC containing Licensed Music is not subject to and Epic has no obligation to pay royalties to any third party, including without limitation a sound recording copyright owner (e.g., a record label), a musical work copyright owner (e.g., a music publisher), a PRO (e.g., ASCAP, BMI, SESAC, etc.), a sound recording PRO, any unions or guilds, or other third parties.
+
+Epic does not allow intellectual-property infringement activities through the Software or the Services. You may not and agree not to create, generate, or make available through the Software or the Services any UGC to which you do not have the right to grant Epic such license in all of the elements (including the Licensed Music) of the UGC.
+
+If you do choose to create, generate, or make available your UGC through the Software or Services, You are solely responsible for your UGC and represent and warrant that:
+
+(a) you are the creator and owner of, and have all the necessary licenses and rights to use and authorize Epic to exploit the license granted above;
+
+(b) your UGC, and Epic’s use of the UGC as contemplated under this Agreement, will not infringe or violate any third-party rights, including copyright, trademark, patent, trade secret, moral rights, or the rights of privacy or publicity;
+
+(c) Epic does not need to obtain any further licenses, provide attribution, or pay royalties or other compensation to any third parties; and
+
+(d) Epic’s use of your UGC will not violate any third-party contract or cause Epic to violate any applicable laws or regulations.
+
+You are responsible for your UGC, so please don’t make objectionable content available on or through the Services. If you do, we may have to take it down. Epic may, but is under no obligation (unless required by applicable law), to edit or control any UGC You or others make available through the Software or the Services. Epic may at any time screen, remove, delete, edit, block, or refuse to publish UGC that violates this Agreement or is otherwise objectionable as determined in Epic’s sole discretion and without prior notice or any liability to You or any third party. If You provide UGC, You may only use the tools that Epic provides through the normal functionality of the Service to remove or modify that specific type of UGC.
+
+You understand that you may be exposed to UGC from a variety of sources when using the Software or the Services and acknowledge that UGC may be inaccurate, offensive, indecent, or otherwise objectionable. You agree that Epic shall not be responsible or liable for your or others’ UGC (unless required by applicable law).
+
+To the fullest extent permitted by law, You waive and agree to waive all rights of authorship, paternity, attribution, integrity, disclosure, withdrawal, and any other rights that are known or referred to as “moral rights”, “artist’s rights”, “droit moral”, or other similar rights, recognized under any legal or equitable theory of any country or under any treaty, regardless of whether that right is referred to as a “moral right” (collectively “Moral Rights”) in and to your UGC. You further knowingly and irrevocably agree to not exercise any Moral Rights in and to your UGC that You have not waived in any manner that interferes with any exercise of granted rights. You waive and agree not to assert your Moral Rights even if your UGC is altered or changed in a manner not agreeable to you.
+
+
+<EULA.Header>6.	Feedback</>
+
+“Feedback” means written or verbal communications to Epic or its subsidiaries in the form of opinions, suggestions, comments, ideas, and all other forms of input (including, by way of example, suggested software and code or improvements to existing software and code) that you provide, publish, or otherwise communicate directly or indirectly (including communicated by your employees, agents, contractors, or representatives) to Epic or its agents that relates to your suggestions, views and opinions regarding the Software, Services or other Epic products and services. Feedback does not qualify as UGC (see Section 5 for more information on UGC). 
+
+You do not have to provide Feedback; all Feedback you choose to provide through available channels is voluntary. If you provide Epic with any Feedback, you hereby grant Epic a non-exclusive, worldwide, perpetual, irrevocable, and  to the extent necessary sublicensable, transferable, and assignable license to use, copy, reproduce, distribute, modify, adapt, prepare derivative works based on, publish, publicly perform, publicly display, translate, make, have made, use, and otherwise exploit any and all Feedback. 
+
+You understand and agree that Epic is not required to make any use of any Feedback that you provide. You agree that if Epic makes use of your voluntarily-provided Feedback, Epic is not required to credit or compensate you for your contribution. You understand that if you choose to provide Feedback to Epic, this is a voluntary expression of your views on how you can best enjoy our Services, that is not prompted by Epic and for which you cannot expect to receive royalties. You represent and warrant that you have sufficient rights in any Feedback that you provide to Epic to grant Epic and other affected parties the rights described above. This includes but is not limited to intellectual-property rights and other proprietary or personal rights.
+
+
+<EULA.Header>7.	Ownership/Third Party Licenses</>
+
+Epic and its licensors own all title, ownership rights, and intellectual property rights in the Software and Services. Features may be made available to you via the Software and Services that provide prefabricated templates or in-game items to use in connection with your UGC (defined below), however your use of a template does not give you any copyrights or other ownership in the template. Epic, Epic Games, Unreal, Unreal Engine, and Fortnite, and their respective logos, are trademarks or registered trademarks of Epic and its affiliates in the United States of America and elsewhere. All rights granted to you under this Agreement are granted by express license only and not by sale. No license or other rights shall be created hereunder by implication, estoppel, or otherwise.
+
+The Software includes certain components provided by Epic’s licensors. A list of credits and notices for third party components may be found in the game interface.
+
+
+<EULA.Header>8.	Disclaimers and Limitation of Liability</>
+
+<EULA.Highlight>Your statutory warranty rights apply unless otherwise waived.</>
+
+<EULA.Highlight>Epic’s statutory liability for intent and gross negligence as well as for damages resulting from injury to life, body or health remain unaffected by this Agreement. Epic shall only be liable for its negligent acts or omissions where this results in a breach of a material contractual obligation. For the purposes of this clause, a “material contractual obligation” means an obligation the fulfilment of which makes the performance of the contract possible in the first place and on the fulfilment of which the contractual partner may therefore regularly rely. Epic’s liability for breach of a material contractual obligation is limited to the damages that are foreseeable at the conclusion of the contract, the occurrence of which must be typically expected. The limitations of liability in this clause apply in favor of Epic’s employees, agents and vicarious agents. Any liability on Epic’s part for any commercial guarantees Epic may have provided, claims based on obligatory product liability law or data protection violations shall remain unaffected.</>
+
+
+<EULA.Header>9.	Indemnity</>
+
+This section only applies to the extent permitted by applicable law. If you are prohibited by law from entering into the indemnification obligation below, then you assume, to the extent permitted by law, all liability for all claims, demands, actions, losses, liabilities, and expenses (including attorneys’ fees, costs and expert witnesses’ fees) that are the stated subject matter of the indemnification obligation below.
+
+You agree to indemnify, pay the defense costs of, and hold Epic, its licensors, its and their affiliates, and its and their employees, officers, directors, agents, contractors, and other representatives harmless from all claims, demands, actions, losses, liabilities, and expenses (including attorneys’ fees, costs, and expert witnesses’ fees) that arise from or in connection with (a) any claim that, if true, would constitute a breach by you of this Agreement or negligence by you, (b) any act or omission by you in using the Software (including any Game Currency or Content) or Services, or (c) any claim of infringement or violation of any third-party intellectual property rights arising from Epic’s use of your UGC or Feedback as provided under Sections 5 or 6 of this Agreement. You agree to reimburse Epic on demand for any defense costs incurred by Epic and any payments made or loss suffered by Epic, whether in a court judgment or settlement, based on any matter covered by this Section 9.
+
+
+<EULA.Header>10.	Termination</>
+
+You may terminate this Agreement by deleting the Software from all devices on which you’ve installed it. Upon termination, you may no longer exercise any of the rights granted to you by the License, and you must destroy all copies of the Software in your possession.
+
+Epic may also terminate this Agreement, or temporarily or permanently restrict or suspend your access to all or part of the Software and/or Services, if you are responsible for (i) a breach of the terms of this Agreement; or (ii) violating any applicable law by or while using the Software or Services. In either case, Epic will take reasonable steps to send you a prior warning before terminating the agreement. Epic is not required to give you a prior warning if your violation was so serious that an immediate termination of this Agreement and your License to the Software and Services is justified.
+
+Sections 2, 5-12, and 15-16 will survive any termination of this Agreement.
+
+
+<EULA.Header>11.	Governing Law and Jurisdiction</>
+
+Any claim or dispute arising out of or related to this Agreement or the Service shall be governed by the laws of your country of residence. 
+
+
+<EULA.Header>12.	</> Informal Dispute Resolution
+
+If you have an issue that our customer support can’t resolve, Epic encourages you to attempt to resolve the dispute informally to help get us to a resolution and control costs for both parties. If you elect to seek an informal resolution, you and Epic agree to make a good-faith effort to negotiate any dispute between us for at least 30 days (“Informal Resolution”). Those informal negotiations will start on the day Epic receives a written Notice of a Dispute in accordance with this Agreement.
+
+You will send your Notice of Dispute to Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Include your name, account name you use while playing Fortnite, address, how to contact you, what the problem is, and what you want Epic to do. The Notice of Dispute sent by you must include the sender’s name, address, and other contact information, a description of the Dispute (including any relevant account names) and what resolution to the Dispute is being sought. All applicable statutes of limitations will be considered tolled beginning on the day you send a compliant Notice of Dispute to Epic.
+
+
+<EULA.Header>13.	U.S. Government Matters</>
+
+The Software is a “Commercial Item” (as defined at 48 C.F.R. §2.101), consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation” (as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable). The Software is being licensed to U.S. Government end users only as Commercial Items and with only those rights as are granted to other licensees under this Agreement.
+
+You agree to comply with all applicable federal and foreign laws, regulations, and rules, and complete any required undertakings. You agree not to use, export, re-export, or download the Software or Services into (or to a national or resident of) any country to which the U.S. has embargoed goods, or to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Commerce Department’s Table of Denial Orders. You represent and warrant that you are not located in, under the control of, or a national or resident of any U.S. restricted or prohibited country or on any U.S. restricted or prohibited list.
+
+
+<EULA.Header>14.	 Amendments of this Agreement</>
+
+<EULA.Highlight>Epic may make reasonable amendments to this Agreement, Terms of Service, or Privacy Policy at any time in the future, with the exception of the provisions determining your and Epic’s primary contractual obligations hereunder, if and to the extent such changes are necessary due to the implementation of statutory requirements, changes to law or case law, and for clarification purposes. Epic will inform you of any proposed amendments of this Agreement, provide you with the new version of this Agreement and notify you of the date when the new Agreement will be effective from. We will inform you in writing or via email of any amendments 30 days in advance. Epic will inform you about the right to object within the 30-day period and the consequences of not expressly refusing the proposed amendment. If you do not expressly refuse the respective amendment within 30 days from the date on which the new Agreement is implemented, you are deemed to have approved the amendment of this Agreement.</>
+
+<EULA.Highlight> </>
+
+
+<EULA.Header>15.	 No Assignment</>
+
+You may not, without the prior written consent of Epic, assign, transfer, charge, or sub-contract all or any of your rights or obligations under this Agreement, and any attempt without that consent will be null and void. If restrictions on transfer of the Software in this Agreement are not enforceable under the law of your country, then this Agreement will be binding on any recipient of the Software. Epic may at any time assign, transfer, charge, or sub-contract all or any of its rights or obligations under this Agreement.
+
+
+<EULA.Header>16.	 Definitions</>
+
+As used in this Agreement, the following capitalized words have the following meanings:
+
+“<EULA.Highlight>Cheat Detection</>” means functionality intended to identify Cheats.
+
+“<EULA.Highlight>Cheats</>” means programs, methods, or other processes which may give players an unfair competitive advantage in the Software.
+
+“<EULA.Highlight>Confidential Information</>” means any non-public information related to the Software, including without limitation information related to gameplay or other content, Game Currency, Content, the Services, your own feedback and comments, and the feedback or comments of any other licensee of the Software or any Epic representative.
+
+“<EULA.Highlight>Content</>” means any virtual items, virtual environments (such as islands), or other content that Epic makes available for you to access or download through or in connection with the Software, and expressly includes Licensed Music, and UGC that has been licensed to us by our users.
+
+“<EULA.Highlight>Epic</>” means, depending on the location of your primary residence:
+
+a. If you are playing Fortnite on mobile on Android and reside in the United States of America, Epic Games, Inc., a Maryland Corporation having its principal business offices at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.; or
+
+b. If you are playing Fortnite on mobile on Android and reside outside of the United States of America, Epic Games Entertainment International GmbH, a limited liability company organized under the laws of Switzerland, having its registered office at Platz 10 6039 Root D4, Switzerland; or
+
+c. If you are playing Fortnite on mobile on iOS, Epic Games Sweden AB, (registered number 559153-7724), a company organized under the laws of Sweden, having its registered office at Västgötagatan 2, 118 27 Stockholm, Sweden.
+
+“<EULA.Highlight>Services</>” means any services made available to you through the Software, including services to acquire, maintain and use Game Currency and Content.
+
+“<EULA.Highlight>Software</>” means the proprietary software application known as Fortnite, and any patches, updates, and upgrades to the application, and all related content and documentation made available to you by Epic under this Agreement, including but not limited to all software code, titles, themes, objects, characters, names, dialogue, catch phrases, locations, stories, artwork, animation, concepts, sounds, audio-visual effects, methods of operation, and musical compositions that are related to the application, and any copies of any of the foregoing. Software specifically includes all Game Currency and Content for which you have paid the associated fee or otherwise acquired a license under Section 4.
+
+
+<EULA.Header>17.	 Miscellaneous </>
+
+This Agreement and any document or information referred to in this Agreement constitute the entire agreement between you and Epic relating to the subject matter covered by this Agreement. All other communications, proposals, and representations with respect to the subject matter covered by this Agreement are excluded.
+
+The original of this Agreement is in English; any translations are provided for reference purposes only. It is the express wish of the parties that these Terms and all related documents have been drawn up in English. You waive any right you may have under the law of your country to have this Agreement written or construed in the language of any other country.
+
+This Agreement describes certain legal rights. You may have other rights under the laws of your jurisdiction. This Agreement does not change your rights under the laws of your jurisdiction if the laws of your jurisdiction do not permit it to do so. Limitations and exclusions of warranties and remedies in this Agreement may not apply to you because your jurisdiction may not allow them in your particular circumstance. In the event that certain provisions of this Agreement are held by a court or tribunal of competent jurisdiction to be unenforceable, those provisions shall be enforced only to the furthest extent possible under applicable law and the remaining terms of this Agreement will remain in full force and effect.
+
+Any act by Epic to exercise, or failure or delay in exercise of, any of its rights under this Agreement, at law or in equity will not be deemed a waiver of those or any other rights or remedies available in contract, at law or in equity.
+
+You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated.
+
+Epic’s obligations are subject to existing laws and legal process, and Epic may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.
+
+
+<EULA.Header>18. Additional Platform Terms</>
+
+
+<EULA.Header>18.1 Sony PlayStation Users:</>
+
+The following additional terms and conditions apply with respect to Software available for use on PlayStation devices that you own or control:
+
+Please note that Epic will store PlayStation™Network account information, including your email address and Online ID, as explained in Epic’s Privacy Policy. Epic may allow its users to search for other Epic accounts by their account for PlayStation™Network account and other Epic users may send you friend requests. Your account for PlayStation™Network privacy settings will not apply to your Epic account.
+
+In no event may you convert any Software virtual currency into real currency, tangible goods, or in-kind consideration, and you are expressly forbidden from engaging in off-platform sales or exchanges of such virtual currency, such as at eBay or other auction sites.
+
+<EULA.Highlight>For SIEA users:</> Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
+
+<EULA.Highlight>For SIEE users:</> Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+
+
+<EULA.Header>18.2 Microsoft Xbox Users</>
+
+The following additional terms and conditions apply with respect to Software available for use on Xbox Live devices that you own or control:
+
+Neither Microsoft Corporation nor any of its affiliates (collectively, “<EULA.Highlight>Microsoft</>”) have any maintenance or support obligations with respect to the Software or Services.
+
+Nothing in this Agreement shall govern or change, in any way, your relationship with Microsoft under any agreements between you and Microsoft, including the Xbox Live terms of use.
+
+Further, to the maximum extent permitted by applicable law, the aggregate liability of the Epic Parties (other than Microsoft) arising out of or in connection with this Agreement or the Software (including any Game Currency or Content) or Services will not exceed the total amounts you have paid (if any) to Epic for the Software (including any Game Currency or Content) during the twelve (12) months immediately preceding the events giving rise to such liability and Microsoft shall have no liability to you arising out of or in connection with this Agreement or the Software (including any Game Currency or Content) or Services. These limitations and exclusions regarding damages apply even if any remedy fails to provide adequate compensation.
+
+
+<EULA.Header>18.3 Apple iOS Users.</>
+
+The following additional terms and conditions apply with respect to Software available for use on any Apple, Inc. (“Apple”) iPhone or iPad devices that you own or control:
+
+You acknowledge that your agreement is not with Apple. Epic, not Apple, is solely responsible for the Software and the content thereof.
+
+Your use of the Software shall be subject to the terms of this Agreement and as permitted by the Usage Rules set forth in the App Store Terms and Conditions as of the date you download or first use the Software (which you acknowledge you have had the opportunity to review).
+
+You agree that Apple has no maintenance or support obligations with respect to the Software or Services.
+
+You acknowledge and agree that Apple is not responsible for any product warranties, whether express or implied by law, with respect to the Software or Services. If you are legally entitled to a warranty in your country or other jurisdiction, then in the event of any failure of the Software or Services to conform to such required warranty, you may notify Apple, and Apple will refund the purchase price, if any, paid by you to Apple for the Software. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Software or Services, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to such required warranty will be Epic’s sole responsibility. However, you understand and agree that in accordance with this Agreement, Epic has disclaimed all warranties of any kind with respect to the Software and Services, and therefore, there are no warranties applicable to the Software or Services, except those required by law.
+
+As between Apple and Epic, Epic, not Apple, is responsible for addressing your or any third party’s claims relating to the Software or Services or your possession and/or use of the Software or Services, including, but not limited to: (i) product liability claims; (ii) any claim that the Software or Services fail to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation. In the event of any third party claim that the Software or Services or your possession and use of the Software or Services infringes that third party’s intellectual property rights, Epic, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim (if and to the extent required under this Agreement).
+
+You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated. Notwithstanding the foregoing, Apple, and Apple’s subsidiaries, are third party beneficiaries of this Agreement, and upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary thereof.
+
+Any end-user questions, complaints or claims with respect to the Software should be directed to help@fortnite.com.
+
+<EULA.Highlight>[Disclosure Requirement - Monthly Active Users in the EU (Updated August 16, 2024)</>
+
+The estimated average monthly active recipients in the European Union of Fortnite for the past six months was 19.4M.
+
+The estimated average monthly active recipients in the European Union of Fortnite.com for the past six months was 2.3M.
+
+Users who accessed more than one of Epic’s services or products in a given month are counted as a user for each service or product.]
