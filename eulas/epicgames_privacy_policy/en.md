@@ -12,7 +12,7 @@
 | `locale` | `en` |
 | `createdTimestamp` | `2024-11-05T18:43:25.149Z` |
 | `lastModifiedTimestamp` | `2024-11-05T18:43:25.149Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `description` | `EPIC GAMES PRIVACY POLICY` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy/en/v1/r7/c983c0d972e3d2165b148724d6762014.pdf` |
