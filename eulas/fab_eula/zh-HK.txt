@@ -10,7 +10,7 @@
 
 <p><b><u>Buying Content Through an Epic Marketplace</b></u></p>
 
-<p>1. MARKETPLACE CONTENT</p>
+<p><b>1. MARKETPLACE CONTENT</b></p>
 
 <p>a. <b><u>Epic's Role in the Epic Marketplace</b></u>. Epic and its affiliates or subsidiaries operate the Epic Marketplace and may allow you to add Content to your library, either by purchasing the Content or by adding it to your library at no charge (each time you add Content to your library, a "<strong>Transaction</strong>"). Your use of the Epic Marketplace is subject to <a style= "color: deepskyblue" href="https://www.epicgames.com/tos">Epic's Terms of Service</a>, <a style= "color: deepskyblue" href="https://www.fab.com/terms-of-service">Fab's Terms of Service</a> and any supplemental terms related to the Epic Marketplace that you have agreed to. This Agreement does not supersede, amend or otherwise affect other agreements you may have with Epic.</p>
 
@@ -20,7 +20,7 @@
 
 <p>d. License Agreements. Each time you complete a Transaction, you enter into (or reaffirm your prior agreement to) this Agreement with each Content Licensor granting you a license from that Transaction. This means you enter into this Agreement with each Content Licensor who grants you a license.</p>
 
-<p>2. <b><u>CONTENT LICENSE GRANT</b></u></p>
+<p>2. <b>CONTENT LICENSE GRANT</b></p>
 
 <p>a. <b><u>License Tiers.</b></u> Content may be offered at different license tiers, and before completing a Transaction you may be required to select between a Personal - Reference Only tier, a Personal tier, and a Professional tier (each a "<strong>License Tier</strong>"). You are only eligible for a Personal - Reference Only tier or Personal tier if, at the time of the Transaction you, together with any controlling entity and other entities under common control with you, have not generated more than $100,000 USD in gross revenue from your commercial activity in the digital content industry in the last 12 months. For purposes of this calculation, revenue includes any advances received or other funds raised. If you complete a Transaction for a License Tier you were not eligible for at the time of purchase, you must, upon request, pay Epic the remainder of what you would have owed had you purchased a License Tier you were eligible for.</p>
 
@@ -116,7 +116,7 @@
 
 <p><strong><b>10. PRIVACY</b></strong></p>
 
-<p>Please review the Privacy Policy at www.epicgames.com/privacypolicy for information about how Epic may collect, use, and share information when you access or use Content.</p>
+<p>Please review the Privacy Policy at <a style= "color: deepskyblue" href="http://www.epicgames.com/privacypolicy">www.epicgames.com/privacypolicy</a> for information about how Epic may collect, use, and share information when you access or use Content.</p>
 
 <p><b><u>Other Rights and Obligations</b></u></p>
 

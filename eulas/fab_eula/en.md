@@ -4,16 +4,16 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6723dd376097a160ac0e9ab9` |
+| `id` | `67f852945f855e2ec21f3586` |
 | `key` | `fab_eula` |
 | `version` | `1` |
-| `revision` | `10` |
+| `revision` | `12` |
 | `title` | `Fab End User License Agreement_en` |
 | `locale` | `en` |
-| `createdTimestamp` | `2024-10-31T19:40:39.507Z` |
-| `lastModifiedTimestamp` | `2024-10-31T19:40:39.507Z` |
+| `createdTimestamp` | `2025-04-10T23:21:56.608Z` |
+| `lastModifiedTimestamp` | `2025-04-10T23:21:56.608Z` |
 | `status` | `ACTIVE` |
 | `description` | `Fab's general EULA - seperate from distribution agreement, seen during Onboarding (please see fab-marketplace for that).` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fab_eula/en/v1/r10/d335d6c22ede9ad63ac714a3c9eae1e8.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fab_eula/en/v1/r12/c05e87df9d41eb4a2749164eb701138a.pdf` |
 | `bodyFormat` | `HTML` |

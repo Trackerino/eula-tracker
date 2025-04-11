@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67141f6fd2e51872c24cc8d9` |
+| `id` | `67f84d6952fb5552ec1fbb36` |
 | `key` | `fab_eula` |
 | `version` | `1` |
-| `revision` | `1` |
+| `revision` | `3` |
 | `title` | `Fab End User License Agreement_ar` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2024-10-19T21:06:55.866Z` |
-| `lastModifiedTimestamp` | `2024-10-19T21:06:55.866Z` |
+| `createdTimestamp` | `2025-04-10T22:59:53.836Z` |
+| `lastModifiedTimestamp` | `2025-04-10T22:59:53.836Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fab_eula/ar/v1/r1/d5dda2f9bfc239fee5fbdb6d975d904c.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fab_eula/ar/v1/r3/c958070c1fb8419e4a70f02c5da760e6.pdf` |
 | `bodyFormat` | `HTML` |
