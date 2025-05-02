@@ -10,7 +10,7 @@
 | `locale` | `zh-CN` |
 | `createdTimestamp` | `2025-02-15T00:21:19.287Z` |
 | `lastModifiedTimestamp` | `2025-02-15T00:21:19.287Z` |
-| `status` | `INACTIVE` |
+| `status` | `ACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/zh-CN/v2/r3/fdb4d06d77145c557195be931b064c5b.pdf` |
 | `bodyFormat` | `HTML` |

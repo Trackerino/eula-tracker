@@ -10,7 +10,7 @@
 | `locale` | `de` |
 | `createdTimestamp` | `2025-02-15T00:03:43.178Z` |
 | `lastModifiedTimestamp` | `2025-02-15T00:03:43.178Z` |
-| `status` | `INACTIVE` |
+| `status` | `ACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/de/v2/r3/c14f18412d5e7684f747b00efd10009c.pdf` |
 | `bodyFormat` | `HTML` |
