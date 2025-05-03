@@ -12,7 +12,7 @@
 | `locale` | `ko` |
 | `createdTimestamp` | `2025-01-15T21:23:00.671Z` |
 | `lastModifiedTimestamp` | `2025-01-15T21:23:00.671Z` |
-| `status` | `INACTIVE` |
+| `status` | `ACTIVE` |
 | `description` | `Store EULA` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/ko/v6/r1/aceeef1dd74dbde374c4863ec50cc2f3.pdf` |
