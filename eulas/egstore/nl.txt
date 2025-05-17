@@ -1,0 +1,404 @@
+<EULA.Highlight>Laatst bijgewerkt op 15 januari 2025</> 
+
+Lees deze overeenkomst zorgvuldig door. Het is een juridisch document waarin uw rechten en verplichtingen met betrekking tot uw gebruik van de winkel en software van Epic Games worden uitgelegd, inclusief alle diensten die u opent of aankopen die u doet via de software. Door de Epic Games-winkel te openen, door de software te downloaden of te gebruiken, of door anderszins aan te geven dat u akkoord gaat met deze overeenkomst, gaat u ermee akkoord gebonden te zijn aan de voorwaarden van deze overeenkomst. Als u niet akkoord gaat of kunt gaan met de voorwaarden van deze overeenkomst, ga dan niet naar de Epic Games-winkel en download of gebruik deze software niet.  
+
+In het bijzonder willen we enkele belangrijke termen, beleidslijnen en procedures in deze overeenkomst benadrukken. Door deze overeenkomst te accepteren:  
+
+1.	gaat u ook akkoord met de hieronder vermelde beleidslijnen en voorwaarden van Epic, die uitdrukkelijk in deze overeenkomst zijn opgenomen. Lees ze zorgvuldig door:  
+
+Ons Privacybeleid (<a id="url" href="https://www.epicgames.com/privacypolicy" style="EULA.Hyperlink">https://www.epicgames.com/privacypolicy</>) legt uit welke informatie we van u verzamelen en hoe we die beschermen.  
+
+Ons Beleid inzake faninhoud (<a id="url" href="https://www.epicgames.com/fan-art-policy" style="EULA.Hyperlink">https://www.epicgames.com/fan-art-policy</>) legt uit wat u kunt doen met de intellectuele eigendom van Epic bij de inhoud die u creëert.  
+
+Onze Dienstvoorwaarden (<a id="url" href="https://www.epicgames.com/tos" style="EULA.Hyperlink">https://www.epicgames.com/tos</>) leggen de regels voor onze websites uit.  
+
+2.	U en Epic komen overeen om onderlinge geschillen op te lossen via individuele arbitrage (niet bij de rechtbank). Wij zijn van mening dat arbitrage als alternatieve procedure voor het beslechten van geschillen ieder geschil eerlijker, sneller en efficiënter oplost dan een formele rechtszaak. In sectie 12 wordt de procedure in detail uitgelegd. We hebben dit vooraan (en met hoofdletters) gezet omdat het belangrijk is:  
+
+DEZE OVEREENKOMST BEVAT EEN BEPALING OMTRENT BINDENDE, INDIVIDUELE ARBITRAGE EN AFSTAND VAN 
+
+GROEPSGEDING. ALS U AKKOORD GAAT MET DEZE OVEREENKOMST, GAAN U EN EPIC ERMEE AKKOORD OM BEPAALDE 
+
+GESCHILLEN OP TE LOSSEN VIA BINDENDE, INDIVIDUELE ARBITRAGE EN OM HET RECHT OM INDIVIDUEEL OF ALS ONDERDEEL VAN EEN GROEPSGEDING NAAR DE RECHTBANK TE GAAN OP TE GEVEN EN EPIC STEMT ERMEE IN OM TE BETALEN VOOR UW ARBITRAGE- 
+
+KOSTEN VOOR ALLE GESCHILLEN TOT MAXIMAAL $ 10.000 DIE TE GOEDER TROUW WORDEN GEMAAKT (ZIE SECTIE 12).  
+
+OM DEZE OVEREENKOMST AAN TE GAAN, MOET U MEERDERJARIG ZIJN IN 
+
+HET LAND WAAR U WOONT. U BENT WETTELIJK EN FINANCIEEL VERANTWOORDELIJK VOOR ALLE 
+
+ACTIES WAARBIJ ONZE SOFTWARE WORDT GEBRUIKT OF GEOPEND, INCLUSIEF DE ACTIES VAN IEDEREEN AAN WIE U TOESTAAT 
+
+OM TOEGANG TE KRIJGEN TOT UW ACCOUNT. U BEVESTIGT DAT U DE WETTELIJKE MEERDERJARIGE LEEFTIJD 
+
+HEBT BEREIKT, DAT U DEZE OVEREENKOMST BEGRIJPT EN ACCEPTEERT (MET INBEGRIP VAN DE   
+
+GESCHILLENBESLECHTINGSVOORWAARDEN)  ALS U JONGER BENT DAN DE WETTELIJKE MEERDERJARIGHEID, MOET UW OUDER OF VOOGD INSTEMMEN MET DEZE OVEREENKOMST.  
+
+Als u software of diensten van derden gebruikt, kan het privacybeleid van de toepasselijke licentiegever of uitgever ook van toepassing zijn op uw gebruik van die software of diensten. Door de software te downloaden of te gebruiken, gaat u ook akkoord met de dienstvoorwaarden van Epic en erkent u dat u het Privacybeleid van Epic hebt gelezen.  
+
+Bepaalde woorden of zinnen worden gedefinieerd met een bepaalde betekenis wanneer ze in deze overeenkomst worden gebruikt. Deze woorden en zinnen worden hieronder gedefinieerd in sectie 16.  
+
+
+<EULA.Header>1. Licentieverlening </> 
+
+
+<EULA.Header>1.1 Standaardlicentie voor software </> 
+
+Epic exploiteert de Epic Games-winkel en kan u toestaan om software aan uw bibliotheek toe te voegen, hetzij door een licentie aan te schaffen voor de software of door deze kosteloos aan uw bibliotheek toe te voegen (elke keer dat u software aan uw bibliotheek toevoegt, is het een “<EULA.Highlight>transactie</>”).  
+
+Behalve zoals vermeld in sectie 1.2, verleent Epic u een persoonlijk(e), niet-exclusief/-sieve, niet-overdraagbaar/-bare, niet-sublicentieerbaar/-bare beperkt recht en licentie om de software en de bijbehorende diensten te gebruiken voor uw persoonlijk, niet-commercieel gebruik (de “<EULA.Highlight>licentie</>”). De rechten die Epic u verleent op grond van de licentie zijn onderworpen aan de voorwaarden van deze overeenkomst en u mag de licentie alleen gebruiken als u voldoet aan alle toepasselijke voorwaarden.  
+
+De licentie voor de Epic Games-lanceerder (Epic Games spelplatform, Launcher) wordt van kracht op de datum waarop u deze overeenkomst aanvaardt. De 
+
+licentie voor andere software wordt van kracht op de datum waarop u een transactie voor de software voltooit. De software wordt aan u in licentie gegeven, niet verkocht, uit hoofde van de licentie. De licentie verleent u geen aanspraak op of eigendom van de software.  
+
+In zeldzame gevallen, nadat u een transactie voor software hebt voltooid, kan de software uit de Epic Games-winkel worden verwijderd (bijvoorbeeld omdat de ontwikkelaar stopt met het ondersteunen van een online game) en niet meer beschikbaar zijn voor verdere download of toegang vanuit de Epic Games-winkel.  
+
+
+<EULA.Header>1.2 Ontwikkelaarslicentie voor software </> 
+
+Bepaalde software en diensten kunnen onderworpen zijn aan aanvullende of alternatieve licentievoorwaarden tussen u en de 
+
+ontwikkelaar (“<EULA.Highlight>softwarespecifieke voorwaarden</>”). Softwarespecifieke voorwaarden zijn een aanvulling op de licentie die in deze overeenkomst wordt verleend, tenzij (a) de softwarespecifieke voorwaarden tijdens een transactie aan u worden gepresenteerd en (b) Epic aangeeft dat de software uitsluitend in licentie wordt gegeven krachtens de softwarespecifieke voorwaarden. In geval van strijdigheid tussen de bepalingen van deze overeenkomst en de bepalingen van aanvullende softwarespecifieke voorwaarden, prevaleren de bepalingen van deze overeenkomst. Alle softwarespecifieke voorwaarden waarmee u akkoord gaat, gelden alleen voor u en de ontwikkelaar. Epic is geen partij bij dergelijke softwarespecifieke voorwaarden, tenzij Epic de ontwikkelaar is.  
+
+
+<EULA.Header>2. Licentievoorwaarden </> 
+
+U mag geen van de volgende dingen doen met betrekking tot de software of een onderdeel ervan: (a) de software commercieel of voor een promotioneel doel gebruiken; (b) die op meer dan één apparaat tegelijk gebruiken; (c) die kopiëren, reproduceren, weergeven, uitvoeren, of anderszins gebruiken op een manier die niet uitdrukkelijk is toegestaan volgens deze overeenkomst of de softwarespecifieke voorwaarden; (d) de software verkopen, huren, leasen, licentiëren, distribueren, of anderszins overdragen; (e) nabouwen, er broncode van afleiden, wijzigen, aanpassen, vertalen, decompileren, of demonteren of er afgeleide werken op baseren; (f) een bedrijfseigen kennisgeving of aanduiding of beveiligingstechnologie die erin is opgenomen verwijderen, uitschakelen, omzeilen of wijzigen; (g) ongeautoriseerde softwareprogramma's creëren, ontwikkelen, distribueren of gebruiken om voordeel te behalen bij online of andere spelmodi; (h) de software gebruiken om inbreuk te maken op de rechten van derden, inclusief maar niet beperkt tot intellectuele eigendoms-, publiciteits-, of privacyrechten; (i) de software gebruiken, exporteren, of wederuitvoeren in strijd met toepasselijke wet- of regelgeving; of (j) zich gedragen op een manier die schadelijk is voor het plezier hebben van de software of diensten door andere gebruikers zoals bedoeld door Epic, naar eigen oordeel van Epic, inclusief maar niet beperkt tot het volgende – bedrog, lastig vallen, gebruik van beledigende of aanstootgevende taal, het verlaten van het spel, sabotage van het spel, spammen, manipulatie of oplichting.  
+
+
+<EULA.Header>3. Herzieningen en patches </> 
+
+Epic kan patches, herzieningen of verbeteringen voor de software leveren die geïnstalleerd moeten worden zodat u de software of diensten kan blijven gebruiken. Epic kan de software op afstand herzien zonder u daarvan op de hoogte te stellen en u stemt er hierbij mee in dat Epic patches, herzieningen en verbeteringen toepast. Epic kan uw toegang tot om het even welk aspect van de software of diensten te allen tijde wijzigen, opschorten, stopzetten, verwisselen, vervangen of beperken. U erkent dat uw gebruik van de software of diensten u geen enkel belang, geldelijk of anderszins, toekent bij enig aspect of functie van de software of diensten, met inbegrip van maar niet beperkt tot beloningen, prestaties, personageniveaus binnen het spel. U erkent ook dat alle personagegegevens, spelvoortgang, spelaanpassingen of andere gegevens met betrekking tot uw gebruik van de software of diensten op elk moment zonder kennisgeving van Epic niet langer voor u beschikbaar kunnen zijn, waaronder, maar niet beperkt tot, nadat er een patch, herziening of verbetering door Epic is aangebracht. Epic heeft geen onderhouds- of ondersteuningsverplichtingen met betrekking tot de software of diensten.  
+
+
+<EULA.Header>4. Mods </> 
+
+Epic kan u toestaan om de diensten te gebruiken voor het creëren, ontwikkelen, opladen, indienen, verzenden of anderszins beschikbaar stellen aan Epic en andere gebruikers van toevoegingen, verbeteringen, wijzigingen of andere door gebruikers gegenereerde inhoud voor bepaalde videogames (“<EULA.Highlight>mods</>”) zoals toegestaan door de ontwikkelaar of uitgever van dergelijke <EULA.Highlight>videogames (“rechthebbende</>”). U moet voldoen aan alle toepasselijke dienstvoorwaarden, licentieovereenkomsten voor eindgebruikers en beleidslijnen van derden met betrekking tot mods, inclusief alle overeenkomsten of beleidslijnen die door de rechthebbende worden verstrekt. Met betrekking tot elke mod verstrekt u volledige en nauwkeurige openbaarmakingen als reactie op alle verzoeken van Epic of de rechthebbende met betrekking tot het gebruik van intellectuele eigendom binnen de mod, de beveiligings- en gegevensprivacymaatregelen en -procedures van de mod en informatie die relevant is voor inhoudsclassificaties en u bent verantwoordelijk om te zorgen dat de mod compatibel is en blijft met de diensten en de toepasselijke videogame(s).  
+
+U verklaart en garandeert dat uw mods niet (1) het toepasselijke recht schenden, (2) de rechten van derden schenden of er inbreuk op maken, inclusief intellectuele eigendomsrechten of privacy-, publiciteits- of morele rechten, of (3) virussen of kwaadaardige code of inhoud bevatten, zoals software die apparaten, servers, netwerken of andere eigendommen of diensten van derden verstoort, onderbreekt, beschadigt of onbevoegde toegang daartoe biedt. Epic behoudt zich het recht voor om mods naar eigen goeddunken te verwijderen.  
+
+Epic verkoopt uw mods niet tenzij u een afzonderlijke overeenkomst bent aangegaan met Epic om dat toe te staan. U erkent en gaat ermee akkoord dat (1) u geen recht hebt op enige vergoeding door Epic voor uw mods, tenzij uitdrukkelijk bepaald in een afzonderlijke overeenkomst met Epic, (2) Epic geen verplichting heeft om uw mods te accepteren, distribueren of beschikbaar te stellen, (3) Epic uw e-mailadres aan rechthebbenden verstrekt om rechthebbenden in staat te stellen contact met u op te nemen in verband met uw mods en (4) Epic u vorderingen of kennisgevingen kan doorsturen dat u niet alle noodzakelijke rechten hebt met betrekking tot uw mod.  
+
+Door mods in te dienen bij Epic, verleent u hierbij aan Epic een niet-exclusieve, volledig betaalde, royaltyvrije en herroepbare licentie om uw mods te gebruiken, kopiëren, wijzigen, distribueren, openbaar uit te voeren en openbaar weer te geven met als doel eindgebruikers in staat te stellen de mods te installeren en te gebruiken.  
+
+
+<EULA.Header>5. Commentaar </> 
+
+Als u Epic commentaar verstrekt, verleent u Epic hierbij een niet-exclusieve, volledig betaalde, royaltyvrije, onherroepelijke, eeuwigdurende, overdraagbare, sublicentieerbare licentie om dat commentaar te gebruiken, reproduceren, distribueren, wijzigen, aanpassen, er afgeleide werken van te maken, openbaar uit te voeren, openbaar weer te geven, maken, laten maken, gebruiken, verkopen, aanbieden om te verkopen, importeren en anderszins te exploiteren voor alle doeleinden, voor alle huidige en toekomstige methoden en vormen van exploitatie in elk land. Als dergelijke rechten eventueel niet krachtens het toepasselijke recht mogen worden gelicentieerd (zoals morele en andere persoonlijke rechten), doet u hierbij afstand van en gaat u ermee akkoord dergelijke rechten niet uit te oefenen. U begrijpt en gaat ermee akkoord dat Epic geen gebruik hoeft te maken van het commentaar die u verstrekt. U gaat ermee akkoord dat als Epic gebruik maakt van uw commentaar, Epic niet verplicht is om u te crediteren of te compenseren. U verklaart en garandeert dat u voldoende rechten hebt op al het commentaar die u aan Epic verstrekt om Epic en andere betrokken partijen de hierboven beschreven rechten te verlenen. Dit omvat, maar is niet beperkt tot, intellectuele eigendomsrechten en andere eigendoms- of persoonlijke rechten.  
+
+
+<EULA.Header>6. Eigendomslicenties/licenties van derden </> 
+
+Net zoals tussen u en Epic bezitten Epic en haar licentiegevers alle aanspraken, eigendomsrechten en intellectuele eigendomsrechten op de software en diensten. Epic, Epic Games, Unreal, Unreal Engine en hun respectievelijke logo's zijn handelsmerken of gedeponeerde handelsmerken van Epic en diens gelieerde ondernemingen in de Verenigde Staten van Amerika en elders. Alle rechten die aan u worden verleend op grond van deze overeenkomst worden uitsluitend verleend door middel van een uitdrukkelijke licentie en niet door verkoop. Er mogen geen licentie- of andere rechten worden gecreëerd op grond van deze overeenkomst door implicatie, uitsluiting of anderszins.  
+
+
+<EULA.Header>7. Afwijzing en beperking van aansprakelijkheid </> 
+
+De software en diensten worden geleverd op basis van “zoals ze zijn” en “zoals beschikbaar”, “met alle fouten” en zonder enige vorm van garantie. Epic, haar gelieerde ondernemingen en haar en hun licentiegevers en dienstverleners (gezamenlijk de “Epic- 
+
+partijen”) wijzen alle verklaringen, garanties en voorwaarden (expliciet of impliciet) af met betrekking tot de software en diensten, inclusief maar niet beperkt tot niet-inbreuk, verhandelbaarheid of geschiktheid of passendheid voor enig doel (ongeacht of een Epic-partij weet of reden heeft om op de hoogte te zijn van een dergelijk doel), ongeacht of dit wettelijk gebeurt, vanwege gewoonte of gebruik in de handel, of door de handelspraktijken. Zonder de algemeenheid van het voorgaande te beperken, geven de Epic-partijen geen garantie dat (1) de software of diensten naar behoren werken, (2) de werking van de software of diensten ononderbroken of vrij van programmeerfouten, fouten of malware (zoals virussen) is, of (3) eventuele gebreken in de software of diensten kunnen of zullen worden gecorrigeerd. Deze paragraaf is van toepassing voor zover maximaal toegestaan onder het toepasselijke recht.  
+
+Voor zover maximaal toegestaan onder het toepasselijke recht, zijn de Epic-partijen niet aansprakelijk voor winstderving of enige indirecte, incidentele, gevolg-, bijzondere, punitieve schade of schadevergoeding als gevolg van of in verband met deze overeenkomst, de software of diensten, zelfs als een Epic-partij op de hoogte is gesteld van de mogelijkheid van dergelijke schadevergoeding. Verder mag, voor zover maximaal toegestaan onder het toepasselijke recht, de totale aansprakelijkheid van de Epic-partijen die voortvloeit uit of verband houdt met deze overeenkomst of de software of diensten niet hoger zijn dan de totale bedragen die u (indien van toepassing) aan Epic hebt betaald voor de software gedurende de twaalf (12) maanden onmiddellijk voorafgaand aan de gebeurtenissen die aanleiding hebben gegeven tot dergelijke aansprakelijkheid. Deze beperkingen en uitsluitingen met betrekking tot schadevergoeding zijn zelfs van toepassing als een rechtsmiddel geen adequate compensatie kan bieden.  
+
+Zoals gebruikt in de bovenstaande uitsluiting van bepaalde garanties en beperking van aansprakelijkheid, omvat de term “Epic-partijen” de ontwikkelaar van software die aan u in licentie is gegeven uit hoofde van deze overeenkomst, tenzij u akkoord bent gegaan met softwarespecifieke voorwaarden voor die software of dienst die een afwijzing van de garanties van de ontwikkelaar en een beperking van de aansprakelijkheid van de ontwikkelaar omvatten.  
+
+Niettegenstaande het voorgaande staan sommige landen, (deel)staten, provincies of andere rechtsgebieden de uitsluiting van bepaalde garanties of de beperking van aansprakelijkheid zoals hierboven vermeld, niet toe, zodat de onderstaande voorwaarden misschien niet op u van toepassing zijn. In plaats daarvan zijn in dergelijke rechtsgebieden de voorgaande uitsluitingen en beperkingen slechts van toepassing voor zover toegestaan door de wetten van dergelijke rechtsgebieden. U kunt ook aanvullende wettelijke rechten hebben in uw rechtsgebied en niets in deze overeenkomst doet afbreuk aan de wettelijke rechten die u kunt hebben als consument van de software of diensten.  
+
+
+<EULA.Header>8. Schadeloosstelling </> 
+
+U stemt in met het schadeloos stellen voor, het betalen van de verweerkosten van, en het vrijwaren van de Epic-partijen en hun respectievelijke werknemers, functionarissen, bestuurders, agenten, contractanten en andere vertegenwoordigers van alle vorderingen, eisen, acties, verliezen, aansprakelijkheden en uitgaven (inclusief advocatenhonoraria, -kosten en honoraria van deskundige getuigen) die voortvloeien uit of verband houden met (a) een vordering die, indien waar, een schending door u van deze overeenkomst of nalatigheid door u zou betekenen, (b) elke handeling of nalatigheid door u bij het gebruik van de software of diensten, of (c) een vordering betreffende inbreuk op of schending van intellectuele eigendomsrechten van derden die voortvloeien uit het gebruik van uw commentaar door Epic. U stemt ermee in de Epic-partijen op verzoek te vergoeden voor de door de Epic-partijen gemaakte verweerkosten en de door de Epic-partijen gedane betalingen of geleden verliezen, hetzij bij een gerechtelijke uitspraak of bij een schikking, op basis van enige aangelegenheid die onder deze sectie 8 valt.  
+
+Indien het u bij wet verboden is om de onderstaande vrijwaringsverplichting aan te gaan, dan neemt u, voor zover wettelijk toegestaan, alle aansprakelijkheid op u voor alle vorderingen, eisen, acties, verliezen, aansprakelijkheden en kosten (met inbegrip van advocatenhonoraria, -kosten en honoraria van deskundige getuigen) die het onderwerp zijn van de onderstaande vrijwaringsverplichting.  
+
+Zoals gebruikt in de bovenstaande vrijwaringsbepalingen, omvat de term “Epic-partijen” de externe ontwikkelaar van software 
+
+die aan u in licentie is gegeven op grond van deze overeenkomst, tenzij u akkoord bent gegaan met softwarespecifieke voorwaarden voor die software of dienst die een vrijwaring van de ontwikkelaar omvatten.  
+
+
+<EULA.Header>9. Beëindiging </> 
+
+Zonder beperking van andere rechten van Epic, wordt deze overeenkomst automatisch beëindigd zonder kennisgeving als u zich niet houdt aan een van de algemene voorwaarden. U kunt deze overeenkomst ook beëindigen door alle kopieën van de software te verwijderen. Bij beëindiging wordt de licentie automatisch beëindigd, mag u de rechten, die u op grond van de licentie zijn verleend, niet meer uitoefenen en moet u alle kopieën van de software die in uw bezit zijn vernietigen.  
+
+Behalve voor zover wettelijk vereist, zijn alle betalingen en vergoedingen onder alle omstandigheden niet-restitueeerbaar, ongeacht of deze overeenkomst al dan niet werd beëindigd.  
+
+Sectie 2, 4-13, 15-17 blijven ook na beëindiging van deze overeenkomst van kracht.  
+
+
+<EULA.Header>10. Aankopen en betaling </> 
+
+Via de winkel en diensten van Epic Games kan Epic u in staat stellen softwarelicenties en/of diensten aan te schaffen met behulp van uw Epic-account. Het laden en gebruiken van een saldo van een Epic-account om dergelijke aankopen te doen, wordt beheerst door de dienstvoorwaarden van Epic. Op alle promotiecodes die aan u worden verstrekt om softwarelicenties en/of diensten te kopen of in te wisselen, kunnen aanvullende voorwaarden van toepassing zijn die verband houden met de promotie, aanbieding of waardebon. Wanneer u een betaalkaart, promotiecode of andere betaalmethode aan Epic verstrekt om een aankoop te doen, verklaart u tegenover Epic dat u de geautoriseerde gebruiker van de betaalmethode bent en machtigt u Epic om het aankoopbedrag in rekening te brengen via uw betaalmethode, inclusief omzetbelasting, btw of andere toepasselijke belastingen. 
+
+U bent verantwoordelijk voor alle aankopen die via uw Epic-account worden gedaan.  
+
+Een ontwikkelaar kan u ook in staat stellen om digitale artikelen en diensten te kopen voor gebruik binnen diens software met behulp van een betaalmethode die niet door Epic via de diensten wordt geleverd. U mag dergelijke betalingen of transacties niet uitvoeren of dergelijke digitale artikelen of diensten gebruiken voor onwettige doeleinden. Dergelijke betalingen en transacties zijn uitsluitend tussen u en de ontwikkelaar in overeenstemming met de verkoopvoorwaarden van de ontwikkelaar of de licentieovereenkomst voor eindgebruikers tussen u en de ontwikkelaar. Epic is geen partij bij dergelijke betalingen of transacties.  
+
+
+<EULA.Header>11. Programma voor Epic-beloningen </> 
+
+
+<EULA.Header>11.1 Beschrijving van het programma </> 
+
+Alle gebruikers van de Epic Games-winkel worden automatisch ingeschreven bij het programma voor Epic-beloningen (“het programma”). In het kader van het programma verdienen Epic Games-winkel-gebruikers beloningen op basis van in aanmerking komende aankopen in de winkel met behulp van hun Epic Games-account (“account”), inclusief abonnementsbetalingen. Voor elke in aanmerking komende aankoop wordt er een percentage van het aankoopbedrag (exclusief eventuele belastingen en andere kosten), naar eigen goeddunken te bepalen door Epic en bekendgemaakt aan gebruikers voorafgaand aan een in aanmerking komende aankoop, bijgeschreven op de account van de gebruiker (“Epic-beloningen”). Epic-beloningen kunnen worden gebruikt voor toekomstige in aanmerking komende aankopen via de Epic Games-winkel, inclusief via de winkel en met behulp van de betalingsprocessen van de Epic Games-winkel.  
+
+Van tijd tot tijd kan Epic de mogelijkheid bieden om Epic-beloningen op extra manieren te verdienen of het percentage aankopen dat een gebruiker kan verdienen bij Epic-beloningen kan voor een beperkte tijd worden verhoogd.  
+
+De beslissingen van Epic met betrekking tot het bedrag van de opgebouwde Epic-beloningen zijn definitief en bindend.  
+
+Epic-beloningen kunnen pas veertien (14) dagen na een in aanmerking komende aankoop worden ingewisseld.  
+
+
+<EULA.Header>11.2 Gebruik/beperkingen/vervaldatum van Epic-beloningen </> 
+
+Epic-beloningen mogen niet worden gebruikt voor de aankoop van artikelen op websites (d.w.z. websites van derden) behalve online winkels van Epic die Epic-beloningen accepteren.  
+
+Het maximale Epic-beloningssaldo dat een gebruiker van de Epic Games-winkel op een bepaald moment kan hebben, is USD$ 500 (of het equivalent in de lokale valuta van de deelnemer), of het maximaal toegestane bedrag in het lokale rechtsgebied van de gebruiker, als dat bedrag minder is dan het equivalent van USD$ 500. Als het Epic-beloningssaldo van een gebruiker meer dan USD$ 500 bedraagt na een in aanmerking komende aankoop, ontvangt de gebruiker niet het deel van de Epic-beloningen voor de aankoop dat, wanneer toegevoegd aan het bestaande Epic-beloningssaldo van de gebruiker, meer dan USD$ 500 zou bedragen. Als een gebruiker bijvoorbeeld een Epic-beloningssaldo heeft van USD$ 495 en de gebruiker een aankoop van USD$ 100 doet die in aanmerking komt voor USD$ 10 aan Epic-beloningen, ontvangt de gebruiker USD$ 5 aan Epic-beloningen. U kunt uw Epic-beloningssaldo op elk moment controleren op uw account.  
+
+Tenzij anders bekendgemaakt als onderdeel van het programma, vervallen ongebruikte Epic-beloningen vijfentwintig (25) maanden na de datum waarop ze zijn verdiend.  
+
+Epic-accounttegoeden die door de gebruiker gescheiden van Epic-beloningen worden gestort, vervallen niet.  
+
+Epic-beloningen worden toegepast op het winkelwagenniveau naar goeddunken van de gebruiker en worden toegepast op basis van ‘het eerste erin, het eerste eruit’ (d.w.z. de vroegst verdiende Epic-beloningen worden als eerste gebruikt). Een gebruiker is niet verplicht om Epic-beloningen te gebruiken voordat hij/zij accounttegoeden gebruikt.  
+
+Epic-beloningen kunnen geheel of gedeeltelijk worden toegepast om een in aanmerking komende aankoop te dekken, of slechts een deel van een in aanmerking komende aankoop. Als het Epic-beloningssaldo van een gebruiker van de Epic Games-winkel onvoldoende is om de kosten van een in aanmerking komende aankoop te dekken, moet de gebruiker een alternatieve betaalmethode gebruiken om de aankoop te dekken, zoals beschikbare accounttegoeden of een andere betalingsbron.  
+
+Epic-beloningen kunnen niet worden gedupliceerd.  
+
+Tenzij anders vermeld, kunnen Epic-beloningen worden gecombineerd met andere aanbiedingen, waardebonnen, kortingen en betaalmethoden.  
+
+Als een product dat is gekocht met Epic-beloningen wordt terugbetaald, wordt het terugbetaalde bedrag teruggestort op het Epic-beloningssaldo. Als die Epic-beloningen zijn verlopen op het moment van de terugbetaling, kan Epic naar eigen goeddunken ervoor kiezen om de vervaldatum voor Epic-beloningen te verlengen.  
+
+Een gebruiker van de Epic Games-winkel mag geen terugbetaling van Epic-beloningen ontvangen die is verdiend met een in aanmerking komende aankoop meer dan veertien (14) dagen nadat de deelnemer de in aanmerking komende aankoop heeft gedaan.  
+
+Als een Epic Games-winkelgebruiker zijn/haar account sluit, vervalt het Epic-beloningssaldo.  
+
+Epic-beloningen hebben geen contante waarde en kunnen niet worden overgedragen, verhandeld of uitbetaald.  
+
+Epic-beloningen hebben geen waarde buiten het programma.  
+
+Als Epic besluit dat een gebruiker deze overeenkomst heeft geschonden, kan Epic de Epic-beloningen die verband houden met een dergelijke schending aftrekken van het Epic-beloningssaldo van een gebruiker en/of de account van de gebruiker beëindigen en al diens opgebouwde Epic-beloningen ongeldig maken.  
+
+Om twijfel te voorkomen: als Epic de account van een gebruiker annuleert en/of de account van een gebruiker tijdelijk opschort om welke reden dan ook, inclusief, maar niet beperkt tot, fraude of een schending van deze overeenkomst of andere voorwaarden of beleidslijnen die verband houden met de winkel die door de gebruiker zijn geaccepteerd, wordt de gebruiker verbannen uit het programma, verliest hij/zij alle niet-ingewisselde Epic-beloningen en alle aankopen die door de gebruiker zijn gedaan door fraude, in strijd met deze 
+
+overeenkomst of andere voorwaarden of beleidslijnen in verband met de producten of diensten van Epic worden ongeldig verklaard.  
+
+Gebruikers van de Epic Games-winkel zijn verantwoordelijk voor alle eventuele federale, provinciale, (deel)staat- en lokale belastingen en aanvaarden verantwoordelijkheid voor eventuele fiscale gevolgen die kunnen voortvloeien uit de Epic-beloningen of het gebruik ervan. Elke verplichting tot belastingaangifte of elke belastingbetaling die aan een autoriteit verschuldigd is als gevolg van de ontvangst van Epic-beloningen blijft de exclusieve verantwoordelijkheid van de gebruiker. Het is de verantwoordelijkheid van elke gebruiker om onafhankelijk advies in te winnen over de mogelijke gevolgen hiervan voor zijn of haar eigen financiële situatie.  
+
+
+<EULA.Header>11.3 Algemene voorwaarden </> 
+
+Tenzij anders aangegeven, is het programma niet geldig in combinatie met andere programma's die door Epic worden aangeboden. Door deel te nemen aan het programma, stemmen gebruikers van de Epic Games-winkel (en, indien een in aanmerking komende minderjarige, diens ouder of wettelijke voogd) in met het (i) vrijstellen, ontslaan van, vrijwaren en schadeloos stellen van Epic, haar moedermaatschappij, dochterondernemingen, gelieerde ondernemingen, detailhandelaren en reclame- en promotiebureaus, en al hun respectievelijke functionarissen, bestuurders, aandeelhouders, werknemers en agenten (gezamenlijk, “gevrijwaarde partijen”) van enige aansprakelijkheid of schadeveroeding die kan voortvloeien uit deelname aan het programma of uit de aanvaarding, het gebruik, misbruik of bezit van een Epic-beloning of -producten die via dit programma zijn verkregen. Alle toepasselijke federale, (deel)staat- en lokale wetten en -voorschriften zijn van toepassing.  
+
+Vrijgestelde partijen zijn niet verantwoordelijk voor late, verloren, onvolledige, vertraagde, onnauwkeurige, verwarde, niet geleverde, verkeerd geadresseerde Epic-beloningen, beloningsaanvragen, beloningen, voordelen, e-mails of andere communicatie van welke aard dan ook; of voor andere fouten of problemen van welke aard dan ook met betrekking tot of in verband met het programma, of het nu gaat om afdrukken, typografie, techniek, computer, netwerk, menselijke, mechanische, elektronische of andere fouten of problemen, waaronder, zonder beperking, fouten of problemen die kunnen optreden in verband met de administratie van het programma, de tellingen van Epic-beloningen, of bij aan het programma gerelateerde materialen. Personen die knoeien met of misbruik maken van enig aspect van dit programma, die op een storende of onsportieve manier handelen of die anderszins niet voldoen aan deze voorwaarden zoals uitsluitend bepaald door Epic, worden gediskwalificeerd en al hun Epic-beloningen worden ongeldig verklaard. Vrijgestelde partijen zijn niet verantwoordelijk voor letsel of schade aan de computer of een ander apparaat van een gebruiker of van een ander met betrekking tot of als gevolg van deelname aan dit programma of het downloaden van materiaal van of gebruik van de Epic Games-winkel.  
+
+Epic behoudt zich het recht voor om het programma op elk moment te wijzigen, op te schorten of te annuleren. Alle wijzigingen die Epic aanbrengt, worden van kracht 90 dagen nadat Epic de gebruiker(s) bericht hiervan gestuurd, die zij kan verstrekken via e-mail of via de pagina accountbeheer in de Epic Games-winkel onder het overzicht van EULA (End User License Agreement [licentieovereenkomst eindgebruikers]). De deelname van een gebruiker aan het programma na een dergelijke kennisgeving wordt beschouwd als aanvaarding van dergelijke wijzigingen. U moet de EULA voor de Epic Games-winkel regelmatig doornemen om er zeker van te zijn dat u vertrouwd bent met de meest recente versie. Alle vragen of geschillen met betrekking tot het programma, inclusief maar niet beperkt tot die met betrekking tot geschiktheid, deelname, fraude en misbruik, worden door Epic opgelost.  
+
+
+<EULA.Header>12. Toepasselijke wetgeving en rechtsgebied </> 
+
+U gaat ermee akkoord dat deze overeenkomst wordt geacht te zijn opgesteld en uitgevoerd in de staat North Carolina, VS, en dat elk geschil zal worden opgelost in overeenstemming met de wetten van North Carolina, met uitsluiting van de wetgeving met betrekking tot de keuze van wetten en van de Verenigde Staten van Amerika. Elke actie of procedure die wordt ingesteld om de voorwaarden van deze overeenkomst af te dwingen of om een geschil te beslechten, moet worden voorgelegd aan de Superior Court van Wake County, de staat North Carolina of de United States District Court for the Eastern District of North Carolina. U gaat akkoord met de exclusieve jurisdictie en plaats van zitting van deze rechtbanken. U doet afstand van elke bewering van een minder geschikt forum en van elk recht op juryrechtspraak. Het verdrag inzake internationale koopovereenkomsten betreffende roerende zaken is niet van toepassing. Wet- of regelgeving die bepaalt dat de taal van een overeenkomst in het nadeel van de opsteller moet worden uitgelegd, is niet van toepassing op deze overeenkomst.  
+
+
+<EULA.Header>13. Bindende individuele arbitrage; afstand van groepsgeding</>  
+
+LEES DEZE SECTIE ZORGVULDIG DOOR. HIJ IS VAN INVLOED OP UW RECHTEN, INCLUSIEF UW RECHT OM 
+
+EEN RECHTSZAAK AAN TE SPANNEN BIJ DE RECHTBANK. ER IS GEEN RECHTER OF JURY BIJ ARBITRAGE EN ONDERZOEKSPROCEDURES EN BEROEPSRECHTEN ZIJN BEPERKTER DAN BIJ DE RECHTBANK. 
+
+De meeste problemen kunnen snel en in der minne worden opgelost door contact op te nemen met de klantendienst van Epic op 
+
+<a id="url" href="https://www.epicgames.com/customer-service" style="EULA.Hyperlink">https://www.epicgames.com/customer-service</>. Maar wij begrijpen dat een geschil soms niet zo eenvoudig door de klantendienst kan worden opgelost. In deze sectie wordt uitgelegd hoe u en Epic overeenkomen deze geschillen op te lossen, inclusief (voor zover van toepassing) via bindende, individuele arbitrage. 
+
+Arbitrage is een alternatieve procedure voor geschillenbeslechting die ons in staat stelt om problemen op te lossen zonder dat we naar de rechter hoeven te stappen. Elk geschil tussen u en Epic wordt voorgelegd aan een neutrale arbiter (geen rechter of jury) voor een eerlijke en snelle oplossing. Arbitrage is efficiënter voor zowel u als Epic. 
+
+
+<EULA.Header>13.1 Informele beslechting.</> 
+
+Als u een probleem hebt dat onze klantendienst niet kan oplossen, stemmen u en Epic ermee in om, alvorens een arbitrageprocedure te starten, te proberen het geschil op informele wijze te beslechten om tot een oplossing te komen en de kosten voor beide partijen te beperken. U en Epic stemmen ermee in om gedurende minstens 30 dagen te goeder trouw te proberen om een eventueel geschil tussen ons op te lossen ("informele beslechting"). Deze informele onderhandelingen beginnen op de dag dat u of Epic een schriftelijke kennisgeving van geschil (hieronder gedefinieerd) ontvangt in overeenstemming met deze overeenkomst. 
+
+U kunt uw kennisgeving van geschil sturen naar Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE,, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, V.S. Vermeld uw naam, uw bij de software gebruikte accountnaam, adres, hoe men contact met u kan opnemen, wat het probleem is en wat u wilt dat Epic doet. Als Epic een geschil met u heeft, stuurt Eplic onze kennisgeving van geschil naar uw geregistreerde e-mailadres en het eventueel door u opgegeven factuuradres. De kennisgeving van geschil die door een van beide partijen wordt verzonden, moet de naam, het adres en andere contactgegevens van de afzender bevatten, een beschrijving van het geschil (inclusief alle relevante accountnamen) en welke oplossing er voor het geschil wordt gezocht. Alle van toepassing zijnde verjaringstermijnen worden beschouwd als opgeschort vanaf de dag dat een van ons een conforme kennisgeving van geschil naar de ander stuurt. U of Epic kunnen niet overgaan tot arbitrage zonder eerst een conforme kennisgeving van geschil te hebben verzonden en de informele oplossingsperiode te hebben doorlopen. In geval van onenigheid over de vraag of er een conforme kennisgeving van geschil is verzonden of een arbitrage is ingediend zonder de informele beslechting te voltooien, kan de partij die door deze tekortkoming is benadeeld, een beroep doen op de deelstaatrechtbanken in Wake 
+
+County, North Carolina of, indien er federale jurisdictie bestaat, de United States District Court for the Eastern District of North Carolina, om de arbitrage te verbieden vanaf de procedure tot de informele beslechting is voltooid en om de partij die het informele beslechtingsproces niet heeft gevolgd te bevelen om de andere partij te vergoeden voor eventuele arbitragekosten en reeds gemaakte kosten. Epic en u stemmen in met de jurisdictie van dergelijke rechtbanken voor dit doel. 
+
+Als u in de Europese Unie ("EU") woont, hebt u wellicht ook het recht om uw klacht voor te leggen aan het platform voor online geschillenbeslechting (<a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">Online Dispute Resolution, ODR</>) van de Europese Commissie. ODR biedt consumenten in de EU de mogelijkheid om een geschil in verband met de online aankoop van goederen en diensten op te lossen zonder naar de rechter te stappen. 
+
+Als het geschil niet binnen de informele beslechting of een procedure voor geringe vorderingen (hieronder), kunnen u of Epic een arbitrageprocedure starten in overeenstemming met deze overeenkomst. 
+
+
+<EULA.Header>13.2 Procedure voor geringe vorderingen</> 
+
+In plaats van informele beslechting kunnen u en Epic overeenkomen dat u ons bij de rechtbank kunt aanklagen via een procedure voor geringe vorderingen in het arrondissement waar u woont of in Wake County, Noord-Carolina (als u voldoet aan de eisen van de procedure voor geringe vorderingen). Wij hopen dat u eerst gebruik zult maken van informele beslechting, maar u hoeft dat niet te doen voordat u naar de rechtbank voor geringe vorderingen stapt. 
+
+
+<EULA.Header>13.3 Bindende individuele arbitrage</>. 
+
+DE ARBITRAGEPROCEDURES IN DEZE SECTIE WORDEN ALLEEN OP INDIVIDUELE BASIS GEVOERD.  
+
+U en Epic komen overeen dat geschillen worden beslecht door bindende individuele arbitrage uitgevoerd door  
+
+National Arbitrage and Mediation [nationale arbitrage en bemiddeling] (“<EULA.Highlight>NAM</>”), https://namadr.com, volgens de uitgebreide regels en voorschriften voor geschilbeslechting van NAM (Comprehensive Dispute 
+
+Rules and Regulations) die van kracht zijn op het moment dat het geschil zich voordoet (de “regels”), zoals gewijzigd door deze overeenkomst. Deze overeenkomst heeft invloed op de handel tussen [Amerikaanse] deelstaten en de afdwingbaarheid van deze sectie wordt inhoudelijk en procedureel beheerst door de Amerikaanse Federal Arbitration Act ("FAA"), 9 U.S.C. § 1, et seq., en federale arbitragewetgeving. 
+
+Dat betekent dat u en Epic akkoord gaan met een procedure voor beslechting van een geschil, waarbij wij elk geschil voorleggen aan een neutrale arbiter (geen rechter of jury) die de uiteindelijke beslissing neemt om het geschil op te lossen. NAM gebruikt ervaren deskundigen om een geschil te arbitreren, wat u en het bedrijf helpt om een eventueel geschil eerlijk, maar sneller en efficiënter op te lossen dan via een rechtszaak. De arbiter kan u als individu dezelfde rechtsmiddelen toekennen als een rechtbank zou kunnen doen, maar alleen voor zover nodig om aan uw individuele vordering te voldoen. 
+
+De beslissing van de arbiter is definitief, behoudens een beperkte toetsing door rechtbanken uit hoofde van de U.S. Federal Arbitration Act en kan ten uitvoer worden gelegd zoals elk ander rechterlijk bevel of vonnis. 
+
+
+<EULA.Header>13.3.1 Geschillen waarbij we overeenkomen die te arbitreren</>. 
+
+U en Epic stemmen ermee in alle geschillen tussen u en Epic voor te leggen aan individuele bindende arbitrage. "Geschil" betekent elk geschil, elke vordering of onenigheid (behalve die hieronder specifiek worden uitgezonderd) tussen u en Epic dat/die verband houdt met uw gebruik of poging tot gebruik van de Epic Games-winkel, -software of -diensten, of in verband met deze overeenkomst, met inbegrip van, maar niet beperkt tot, de geldigheid, afdwingbaarheid of reikwijdte van deze sectie over bindende individuele arbitrage. 
+
+U en Epic stemmen in met arbitrage van alle geschillen, ongeacht of het geschil gebaseerd is op een contract, statuut, voorschrift, verordening, onrechtmatige daad (met inbegrip van fraude, verkeerde voorstelling van zaken, frauduleuze aansporing of nalatigheid) of enige andere wettelijke of billijke theorie. 
+
+De secties over informele beslechting en arbitrage zijn niet van toepassing op (1) individuele procedures voor geringe vorderingen; (2) handhavingsmaatregelen via een overheidsinstantie indien de wet dit toestaat; (3) een klacht of rechtsmiddel uit hoofde van de Algemene Verordening Gegevensbescherming van de EU; (4) een procedure om een eerder arbitragebesluit af te dwingen of te bekrachtigen; (5) het recht van Epic om bij een rechtbank een voorlopige voorziening tegen u te vragen om de status quo te handhaven terwijl er een arbitrageprocedure loopt; (6) vorderingen wegens piraterij, het creëren, verspreiden of bevorderen van oplichting en inbreuk op intellectuele-eigendomsrechten en (7) de afdwingbaarheid van de onderstaande clausule inzake afstand van groepsgeding. 
+
+U en Epic stemmen ermee in dat de arbiter en niet een rechtbank bepaalt of een geschil uit hoofde van deze overeenkomst onderworpen is aan arbitrage. 
+
+
+<EULA.Header>13.3.2 Arbitrageprocedure:</> 
+
+U of Epic kan de arbitrageprocedure starten voor een geschil dat niet is opgelost door middel van informele beslechting door bij NAM een “Verzoek tot arbitrage” in te dienen in overeenstemming met de regels. Instructies voor het indienen van een verzoek tot arbitrage bij NAM zijn beschikbaar op de website van NAM of door NAM te e-mailen op commercial@namadr.com. U dient een kopie van elk  
+
+verzoek tot arbitrage te sturen naar Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, V.S. Epic stuurt een verzoek tot arbitrage naar het e-mailadres en het eventuele factuuradres dat u ons hebt opgegeven. 
+
+De arbitrage wordt uitgevoerd door één arbiter. U en Epic stemmen er beiden mee in dat de arbitrageprocedure in het Engels wordt gevoerd en dat de arbiter gebonden is aan deze overeenkomst. 
+
+Indien er een persoonlijke hoorzitting vereist is, vindt de hoorzitting plaats in Wake County, North Carolina, of in de plaats waar u woont; u kunt zelf kiezen. 
+
+De arbiter (niet een rechter of jury) beslecht het geschil. Tenzij u en Epic anders overeenkomen, bevat elke beslissing of uitspraak een schriftelijke verklaring waarin de beslissing omtrent elke vordering en de grondslag voor de uitspraak worden vermeld, met inbegrip van de belangrijkste feitelijke en wettelijke bevindingen en conclusies van de arbiter. 
+
+De arbiter mag alleen wettelijke of billijke genoegdoeningen toekennen die door u of Epic worden verzocht om te voldoen aan een van onze individuele vorderingen (die naar het oordeel van de arbiter zijn onderbouwd met geloofwaardig relevant bewijs). Voor zover maximaal wettelijk toegestaan is het de arbiter niet toegestaan uitspraak te doen tegen Epic ten aanzien van een andere persoon dan u. 
+
+Elke beslissing of uitspraak kan als definitief vonnis ten uitvoer worden gelegd door elke bevoegde rechtbank of, indien van toepassing, kan er een verzoek worden ingediend bij een dergelijke rechtbank voor gerechtelijke goedkeuring van een uitspraak en een bevel tot tenuitvoerlegging. 
+
+
+<EULA.Header>13.3.3 Arbitragekosten en -locatie:</> 
+
+Als u de arbitrage begint, moet u de voor consumentenarbitrages vereiste indieningstaks betalen aan NAM. 
+
+In sommige situaties helpt Epic met uw kosten om (hopelijk) snel en eerlijk tot een oplossing te komen: 
+
+Als het geschil USD$ 10.000 of minder betreft, betaalt Epic de gehele indieningskosten voor NAM, inclusief de kosten die u anders had moeten betalen. 
+
+Als het bovenstaande niet op u van toepassing is, maar u aantoont dat de indieningskosten in verband met de arbitrage-indiening buitensporig hoog is in vergelijking met de kosten van een rechtszaak, betaalt Epic dat deel van uw indieningskosten dat de arbiter noodzakelijk acht om te voorkomen dat de arbitrageprocedure buitensporig duur wordt (in vergelijking met de kosten van een rechtszaak).  
+
+Ten behoeve van de berekening van de schadevergoeding op grond van deze paragraaf worden soortgelijke vorderingen die door meerdere eisers worden ingediend, vertegenwoordigd door dezelfde raadsman of een gecoördineerd team van raadslieden, samengevoegd. Met andere woorden, als twintig personen vertegenwoordigd door dezelfde raadsman of een gecoördineerd team van raadslieden elk USD$ 1.000 eisen, wordt deze vordering voor de doeleinden van deze sectie behandeld als een vordering die USD$ 20.000 eist. 
+
+Zelfs als Epic de arbitrage wint en de toepasselijke wet of de regels Epic toestaan ons deel van de kosten voor NAM van u te eisen, zullen we dat niet doen. 
+
+De hierboven aangeboden hulp bij de kosten is afhankelijk van de vraag of u de arbitragevordering te goeder trouw indient. Indien de arbiter oordeelt dat u een arbitragevordering tegen Epic hebt ingediend met een onjuist doel, of die lichtzinnig is, of of zonder voldoende voorafgaand onderzoek naar de feiten of toepasselijk recht, dan zal de betaling van alle kosten worden geregeld volgens de regels. 
+
+Indieningskosten waarbij Epic instemt om die op grond van deze sectie te betalen, is exclusief de kosten en vergoedingen voor uw advocaten en dergelijke kosten en vergoedingen worden niet meegeteld bij de vaststelling van het bedrag dat met een geschil is gemoeid. 
+
+<EULA.Highlight>Bij arbitrage vordert Epic niet onze advocatenhonoraria of -kosten van u, zelfs als de wet of de regels ons daartoe het recht geven.</> Als u zich door een advocaat wilt laten vertegenwoordigen, moet u uw eigen advocatenhonoraria en -kosten betalen, tenzij de toepasselijke wet anders bepaalt.  
+
+
+<EULA.Header>13.3.4 Gecoördineerde indieningen.</> 
+
+Als er 25 of meer kennisgevingen van geschil worden verzonden die vergelijkbare vorderingen bevatten en dezelfde of gecoördineerde raadsman hebben, worden deze beschouwd als "gecoördineerde zaken" en behandeld als massale indieningen of meerdere indieningen volgens de regels, indien en voor zover er gecoördineerde zaken worden aangevraagd voor arbitrage zoals uiteengezet in deze overeenkomst. Epic of u kan de andere partij op de hoogte stellen van haar of uw overtuiging dat zaken gecoördineerde zaken zijn, en geschillen over de vraag of een zaak voldoet of zaken voldoen aan de contractuele definitie van "gecoördineerde zaken" worden door de arbitrageaanbieder als administratieve aangelegenheid beslist. <EULA.Highlight>Verzoeken om arbitrage bij gecoördineerde zaken worden alleen ingediend bij de arbitrageaanbieder zoals toegestaan door de hieronder uiteengezette proefprocedure.</> Epic betaalt alleen haar aandeel in de arbitragekosten voor gecoördineerde zaken die in arbitrage worden ingediend; de eisers zijn verantwoordelijk voor hun aandeel in die kosten. <EULA.Highlight>Toepasselijke verjaringstermijnen worden opgeschort voor vorderingen die worden ingediend bij een </>
+
+<EULA.Highlight>gecoördineerde zaak vanaf het moment dat er een conforme kennisgeving van geschil door een partij is ontvangen tot, krachtens de voorwaarden van deze overeenkomst, de gecoördineerde zaak wordt ingediend voor arbitrage of, zoals hieronder bepaald, bij de rechtbank. </> 
+
+Zodra de raadsman bij de gecoördineerde zaken Epic heeft geïnformeerd dat alle of vrijwel alle kennisgevingen van geschil voor die zaken zijn verstrekt, overleggen de raadslieden voor de partijen in goed vertrouwen  
+
+over het aantal zaken dat in arbitrage moet worden behandeld als "proefzaken", om elke partij een redelijke kans te geven om de gegrondheid van diens argumenten te testen. Indien de raadslieden van de partijen het niet eens zijn over het aantal proefprocedures, kiest de arbitrageaanbieder een even aantal als administratieve aangelegenheid (of, naar goeddunken van de arbitrageaanbieder, een procesarbiter kiest deze). Factoren die de arbitrageaanbieder kan overwegen bij het beslissen hoeveel proefzaken er moeten worden bevolen zijn onder meer de complexiteit van het geschil en verschillen in feiten of toepasselijke wetgeving bij verschillende zaken. Zodra het aantal proefprocedures is vastgesteld, per overeenkomst of door de arbitrageaanbieder, selecteert elke partij de helft van dat aantal uit de eisers die conforme kennisgevingen van geschil hebben verstrekt en alleen die gekozen zaken kunnen worden ingediend bij de arbitrageaanbieder. Er mogen geen andere zaken worden ingediend totdat deze proefzaken zijn afgesloten en Epic is misschien niet verplicht om vergoedingen te betalen in verband met arbitrageverzoeken behalve die welke als proefprocedures mogen worden ingediend. De partijen erkennen dat het beslechten van gecoördineerde zaken die niet als proefzaken zijn geselecteerd, door deze proefzakenproces wordt vertraagd.  
+
+Tenzij de partijen anders overeenkomen, moet elke proefzaak worden toegewezen aan een andere arbiter.  
+
+Alleen proefzaken worden uitgevoerd in arbitrage. Zodra alle proefzaken zijn afgesloten (of eerder als de raadslieden voor de eisers en Epic akkoord gaan) moeten de partijen zich bezighouden met een enkele bemiddeling van alle resterende gecoördineerde zaken, waarbij elke partij de helft van de toepasselijke bemiddelingskosten betaalt. Epic en de raadsman voor de eisers moeten binnen 30 dagen na afloop van de laatste proefzaak overeenstemming bereiken over een bemiddelaar. Indien de raadslieden voor Epic en eisers niet binnen 30 dagen overeenstemming kunnen bereiken over een bemiddelaar, wijst de arbitrageaanbieder een bemiddelaar aan als administratieve aangelegenheid. Epic en de raadsman voor de eisers werken samen om te zorgen dat de bemiddeling zo snel mogelijk wordt ingepland nadat de bemiddelaar is aangesteld.  
+
+Indien de bemiddeling geen algehele oplossing oplevert, is deze arbitragevereiste niet langer van toepassing op geschillen die het onderwerp zijn van gecoördineerde zaken waarvoor de andere partij een conforme kennisgeving van geschil heeft ontvangen, maar die niet via een proefzakenproces zijn opgelost. Dergelijke geschillen kunnen alleen worden ingediend bij de deelstaatrechtbanken in Wake County, North Carolina, of, indien er federale jurisdictie bestaat, bij de United States District Court for the Eastern District of North Carolina en u stemt er als onderdeel van de overeenkomst mee in om dergelijke gevallen uitsluitend bij deze rechtbanken te behandelen. Niets in deze paragraaf mag worden opgevat als een verbod voor u of Epic om een zaak van het deelstaatniveau naar het federale niveau te verplaatsen mits een dergelijke verplaatsing is toegestaan krachtens de toepasselijke wetgeving. Voor zover u dezelfde vorderingen doet gelden als andere personen en vertegenwoordigd wordt door een gemeenschappelijke of gecoördineerde raadsman, gaat u ermee akkoord afstand te doen van elk bezwaar dat de voeging van al dergelijke personen onuitvoerbaar is. Als een voorheen arbitreerbaar geschil voor de rechtbank wordt gebracht, kunnen eisers een groepsbehandeling aanvragen, maar voor zover toegestaan door de toepasselijke wetgeving, kunnen de beoogde groepen alleen de eisers omvatten in de gecoördineerde zaken die conforme kennisgevingen van geschil hebben verstrekt. Elke partij kan de groepscertificatie in elke fase van de rechtszaak en op elke beschikbare grond betwisten. De rechtbanken van Wake County, in de Amerikaanse staat North Carolina, of, indien er federale jurisdictie bestaat, heeft de United States District Court for the Eastern District of North Carolina de bevoegdheid om deze proefzaak af te dwingen en kan die het indienen van rechtszaken of arbitrageverzoeken die niet in overeenstemming met deze procedure zijn ingediend, verbieden. U stemt in met de jurisdictie van deze gerechtshoven voor dit doel. 
+
+
+<EULA.Header>13.3.5 Kennisgeving en indiening.</> Indien een geschil via arbitrage moet worden beslecht, moet u of Epic de arbitrageprocedure voor het geschil binnen twee (2) jaar nadat het geschil voor het eerst is ontstaan starten. Als de toepasselijke wetgeving vereist dat u een vordering voor een geschil eerder indient dan binnen twee jaar nadat het geschil voor het eerst is ontstaan, moet u de arbitrageprocedure binnen die eerdere periode starten. Epic moedigt u aan om ons zo snel mogelijk op de hoogte te brengen van een geschil, zodat wij kunnen trachten het op te lossen. <EULA.Highlight>Verzuim om tijdig te melden sluit alle vorderingen uit.</> 
+
+
+<EULA.Header>13.3.6 Voortgezette werking.</> De procedure voor geschillenbeslechting die in deze sectie wordt uiteengezet, blijft van kracht na beëindiging van deze overeenkomst of de levering van diensten door Epic aan u. 
+
+
+<EULA.Header>13.3.7 Toekomstige wijzigingen in arbitrage.</> Hoewel Epic deze overeenkomst naar eigen goeddunken kan herzien, heeft Epic niet het recht om de voorwaarden voor arbitrage of de hierin gespecificeerde regels met betrekking tot een geschil te wijzigen nadat 
+
+het geschil is ontstaan, als een dergelijke wijziging arbitrageprocedures minder gunstig zou maken voor de eiser. Of gewijzigde procedures minder gunstig zijn voor de eiser is een kwestie die door de arbiter moet worden beslist. Als er meerdere eisers bij gecoördineerde zaken procederen, wordt de toepasbaarheid van herziene voorwaarden voor de gecoördineerde zaken als procedurekwestie door de arbitrageaanbieder bepaald. 
+
+
+<EULA.Header>13.4 Afstand van groepsgeding.</> 
+
+Voor zover maximaal toegestaan door de toepasselijke wetgeving, komen u en Epic in elk geval dat niet onderworpen is aan de vereiste om te arbitreren (behalve voor zover hierboven besproken voor gecoördineerde zaken), overeen om geschillen, vorderingen of controverses tussen u en Epic die betrekking hebben op een product of producten van Epic in het algemeen, uw gebruik of poging tot gebruik van een Epic-product, of deze overeenkomst, in individuele hoedanigheid aan te spannen en om niet: 
+
+te proberen om een groeps- of representatieve rechtsvordering, collectieve of groepsarbitrage of enige andere procedure waarbij een ander individu of andere entiteit in een representatieve hoedanigheid optreedt (bijv. acties van een particuliere jurist voor het algemeen belang), aanhangig te maken; of 
+
+afzonderlijke procedures samen te voegen of te combineren of een ander toestaan om dat te doen, zonder de uitdrukkelijke toestemming van alle partijen. 
+
+
+<EULA.Header>13.5 Scheidbaarheid.</> 
+
+Indien alle bepalingen van deze sectie, of één ervan, ongeldig, onuitvoerbaar of onwettig wordt bevonden, dan stemmen u en Epic ermee in dat de bepaling wordt afgescheiden en dat de rest van deze overeenkomst van kracht blijft en wordt geïnterpreteerd alsof de afgescheiden bepaling er niet in opgenomen was geweest. De enige uitzondering hierop is dat, als de afstandsverklaring voor groepsarbitrage ongeldig, niet-afdwingbaar of onwettig wordt bevonden, u en Epic overeenkomen dat die niet afscheidbaar is; deze hele sectie 13, behalve sectie 13.4, is dan ongeldig en niet-afdwingbaar en elk geschil wordt dan voor de rechtbank beslecht met inachtneming van de locatie en de keuze van clausules zoals gespecificeerd in deze overeenkomst. In geen geval wordt arbitrage op groepsbasis gevoerd zonder uitdrukkelijke toestemming van Epic.  
+
+
+<EULA.Header>14. Amerikaanse overheidszaken </> 
+
+De software is een “commercieel artikel” (zoals gedefinieerd in 48 C.F.R. §2.101), bestaande uit “commerciële computer- 
+
+software” en “commerciële computersoftwaredocumentatie” (zoals gebruikt in 48 C.F.R. §12.212 of 48 C.F.R. §227.7202, indien van toepassing). De software wordt in licentie gegeven aan eindgebruikers van de Amerikaanse overheid uitsluitend als commercieel artikel en alleen met die rechten die aan andere licentienemers krachtens deze overeenkomst worden toegekend.  
+
+U verklaart en garandeert tegenover Epic dat u zich niet bevindt in een land dat onderworpen is aan een embargo van de Amerikaanse overheid of dat door de Amerikaanse overheid is aangeduid als een land dat “terroristen ondersteunt” en dat u niet voorkomt op een lijst van de Amerikaanse overheid met verboden of beperkte partijen.  
+
+
+<EULA.Header>15. Wijzigingen van deze overeenkomst </> 
+
+Epic kan te allen tijde naar eigen goeddunken een gewijzigde overeenkomst uitgeven door de gewijzigde overeenkomst op haar website te plaatsen of door u digitale toegang te verlenen tot de gewijzigde overeenkomst via de software of andere middelen. Als een amendement op deze overeenkomst voor u niet aanvaardbaar is, kunt u deze overeenkomst beëindigen in overeenstemming met sectie 9 voordat een dergelijke gewijzigde overeenkomst van kracht wordt, waarna u moet stoppen met het gebruik van de software. Door de software te gebruiken nadat de gewijzigde overeenkomst van kracht is geworden of anderszins aan te geven dat u akkoord gaat met de gewijzigde overeenkomst, gaat u ermee akkoord gebonden te zijn aan de voorwaarden van de gewijzigde overeenkomst. 
+
+
+<EULA.Header>16. Geen toewijzing </> 
+
+U mag niet, zonder voorafgaande schriftelijke toestemming van Epic, al uw rechten of verplichtingen uit hoofde van deze overeenkomst, of een deel ervan, toewijzen, overdragen, in rekening brengen of uitbesteden en elke poging zonder die toestemming is nietig en ongeldig. Indien beperkingen op de overdracht van de software in deze overeenkomst niet afdwingbaar zijn volgens de wetgeving van uw land, dan is deze overeenkomst bindend voor elke verkrijger van de software. Epic kan te allen tijde alle of een deel van haar rechten of verplichtingen uit hoofde van deze overeenkomst toewijzen, overdragen, in rekening brengen of uitbesteden.  
+
+
+<EULA.Header>17. Definities </> 
+
+Zoals gebruikt in deze overeenkomst hebben de volgende met een hoofdletter geschreven woorden de volgende betekenissen:  
+
+"<EULA.Highlight>Epic</>" betekent, afhankelijk van de locatie van uw hoofdverblijfplaats: 
+
+-	Als u in de Verenigde Staten van Amerika woont, is de entiteit van Epic die deze overeenkomst met u aangaat Epic Games, Inc., een bedrijf in Maryland met postadres op Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, VS. 
+
+-	Als u buiten de Verenigde Staten van Amerika woont, is de entiteit van Epic die deze overeenkomst met u aangaat Epic Games Commerce GmbH, een Zwitsers bedrijf met beperkte aansprakelijkheid met hoofdkantoor te Platz 10, 6039 Root D4, Zwitserland. 
+
+“<EULA.Highlight>Ontwikkelaar</>” betekent de partij die software te koop aanbiedt via de Epic Games-winkel.  
+
+“<EULA.Highlight>Epic Games-lanceerder (Launcher)</>” de bedrijfseigen toepassing die bekend staat als de Epic Games-lanceerder.  
+
+“<EULA.Highlight>Epic Games-winkel</>” betekent de online winkel die bekend staat als Epic Games-winkel en de Epic Games-lanceerder.  
+
+“<EULA.Highlight>Commentaar</>” betekent alle commentaar of suggesties die u aan Epic verstrekt met betrekking tot de software, diensten of andere producten en diensten van Epic.  
+
+“<EULA.Highlight>Softwarespecifieke voorwaarden</>” betekent aanvullende of alternatieve licentievoorwaarden tussen u en een ontwikkelaar die specifiek zijn voor een bepaalde software of dienst.  
+
+“<EULA.Highlight>Diensten</>” betekent alle diensten die door Epic of haar gelieerde ondernemingen aan u beschikbaar worden gesteld via de software, inclusief diensten voor het kopen, downloaden of gebruiken van videogames of andere software of diensten.  
+
+“<EULA.Highlight>Software</>” betekent (i) de Epic Games-lanceerder en (ii) videogames of andere software die beschikbaar wordt gesteld voor downloaden of gebruik via de Epic Games-winkel. De term “software” omvat ook alle patches, herzieningen en verbeteringen van dergelijke software en alle gerelateerde inhoud en documentatie die bij of voor de software wordt geleverd, met inbegrip van, maar niet beperkt tot, alle softwarecode, titels, thema's, objecten, personages, namen, dialogen, slagzinnen, locaties, verhalen, kunstwerken, animaties, concepten, geluiden, audiovisuele effecten, werkwijzen en muzikale composities die verband houden met dergelijke software en alle kopieën van het voorgaande.  
+
+
+<EULA.Header>18. Overige</>  
+
+Ga voor informatie over onze praktijken met betrekking tot het matigen van inhoud naar ons centrum voor veiligheid en beveiliging <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Safety and Security Center</>.  
+
+De Epic Games-winkel doet aanbevelingen voor producten om u te helpen uw ervaring met de dienst te verbeteren.  
+
+Wanneer producten van Epic algoritmisch functioneren, is dit gebaseerd op een aantal hoofdparameters, waaronder samengevoegde gebruikersinteracties met de dienst (zoals weergaven, zoekopdrachten en toegepaste filters), informatie over een individuele gebruiker (zoals leeftijd en taalvoorkeuren) en informatie over een product zelf (zoals de uitgiftedatum van het product, hetzij betaald, hetzij gratis, de beoordeling ervan en het aantal downloads).  
+
+Andere voorbeelden van onze algoritmische functies zijn zaken als "topspeler beoordeeld", "populariteit" en "meest populair".  
+
+Deze overeenkomst, samen met de dienstvoorwaarden, het Privacybeleid en eventuele softwarespecifieke voorwaarden of andere aanvullende voorwaarden die u met Epic bent overeengekomen, vormt de volledige overeenkomst tussen u en Epic met betrekking tot het onderwerp dat onder deze overeenkomst valt. Alle andere mededelingen, voorstellen en verklaringen met betrekking tot het onderwerp dat onder deze overeenkomst valt, zijn uitgesloten.  
+
+De oorspronkelijke overeenkomst is in het Engels; eventuele vertalingen zijn alleen bedoeld als referentie. U doet afstand van elk recht dat u volgens de wetgeving van uw land hebt om deze overeenkomst in de taal van enig ander land te laten schrijven of te laten interpreteren.  
+
+Deze overeenkomst beschrijft bepaalde wettelijke rechten. Wellicht hebt u andere rechten krachtens de wetten van uw rechtsgebied. Deze overeenkomst verandert niets aan uw rechten krachtens de wetten van uw rechtsgebied als de wetten van uw rechtsgebied dat niet toestaan. Beperkingen en uitsluitingen van garanties en rechtsmiddelen in deze overeenkomst zijn misschien niet op u van toepassing omdat uw rechtsgebied deze mogelijk niet toestaat in uw specifieke situatie. Indien bepaalde bepalingen van deze overeenkomst door een rechtbank of tribunaal met bevoegde jurisdictie onuitvoerbaar worden geacht, worden die bepalingen alleen gehandhaafd voor zover mogelijk krachtens het toepasselijke recht en blijven de resterende voorwaarden van deze overeenkomst volledig van kracht.  
+
+Elke handeling van Epic om een van haar rechten uit hoofde van deze overeenkomst, bij wet of in billijkheid uit te oefenen, of na te laten of uit te stellen, wordt niet beschouwd als een verklaring van afstand van die of andere rechten of rechtsmiddelen die beschikbaar zijn bij contract, wet of in billijkheid.  
+
+U stemt ermee in dat deze overeenkomst geen rechten of rechtsmiddelen overdraagt aan andere personen behalve aan de partijen bij deze overeenkomst, behalve zoals uitdrukkelijk vermeld.  
+
+De verplichtingen van Epic zijn onderworpen aan bestaande wetten en juridische procedures en Epic kan voldoen aan verzoeken of vereisten van wetshandhavings- of regelgevende instanties ondanks een tegengestelde voorwaarde in deze overeenkomst.
