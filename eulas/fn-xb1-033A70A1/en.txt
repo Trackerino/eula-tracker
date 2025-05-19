@@ -312,7 +312,7 @@ In no event may you convert any Software virtual currency into real currency, ta
 
 <EULA.Header>18.2 Microsoft Xbox Users</>
 
-The following additional terms and conditions apply with respect to Software available for use on Xbox Live devices that you own or control:
+The following additional terms and conditions apply with respect to Software available for use on Xbox consoles that you own or control:
 
 Neither Microsoft Corporation nor any of its affiliates (collectively, “<EULA.Highlight>Microsoft</>”) have any maintenance or support obligations with respect to the Software or Services.
 
