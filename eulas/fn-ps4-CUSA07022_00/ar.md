@@ -12,5 +12,5 @@
 | `lastModifiedTimestamp` | `2025-05-19T18:09:26.010Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/ar/v6/r5/zuoCmQlKqH+dJPaeQD5e9A==.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/ar/v6/r5/272990b2972a59d63c61b982be036a64.pdf` |
 | `bodyFormat` | `HTML` |

@@ -12,5 +12,5 @@
 | `lastModifiedTimestamp` | `2025-05-21T23:06:43.864Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-033A70A1/ko/v4/r2/iiTLOYjQ3atEgne2JRpZxg==.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-033A70A1/ko/v4/r2/dee71661f9191c96f7a4af434ab6b4b3.pdf` |
 | `bodyFormat` | `HTML` |
