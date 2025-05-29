@@ -298,9 +298,9 @@ Epic’s obligations are subject to existing laws and legal process, and Epic ma
 
 <EULA.Header>18. Additional Platform Terms</>
 
-<EULA.Header>18.1 Sony PlayStation Users:</>
+<EULA.Header>18.1 Sony PlayStation™ Users:</>
 
-The following additional terms and conditions apply with respect to Software available for use on PlayStation devices that you own or control:
+The following additional terms and conditions apply with respect to Software available for use on PlayStation™ devices that you own or control:
 
 Please note that Epic will store PlayStation™Network account information, including your email address and Online ID, as explained in Epic’s Privacy Policy. Epic may allow its users to search for other Epic accounts by their account for PlayStation™Network account and other Epic users may send you friend requests. Your account for PlayStation™Network privacy settings will not apply to your Epic account.
 
