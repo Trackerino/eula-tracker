@@ -45,7 +45,7 @@ This Agreement is a legal document detailing your rights and obligations related
 <EULA.HighlightItalic>The Licensed Technology</>
 
 <EULA.Header>1.  What Technology Epic Is Licensing to You</>
-The Licensed Technology licensed to you under this Agreement includes all Unreal Engine code and related content that is copied to your computer when you download or install Unreal Engine. This includes Engine Code, Examples, and Starter Content.
+The Licensed Technology licensed to you under this Agreement includes all Unreal Engine code and related Epic-provided content that you access when you download, use, or install Unreal Engine. This includes Engine Code, Examples, and Starter Content.
 
 “<EULA.Header>Engine Code</>” means the Source Code (as defined below) and object code of Unreal Engine, including any future versions made available to you by us under this Agreement and any object code compiled from that Source Code.
 
@@ -53,7 +53,7 @@ The Licensed Technology licensed to you under this Agreement includes all Unreal
 
 “<EULA.Header>Examples</>” means the code, artwork, or other content made available by us in the Samples and Templates folders in the install directory.
 
-“<EULA.Header>Starter Content</>” means the code, artwork, or other content made available by us and installed to your computer when you install Unreal Engine, excluding Examples.
+“<EULA.Header>Starter Content</>” means the code, artwork, or other content made available by us and installed to your computer in connection with Unreal Engine, excluding Examples.
 
 The Licensed Technology includes any modified version of any of the foregoing that you make under the License.
 
@@ -81,8 +81,8 @@ As described in this Section 4(a), you may Distribute certain Products to certai
 You will not be obligated to pay us any royalty payments for Distributing Products that (i) do not include any Engine Code, (ii) do not require any Engine Code to run and (iii) do not include Starter Content in source format (“<EULA.Header>Non-Engine Products</>”) to any person or entity.
 
 This means, for example, you will not be obligated to pay us royalties for Distributing:
-●  rendered video files (e.g., broadcast or streamed video files, cartoons, movies, or images) created using the Engine Code (even if the video files include Starter Content) or
-●  asset files, such as character models and animations, other than Starter Content, that you developed using the Engine Code, including in Products that use or rely on other video game engines.
+●  rendered video files (e.g., broadcast or streamed video files, cartoons, movies, or images) created using the Engine Code (even if the video files include rendered depictions of Starter Content) or
+●  asset files, such as character models and animations, other than Starter Content, that you developed using Engine Code. Such asset files remain Non-Engine Products even if included in Products that use or rely on other video game engines.
 
 Please note that certain assets that we make available under separate agreements are available for use only with Unreal Engine.
 
@@ -96,7 +96,7 @@ You will not be obligated to pay us any royalty payments for Distributing Produc
 
 A.  To the legal entities that are part of your company group, such as a parent company or a subsidiary, for their private use, so long as those entities do not further Distribute the Products outside of your company group. 
 
-This means, for example, applications (which would be Products) you create for internal use within your company can also be shared with your parent company, your subsidiary, or another subsidiary of your parent company without royalty obligation Epic.
+This means, for example, applications (which would be Products) you create for internal use within your company can also be shared with your parent company, your subsidiary, or another subsidiary of your parent company without royalty obligation to Epic.
 
 B.  To a single client who hired you to develop a Product specifically for their private use on a work-for-hire basis subject to a written agreement that either (i) recognizes the client as the author of the Product for copyright purposes or (ii) that assigns all of your copyright interest in and to the Product to the client. Neither you nor your client are authorized to further Distribute the Product or any variation of the Product.
 
@@ -109,19 +109,21 @@ This means, for example, that you may use the Licensed Technology in interactive
 <EULA.Header>b.  Royalty Bearing Distribution</>
 Distributions of any Product that is not a Royalty-Free Product (such Products, <EULA.Header>“Royalty Products”</>) will be subject to the terms of the attached Royalty Addendum. Additionally, any advance on Royalty Product revenue you receive to develop a Royalty Product will be subject to the Royalty Addendum. However, as described more fully in the Royalty Addendum, you will not be obligated to pay us royalty payments under this Agreement unless a Product directly generates more than $1,000,000 USD in gross revenue.
 
+A Royalty Product includes any Ports of that Royalty Product. A “Port” means a Royalty Product which (a) is an adaptation of an already released Royalty Product under an existing Unreal Engine License Agreement for its release on a different platform, regardless of what platforms that Royalty Product is originally released on; or (b) is crossplay or multiplayer compatible with substantially similar gameplay to an already released Royalty Product under an existing Unreal Engine License Agreement.
+
 This means, for example, that you may be obligated to pay royalties to Epic for Products that are sold to the general public or for off-the-shelf Products that you sell privately to third parties, whether directly by you or through a distributor or publisher.
 
 <EULA.Header>c.  Use by End Users, Publishers, and Distributors</>
 When you Distribute a Product, you may permit end users to use, reproduce, display and publicly perform the Licensed Technology, solely (1) as incorporated in the Product in object code as an inseparable part of the Product, (2) to the extent necessary for end users to make permitted uses of the Product, and (3) pursuant to an end user license agreement that explicitly disclaims any representations, warranties, conditions, and liabilities related to the Licensed Technology. You may not permit your end users to incorporate any Licensed Technology into their own products, services, or other projects. You may, however, permit your publishers and distributors to market and Distribute a Product on your behalf, but only to the extent that you are permitted to make such Distribution yourself under this Section 4, and such Distribution will be subject to the terms of this Agreement. 
 
-<EULA.Header>5.  How You Can Share the Licensed Technology When It Isn’t Part of a Product</>
+<EULA.Header>5.  How You Can Distribute the Licensed Technology When It Isn’t Part of a Product</>
 You may only Distribute the Licensed Technology (including as modified by you) outside of a Product as expressly permitted by this Section 5.
 
 <EULA.Header>a.  Distributing Engine Code</>
 <EULA.Header>i.  Distributing Engine Code to Another Licensee</>
 You may Distribute Engine Code (including as modified by you) in Source Code or object code to a third party who is separately licensed by us to use the same version of the Engine Code that you are Distributing.
 
-Any public Distribution of Engine Tools (e.g., intended generally for third parties who are separately licensed by us to use the Engine Code) must take place through a marketplace operated by Epic such as the Fab Marketplace, the Unreal Engine Marketplace (e.g., for Distributing a Product’s modding tool or editor to end users) or through a fork of Epic’s GitHub UnrealEngine Network (e.g., for Distributing Source Code).
+Any public Distribution of Engine Tools (e.g., intended generally for third parties who are separately licensed by us to use the Engine Code) must take place through a marketplace operated by Epic such as the Fab Marketplace (e.g., for Distributing a Product’s modding tool or editor to end users) or through a fork of Epic’s GitHub UnrealEngine Network (e.g., for Distributing Source Code).
 
 <EULA.Header>ii.  Distributing Engine Code for Public Discussion</>
 You are permitted to post snippets of Engine Code, up to 30 lines of code in length, online in public forums for the sole purpose of discussing the content of the snippet or Distribute such snippets in connection with supporting patches and plug-ins for the Licensed Technology, so long as it is not for the purpose of enabling third parties without a license to the Engine Code to use or modify any Engine Code or to aggregate, recombine, or reconstruct any larger portion of the Engine Code.
@@ -153,7 +155,7 @@ iii. <EULA.Header>Non-commercial exception.</> The Seat subscription requirement
 You may not, and may not permit others to, combine, Distribute, or otherwise use the Licensed Technology with any code or other content which is covered by a license that would directly or indirectly require that all or part of the Licensed Technology be governed under any terms other than those of this Agreement (those licenses, the <EULA.Header>“Non-Compatible Licenses”</>). This means, for example, that you may not combine the Licensed Technology with code or content that is licensed under any of the following licenses: GNU General Public License (GPL), Lesser GPL (LGPL) (unless you are merely dynamically linking a shared library), or Creative Commons Attribution-ShareAlike License. 
 
 <EULA.Header>d.  Restrictions on Engine Tools</>
-If your Product includes Engine Tools, you may only Distribute it through either the Fab Marketplace, the Unreal Engine Marketplace or through a fork of Epic’s GitHub UnrealEngine Network. <EULA.Header>“Engine Tools”</> means the (i) editors and other tools included in the Engine Code; (ii) any code and modules in either the Developer or Editor folders, including in object code format, whether statically or dynamically linked; and (iii) other software that may be used to develop standalone products based on the Licensed Technology.
+If your Product includes Engine Tools, you may only Distribute it through either the Fab Marketplace or through a fork of Epic’s GitHub UnrealEngine Network. <EULA.Header>“Engine Tools”</> means the (i) editors and other tools included in the Engine Code; (ii) any code and modules in either the Developer or Editor folders, including in object code format, whether statically or dynamically linked; and (iii) other software that may be used to develop standalone products based on the Licensed Technology.
 
 <EULA.Header>e.  General Restrictions</>
 You must ensure that your activities with the Licensed Technology do not:
@@ -162,8 +164,9 @@ You must ensure that your activities with the Licensed Technology do not:
 ●  misappropriate any of our other products or services;
 ●  support a claim by you or any third party that the Licensed Technology infringes a patent;
 ●  result in a sale or grant of a security interest in any Licensed Technology;
-●  result in a Distribution of a Product or the Licensed Technology in any manner other than as permitted by Sections 4 and 5; or
-●  result in using the Licensed Technology as a training input or prompt-based input into any Generative AI Program. “Generative AI Program” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content.
+●  result in a Distribution of a Product or the Licensed Technology in any manner other than as permitted by Sections 4 and 5;
+●  result in using the Licensed Technology as a training input to any Generative AI Program or as prompt-based input where the Generative AI Program trains on input data. “Generative AI Program” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content; or
+●  use, or permit others to use, MetaHuman digital characters and animation curves (or any rendered output thereof if crafted to replicate the functionality of MetaHuman) to build or enhance any database or training or testing any artificial intelligence, machine learning, deep learning, neural networks, or similar technologies.
 
 <EULA.Header>7.  Who Owns What</>
 As between you and us, you own all rights, other than rights in the Licensed Technology, in the Products you develop under this Agreement, and we own all title, ownership rights, and intellectual property rights in the Licensed Technology.
@@ -179,7 +182,7 @@ If a Product you develop under this Agreement has credits, you must place the fo
 
 “Unreal® Engine, Copyright 1998 – xxxx, Epic Games, Inc. All rights reserved.”
 
-No other license or right is granted under this Agreement in the trademarks, service marks, trade names, and logos associated with Epic, Epic’s games and other intellectual property, including Unreal Engine (the “<EULA.Header>Epic Trademarks</>”). All use of the Epic Trademarks will inure to the sole benefit of Epic. You agree not to engage in any activity that could tarnish, dilute, or affect the validity or enforceability of the Epic Trademarks or cause consumer confusion or diminish any goodwill relating to any Epic Trademarks.
+No other license or right is granted under this Agreement in the trademarks, service marks, trade names, and logos associated with Epic, Epic’s games and other intellectual property, including the Unreal Engine and MetaHuman names and logos (the “<EULA.Header>Epic Trademarks</>”). All use of the Epic Trademarks will inure to the sole benefit of Epic. You agree not to engage in any activity that could tarnish, dilute, or affect the validity or enforceability of the Epic Trademarks or cause consumer confusion or diminish any goodwill relating to any Epic Trademarks.
 
 If you wish to make further use of the Epic Trademarks, please go to <a id="url" style="EULA.Hyperlink" target="_blank" href="https://www.unrealengine.com/branding">unrealengine.com/branding</> for more information.
 
@@ -195,6 +198,10 @@ You grant Epic a non-exclusive, fully-paid, irrevocable, transferable, sublicens
 
 You represent and warrant that you have sufficient rights in any Feedback or Contribution that you provide to Epic to grant Epic and other affected parties the rights described above. This includes but is not limited to intellectual property rights and other proprietary or personal rights. If any rights to be licensed under this Section 7(c) may not be licensed under applicable law (such as moral and other personal rights), you hereby waive and agree not to assert any of those rights.
 
+<EULA.Header>d. License You Grant Epic to Cloud Input Data </>
+
+When you use cloud features of the Licensed Technology, you are temporarily granting access to your relevant data (“Cloud Input Data”) to Epic or its affiliates, and you grant Epic permission to use Cloud Input Data for the sole purpose of generating the data you request from those cloud features. Epic does not retain your Cloud Input Data after it is processed. Epic does not use your Cloud Input Data for any purpose other than satisfying your request. You will ensure you do not provide Cloud Input Data unless you have all rights necessary to have Epic and its affiliates process it on your behalf and you provided all required notices and obtained all necessary consents from any individuals whose likeness is captured in the Cloud Input Data as required by applicable law.
+
 <EULA.HighlightItalic>Our Relationship</>
 
 <EULA.Header>8.  The Agreement Between You and Epic</>
@@ -204,7 +211,7 @@ If we make changes to this Agreement, you are not required to accept the amended
 However, if we make changes to this Agreement, you will not be allowed to access certain Epic services or download the Licensed Technology unless you have accepted the amended Agreement. If we make changes, we will provide you with notice, such as by sending an email or giving you notice when you next log into an Epic service.
 
 <EULA.Header>b.  Alternative and Additional Terms</>
-With respect to your rights and obligations related to Licensed Technology, this Agreement supersedes any prior Unreal Engine End User License Agreement for Publishing or Unreal Engine End User License Agreement for Creators you may have. Those agreements will continue to survive only to the extent that you continue to have rights and obligations under them related to Content. Once you have also agreed to the Epic Content License Agreement (<a id="url" style="EULA.Hyperlink" target="_blank" href="https://www.unrealengine.com/eula/content">unrealengine.com/eula/content</>), those agreements will be superseded completely.
+With respect to your rights and obligations related to Licensed Technology, this Agreement supersedes any prior Unreal Engine End User License Agreement for Publishing, Unreal Engine End User License Agreement for Creators, and MetaHuman Creator End User License Agreement you may have. Those agreements will continue to survive only to the extent that you continue to have rights and obligations under them related to Content. Once you have also agreed to the Epic Content License Agreement (<a id="url" style="EULA.Hyperlink" target="_blank" href="https://www.unrealengine.com/eula/content">unrealengine.com/eula/content</>), those agreements will be superseded completely.
 
 This Agreement, however, does not supersede, amend or otherwise affect other agreements you may have with us or any sublicensor authorized by us, other than as described in Section 8(a). For example, if we grant you a license to use Unreal Engine to develop one or more products under a custom license, that custom license and not this Agreement governs your use of Unreal Engine and related materials with respect to those products.
 
@@ -237,6 +244,8 @@ The Epic entity entering into this Agreement with you corresponds to where you l
 
 <EULA.Header>11.  Privacy</>
 Your privacy is important to us. Please review our Privacy Policy (<a id="url" style="EULA.Hyperlink" target="_blank" href="https://www.epicgames.com/privacypolicy">epicgames.com/privacypolicy</>). It describes how we collect, use, and share information when you use the Epic services that link to this Privacy Policy.
+
+If you are using the Licensed Technology on behalf of your employer (such as by registering your Epic account with an email address associated with your employer's corporate domain) Epic may, at your employer's request, share your email address with your employer for the purpose of your employer's compliance with the Seat subscription requirements in this Agreement.
 
 <EULA.Header>12.  Records and Audits</>
 You will keep accurate books and records that are reasonably sufficient to verify your compliance with the Seat subscription requirements and the Royalty Addendum. Epic or its designated representatives may upon reasonable prior notice to you conduct reasonable audits of those books and records. Any such audit (a) will be conducted by an independent third party auditor designated by Epic, (b) will not unreasonably interfere with your business activities, (c) may be conducted no more frequently than once every twelve (12) months, and (d) will be conducted during regular business hours. Provided you have complied with this Section 12, Epic will bear the costs of audits unless the results show a shortfall in payments in excess of 5% during the period audited. In all other cases, you will reimburse Epic for the cost of the audit.
@@ -271,7 +280,7 @@ You have the right to opt-out of this class action waiver within 30 days of the 
 Epic does not have any support obligations with respect to the Licensed Technology under this Agreement. Support resources may be obtained at <a id="url" style="EULA.Hyperlink" target="_blank" href="https://www.unrealengine.com/support">www.unrealengine.com/support</>. Without limiting the foregoing, Epic does not have any obligation to make new versions of the Licensed Technology available, or to continue to make available for access or download any versions of the Licensed Technology.
 
 <EULA.Header>b.  U.S. Government Matters; Export Controls</>
-The Licensed Technology is a “Commercial Item” (as defined at 48 C.F.R. §2.101), consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation” (as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable). The Licensed Technology will only be licensed to U.S. Government end users as Commercial Items and with only those rights as are granted to other licensees under this Agreement.
+The Licensed Technology may be considered a “Commercial Item” (as defined at 48 C.F.R. §2.101), consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation” (as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable). The Licensed Technology is being licensed to all end users (including any U.S. Government end users) only as a Commercial Item intended for general use, and with only those rights as are granted to other licensees under this Agreement.
 
 You understand and agree that the Licensed Technology may not be used, accessed, downloaded, or otherwise exported, reexported, or transferred in violation of applicable export control, economic sanctions, or import laws or regulations, such as the U.S. Export Administration Regulations and U.S. Department of the Treasury’s Office of Foreign Assets Control regulations.
 
@@ -368,7 +377,7 @@ The following simplified example illustrates how lifetime exclusions work.
 Royalty alternative exclusions: You may have already made a royalty payment or have other fee obligations to Epic on certain revenue generated by a Royalty Product. To prevent you from being charged twice by Epic on such revenue, the following exclusions apply to the calculation of Royalty Revenue:
 
 iv.  royalties that you pay on an advance payment of revenue for a Royalty Product that is recoupable by the payer, such as a publisher, may be credited against future royalty payments that you incur under this Agreement for that Royalty Product; and
-v.  revenue generated from sales of your Product on the Fab Marketplace, the Unreal Engine Marketplace or the Epic Games Store, and from any subsequent in-Product purchases making use of Epic’s payment services.
+v.  revenue generated from sales of your Product on the Fab Marketplace or the Epic Games Store, and from any subsequent in-Product purchases making use of Epic’s payment services.
 
 The following simplified examples illustrate how royalty alternative exclusions work and assume a Royalty Rate of 5%.
 ●  Your publisher pays you a $100,000 advance on a Royalty Product you are developing. You are not obligated to pay us any royalty payments on the advance (because you have not yet earned $1,000,000 in lifetime gross revenue on your Product).
