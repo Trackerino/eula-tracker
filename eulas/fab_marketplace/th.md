@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `671416bef96aab19aac98234` |
+| `id` | `68403c4134793e3a4913f5b3` |
 | `key` | `fab_marketplace` |
-| `version` | `3` |
-| `revision` | `1` |
+| `version` | `4` |
+| `revision` | `2` |
 | `title` | `Fab Distribution Agreement_th` |
 | `locale` | `th` |
-| `createdTimestamp` | `2024-10-19T20:29:50.763Z` |
-| `lastModifiedTimestamp` | `2024-10-19T20:29:50.763Z` |
+| `createdTimestamp` | `2025-06-04T12:29:53.773Z` |
+| `lastModifiedTimestamp` | `2025-06-04T12:29:53.773Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fab_marketplace/th/v3/r1/ce93dd487cd182983a40edda5d844d40.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fab_marketplace/th/v4/r2/2b704e21297136547ba766cdf710a44f.pdf` |
 | `bodyFormat` | `HTML` |

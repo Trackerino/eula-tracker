@@ -1,6 +1,6 @@
 <EULA.Header>FAB DISTRIBUTION AGREEMENT</>
 
-Last updated: October 10, 2024
+Last updated: June 4, 2025
 
 This Agreement governs how Epic may act as your agents to offer for sale and distribute your digital content through Epic’s proprietary online marketplace and is a legal agreement between you and Epic. By clicking to indicate your acceptance of this Agreement or otherwise providing content to Epic for distribution through the marketplace, you are agreeing to be bound by the terms of this Agreement. When we say, “<EULA.Highlight>you</>,” “<EULA.Highlight>your</>” or “<EULA.Highlight>yourself</>”, we mean you as an individual or the legal entity exercising rights under this Agreement through you. In these terms “<EULA.Highlight>we</>” or “<EULA.Highlight>us</>” or “<EULA.Highlight>Epic</>” refer to an Epic entity as defined in Section 19.
 
@@ -278,13 +278,13 @@ You have the right to opt-out of this class action waiver within 30 days of the 
 
 <EULA.Highlight>k.	Artificial Intelligence. </>
 
-<EULA.Highlight>i.	Identifying Content that Should Not be Used With Generative AI Programs.</> You are able to tag Content with “NoAI” if you would like the Content to be prohibited from use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs. This tag will not be applied to your Content by default; you must actively designate your Content for the “NoAI” tag to apply. While Content remains tagged, labeled, or otherwise marked “NoAI” via the functionality provided by the platform, it will be known as “<EULA.Highlight>NoAI Content</>.”
+<EULA.Highlight>i.	Identifying Content that Should Not be Used With Generative AI Programs.</> You are able to tag Content with “NoAI” if you would like the Content to be prohibited from use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs. Except for Content that requires the NoAI tag under separate terms of use provided by Epic or its affiliates, this tag will not be applied to your Content by default and you must actively designate your Content for the “NoAI” tag to apply. While Content remains tagged, labeled, or otherwise marked “NoAI” via the functionality provided by the platform, it will be known as “<EULA.Highlight>NoAI Content</>.”
 
 For purposes of this Agreement, “<EULA.Highlight>Generative AI Programs</>” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. The Standard License you grant to Customers who acquire NoAI Content prohibits the Customer from using the NoAI Content (a) in datasets utilized by Generative AI Programs; (b) in the development of Generative AI Programs; or (c) as inputs to Generative AI Programs.
 
-Epic agrees, whether or not Content is NoAI Content, not to exercise the license granted in Section 2(b) to use any of your Content or to license any of your Content to third parties for use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs.
+Epic uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure the Content, the services we provide on Fab.com or via any official Fab plugin and Epic's other products and services comply with terms of our services, our Epic Games Content Guidelines and Community Rules and to improve our search and recommendations. We use your Content to improve how our Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your Content to provide services like search, recommendations and content discovery. Subject to the above, Epic does not use publishers' Content and does not license it to third parties for use in datasets for, training of, or as inputs to Generative AI Programs and agrees, whether or not Content is NoAI Content, not to exercise the license granted in Section 2(b) to use any of your Content or to license any of your Content to third parties for use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs.
 
-<EULA.Highlight>ii.	Identifying Content Created With Generative AI Programs</>. When your Content is created using Generative AI Programs, you are required to tag the Content as “CreatedWithAI” via the functionality provided by the Marketplace. Epic will not apply the “CreatedWithAI” tag to your Content; you are solely responsible for complying with the requirement to tag your Content.
+<EULA.Highlight>ii.	Identifying Content Created With Generative AI Programs</>. When your Content is created using Generative AI Programs, you are required to tag the Content as “CreatedWithAI” via the functionality provided by the Marketplace. 
 
 Under this Agreement, Content is considered to be created using Generative AI Programs where a material portion of the Content is generated with Generative AI Programs, whether characters, backgrounds, or other material elements. Content is not considered to be created using Generative AI Programs merely for use of features that solely operate on the Content (e.g., content-aware fill) or that don’t introduce material Generative AI elements into your work (e.g., AI based image upscaling).
 
@@ -343,25 +343,3 @@ b.	to the extent your Content is distributed to a customer based outside the Uni
 “<EULA.Highlight>Updates</>” means any updates, corrections, or enhancements to Content provided by you. Once provided to Epic, Updates will be regarded as Content.
 
 “<EULA.Highlight>Withdrawal Request</>” has the meaning provided in Section 10(a).
-
-<EULA.Header>Content Exhibit 1: Temporary change to Seller Proceeds and Revenue Share</>
-
-This Exhibit 1 (or “<EULA.Highlight>Exhibit</>”) is incorporated and forms a part of the Fab Distribution Agreement entered into by you and Epic. This Exhibit is entered into by and between you and Epic upon your acceptance of the terms of the Fab Distribution Agreement (“<EULA.Highlight>Exhibit Effective Date</>”). Capitalized terms used, but not defined in this exhibit shall have the meanings given to such terms in the Fab Distribution Agreement. In the event of any conflict between the provisions of this Exhibit and the provisions of the Fab Distribution Agreement, the provisions of this Exhibit shall prevail during the Exhibit Term (defined below). This Exhibit does not supersede or otherwise affect other agreements you may have with Epic.
-
-<EULA.Header>1.	COVERED CONTENT</>
-
-The terms of this Exhibit apply to the following Content (such Content being “<EULA.Highlight>Exhibit Content</>”):
-
-     -	Content sold by you on the Marketplace under Fab’s Standard License until 11:59:59 pm EDT on December 31st, 2024.
-
-<EULA.Header>2.	REVENUE SHARE</>
-
-During the Exhibit Term and only with regard to the Exhibit Content, Section 5(a) of the Fab Distribution Agreement will read as follows:
-
-When a Customer buys Digital Rights to the Exhibit Content as described in Section 1 above, the Marketplace Operators collect their money and deduct any Sales Tax that they will remit to tax authorities, as required by law. The Marketplace Operators pay you 100% of the amount charged for a sale of Digital Rights, in each case after deducting applicable Sales Tax and amounts attributable to payment processing fees, discounts, and charges related to fraud; chargebacks and Customer refunds will also be deducted from the payout (“<EULA.Highlight>Seller Proceeds</>”).
-
-This Exhibit does not amend Section 5(a) with regard to any other Content other than the Exhibit Content.
-
-<EULA.Header>3.	EXHIBIT TERM</>
-
-The terms of this Exhibit will begin on the Exhibit Effective Date and continue until 11:59:59 pm EDT on December 31st, 2024 (“<EULA.Highlight>Exhibit Term</>”).
