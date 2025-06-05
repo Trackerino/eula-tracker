@@ -19,7 +19,7 @@
 欢迎来到 Epic！
 
 
-Epic Games, Inc. 的总部位于北卡罗来纳州卡瑞市。我们和我们的子公司在世界各地都有办事处和业务，为您打造和提供最喜欢的一些产品和服务，包括 Fortnite（《堡垒之夜》）等游戏及虚幻引擎等开发工具（见下文“我们的全球业务”）。
+Epic Games, Inc. 的总部位于北卡罗来纳州卡瑞市。我们和我们的子公司在世界各地都有办事处和业务，为您打造和提供最喜欢的一些产品和服务，包括 《Fortnite》等游戏及虚幻引擎等开发工具（见下文“我们的全球业务”）。
 
 
 本隐私政策描述了我们在 Epic 服务上、通过 Epic 服务或就 Epic 服务收集、使用和共享信息的不同方式（见下文“什么是 Epic 服务”）。如有任何问题，您可以按照下文“联系我们”中所述随时与我们联系。
@@ -34,7 +34,7 @@ Epic Games, Inc. 的总部位于北卡罗来纳州卡瑞市。我们和我们的
 我们使用“Epic 服务”这一用语描述任何直接与本隐私政策相关联的 Epic 产品或服务。例如，其中包括：
 
 
-• <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>（《堡垒之夜》）、<a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</>（《火箭联盟》，通过我们的子公司 Psyonix）、<a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</>（《糖豆人》，通过我们的子公司 Mediatonic）和 <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</>（通过我们的子公司 Aquiris Game Studio LLC）等游戏；
+• <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">《Fortnite》</>、<a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</>（《火箭联盟》，通过我们的子公司 Psyonix）、<a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</>（《糖豆人》，通过我们的子公司 Mediatonic）和 <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</>（通过我们的子公司 Aquiris Game Studio LLC）等游戏；
 
 
 • <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> 和 <a id="url" href="https://www.epicgames.com/store/" style="EULA.Hyperlink">Epic Games Store</>、<a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>（通过 Life on Air）、<a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</>（通过 Psyonix）和 <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>（通过 Mediatonic）等网站和应用程序；
@@ -46,7 +46,7 @@ Epic Games, Inc. 的总部位于北卡罗来纳州卡瑞市。我们和我们的
 • <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">开发者门户</>和<a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">虚幻引擎</>等开发者工具。
 
 
-请注意，您对 Epic 服务的使用也可能受其他条款和条件的约束。例如，您必须查看并接受<a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">《堡垒之夜最终用户许可协议》</>才能畅玩《堡垒之夜》，必须查看并接受<a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">《Psyonix 最终用户许可协议》</>才能畅玩《火箭联盟》，必须查看并接受<a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink">《糖豆人：终极淘汰赛 – 最终用户许可协议》</>才能畅玩《糖豆人》，必须查看并接受<a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">《Horizon Chase 2 最终用户许可协议》</>才能畅玩 Horizon Chase 2。
+请注意，您对 Epic 服务的使用也可能受其他条款和条件的约束。例如，您必须查看并接受<a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">《Fortnite最终用户许可协议》</>才能畅玩《Fortnite》，必须查看并接受<a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">《Psyonix 最终用户许可协议》</>才能畅玩《火箭联盟》，必须查看并接受<a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink">《糖豆人：终极淘汰赛 – 最终用户许可协议》</>才能畅玩《糖豆人》，必须查看并接受<a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">《Horizon Chase 2 最终用户许可协议》</>才能畅玩 Horizon Chase 2。
 
 
 请阅读本隐私政策全文。在使用这些产品或服务之前，您还应仔细阅读适用于您所使用的 Epic 服务的任何其他协议，并确认您理解和同意这些协议。
@@ -100,7 +100,7 @@ Epic 服务使用 Cookie、日志文件和网络信标等技术自动收集上�
 例如，某些其他开发者允许您使用您的 Epic 账户登录他们的服务。如果您选择将您的 Epic 账户与您在第三方社交媒体（如 Facebook）、游戏（如 Steam）或其他类似网站或服务上的账户相关联，或如果您在外部网站或服务上与一项 Epic 服务的广告交互，运营该网站或服务的公司可能根据其自身的隐私惯例与 Epic 共享某些信息。您在其他公司的网站或服务上的隐私设置通常会控制其与 Epic 共享的具体信息类型，因此请确保定期查看和更新这些设置。关联账户的常见示例可能包括您的第三方账户显示名称和用户 ID，以及相关的设备信息、名称及电子邮件地址。对于我们的支持创作者计划的参与者，我们也可能收集您的社交媒体账户关注者数量，用于核实您参与计划的资格。
 
 
-您也可以在第三方运营的服务上或通过第三方运营的服务购买、下载或访问某些 Epic 服务。如果您这样做，第三方可能向我们提供信息，以方便您访问和使用 Epic 服务。这通常包括您的显示名称、用户 ID、设备和地区信息等。例如，您可以选择通过您的游戏机账户在游戏机（例如 PlayStation®、微软 Xbox 和任天堂 Switch）上下载和玩《堡垒之夜》等游戏。当您这样做时，运营该平台或服务的公司可能与我们共享某些信息，从而帮助我们完成诸如方便您玩游戏、追踪您的进度和权利等事项。
+您也可以在第三方运营的服务上或通过第三方运营的服务购买、下载或访问某些 Epic 服务。如果您这样做，第三方可能向我们提供信息，以方便您访问和使用 Epic 服务。这通常包括您的显示名称、用户 ID、设备和地区信息等。例如，您可以选择通过您的游戏机账户在游戏机（例如 PlayStation®、微软 Xbox 和任天堂 Switch）上下载和玩《Fortnite》等游戏。当您这样做时，运营该平台或服务的公司可能与我们共享某些信息，从而帮助我们完成诸如方便您玩游戏、追踪您的进度和权利等事项。
 
 
 <EULA.Highlight>D. 防欺诈和反作弊</>
@@ -202,7 +202,7 @@ Epic 服务使用 Cookie、日志文件和网络信标等技术自动收集上�
 我们力求设计出适合全球各年龄段用户的 Epic 服务。这意味着我们会收集用户的年龄信息，我们的一些服务将根据我们对用户年龄和居住地的了解提供不同的体验。以下信息供父母和监护人了解我们针对儿童（未满 13 岁或用户所在地区的数字同意年龄，以较高者为准）采取的隐私惯例。
 
 
-当用户表明自己是儿童时，我们将向其分配“受限账户”，直到其不再是上述定义的儿童，或直到其父母或监护人给予另外的隐私许可并启用家长控制。受限账户可以玩《堡垒之夜》、《糖豆人》等 Epic 游戏，但语音聊天和真实货币购买等功能会被禁用。Epic 在每种情况下，根据适用的青少年隐私和保护法律，从受限账户收集有限的个人信息，以利用这些信息：
+当用户表明自己是儿童时，我们将向其分配“受限账户”，直到其不再是上述定义的儿童，或直到其父母或监护人给予另外的隐私许可并启用家长控制。受限账户可以玩《Fortnite》、《糖豆人》等 Epic 游戏，但语音聊天和真实货币购买等功能会被禁用。Epic 在每种情况下，根据适用的青少年隐私和保护法律，从受限账户收集有限的个人信息，以利用这些信息：
 
 
 • 出生日期和国家/地区，用于确定年龄并采用适当的设置；
@@ -421,7 +421,7 @@ Epic 不会出售、分享（定义见 CCPA）我们收集的个人信息。然�
 如果您对 Epic 服务有问题或疑虑（如游戏相关问题、访问 Epic 账户的问题、bug 或其他技术问题、支付问题、内容和授权问题），请联系我们的玩家支持团队。您可以了解关于提交以下公司产品和服务支持请求的更多信息：
 
 
-• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</>（如《堡垒之夜》）
+• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</>（如《Fortnite》）
 
 
 • <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</>（如《火箭联盟》）
@@ -447,7 +447,7 @@ Epic 不会出售、分享（定义见 CCPA）我们收集的个人信息。然�
 
 • 欧盟/英国代表：Mishcon de Reya (representative@mishcon.com) 
 
-<EULA.Highlight>如果您正在使用由 Epic Games 提供的与本隐私政策关联的任何游戏，如《堡垒之夜》：</>
+<EULA.Highlight>如果您正在使用由 Epic Games 提供的与本隐私政策关联的任何游戏，如《Fortnite》：</>
 
 • 数据控制者：Epic Games Entertainment International GmbH
 
@@ -516,5 +516,3 @@ Epic 不会出售、分享（定义见 CCPA）我们收集的个人信息。然�
 • 数据保护官：dpo@aquiris.com.br。
 
 • 欧盟/英国代表：Mishcon de Reya (representative@mishcon.com)
-
-
