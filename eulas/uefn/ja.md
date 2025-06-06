@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65fb1a01b009956d652010aa` |
+| `id` | `68434251277b82433135d5eb` |
 | `key` | `uefn` |
-| `version` | `10` |
+| `version` | `11` |
 | `revision` | `2` |
 | `title` | `<EULA.Header>Unreal Editor for FortniteのEULAに対する補足条件</>` |
 | `locale` | `ja` |
-| `createdTimestamp` | `2024-03-20T17:16:49.877Z` |
-| `lastModifiedTimestamp` | `2024-03-20T17:16:49.877Z` |
+| `createdTimestamp` | `2025-06-06T19:32:33.045Z` |
+| `lastModifiedTimestamp` | `2025-06-06T19:32:33.045Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ja/v10/r2/778304a6194cf7d25cc618625e163eb5.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ja/v11/r2/cafde842d4a6790a9c0542175ced90e7.pdf` |
 | `bodyFormat` | `HTML` |

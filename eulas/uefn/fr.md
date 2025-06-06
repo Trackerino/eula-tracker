@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65fb1a5831de9643f8c74b9d` |
+| `id` | `68434276d74b9c4853f246e7` |
 | `key` | `uefn` |
-| `version` | `10` |
+| `version` | `11` |
 | `revision` | `2` |
 | `title` | `<EULA.Header>Conditions supplémentaires du CLUF pour Unreal Editor for Fortnite</>` |
 | `locale` | `fr` |
-| `createdTimestamp` | `2024-03-20T17:18:16.746Z` |
-| `lastModifiedTimestamp` | `2024-03-20T17:18:16.746Z` |
+| `createdTimestamp` | `2025-06-06T19:33:10.513Z` |
+| `lastModifiedTimestamp` | `2025-06-06T19:33:10.513Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/fr/v10/r2/0a4be3b2ccf65ec7d773039a5d95b0a7.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/fr/v11/r2/0649d7201ba46ebab70a1e42b41df400.pdf` |
 | `bodyFormat` | `HTML` |

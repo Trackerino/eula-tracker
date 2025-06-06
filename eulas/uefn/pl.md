@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65fb1a20ec616e3acc944ed1` |
+| `id` | `684342324a907331a909616b` |
 | `key` | `uefn` |
-| `version` | `10` |
+| `version` | `11` |
 | `revision` | `2` |
 | `title` | `<EULA.Header>Edytor Unreal dla Fortnite Regulamin uzupełniający do Umowy licencyjnej użytkownika końcowego</>` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2024-03-20T17:17:20.570Z` |
-| `lastModifiedTimestamp` | `2024-03-20T17:17:20.570Z` |
+| `createdTimestamp` | `2025-06-06T19:32:02.797Z` |
+| `lastModifiedTimestamp` | `2025-06-06T19:32:02.797Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/pl/v10/r2/123796c3217ffa29852e27c3e7f561fb.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/pl/v11/r2/9c05c27cdaa5f7e3306f7d87d6eb1df6.pdf` |
 | `bodyFormat` | `HTML` |

@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65fb1a3dc6805768a96cbd6f` |
+| `id` | `684342105c592c4b3c0fab8a` |
 | `key` | `uefn` |
-| `version` | `10` |
+| `version` | `11` |
 | `revision` | `2` |
 | `title` | `<EULA.Header>Дополнительные условия Unreal Editor для Fortnite к ЛСКП</>` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2024-03-20T17:17:49.730Z` |
-| `lastModifiedTimestamp` | `2024-03-20T17:17:49.730Z` |
+| `createdTimestamp` | `2025-06-06T19:31:28.120Z` |
+| `lastModifiedTimestamp` | `2025-06-06T19:31:28.120Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ru/v10/r2/5e4830898ea3559f5a38e7dd20ec000f.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ru/v11/r2/9b7aaacf41e72b8651b6f1e8cfab9de4.pdf` |
 | `bodyFormat` | `HTML` |
