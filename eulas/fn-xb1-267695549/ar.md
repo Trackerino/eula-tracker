@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6814621d7e21fb46016fbadc` |
+| `id` | `684cb38c356d0762ebef9a9f` |
 | `key` | `fn-xb1-267695549` |
 | `version` | `5` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `اتفاقية ترخيص المستخدم النهائي لـ فورتنايت (ماركة مسجلة)` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2025-05-02T06:11:41.774Z` |
-| `lastModifiedTimestamp` | `2025-05-02T06:11:41.774Z` |
+| `createdTimestamp` | `2025-06-13T23:26:04.120Z` |
+| `lastModifiedTimestamp` | `2025-06-13T23:26:04.120Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/ar/v5/r1/b720e9972b5d290f635da4c88eb3f478.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/ar/v5/r2/1c04e385508a3432317b0d7d325f9a52.pdf` |
 | `bodyFormat` | `HTML` |
