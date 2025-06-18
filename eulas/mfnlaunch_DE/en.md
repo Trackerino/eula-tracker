@@ -1,19 +1,19 @@
-# FORTNITE® MOBILE END USER LICENSE AGREEMENT
+# FORTNITE® MOBILE END USER LICENSE AGREEMENT FOR GERMANY
 
 > Nettle
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67f2e11f55aa31593affb790` |
+| `id` | `685306e322439d0eab90837d` |
 | `key` | `mfnlaunch_DE` |
 | `version` | `1` |
-| `revision` | `2` |
-| `title` | `FORTNITE® MOBILE END USER LICENSE AGREEMENT` |
+| `revision` | `3` |
+| `title` | `FORTNITE® MOBILE END USER LICENSE AGREEMENT FOR GERMANY` |
 | `locale` | `en` |
-| `createdTimestamp` | `2025-04-06T20:16:31.018Z` |
-| `lastModifiedTimestamp` | `2025-04-06T20:16:31.018Z` |
+| `createdTimestamp` | `2025-06-18T18:35:15.205Z` |
+| `lastModifiedTimestamp` | `2025-06-18T18:35:15.205Z` |
 | `status` | `ACTIVE` |
 | `description` | `Nettle` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch_DE/en/v1/r2/a0c35a089d4d3eae660d65ebefe30717.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch_DE/en/v1/r3/940cc0cf2f22ae0c7b7fb9d6b2133c11.pdf` |
 | `bodyFormat` | `HTML` |
