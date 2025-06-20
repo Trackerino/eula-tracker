@@ -242,7 +242,7 @@ Si un Litige doit faire l’objet d’un arbitrage, vous ou Epic devez initier l
 
 La procédure de résolution des litiges énoncée dans cette section survivra à toute résiliation du Contrat ou à la prestation des services qui vous seront fournis par Epic.
 
-<EULA.Header>12.3.6 Modification des dispositions d’arbitrage</>
+<EULA.Header>12.3.7 Modification des dispositions d’arbitrage</>
 
 Bien qu’il puisse réviser le Contrat à sa discrétion, Epic ne saurait modifier les dispositions d’arbitrage ou les règles énoncées dans les présentes au titre d’un Litige déjà déclaré si une telle modification rendait la procédure d'arbitrage moins favorable au demandeur. Le fait que les conditions révisées sont moins favorables au demandeur est une question qui devra être tranchée par l’arbitre, et si plusieurs demandeurs procèdent à des Affaires coordonnées, l’applicabilité des conditions révisées aux Affaires coordonnées sera décidée par le prestataire de l’arbitrage dans le cadre de la procédure.
 
@@ -364,4 +364,4 @@ Le Logiciel peut vous fournir la capacité de réaliser des paiements par le bia
 <EULA.Highlight>Obligation de divulgation - Nombre mensuel d’utilisateurs actifs dans l’UE (mis à jour le 14 février 2025)</>
 La moyenne mensuelle estimée des bénéficiaires actifs de Fortnite dans l’Union européenne au cours des six derniers mois était de 22,1 millions.
 La moyenne mensuelle estimée des bénéficiaires actifs de Fortnite.com dans l’Union européenne au cours des six derniers mois était de 3,6 millions.
-Les utilisateurs qui ont accédé à plus d’un des services ou produits d’Epic au cours d’un mois donné sont comptés comme utilisateurs pour chaque service ou produit
+Les utilisateurs qui ont accédé à plus d’un des services ou produits d’Epic au cours d’un mois donné sont comptés comme utilisateurs pour chaque service ou produit.

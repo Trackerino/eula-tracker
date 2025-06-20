@@ -298,9 +298,9 @@ Epic’s obligations are subject to existing laws and legal process, and Epic ma
 
 <EULA.Header>18. Additional Platform Terms</>
 
-<EULA.Header>18.1 Sony PlayStation Users:</>
+<EULA.Header>18.1 Sony PlayStation® Users:</>
 
-The following additional terms and conditions apply with respect to Software available for use on PlayStation devices that you own or control:
+The following additional terms and conditions apply with respect to Software available for use on PlayStation® devices that you own or control:
 
 Please note that Epic will store PlayStation™Network account information, including your email address and Online ID, as explained in Epic’s Privacy Policy. Epic may allow its users to search for other Epic accounts by their account for PlayStation™Network account and other Epic users may send you friend requests. Your account for PlayStation™Network privacy settings will not apply to your Epic account.
 
@@ -312,7 +312,7 @@ In no event may you convert any Software virtual currency into real currency, ta
 
 <EULA.Header>18.2 Microsoft Xbox Users</>
 
-The following additional terms and conditions apply with respect to Software available for use on Xbox Live devices that you own or control:
+The following additional terms and conditions apply with respect to Software available for use on Xbox consoles that you own or control:
 
 Neither Microsoft Corporation nor any of its affiliates (collectively, “<EULA.Highlight>Microsoft</>”) have any maintenance or support obligations with respect to the Software or Services.
 
@@ -338,7 +338,7 @@ You agree that this Agreement does not confer any rights or remedies on any pers
 
 Any end-user questions, complaints or claims with respect to the Software should be directed to help@fortnite.com.
 
-<EULA.Header>Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2025) </>
+<EULA.Header>Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2025)</>
 The estimated average monthly active recipients in the European Union of Fortnite for the past six months was 22.1M.
 The estimated average monthly active recipients in the European Union of Fortnite.com for the past six months was 3.6M.
 Users who accessed more than one of Epic’s services or products in a given month are counted as a user for each service or product.
