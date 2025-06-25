@@ -6,9 +6,9 @@ En particular, queremos destacar algunos términos, políticas y procedimientos 
 
 1. También acepta otras reglas y políticas de Epic que se incorporan expresamente a este Contrato. Léalas con atención:
 
-Nuestra <EULA.Highlight><a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Política de Privacidad</></> explica qué información recopilamos de usted y cómo la protegemos.
-Nuestra <EULA.Highlight><a id="url" href="https://www.epicgames.com/site/fan-art-policy" style="EULA.Hyperlink">Política de Contenido de Aficionados</></> explica lo que puede hacer con la propiedad intelectual de Epic en el contenido que usted crea.
-Nuestros <EULA.Highlight><a id="url" href="https://www.epicgames.com/site/tos" style="EULA.Hyperlink">Términos de Servicio</></> explican las reglas de nuestros sitios web.
+Nuestra <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Política de Privacidad</> explica qué información recopilamos de usted y cómo la protegemos.
+Nuestra <a id="url" href="https://www.epicgames.com/site/fan-art-policy" style="EULA.Hyperlink">Política de Contenido de Aficionados</> explica lo que puede hacer con la propiedad intelectual de Epic en el contenido que usted crea.
+Nuestros <a id="url" href="https://www.epicgames.com/site/tos" style="EULA.Hyperlink">Términos de Servicio</> explican las reglas de nuestros sitios web.
 
 2. Usted otorga a Epic una licencia para usar cualquier contenido que cree utilizando el Servicio. Puede encontrar más información en la sección Contenido generado por el usuario a continuación.
 
