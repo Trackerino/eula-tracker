@@ -363,7 +363,7 @@
 
 <EULA.Highlight>لمستخدمي SIEA: </>يخضع شراء واستخدام العناصر لشروط الخدمة الخاصة بالشبكة واتفاقية المستخدم. هذه الخدمة عبر الإنترنت مرخصة لك من الباطن من جانب Sony Interactive Entertainment America.
 
-<EULA.Highlight>لمستخدمي SIEE: </>سيتم شراء أي محتوى تم شراؤه من متجر داخل اللعبة من Sony Interactive Entertainment Network Europe Limited ("SIENE")‎ وسيخضع لشروط الخدمة واتفاقية المستخدم الخاصة بـ PlayStation™Network والمتوفرة على PlayStation™Store. يُرجى التحقق من حقوق الاستخدام لكل عملية شراء لأنها قد تختلف من عنصر لآخر. يكون المحتوى المتوفر في أي متجر داخل اللعبة بنفس تقييم السن الخاص باللعبة، إلا إذا تم عرض غير ذلك.
+<EULA.Highlight>لمستخدمي SIEE: </>سيتم شراء أي محتوى تم شراؤه من متجر داخل اللعبة من <div style="white-space: nowrap;">Sony Interactive Entertainment Network Europe Limited ("SIENE")</div> وسيخضع لشروط الخدمة واتفاقية المستخدم الخاصة بـ PlayStation™Network والمتوفرة على PlayStation™Store. يُرجى التحقق من حقوق الاستخدام لكل عملية شراء لأنها قد تختلف من عنصر لآخر. يكون المحتوى المتوفر في أي متجر داخل اللعبة بنفس تقييم السن الخاص باللعبة، إلا إذا تم عرض غير ذلك.
 
 <EULA.Highlight>18.2 مستخدمو Microsoft Xbox.</>
 
