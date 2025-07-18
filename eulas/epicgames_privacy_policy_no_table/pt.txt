@@ -1,518 +1,329 @@
-<EULA.Highlight>Resumo das alterações</>
+Última atualização: 18 de julho de 2025
 
+Para informações sobre a <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">proteção de dados de menores</>, consulte a Secção 5.
 
-Atualizamos nossa Política de Privacidade e agora estamos usando relatórios de moderação para treinar modelos de aprendizado de máquina para melhorar a forma como detectamos, moderamos e fiscalizamos as violações das nossas <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Regras da comunidade</>. Isso ajuda a tornar nossa equipe de moderadores humanos mais eficiente e efetiva. Aplicamos filtros de informações pessoais antes de usar dados de relatórios para treinar esses modelos.
+Damos-lhe as boas-vindas à Epic!
 
+A Epic Games, Inc. tem sede em Cary, Carolina do Norte. Nós e as nossas subsidiárias temos escritórios e operações localizadas em todo o mundo que criam e disponibilizam alguns dos seus produtos e serviços favoritos, incluindo jogos como o Fortnite e ferramentas de programação como o Unreal Engine (consulte “As nossas operações globais” abaixo).
 
-Recomendamos que você consulte a seção 3 para verificar essas mudanças e concordar com a Política de Privacidade atualizada abaixo:
+A presente Política de Privacidade descreve os meios através dos quais poderemos recolher, utilizar e partilhar dados no âmbito da utilização dos Serviços Epic (consulte “Quais são os serviços da Epic?” abaixo). Se tiver alguma dúvida, poderá sempre contactar-nos conforme indicado na secção “Contacte-nos” abaixo.
 
+Sempre que, nesta Política de Privacidade, se fizer referência à “Epic” (ou a termos semelhantes como “nós” ou “nosso(s)/nossa(s)”), entende-se a entidade Epic Games responsável pelo tratamento dos seus dados pessoais, nomeadamente a Epic Games, Inc. e as suas subsidiárias que participam na disponibilização e apoio aos Serviços Epic. Poderá encontrar detalhes sobre o responsável pelo tratamento dos dados, consoante o Serviço Epic utilizado, na secção “Contacte-nos”.
 
-<EULA.Highlight>POLÍTICA DE PRIVACIDADE DA EPIC GAMES</>
+<EULA.Header>1. QUAIS SÃO OS SERVIÇOS EPIC?</>
 
+Consideram-se “Serviços Epic” todos os produtos e Serviços Epic que façam referência expressa à presente Política de Privacidade. Estes incluem, por exemplo:
 
-Atualizada pela última vez em: Janeiro de 2025
+• jogos como <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</>(através da nossa subsidiária Psyonix), <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</>(através da nossa subsidiária Mediatonic) e <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</> (através da nossa subsidiária Aquiris Game Studio LLC);
+• websites e aplicações como <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</><EULA.Highlight> </>e a <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">Epic Games Store</>, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</> (através da Life on Air), <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> (através da Psyonix) e<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink"> www.fallguys.com</> (através da Mediatonic);
+• eventos presenciais nos quais esta Política de Privacidade seja publicada; e
+• ferramentas para programadores, incluindo o <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">Developer Portal</> e <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</>.
 
+Tenha em atenção que a utilização dos Serviços Epic também pode estar sujeita a termos e condições adicionais. Por exemplo, o utilizador tem de rever e aceitar o <a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">Contrato de Licença de Utilizador Final do Fortnite</> para jogar Fortnite, o <a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">Contrato de Licença de Utilizador Final do Psyonix</> para jogar Rocket League, o <a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink">Contrato de Licença de Utilizador Final do Fall Guys: Ultimate Knockout</> para jogar Fall Guys e o <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Contrato de Licença de Utilizador Final do Horizon Chase 2</> para jogar Horizon Chase 2.
 
-Quanto à <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Privacidade de Menores</> consultar a Seção 5
+Recomendamos a leitura integral da presente Política de Privacidade. O utilizador deve também analisar cuidadosamente quaisquer outros contratos aplicáveis aos Serviços Epic e confirmar que os compreende e aceita, antes de utilizar esses produtos ou serviços.
 
+<EULA.Header>2. QUE DADOS RECOLHEMOS?</>
 
-Bem-vindo(a) à Epic!
+Os dados recolhidos variam consoante a forma como interage com os Serviços Epic. De um modo geral, recolhemos dados agrupados em três categorias principais: A) Dados fornecidos diretamente pelo utilizador, B) Dados recolhidos automaticamente quando utiliza os Serviços Epic, C) Dados obtidos junto de terceiros e prestadores de serviços.
 
+<EULA.Highlight>A. Dados fornecidos pelo utilizador</>
 
-A sede da Epic Games, Inc. fica em Cary, Carolina do Norte, EUA. Nós e nossas subsidiárias temos operações e escritórios localizados ao redor do mundo que ajudam a criar e entregar alguns dos seus produtos e serviços favoritos, inclusive jogos, como o Fortnite, e ferramentas de desenvolvimento, como o Unreal Engine (consulte “Nossas operações globais”, abaixo).
+Dependendo da forma como interage com os Serviços Epic, o utilizador pode fornecer-nos diferentes tipos de dados. Por vezes, poderemos solicitar-lhe determinados dados específicos, nomeadamente quando tal for necessário para lhe disponibilizarmos determinadas funcionalidades dos Serviços Epic (por exemplo, ao pedirmos que indique a sua data de nascimento ou durante o preenchimento de um registo online). Se, nestes casos, lhe solicitarmos determinados dados e optar por não os facultar, poderá não conseguir aceder aos respetivos Serviços Epic e/ou algumas funcionalidades poderão não funcionar como previsto.
 
+Por exemplo, para fazer compras na Epic Games Store e jogar alguns dos nossos jogos, terá de criar uma conta Epic. Para criar uma conta, terá de nos facultar dados básicos de registo, como o seu nome, um nome de utilizador público, palavra-passe, país de residência e endereço de e-mail. Se pretender fazer uma compra, poderemos solicitar dados de pagamento (como o número e a data de validade do cartão de crédito) para concluir a transação. Além disso, muitos dos nossos serviços exigem a sua data de nascimento para determinar que funcionalidades podemos disponibilizar e que definições aplicar à sua conta, com base na sua idade e localização.
 
-Esta política de privacidade descreve as diferentes maneiras pelas quais poderemos coletar, usar e compartilhar informações sobre ou por meio dos Serviços da Epic, ou com relação a eles (consulte “Quais são os Serviços da Epic?”, abaixo). Em caso de dúvidas, você poderá sempre entrar em contato conosco conforme descrito em “Como entrar em contato conosco”, abaixo.
+Recolhemos também os dados que faculta voluntariamente ao inscrever-se para receber alertas por e-mail, utilizar funcionalidades sociais como fóruns ou chat, registar-se para acesso antecipado a jogos, utilizar as ferramentas para programadores (incluindo para criar e publicar jogos e outros conteúdos), ativar a autenticação de dois fatores, inscrever-se ou participar nos nossos eventos, responder a inquéritos ou contactar-nos através de pedidos de apoio ao jogador ou do serviço de apoio ao cliente. Se utilizar a nossa funcionalidade de conversação por voz e a denúncia por voz for ativada num canal de voz, os fragmentos de dados de áudio da conversação por voz serão armazenados no seu dispositivo e nos dispositivos dos participantes no canal de voz. Se for denunciada uma violação das nossas Regras da Comunidade, estes fragmentos poderão ser transmitidos à Epic para nos ajudar a aplicar essas regras da comunidade. Se participar num concurso ou evento competitivo, ou se participar nos nossos programas <a id="url" href="https://www.epicgames.com/affiliate/overview" style="EULA.Hyperlink">Support-A-Creator</> ou <a id="url" href="https://create.fortnite.com/island-creator/" style="EULA.Hyperlink">Island Creator</>, recolheremos os dados da sua candidatura e outros dados necessários para confirmar a sua elegibilidade e processar os respetivos pagamentos. Recolhemos todos os dados que opte por nos facultar nestas ou noutras situações semelhantes.
 
+<EULA.Highlight>B. Dados que recolhemos automaticamente</>
 
-Quando nos referimos a “Epic” [ou a termos equivalentes, como “nós”, “conosco” ou “nosso(a)(s)”] nesta política de privacidade, referimo-nos à entidade da Epic Games que controla e é responsável pelas suas informações, inclusive a Epic Games, Inc. e suas respectivas subsidiárias que ajudam a fornecer e apoiar os Serviços da Epic. Você também pode encontrar mais detalhes sobre o controlador de dados para informações pessoais que coletamos por meio dos diferentes Serviços da Epic em “Como entrar em contato conosco”, abaixo.
+Recolhemos automaticamente determinados dados sempre que visita, acede ou utiliza os Serviços Epic. Estes dados incluem informações sobre a sua atividade de jogo ou utilização de aplicações, compras, direitos de utilização e outras interações com os Serviços Epic, normalmente associadas à sua conta (caso tenha iniciado sessão na sua conta Epic ou utilize uma conta de terceiros para aceder aos serviços da Epic) ou a um identificador que tenhamos atribuído ao seu dispositivo ou perfil. Embora os tipos específicos de dados recolhidos automaticamente possam variar, incluem geralmente:
 
+• Dados de utilização e estatísticas sobre a forma como interage com os Serviços Epic, incluindo a aplicação que utilizou ou o jogo que jogou, durante quanto tempo e quando o fez, tentativas de jogo, progresso e resultados, preferências guardadas, relatórios de falhas, os URL dos nossos sites que visitou, URL das páginas de origem e de saída, número de visualizações de página, tempo passado em cada página, número de cliques e tipo de plataforma;
+• Dados técnicos sobre o seu computador, dispositivo, hardware ou software utilizado para aceder aos nossos serviços, como o endereço IP, identificadores do dispositivo, fornecedor de serviços de internet, plugins ou outras informações transacionais ou identificadoras do dispositivo (como marca e modelo do dispositivo, dados sobre o sistema operativo e navegador ou outras especificações técnicas do sistema ou dispositivo); e
+• A localização geral do seu dispositivo, normalmente inferida a partir do endereço IP.
 
-<EULA.Header>1. QUAIS SÃO OS SERVIÇOS DA EPIC?</>
+Os Serviços Epic utilizam tecnologias como cookies, ficheiros de registo (log files) e web beacons para recolher automaticamente os tipos de dados acima indicados. Algumas destas tecnologias podem criar pequenos ficheiros ou ferramentas de registo que ficam armazenadas no seu dispositivo. Estas ajudam-nos, bem como aos nossos prestadores de serviços e a terceiros, a reconhecer o seu dispositivo e a obter dados sobre a forma como utiliza e interage com os Serviços Epic. Por exemplo, estas tecnologias permitem-nos autenticar utilizadores, memorizar preferências, gerir publicidade, personalizar a experiência de utilização e realizar análises de dados.
 
+Tenha em atenção que, quando determinadas funcionalidades dos Serviços Epic são disponibilizadas por terceiros, esses terceiros poderão igualmente utilizar meios automatizados de recolha de dados e registar informações sobre a sua utilização dos Serviços Epic, dos seus próprios serviços ou de websites de terceiros, ao longo do tempo. Por exemplo, ao utilizar Serviços Epic (como o Unreal Engine) que incluem software de terceiros, esses fornecedores podem recolher dados através das suas próprias tecnologias. Essas funcionalidades estão sujeitas às respetivas políticas e avisos de privacidade dos terceiros em causa.
 
-Usamos o termo “Serviços da Epic” para descrever produtos ou serviços da Epic que diretamente vinculados a esta política de privacidade. Isso inclui, por exemplo:
+<EULA.Highlight>C. Dados que recolhemos de outras fontes</>
 
+Em determinados casos, também poderemos receber dados sobre si através de prestadores de serviços e terceiros, no âmbito da sua utilização dos Serviços Epic ou das suas interações connosco noutras plataformas.
 
-• jogos como <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</> (por meio da nossa subsidiária Psyonix), <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</> (por meio da nossa subsidiária Mediatonic) e <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</> (por meio da nossa subsidiária Aquiris Games Studio LLC);
+Por exemplo, alguns programadores permitem-lhe utilizar a sua conta Epic para iniciar sessão nos respetivos serviços. Se optar por associar a sua conta Epic a uma conta de uma rede social de terceiros (como o Facebook), plataforma de jogos (como a Steam) ou outro website ou serviço semelhante, ou se interagir com um anúncio relativo a um dos Serviços Epic num site ou serviço externo, a empresa responsável por esse site ou serviço poderá partilhar connosco determinados dados, em conformidade com as respetivas práticas de privacidade. As suas definições de privacidade nesses serviços de terceiros determinam, em geral, os tipos de dados que podem ser partilhados com a Epic, pelo que recomendamos que as reveja e atualize regularmente. Exemplos comuns de contas associadas incluem o nome de utilizador visível ao público e o ID da conta de terceiros, bem como dados associados ao dispositivo, nome e endereço de e-mail. No caso dos participantes no programa Support-a-Creator, poderemos ainda recolher o número de seguidores da sua conta nas redes sociais, para efeitos de verificação de elegibilidade.
 
+Pode igualmente comprar, transferir ou aceder a determinados Serviços Epic através de serviços operados por terceiros. Nestes casos, esses terceiros poderão facultar-nos dados que facilitem o seu acesso e utilização dos Serviços Epic. Estes dados incluem geralmente o nome de utilizador, o ID da conta, informações do dispositivo e da região. Por exemplo, pode optar por transferir e jogar títulos como o Fortnite em consolas de jogos (como a PlayStation®, Microsoft Xbox ou Nintendo Switch), utilizando a sua conta de consola. Nesses casos, a empresa responsável pela plataforma ou serviço pode partilhar determinados dados connosco, o que nos permite, entre outras coisas, facilitar a sua experiência de jogo e acompanhar o seu progresso e direitos de utilização.
 
-• sites e aplicativos, como <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> e <a id="url" href="https://www.epicgames.com/store/" style="EULA.Hyperlink">Epic Games Store</>, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</> (por meio da Life on Air), <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> (por meio da Psyonix) e <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</> (por meio da Mediatonic);
+<EULA.Highlight>D. Prevenção de fraude e sistemas antibatota</>
 
+É extremamente importante para nós garantir que os utilizadores têm uma experiência justa, equilibrada e competitiva nos Serviços Epic. Aplicamos rigorosamente proibições contra práticas de batota, hacking, roubo de contas e qualquer outra atividade não autorizada ou fraudulenta nos Serviços Epic. Utilizamos várias tecnologias de prevenção de fraudes e de deteção de batota com o objetivo de identificar e impedir comportamentos maliciosos. Estes serviços podem recolher e analisar dados sobre o seu computador e o software instalado para detetar práticas de batota, sendo disponibilizados pela Epic ou por prestadores de serviços.
 
-• eventos ao vivo para os quais esta política de privacidade é publicada; e
+<EULA.Header>3. COMO UTILIZAMOS OS DADOS?</>
 
+De forma geral, utilizamos os dados que recolhemos (individualmente ou combinados com outros dados recolhidos nos termos da presente política) para nos ajudar a disponibilizar, melhorar, personalizar, analisar e promover os Serviços Epic. Isto inclui, nomeadamente, as seguintes finalidades:
 
-• ferramentas de desenvolvedor, inclusive o <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">Portal do desenvolvedor</> e o <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</>.
+• Criar, verificar e gerir contas de utilizador e funcionalidades associadas;
+• Prestar os Serviços Epic, bem como os respetivos serviços de apoio e assistência, incluindo resposta a pedidos de informação, processamento de transações ou solicitações e comunicação com os utilizadores (por exemplo, através do envio de notificações relacionadas com a conta ou com os serviços);
+• Desenvolver, fornecer e melhorar os Serviços Epic e outras ofertas, algumas das quais poderão ser disponibilizadas em parceria com terceiros;
+• Personalizar a sua experiência, nomeadamente através da apresentação de conteúdos ou funcionalidades mais adequadas aos seus interesses, ou com base em inferências que façamos sobre os seus interesses (por exemplo, se jogar frequentemente jogos de um determinado género, poderemos sugerir-lhe jogos semelhantes);
+• Promover os Serviços Epic, incluindo a gestão, personalização e medição da eficácia de anúncios, ofertas promocionais, inquéritos e eventos;
+• Gerir testes alfa, beta ou de acesso antecipado (e recolher feedback);
+• Realizar análises de dados (por exemplo, para compreender melhor a utilização dos Serviços Epic e melhorar a experiência do utilizador);
+• Cumprir obrigações legais ou contratuais e fazer cumprir os nossos termos; 
+• Assegurar a integridade dos Serviços Epic, ao detetar fraudes e proteger a Epic e os utilizadores contra ações ilícitas ou nocivas; e
+• Melhorar as tecnologias ou processos utilizados para atingir estas finalidades (incluindo o treino de modelos de aprendizagem automática utilizados para detetar ou moderar conteúdos ou comportamentos tóxicos, ilegais ou nocivos, e fazer cumprir os nossos termos e políticas, nomeadamente as <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Regras da Comunidade</>).
 
+Também poderemos tratar dados que não identifiquem individualmente o utilizador, incluindo dados agregados ou anonimizados que criamos ou obtemos de outras fontes. Esses dados ajudam-nos a compreender melhor o comportamento de grupos alargados de utilizadores. Se combinarmos estes dados com dados que identifiquem o utilizador, trataremos tais dados nos termos da presente política de privacidade. No entanto, tenha em atenção que a presente política não limita o nosso direito de tratar dados que não identifiquem individualmente o utilizador, os quais poderão ser utilizados e divulgados por quaisquer meios legalmente admissíveis.
 
-Observe que o uso dos Serviços da Epic poderá estar sujeito a termos e condições adicionais. Por exemplo, você precisa ler e aceitar o <a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">Contrato de licença de usuário final do Fortnite</> para jogar Fortnite; os <a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">Termos de uso de usuário final da Psyonix</><EULA.Highlight> </>para jogar Rocket League, o<EULA.Highlight> <a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink"></>Fall Guys: Ultimate Knockout - Contrato de licença de usuário final</> para jogar Fall Guys e o <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Contrato de licença de usuário final do Horizon Chase 2</> para jogar Horizon Chase 2.
+<EULA.Header>4. COMO PARTILHAMOS OS DADOS?</>
 
+Poderemos partilhar alguns dos dados que recolhemos para operar e melhorar os Serviços Epic. A forma como interage connosco determinará os casos em que tal partilha poderá ocorrer, incluindo, a título exemplificativo:
 
-Leia esta política de privacidade na íntegra. Você também deve ler atentamente qualquer outro contrato aplicável aos Serviços da Epic que você usar, e confirmar que você o entende e concorda com seus respectivos termos, antes de usar esses produtos ou serviços.
 
+Com parceiros de consolas e plataformas (por exemplo, para facilitar a jogabilidade quando acede aos Serviços Epic através de uma consola de terceiros);
+• Com outros programadores de jogos (por exemplo, para ativar funcionalidades em jogos adquiridos através da Epic Games Store);
+• Com outros utilizadores (como no caso da utilização de funcionalidades sociais como o chat);
+• Publicamente (por exemplo, o seu nome de utilizador, conteúdos que cria ou partilha, estatísticas básicas de jogo e outras informações semelhantes poderão ser visíveis a outros utilizadores);
+• Com prestadores de serviços que atuam em nosso nome para dar apoio aos Serviços Epic, em conformidade com as nossas instruções (por exemplo, serviços de armazenamento na nuvem, processadores de pagamento ou parceiros de marketing e publicidade);
+• Quando considerarmos necessário para cumprir obrigações legais ou proteger o utilizador, a Epic ou terceiros (por exemplo, em resposta a ordens judiciais, no âmbito de investigações de fraude ou outras atividades ilícitas, ou para proteger a integridade física ou patrimonial de terceiros);
+• Com outras entidades do grupo Epic (incluindo para prestar apoio aos Serviços Epic a nível internacional);
+• No âmbito de determinados tipos de transações societárias (como reestruturações ou venda total ou parcial do nosso negócio);
+• Com o seu consentimento (por exemplo, se associar contas externas à sua conta Epic, se utilizar a conta Epic para aceder a jogos ou serviços de terceiros ou se participar em eventos promocionais conjuntos); e
+• Poderemos ainda partilhar dados que não identifiquem o utilizador com terceiros, incluindo dados agregados ou anonimizados.
 
-<EULA.Header>2. QUAIS INFORMAÇÕES COLETAMOS?</>
+Os números de telemóvel facultados à Epic para efeitos de segurança não serão partilhados com terceiros nem com entidades afiliadas para fins de marketing ou promocionais. 
 
+Sempre que partilharmos os seus dados pessoais com terceiros, envidaremos esforços para assegurar que tais terceiros oferecem garantias de proteção equivalentes ou substancialmente semelhantes às aqui descritas. 
 
-Os tipos de informações que coletamos dependem de como você interage conosco. Em termos gerais, coletamos informações de três maneiras principais: A) quando você as fornece para nós; B) automaticamente quando você usa os Serviços da Epic; e C) de prestadores de serviços e terceiros.
+Os terceiros com quem interage através dos Serviços Epic poderão ter práticas de privacidade diferentes das da Epic. Recomendamos que leia atentamente as respetivas políticas de privacidade antes de lhes facultar quaisquer dados.
 
+<EULA.Header>5. PROTEÇÃO DE DADOS DE MENORES</>
 
-<EULA.Highlight>A. Informações que você fornece</>
+Os Serviços Epic são concebidos para acolher utilizadores de todas as idades, em todo o mundo. Isso significa que recolhemos dados relativos à idade dos utilizadores e que certos serviços oferecem experiências diferenciadas com base na idade do utilizador e na sua localização. As informações abaixo destinam-se a progenitores e tutores, a fim de esclarecer as práticas da Epic em matéria de proteção de dados de menores (menores de 13 anos ou da idade mínima de consentimento digital na respetiva região, consoante a que for superior).
 
+Quando um utilizador indica que é menor, é-lhe atribuída uma “conta restrita” (cabined account) até que deixe de ser considerado menor, nos termos acima definidos, ou até que o seu progenitor ou tutor faculte autorização adicional em matéria de privacidade e ative os controlos parentais. As contas restritas permitem jogar jogos da Epic, como Fortnite e Fall Guys, mas têm funcionalidades desativadas, como o chat de voz e as compras com dinheiro real. A Epic recolhe apenas os dados pessoais estritamente necessários para operar essas contas, em conformidade com a legislação aplicável à proteção de dados de menores:
 
-Você pode nos fornecer diferentes tipos de informações dependendo de como interage com os Serviços da Epic. Em alguns casos, solicitaremos que você forneça informações específicas, como quando as exigimos para fornecer partes dos Serviços da Epic para você (p. ex., solicitando que você informe sua data de nascimento ou conclua um processo de cadastro on-line). Se solicitarmos que você nos forneça informações nesses casos e você optar por não fazê-lo, talvez você não consiga acessar os Serviços da Epic relevantes, e/ou alguns recursos poderão não funcionar conforme pretendido.
+• Data de nascimento e país de residência, para determinar a idade e aplicar as definições adequadas;
+• Endereço de e-mail do progenitor ou do tutor, para envio de avisos e pedidos de consentimento para ativação de funcionalidades adicionais (que é eliminado se não houver resposta no prazo de 14 dias);
+• Endereço de e-mail do utilizador, usado apenas para início de sessão (armazenado de forma encriptada, com técnicas de hashing e salting); e
+• Identificadores persistentes, como endereço IP, ID de contas em plataformas de jogos, identificadores de dispositivos e dados semelhantes recolhidos através de tecnologias de rastreio em websites, para possibilitar e manter os Serviços Epic (incluindo análises de utilização), garantir a segurança dos utilizadores, assegurar a conformidade legal e facilitar a personalização dentro do jogo (como progressão e escolha de avatar).
 
+Caso um utilizador com conta restrita nos contacte com dúvidas ou pedidos, quaisquer dados pessoais facultados serão eliminados após a resolução da questão. Sempre que partilhamos dados pessoais de Contas Restritas com entidades externas, essa partilha visa exclusivamente cumprir os fins acima mencionados (por exemplo, partilha com consolas para possibilitar o jogo ou com prestadores de serviços de armazenamento na nuvem). <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">Saiba mais sobre as contas restritas</>.
 
-Por exemplo, para fazer compras na Epic Games Store e jogar alguns dos nossos jogos, você precisará de uma conta Epic. Para criar uma, você precisará nos fornecer informações básicas de cadastro, como seu nome, nome de exibição voltado para o público, senha, o país em que reside e e-mail. Se desejar fazer uma compra, poderemos solicitar que você forneça informações relacionadas ao pagamento (como o número e a data de validade do seu cartão de crédito) para concluirmos a operação. Além disso, vários dos nossos serviços exigem que você insira a sua data de nascimento para determinar quais recursos podemos oferecer a você e quais configurações aplicar à sua conta com base na sua idade e localização.
+<EULA.Highlight>A. Aviso, consentimento e controlos parentais</>
 
+Recolhemos o endereço de e-mail do progenitor ou tutor de um menor com conta restrita para lhes enviar um aviso informando que a criança criou essa conta. Este aviso permite também consultar as práticas de privacidade aplicáveis a contas não restritas, dar o respetivo consentimento para a transição para uma conta não restrita com funcionalidades adicionais e configurar controlos parentais. Tenha em atenção que é necessário concluir o processo de verificação parental para que o consentimento seja válido.
 
-Também coletamos as informações que você fornece voluntariamente ao cadastrar-se para receber alertas por e-mail, usar recursos sociais como fóruns ou bate-papo, cadastrar-se para acesso antecipado aos nossos jogos, usar nossas ferramentas de desenvolvedor (inclusive para criar e publicar jogos e outros conteúdos), responder a pesquisas ou entrar em contato conosco por meio de solicitações de Suporte ao jogador ou atendimento ao cliente. Se você usar o nosso recurso de bate-papo por voz e as denúncias por voz estiverem ativadas no canal de voz, trechos de dados de áudio do bate-papo por voz serão armazenados no seu dispositivo e nos dispositivos dos participantes do canal de voz. Em caso de denúncia de violação das nossas Regras da Comunidade, os trechos poderão ser transmitidos à Epic para que a Epic aplique as nossas Regras da Comunidade. Se você participar de algum concurso ou evento competitivo, ou participar dos nossos programas <a id="url" href="https://www.epicgames.com/affiliate/overview" style="EULA.Hyperlink">Support-A-Creator</> [Apoie um criador] ou <a id="url" href="https://create.fortnite.com/island-creator/" style="EULA.Hyperlink">Island Creator</> [Criador de ilha], coletaremos suas informações de inscrição e outras informações de que possamos precisar para ajudar a confirmar a sua elegibilidade e processar pagamentos. Coletamos todas as informações que você optar por nos fornecer nesses ou em outros casos semelhantes.
+Utilizamos o serviço Kids Web Services (KWS), disponibilizado pela nossa subsidiária Kids Web Services Ltd, para efeitos de verificação da idade dos utilizadores e dos progenitores/tutores. O KWS memoriza a verificação efetuada, pelo que não será necessário repeti-la nas próximas vezes em que utilizar o mesmo endereço de e-mail para aceder a outros jogos/serviços que utilizem a tecnologia KWS. A Epic e a KWS são conjuntamente responsáveis pelo tratamento de determinados dados pessoais neste contexto. Saiba mais sobre o <a id="url" href="https://www.epicgames.com/site/parental-consent" style="EULA.Hyperlink">consentimento parental verificável</> e o KWS na <a id="url" href="https://www.kidswebservices.com/privacy-policy" style="EULA.Hyperlink">Política de Privacidade do KWS</>.
 
+Quando o progenitor ou tutor autoriza a criação de uma conta não restrita, os controlos parentais são automaticamente ativados. Os controlos parentais podem então ser acedidos utilizando um código PIN, permitindo-lhe alterar decisões tomadas durante o processo de autorização e possibilitam personalizar ainda mais a experiência da criança. <a id="url" href="https://www.epicgames.com/site/parental-controls" style="EULA.Hyperlink">Saiba mais sobre os controlos parentais</>.
 
-<EULA.Highlight>B. Informações que coletamos automaticamente</>
+Depois de o progenitor ou tutor autorizar a criação de uma conta não restrita para a criança, aplicam-se, em geral, as práticas de privacidade descritas noutras partes da presente Política de Privacidade. No entanto, os utilizadores mais jovens poderão não ter acesso a todos os conteúdos ou funcionalidades (devido às definições de privacidade predefinidas, aos requisitos etários aplicáveis a determinados serviços e funcionalidades e/ou aos controlos parentais em vigor). Consoante as definições dos controlos parentais e a idade do utilizador, este poderá aceder a funcionalidades sociais e de comunicação (como o chat) e interagir livremente com a maioria dos Serviços Epic (incluindo transferir outros jogos a partir da Epic Games Store). Quando um utilizador acede a um jogo ou aplicação de terceiros através da Epic Games Store, determinados dados da conta são partilhados com o editor ou programador desse jogo ou aplicação, a fim de viabilizar a transação e as funcionalidades do produto. Poderá ver o programador e o editor na página de cada produto antes de efetuar a transferência ou consultar o nosso<EULA.Highlight> </><a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink">Índice de Editores</>. Em caso de dúvidas sobre a partilha de dados da Epic com estes terceiros, contacte-nos conforme descrito abaixo. Para mais informações, consulte as secções “Que dados recolhemos?”, “Como utilizamos os dados?” e “Como partilhamos os dados?” acima.
 
+<EULA.Highlight>B. Direitos de privacidade de crianças e pais</>
 
-Coletamos algumas informações automaticamente quando você visita, acessa ou usa os Serviços da Epic. Isso inclui informações sobre seu jogo ou uso de aplicativos, compras, direitos e outras atividades nos Serviços da Epic, que são normalmente associadas à sua conta (se estiver conectado à sua conta Epic ou usar uma conta de terceiros para acessar os Serviços da Epic) ou ao identificador que atribuirmos ao seu dispositivo ou perfil. Embora os tipos de informação que coletamos automaticamente possam variar, de modo geral, incluem:
+Os utilizadores menores e os respetivos progenitores ou tutores podem exercer os seus direitos individuais de privacidade, conforme descrito na Secção 6 abaixo. Os controlos parentais permitem que os progenitores e tutores alterem as opções previamente definidas relativamente à utilização de determinadas funcionalidades pela criança, como o chat de voz. Os progenitores e tutores podem também consultar os dados pessoais da criança tratados pela Epic Games e eliminar a conta Epic da criança (o que implica a eliminação dos dados pessoais e a cessação da respetiva recolha). Para exercer estes direitos ou colocar quaisquer questões sobre a forma como tratamos os dados pessoais de menores, consulte a secção “Contacte-nos” infra ou aceda diretamente ao <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Formulário de Pedido de Apoio para os Pais</>.
 
+<EULA.Header>6. AS SUAS OPÇÕES E CONTROLOS</>
 
-• informações de uso e estatísticas sobre a sua interação com os Serviços da Epic, inclusive o aplicativo usado ou o jogo que você jogou, quando e durante quanto tempo você o usou ou jogou, tentativas de jogo, progressão e resultados, preferências salvas, relatórios de falhas, os URLs dos nossos sites que você tenha acessado, URLs de referências e saídas de páginas, visualizações de páginas, tempo gasto em uma página, número de cliques e tipo de plataforma;
+Procuramos facultar-lhe opções significativas relativamente aos dados pessoais que recolhemos. As opções disponíveis podem variar consoante a natureza da sua relação connosco, nomeadamente os Serviços Epic que utiliza. Eis alguns exemplos comuns:
 
+• Pode solicitar o acesso, a retificação ou a eliminação dos dados pessoais que recolhemos a seu respeito. Para apresentar um pedido de acesso, atualização ou eliminação dos dados associados à sua conta Epic, contacte-nos conforme indicado na secção “Contacte-nos” abaixo. Tenha em atenção que poderemos solicitar informações adicionais para confirmar a sua identidade antes de concluir o pedido.
+• Quando aplicável, o utilizador pode também recorrer ou solicitar uma análise humana das decisões tomadas por meios automatizados.
+• Pode alterar, a qualquer momento, as suas preferências de marketing por e-mail, utilizando a opção de autoexclusão disponível nas comunicações da Epic, atualizando as definições da sua conta Epic ou contactando-nos com o seu pedido (consulte “Contacte-nos” abaixo).
+• Pode alterar as suas definições de privacidade em websites ou plataformas de terceiros (como redes sociais ou fornecedores de consolas) para limitar os dados que possam ser partilhados connosco.
+• Pode ajustar as definições do seu navegador ou dispositivo móvel para bloquear, gerir, eliminar ou limitar tecnologias de rastreamento, como cookies. Em alguns casos, o bloqueio ou desativação de cookies poderá comprometer o correto funcionamento dos Serviços Epic e impedir o acesso a algumas funcionalidades.
+• Se tiver menos de 18 anos e uma conta Epic, pode solicitar que sejam eliminados ou anonimizados determinados conteúdos que tenha facultado nos Serviços Epic. Envie o seu pedido de ajuda, relativo ao apagamento ou edição de conteúdos nos Serviços Epic, à Epic conforme descrito na secção “Contacte-nos” abaixo.
+• Os progenitores e tutores podem ajustar as definições da conta Epic da criança utilizando os <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">controlos parentais</>.
 
-• Informações técnicas sobre seu computador, dispositivo, hardware ou software que você usa para acessar os nossos serviços, como endereço IP, identificadores de dispositivo, seu provedor de serviços de internet, plug-ins ou outras informações de operação ou de identificador referentes ao seu dispositivo (como a fabricação e o modelo do dispositivo, informações sobre sistemas operacionais e navegadores do dispositivo ou outras especificações relacionadas a dispositivos ou sistemas); e
+Em algumas regiões do mundo, a legislação local confere aos titulares de dados direitos específicos sobre os seus dados pessoais.
 
+<EULA.Header>7. CONSERVAÇÃO DE DADOS</>
 
-• a localização geral do seu dispositivo, que normalmente extraímos do endereço IP do seu dispositivo.
+Como os dados pessoais que tratamos e os respetivos fundamentos podem variar consoante a forma como utiliza os Serviços Epic, o período de conservação desses dados também poderá ser diferente. Regra geral, conservamos os dados pessoais pelo tempo que for razoavelmente necessário para cumprir as finalidades descritas na presente política (como o cumprimento de obrigações legais, a gestão de registos internos, a aplicação dos nossos termos e a resolução de litígios), salvo se um prazo de conservação mais alargado for exigido ou permitido por lei.
 
+Os principais critérios que consideramos para definir os períodos de conservação incluem, entre outros: os requisitos mínimos previstos na legislação aplicável, as normas relevantes do setor, o tipo de dados em causa (nomeadamente o seu grau de sensibilidade), a pertinência dos dados em eventuais processos judiciais ou similares (como a defesa contra reclamações legais), e a necessidade de prevenir fraudes ou outros abusos dos Serviços Epic (incluindo a aplicação de proibições relativas a batotas e comportamentos não autorizados). Por exemplo, se criar uma conta Epic, os dados pessoais associados à conta serão, em regra, conservados enquanto tal for necessário para manter a conta ativa, prestar os Serviços Epic solicitados, aplicar os termos que regem a utilização dos Serviços Epic e manter registos adequados que documentem a forma como prestamos esses serviços.
 
-Os Serviços da Epic usam tecnologias como cookies, arquivos de log e web beacons para coletar automaticamente os tipos de informações listados acima. Algumas dessas tecnologias podem criar pequenos arquivos ou ferramentas de manutenção de registros que poderão ser armazenadas em seu dispositivo. Isso nos ajuda e ajuda a nossos prestadores de serviços e terceiros a reconhecer seu dispositivo e fornecer informações sobre como você usa e interage com os Serviços da Epic. Por exemplo, isso auxilia a nossa capacidade de autenticar usuários, lembrar preferências, gerenciar publicidade, personalizar experiências e realizar análises de dados.
+Para saber mais sobre como solicitar a eliminação dos seus dados pessoais, consulte a secção “As suas opções e controlos” acima.
 
+<EULA.Header>8. SEGURANÇA</>
 
-Observe que, se determinados recursos nos Serviços da Epic forem fornecidos por terceiros, esses terceiros também poderão usar meios automatizados de coleta de dados e poderão registrar informações sobre o seu uso dos Serviços da Epic, dos serviços desses terceiros ou de outros sites ao longo do tempo. Por exemplo, quando você usa Serviços da Epic (como o Unreal Engine) que incluem software de terceiros, esses provedores terceiros poderão coletar informações por meio de tecnologia própria. Esses recursos estão sujeitos aos avisos e políticas de privacidade desses terceiros.
+Implementamos salvaguardas administrativas, técnicas e físicas adequadas para proteger os seus dados pessoais contra destruição, perda, alteração, acesso, divulgação ou utilização acidental, ilícita ou não autorizada, bem como contra outras formas de tratamento ilícito. Em determinados casos, os seus dados poderão estar acessíveis quando iniciar sessão numa funcionalidade disponibilizada pela Epic. Nestes casos, é da sua responsabilidade manter as suas credenciais de acesso e palavra-passe confidenciais e seguras, de modo a garantir a proteção dos seus dados. Se tomarmos conhecimento de qualquer divulgação não autorizada dos dados pessoais do utilizador, informá-lo-emos nos termos exigidos por lei e adotaremos as medidas necessárias para salvaguardar a segurança dos seus dados.
 
+<EULA.Header>9. ATUALIZAÇÕES</>
 
-<EULA.Highlight>C. Informações que coletamos de outras fontes</>
+A presente política poderá ser atualizada periodicamente para refletir alterações nas nossas práticas ou na legislação aplicável. Sempre que tal ocorra, a data indicada no início da política será atualizada em conformidade. Em alguns casos, poderemos também enviar-lhe notificações sobre as alterações relevantes por e-mail ou através dos próprios Serviços Epic. Recomendamos que consulte esta política com regularidade para se certificar de que compreende a sua relação com a Epic e as formas como poderemos recolher, utilizar e partilhar dados no âmbito dos Serviços Epic.
 
+<EULA.Header>10. AS NOSSAS OPERAÇÕES GLOBAIS</>
 
-Em alguns casos, também poderemos receber informações sobre você de prestadores de serviços e terceiros em conexão com o seu uso dos Serviços da Epic ou interações conosco em outras plataformas.
-
-
-Por exemplo, alguns outros desenvolvedores permitem que você use sua conta Epic para acessar seus respectivos serviços. E se você optar por vincular sua conta Epic à sua conta em alguma mídia social de terceiros (como Facebook), jogo (como Steam) ou outro site ou serviço semelhante, ou se você interagir com o anúncio de um dos Serviços da Epic em um site ou serviço externo, a empresa que opera esse site ou serviço poderá compartilhar algumas informações com a Epic de acordo com suas próprias práticas de privacidade. Suas configurações de privacidade no site ou serviço da outra empresa normalmente controlam os tipos específicos de informações que essa empresa poderá compartilhar com a Epic; portanto, leia-as e atualize-as regularmente. Exemplos comuns de contas vinculadas podem incluir o nome de exibição e o ID de usuário da conta de terceiros, assim como informações associadas do dispositivo, nome e e-mail. Para participantes do nosso programa Support-a-Creator, também poderemos coletar o número de seguidores das contas de mídia social que você tem para fins de elegibilidade do programa.
-
-
-Você também pode comprar, baixar ou acessar alguns Serviços da Epic nos serviços operados por terceiros ou por meio deles. Se você o fizer, esses terceiros poderão nos fornecer informações para facilitar seu acesso e uso dos Serviços da Epic. Isso normalmente inclui informações como seu nome de exibição, ID de usuário e informações de dispositivo e região. Por exemplo, você pode optar por baixar e jogar jogos como o Fortnite em consoles de jogos (como PlayStation®, Microsoft Xbox e Nintendo Switch) por meio da sua conta de console de jogos. Ao fazer isso, a empresa que opera essa plataforma ou serviço poderá compartilhar algumas informações conosco, o que nos ajuda a fazer coisas, como facilitar seu jogo e acompanhar sua progressão e direitos.
-
-
-<EULA.Highlight>D. Prevenção de fraudes e antifraude</>
-
-
-Oferecer aos usuários uma experiência justa, equilibrada e competitiva nos Serviços da Epic é extremamente importante para nós. Estamos rigorosamente em conformidade com proibições contra trapaças, hackers, roubos de contas e qualquer outra atividade não autorizada ou fraudulenta nos Serviços da Epic. Usamos uma variedade de tecnologias antifraude e de prevenção de fraudes para nos ajudar a identificar e evitar atividades maliciosas. Esses serviços poderão coletar e analisar dados sobre o seu computador e o software no seu computador para detectar trapaças e poderão ser fornecidos pela Epic ou por terceiros..
-
-
-<EULA.Header>3. COMO USAMOS AS INFORMAÇÕES? </>
-
-
-De modo geral, usamos e compartilhamos as informações que coletamos (individualmente ou em combinação com outras informações coletadas, conforme descrito nesta política) para nos ajudar a fornecer, melhorar, personalizar, analisar e comercializar os Serviços da Epic.
-
-
-Isso inclui usá-las para estas finalidades, dentre outras:
-
-
-• criação, verificação e gerenciamento de contas e recursos de usuários;
-
-
-• fornecimento dos Serviços da Epic, assim como suporte e assistência, inclusive respondendo a consultas, processando operações ou solicitações e comunicando-nos com os usuários (como ao enviarmos mensagens e atualizações relacionadas a serviços e contas);
-
-
-• desenvolvimento, entrega e aprimoramento dos Serviços da Epic e outras ofertas, algumas das quais poderão ser oferecidas em parceria com outras partes;
-
-
-• personalização da sua experiência, inclusive apresentando conteúdo ou recursos mais adequados para você ou seus interesses, ou nossas inferências sobre seus interesses (por exemplo, se você joga jogos de um determinado gênero com frequência, poderemos inferir que você esteja interessado nesse gênero e sugerir jogos semelhantes para você);
-
-
-• promoção dos Serviços da Epic, inclusive gerenciando, personalizando e medindo a eficácia dos nossos anúncios, ofertas promocionais, pesquisas e eventos;
-
-
-• gerenciamento de testes de acesso alfa, beta ou antecipados (e coleta de comentários).
-
-
-• realização de análises de dados (por exemplo, análises como os Serviços da Epic são usados para que possamos entendê-los melhor, aprimorá-los e personalizá-los).
-
-
-• cumprimento das nossas obrigações legais ou contratuais e aplicação dos nossos termos;
-
-
-• proteção dos Serviços da Epic, por exemplo, detectando fraudes e protegendo a Epic e outros usuários de ações ilegais ou prejudiciais; e
-
-
-• aprimoramento das tecnologias ou dos processos usados para alcançar essas finalidades (por exemplo, treino de modelos de aprendizado de máquina usados para ajudar a detectar e moderar conteúdo ou conduta prejudicial, ilegal ou nociva e exigir o cumprimento dos nossos termos e políticas, como as nossas <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Regras da comunidade</>).
-
-
-Também poderemos processar informações que não identifiquem você como indivíduo, inclusive informações agregadas ou desidentificadas que criamos ou coletamos de outras fontes. Essas informações nos ajudam a entender melhor grupos maiores de usuários. Se combinarmos essas informações com informações que identificam você, as trataremos conforme descrito nesta política de privacidade. Observe que esta política de privacidade não restringe nossa capacidade de processar informações que não identifiquem você como indivíduo, e poderemos usar e divulgar informações agregadas ou desidentificadas por qualquer motivo permitido por lei.
-
-
-<EULA.Header>4. COMO COMPARTILHAMOS AS INFORMAÇÕES?</>
-
-
-Poderemos compartilhar algumas das informações que coletamos para ajudar a operar e melhorar os Serviços da Epic. Dependendo de como você interage conosco, exemplos comuns podem incluir o compartilhamento:
-
-
-• com parceiros de console e plataforma (por exemplo, para facilitar a jogabilidade quando você acessa os Serviços da Epic por meio de algum provedor de console de terceiros);
-
-
-• com outros desenvolvedores de jogos (por exemplo, habilitar recursos para jogos que você adquire por meio da Epic Games Store);
-
-
-• com outros usuários (se você usar recursos sociais, como bate-papo);
-
-
-• publicamente (por exemplo, seu nome de exibição, conteúdo que você cria ou compartilha, estatísticas básicas dos jogos e outras informações semelhantes que possam, de modo geral, estar acessíveis a outras pessoas);
-
-
-• com prestadores de serviços que operam em nosso nome para ajudar a apoiar os Serviços da Epic de acordo com nossas instruções (por exemplo, provedores de armazenamento na nuvem, processadores de pagamento ou parceiros de marketing e publicidade);
-
-
-• se acreditarmos que precisamos para cumprir a lei ou para proteger você, a Epic ou outras pessoas (por exemplo, em resposta a ordens judiciais ou intimações, como parte de alguma investigação de fraude ou outra atividade ilegal, violação dos nossos termos ou políticas, ou se necessário para proteger outras pessoas contra morte ou dano grave ao corpo ou propriedade);
-
-
-• com outras entidades da Epic (inclusive para ajudar a prestar suporte para os Serviços da Epic internacionalmente);
-
-
-• em relação a determinados tipos de operações corporativas (como no caso de uma reestruturação ou venda de todo ou parte significativa do nosso negócio);
-
-
-• com a sua permissão (por exemplo, se você vincular contas externas à sua conta Epic ou usar sua conta Epic para acessar jogos e serviços de terceiros ou participar de eventos multipromocionais); e
-
-
-• também poderemos compartilhar com terceiros informações que não identifiquem você, inclusive informações agregadas ou desidentificadas.
-
-
-Nenhum número de celular fornecido à Epic para fins de segurança será compartilhado com terceiros ou afiliados para fins de marketing ou promocionais. 
-
-
-Na medida em que compartilharmos suas informações pessoais com terceiros, envidaremos esforços para garantir que esses terceiros forneçam níveis de proteção iguais ou substancialmente semelhantes aos que a Epic descreve nesta Política de Privacidade. 
-
-
-Os terceiros com os quais você interage por meio dos Serviços da Epic podem ter práticas de privacidade diferentes das da Epic. Assim, incentivamos você a ler suas respectivas políticas de privacidade antes de compartilhar suas informações com esses terceiros.
-
-
-<EULA.Header>5. PRIVACIDADE DE MENORES</>
-
-
-Estamos desenvolvendo os Serviços da Epic para acolher usuários de todas as idades, em todo o mundo. Isso significa que coletamos informações de idade dos usuários para que alguns dos nossos serviços ofereçam uma experiência diferente com base no que sabemos a respeito da idade e local de residência do usuário. As informações abaixo são para que os pais e responsáveis legais entendam nossas práticas de privacidade no que diz respeito a menores de idade (menores de 13 anos de idade ou a idade de consentimento digital na região do usuário, o que for superior).
-
-
-Quando o usuário indicar que é menor de idade, será colocado em uma “Conta controlada” até que deixe de ser considerado menor de idade, conforme definido acima, ou até que sua mãe ou seu pai ou responsável legal forneça permissão de privacidade adicional e habilite os controles parentais. As Contas controladas podem jogar os jogos da Epic, como Fortnite e Fall Guys, mas recursos como bate-papo por voz e compras em dinheiro real estarão desativados. A Epic coleta informações pessoais limitadas de Contas controladas para operá-las, em cada caso, de acordo com as leis aplicáveis de privacidade e proteção juvenil:
-
-
-• data de nascimento e país para determinar a idade e aplicar as configurações adequadas;
-
-
-• e-mail da mãe, do pai ou do responsável legal para enviar notificações e buscar consentimento para recursos adicionais [que será excluído se o(a) pai/mãe não responder em até 14 dias];
-
-
-• e-mail do usuário para login (que é armazenado somente em formato “hash and salt” ilegível); e
-
-
-• identificadores persistentes, como endereço IP, IDs de conta de plataforma de jogos, identificadores de dispositivos e dados semelhantes coletados com tecnologias de rastreio de site para fornecer e manter os Serviços da Epic (inclusive análise, para aprimorá-los), proteger a segurança e a integridade dos usuários, assegurar a conformidade jurídica e regulatória, assim como facilitar a personalização no jogo, como avanço do jogo e escolha de avatar.
-
-
-Se o usuário com a Conta controlada entrar em contato conosco com alguma dúvida ou solicitação, qualquer informação pessoal fornecida será excluída após a consulta ser resolvida. Se compartilharmos informações pessoais de Contas controladas externamente, isso será feito para que possamos realizar esses objetivos limitados (como compartilhamento com consoles para ajudar a executar o seu jogo ou com o nosso provedor de armazenamento em nuvem). <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">Saiba mais sobre Contas Limitadas</>.
-
-
-<EULA.Highlight>A. Notificação, consentimento e controles parentais</>
-
-
-Coletamos o e-mail do(a) pai/mãe ou responsável legal do jogador menor de idade para enviarmos a esse(a) pai/mãe ou responsável legal uma notificação por e-mail de que o menor de idade criou uma Conta controlada. Esta notificação também permite que o(a) pai/mãe ou responsável legal revise nossas práticas de privacidade para Contas liberadas, forneçam consentimento para uma Conta liberada para o menor de idade, para habilitar recursos adicionais, e configurem controles parentais. Observe que o(a) pai/mãe/responsável legal precisa concluir nosso processo de verificação parental para fornecer consentimento para uma Conta liberada.
-
-
-Usamos o Kids Web Services (KWS), um serviço oferecido pela nossa subsidiária Kids Web Services Ltd, para fins de verificação da idade do(a) pai/mãe/responsável legal e do usuário. A KWS se lembrará de que você verificou a sua idade na próxima vez que usar seu e-mail para acessar outros jogos/serviços desenvolvidos pela tecnologia da KWS, para que você não precise fazer isso novamente. A Epic e a KWS são conjuntamente responsáveis pelo tratamento de algumas das suas informações pessoais nesse contexto. Saiba mais sobre <a id="url" href="https://www.epicgames.com/site/parental-consent" style="EULA.Hyperlink">consentimento parental verificável</> e a <a id="url" href="https://www.kidswebservices.com/privacy-policy" style="EULA.Hyperlink">KWS na Política de privacidade da KWS</>.
-
-
-Quando o(a) pai/mãe ou responsável legal dá permissão para uma Conta liberada para o menor de idade, os Controles parentais são ativados automaticamente. Os Controles parentais podem ser acessados por meio de um código PIN, permitindo que você altere as escolhas sobre recursos específicos feitos durante o fluxo da permissão e personalize ainda mais a experiência do menor de idade. <a id="url" href="https://www.epicgames.com/site/parental-controls" style="EULA.Hyperlink">Saiba mais sobre Controles parentais</>.
-
-
-Se o(a) pai/mãe autorizar uma Conta liberada para o menor de idade, as práticas de privacidade descritas em outras partes desta Política de privacidade se aplicarão de modo geral, mas os usuários mais jovens talvez não tenham acesso a todo o conteúdo ou recursos (devido às nossas configurações de privacidade padrão, exigências de idade para determinados serviços e recursos e/ou Controles Parentais em vigor). Dependendo das configurações de controle parental e da idade do usuário, os usuários poderão acessar comunicações e recursos sociais (como bate-papo) e interagir livremente com a maioria dos Serviços da Epic (inclusive baixar outros jogos da Epic Games Store). Quando o usuário acessa jogos ou aplicativos de terceiros por meio da Epic Games Store, algumas informações da conta são compartilhadas com o editor ou desenvolvedor desse jogo ou aplicativo para habilitar recursos de operação e produto. Você pode verificar os nomes do desenvolvedor e do editor na lista de produtos antes de fazer o download ou consultar nosso <a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink">Índice de editores</>. Em caso de dúvidas a respeito do compartilhamento de dados da Epic com esses terceiros, entre em contato conosco conforme descrito abaixo. Para obter detalhes adicionais, consulte “Quais informações coletamos?”, “Como usamos as informações?” e “Como compartilhamos as informações?”, acima.
-
-
-<EULA.Highlight>B. Direitos de privacidade dos menores de idade e da mãe/do pai</>
-
-
-Usuários menores de idade e seus/suas respectivos(a) pais/mães podem exercer direitos de privacidade individuais conforme descrito na <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Seção 6, abaixo</>. Os Controles parentais permitem que a mãe,  o pai ou o responsável legal altere as escolhas feitas a respeito do uso de recursos específicos para o menor, como bate-papo por voz. A mãe, o pai e o responsável legal também podem consultar as informações pessoais do menor de idade mantidas pela Epic Games e excluir a conta Epic do menor (o que excluirá as informações pessoais e interromperá coletas adicionais). Para exercer esses direitos ou fazer perguntas sobre como tratamos as informações pessoais de menores de idade, consulte a seção “Como entrar em contato conosco”, abaixo, ou acesse diretamente o nosso <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Formulário de solicitação de atendimento parental</>.
-
-
-<EULA.Header>6. SEUS CONTROLES E OPÇÕES</>
-
-
-Procuramos oferecer a você opções significativas sobre as informações pessoais que coletamos. As escolhas específicas disponíveis para você normalmente variam conforme a natureza exata da nossa relação com você, como os Serviços da Epic que você usa. Exemplos comuns incluem:
-
-
-• você pode solicitar que forneçamos acesso ou que corrijamos ou excluamos informações pessoais que coletamos de você. Envie solicitações para acessar, atualizar ou excluir informações pessoais associadas à sua conta Epic entrando em contato conosco conforme descrito em “Como entrar em contato conosco”, abaixo. Observe que poderemos solicitar informações adicionais para nos ajudar a verificar quem você é antes de concluir a sua solicitação.
-
-
-• Se aplicável, você também pode ter a opção contestar ou, de outra forma, solicitar análise humana das decisões tomadas por meios automáticos.
-
-
-• Você pode alterar as suas preferências de marketing por e-mail a qualquer momento, por exemplo, usando o mecanismo de cancelamento fornecido em nossos e-mails de marketing, atualizando suas configurações da conta Epic ou entrando em contato conosco com sua solicitação (consulte “Como entrar em contato conosco”, abaixo).
-
-
-• Você pode alterar as suas configurações de privacidade nos sites de outras partes (como redes sociais) ou plataformas (como provedores de console) para limitar as informações que essas partes poderão compartilhar conosco.
-
-
-• Você pode alterar as configurações do seu navegador ou dispositivo móvel para bloquear, gerenciar, excluir ou limitar tecnologias de rastreamento, como cookies. Em alguns casos, o bloqueio ou a desabilitação de cookies pode fazer com que os Serviços da Epic não funcionem conforme pretendido e alguns recursos não fiquem disponíveis.
-
-
-• Se você for menor de 18 anos de idade e tiver uma conta Epic, você poderá solicitar que removamos ou anonimizemos determinados conteúdos que você forneceu nos Serviços da Epic. Direcione as solicitações para ajudar a excluir ou editar o conteúdo dos Serviços da Epic para a Epic, conforme descrito em “Como entrar em contato conosco”, abaixo.
-
-
-• Os pais e responsáveis legais podem ajustar as configurações da conta Epic de seu filho/sua filha usando os <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">Controles Parentais</>.
-
-
-Algumas partes do mundo oferecem às pessoas escolhas específicas relacionadas às suas respectivas informações pessoais, nos termos da legislação local.
-
-
-<EULA.Header>7. NOSSAS OPERAÇÕES GLOBAIS</>
-
-
-A sede da Epic Games, Inc. fica nos EUA, mas operamos globalmente para ajudar a oferecer aos usuários de todo o mundo uma melhor experiência nos Serviços da Epic. Temos subsidiárias, escritórios, prestadores de serviços e parceiros ao redor do mundo para apoiar essas operações de várias maneiras diferentes. Por exemplo, o desenvolvedor do Fall Guys é uma subsidiária chamada Mediatonic Limited, com sede no Reino Unido. Isso significa que a Epic poderá processar as informações que coletamos em conexão com o seu uso dos Serviços da Epic em locais fora da região na qual você reside.
-
+A Epic Games, Inc. tem sede nos Estados Unidos da América, mas opera a nível global para proporcionar uma melhor experiência aos utilizadores dos Serviços Epic em todo o mundo. Temos subsidiárias, escritórios, prestadores de serviços e parceiros espalhados por vários países, que apoiam estas operações de diferentes formas — por exemplo, a programadora do Fall Guys é uma subsidiária chamada Mediatonic Limited, com sede no Reino Unido. Isto significa que a Epic poderá tratar os dados que recolhemos no âmbito da sua utilização dos Serviços Epic em países fora da região onde reside.
 
 <EULA.Highlight>A. Transferências de dados</>
 
+Quando utiliza os Serviços Epic, os seus dados podem ser transferidos para, ou armazenados nos, Estados Unidos da América ou noutros países onde nós ou os nossos prestadores de serviços operamos. A legislação e as normas de proteção de dados nesses países podem diferir das que se aplicam no seu país de residência. Recorremos a vários mecanismos legais para garantir, quando aplicável, a legalidade das transferências internacionais de dados para fora do país onde foram recolhidos. Ao utilizar os Serviços Epic, e desde que permitido pela legislação local, está a autorizar a Epic a tratar os seus dados em qualquer uma das jurisdições onde operamos (incluindo os Estados Unidos).
 
-Quando você usa os Serviços da Epic, suas informações poderão ser transferidas ou armazenadas nos Estados Unidos ou em outros países onde nós ou nossos prestadores de serviços operam. As leis e regras de proteção de dados nesses países poderão diferir das leis e regras de proteção de dados do local no qual você reside. Contamos com vários mecanismos legais para ajudar a apoiar legalmente as transferências de informações para fora do país de coleta, conforme o caso. Se permitido nos termos da legislação local, você autoriza a Epic a processar suas informações em qualquer um dos locais nos quais operamos (inclusive os EUA) ao usar os Serviços da Epic.
+Para saber mais sobre a entidade Epic responsável pela operação dos Serviços Epic que utiliza, consulte a secção “Contacte-nos” abaixo.
 
+<EULA.Highlight>B. Leis abrangentes de privacidade dos estados dos EUA</>
 
-Para saber mais sobre a entidade da Epic responsável pela operação dos Serviços da Epic em sua região, consulte “Como entrar em contato conosco”, abaixo.
+<EULA.Highlight>Para residentes na Califórnia</>
 
+A Lei de Privacidade do Consumidor da Califórnia (California Consumer Privacy Act, “CCPA”), confere aos residentes na Califórnia determinados direitos sobre os respetivos dados pessoais. Os termos utilizados nesta subsecção têm o significado que lhes é atribuído pela CCPA.
 
-<EULA.Highlight>B. Moradores da Califórnia</>
+Se for residente na Califórnia, tem o direito de:
 
+• conhecer e aceder aos dados pessoais que recolhemos sobre si, incluindo as categorias de dados recolhidos e respetivas fontes, as finalidades comerciais ou profissionais dessa recolha, as categorias de terceiros com quem partilhamos os dados pessoais e as partes específicas dos dados pessoais recolhidos; 
+• retificar os seus dados pessoais; e
+• solicitar a eliminação dos seus dados pessoais.
 
-Os consumidores residentes da Califórnia, EUA, possuem determinados direitos adicionais no que diz respeito às suas respectivas informações pessoais nos termos da Lei de Privacidade do Consumidor da Califórnia, EUA (California Consumer Privacy Act, “CCPA”). Se você for residente da Califórnia, EUA, você poderá ter o direito de: (1) solicitar saber mais sobre as categorias e informações pessoais específicas que coletamos, usamos e divulgamos; (2) solicitar a exclusão das suas informações pessoais; (3) optar por não vender suas informações pessoais (se houver); e (4) não ser discriminado por exercer esses direitos.
+Procederemos à eliminação dos seus dados pessoais, salvo se a conservação destes for necessária por motivos operacionais ou legais, nomeadamente para:
 
+• prestar os Serviços Epic solicitados, concluir transações ou executar o contrato celebrado consigo;
+• garantir a segurança ou integridade dos Serviços Epic ou resolver erros nos mesmos;
+• exercer direitos legais em nosso nome ou em nome de terceiros; 
+• permitir utilizações internas consistentes com as expetativas dos utilizadores; ou
+• cumprir uma obrigação legal.
 
-Você ou o seu agente autorizado poderá fazer essas solicitações entrando em contato conosco conforme descrito em “Como entrar em contato conosco”, abaixo. Observe que poderemos solicitar informações adicionais para nos ajudar a verificar quem você é antes de concluir sua solicitação. Se recebermos a sua solicitação de algum agente autorizado, poderemos solicitar provas de que você deu a essa pessoa autoridade para enviar solicitações para exercer direitos em seu nome. Não discriminaremos você por exercer seus direitos nos termos da CCPA.
+Também podemos limitar a forma como respondemos aos seus pedidos, incluindo quando necessário para: 
+• tratar de processos ou reclamações legais; 
+• cumprir leis ou obrigações legais aplicáveis; ou 
+• cooperar com as autoridades.
 
+Tal como descrito em maior detalhe na secção “Que dados recolhemos?” acima, os dados específicos que recolhemos dependem, em regra, da forma como interage connosco nos ou através dos Serviços Epic. Nos últimos 12 meses, recolhemos as seguintes categorias de dados pessoais: 
+• identificadores (por exemplo, endereço de e-mail);
+• informações comerciais (por exemplo, histórico de compras ou direitos de utilização);
+• informações sobre a atividade na Internet ou outras redes eletrónicas (por exemplo, detalhes sobre a atividade de jogo ou utilização do website);
+• informações áudio, eletrónicas, visuais ou semelhantes (por exemplo, conversas por voz);
+• dados de geolocalização (por exemplo, que possam ser derivados do seu endereço IP ou incluídos nas informações de faturação);
+• características de classificações protegidas ao abrigo da legislação da Califórnia ou federal (por exemplo, idade); 
+• dados pessoais descritos na Secção 1798.80(e) do Código Civil da Califórnia (por exemplo, nome ou dados de cartão de crédito ou débito); 
+• em alguns casos, dados pessoais sensíveis (por exemplo, credenciais de início de sessão ou, se colocar conteúdos criativos à venda numa das nossas plataformas, número de identificação emitido por entidade governamental); e 
+• inferências retiradas de quaisquer das categorias acima (por exemplo, géneros de jogos que possa preferir com base no seu histórico de compras).
 
-Coletamos as seguintes categorias de informações pessoais, conforme descrito na CCPA:
+A Epic não utiliza nem divulga dados pessoais sensíveis para finalidades distintas das estritamente necessárias à prestação dos Serviços Epic ou legalmente admissíveis ao abrigo da CCPA. A Epic também não vende nem partilha os dados pessoais que recolhe. Esta política aplica-se igualmente a utilizadores relativamente aos quais temos conhecimento efetivo de que são menores de 16 anos. 
 
+Para mais informações sobre (1) as categorias de fontes dos dados pessoais recolhidos, consulte a secção “Que dados recolhemos?” acima; (2) as finalidades comerciais ou profissionais da recolha de dados, incluindo dados pessoais sensíveis, consulte a secção “Como utilizamos os dados?” acima; e (3) as categorias de terceiros a quem divulgamos os seus dados pessoais, consulte a secção “Como partilhamos os dados?” acima.
 
-• Identificadores (como e-mail).
+<EULA.Highlight>Para residentes de outros estados dos EUA </>
 
+Os estados do Colorado, Connecticut, Delaware, Iowa, Montana, Nebrasca, New Hampshire, New Jersey, Oregon, Texas, Utah e Virgínia aprovaram leis abrangentes de privacidade que conferem aos residentes desses estados determinados direitos relativamente aos seus dados pessoais. Os termos utilizados nesta subsecção têm o significado que lhes é atribuído pela legislação de privacidade aplicável no respetivo estado de residência.
 
-• Informações demográficas (como idades).
+Se residir num desses estados, tem o direito de:
 
+• saber se estamos a tratar os seus dados pessoais;
+• aceder e obter uma cópia dos seus dados pessoais;
+• retificar os seus dados pessoais (exceto no caso dos residentes no Utah e Iowa); e 
+• solicitar a eliminação dos seus dados pessoais.
 
-• Informações comerciais (inclusive direitos ou histórico de compras).
+Determinadas obrigações legais e necessidades operacionais podem limitar a forma como damos resposta aos seus pedidos. Estas exceções podem incluir:
 
+• prestar os Serviços Epic que solicita ou executar os contratos celebrados consigo;
+• realizar pesquisas para desenvolver ou melhorar os Serviços Epic; 
+• identificar e corrigir problemas técnicos; 
+• realizar outras operações internas compatíveis com as expetativas dos utilizadores;
+• prevenir ou responder a incidentes de segurança, fraude, roubo de identidade ou outras atividades ilegais ou nocivas;
+• tratar de processos ou reclamações legais; 
+• cumprir leis ou obrigações legais aplicáveis; ou 
+• cooperar com as autoridades.
 
-• Atividade na internet ou rede eletrônica (por exemplo, jogos ou detalhes de uso do site).
+A Epic não vende os dados pessoais que recolhe nem os trata para efeitos de publicidade segmentada. A Epic também não traça o perfil dos seus utilizadores através de meios automatizados com vista à tomada de decisões que produzam efeitos legais ou semelhantes. Isto inclui os utilizadores relativamente aos quais temos conhecimento efetivo de que têm menos de 18 anos. 
 
+Para mais informações sobre (1) as categorias de dados pessoais tratados, consulte a secção “Que dados recolhemos?” acima; (2) o tratamento de dados sensíveis de uma criança com menos de 13 anos, consulte a secção “Proteção de dados de menores” acima; (3) as finalidades para o tratamento de dados pessoais, consulte “Como utilizamos os dados?” acima; e (4) as categorias de terceiros com quem partilhamos dados pessoais e as categorias de dados pessoais que partilhámos, consulte a secção “Como partilhamos os dados?” acima.
 
-• Informações de áudio, eletrônicas, visuais ou semelhantes (como bate-papo por voz).
+<EULA.Highlight>Exercício dos seus direitos de privacidade</>
 
+Para exercer os seus direitos de privacidade, utilize um dos métodos listados na secção “Contacte-nos” abaixo. Apenas o próprio titular dos dados (ou um representante autorizado em nome de um residente na Califórnia) pode apresentar um pedido verificável, o qual deverá conter informação suficiente para que possamos confirmar a sua identidade e compreender o pedido. Se tiver uma conta Epic Games, poderemos solicitar que inicie sessão para efeitos de verificação da identidade. Os representantes autorizados de residentes na Califórnia deverão apresentar uma autorização escrita assinada pelo titular dos dados, que poderá também ter de confirmar a sua identidade diretamente. Os pedidos poderão ser recusados se não conseguirmos verificar a identidade ou a legitimidade do requerente. As reclamações ou recursos podem ser apresentados através dos mesmos meios de contacto indicados na secção “Contacte-nos” abaixo. 
 
-• Informações de geolocalização (conforme possam ser extraídas do seu endereço IP ou incluídas nas suas informações de cobrança).
+Não discriminaremos o utilizador por exercer qualquer dos seus direitos de privacidade ao abrigo da legislação aplicável. 
 
+<EULA.Highlight>C. Residentes no Espaço Económico Europeu, Reino Unido e Suíça</>
 
-• Outras “informações pessoais”, conforme definido pela legislação da Califórnia, EUA (como suas informações de cartão de crédito ou débito). 
+Se estiver localizado no Espaço Económico Europeu (EEE), no Reino Unido (Reino Unido) ou na Suíça, o utilizador tem determinados direitos relativamente à forma como os seus dados pessoais são tratados.
 
+<EULA.Highlight>Direitos dos titulares dos dados</>
 
-• Inferências extraídas de qualquer uma dessas categorias (por exemplo, sobre os gêneros de jogos que você possa preferir jogar com base no seu histórico de compras).
+Poderá ter o direito de aceder, retificar ou eliminar os dados pessoais que tenhamos recolhido sobre si através dos Serviços Epic. Poderá igualmente ter direito a receber uma cópia portátil dos dados pessoais que nos facultou, bem como a opor-se ou restringir o tratamento dos seus dados pessoais, nomeadamente para efeitos de marketing direto. Quando aplicável, pode solicitar a análise humana ou contestar decisões tomadas por meios automatizados. Sempre que o tratamento dos seus dados se basear no seu consentimento, terá o direito de o retirar a qualquer momento.
 
+Tem ainda o direito de apresentar uma reclamação contra nós junto da autoridade de controlo competente em matéria de proteção de dados no seu país (caso exista). No entanto, agradeceríamos a oportunidade de resolver a situação diretamente consigo antes de contactar essa autoridade, pelo que pedimos que nos dirija a sua reclamação em primeira instância.
 
-Para obter mais detalhes sobre os pontos de dados específicos que coletamos e as categorias de fontes das quais obtivemos essas informações, consulte “Quais informações coletamos?”, acima. Coletamos informações pessoais para os fins comerciais e de negócios descritos em “Como usamos as informações?”, acima.
+Consulte a secção “Contacte-nos” abaixo para saber mais sobre como contactar a Epic relativamente a qualquer questão relacionada com os seus dados pessoais. Pode obter mais informações sobre a sua autoridade local de proteção de dados da seguinte forma:
 
+• EEE: <a id="url" href="https://www.edpb.europa.eu/about-edpb/about-edpb/members" style="EULA.Hyperlink">Autoridades Europeias de Proteção de Dados</>
+• Reino Unido:<EULA.Highlight> </><a id="url" href="https://ico.org.uk/global/contact-us/" style="EULA.Hyperlink">Gabinete do Comissário da Informação (Information Commissioner’s Office, ICO)</> 
+• Suíça:<EULA.Highlight> </><a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">Comissário Federal de Proteção de Dados e Informação (Federal Data Protection and Information Commissioner, FDPIC)</><EULA.Highlight> </>
 
-A Epic não vende nem compartilha (conforme definido na CCPA) as informações pessoais que coletamos. No entanto, divulgamos as informações pessoais conforme descrito nesta política (consulte “Como compartilhamos as informações?”, acima). Nos últimos 12 meses, divulgamos informações pessoais para as seguintes categorias de destinatários:
+<EULA.Highlight>Fundamentos jurídicos para o tratamento</>
 
+Os fundamentos jurídicos em que nos baseamos para tratar os seus dados pessoais dependem dos Serviços Epic que utiliza e da forma como interage com os mesmos. Os principais fundamentos incluem:
 
-• Parceiros de negócios (por exemplo, se você solicitar que compartilhemos seu e-mail com o desenvolvedor do jogo que você comprou na Epic Games Store).
+• <EULA.Highlight>Execução do contrato</>: tratamos dados pessoais quando tal é necessário para prestar os Serviços Epic que solicitou, nos termos das Condições de Serviço ou de outros contratos semelhantes celebrados consigo. Por exemplo, tratamos dados pessoais para criar e manter a sua conta, processar compras, autenticar utilizadores, disponibilizar funcionalidades de experiência de utilização (como guardar preferências), monitorizar e analisar os Serviços Epic, detetar e prevenir fraudes, batotas ou outros abusos, facilitar funcionalidades como a progressão cruzada (que permite continuar o jogo noutra plataforma, o que pode implicar a partilha de dados com parceiros terceiros) e para contactar o utilizador a respeito da sua conta, transações ou atualizações. A execução do contrato também é a base para gerirmos a nossa relação consigo, incluindo a resposta a pedidos de apoio ou informações, e a notificação de alterações aos termos ou políticas aplicáveis.
 
+• <EULA.Highlight>Interesses legítimos</>: tratamos dados pessoais sempre que tal seja necessário para fins legítimos da Epic, ponderando esses interesses face ao impacto nos seus direitos de privacidade. Isto inclui muitas finalidades habituais consideradas expectáveis pelo utilizador, tais como comunicar consigo, responder aos seus pedidos ou fornecer-lhe atualizações e informações; compreender melhor os nossos utilizadores e as preferências destes; personalizar a sua experiência, guardar as suas preferências, autenticar os utilizadores e fornecer funcionalidades de experiência de utilização semelhantes; desenvolver, fornecer e melhorar os Serviços Epic e outras ofertas (algumas das quais podem ser oferecidas em parceria com outras partes); gerir e personalizar anúncios ou ofertas promocionais; gerir compras (no jogo); proteger os Serviços Epic; apoiar auditorias, análises de dados e outras operações comerciais legítimas; impedir ou moderar conteúdos ou condutas fraudulentas, tóxicas, prejudiciais ou ilegais que violem os nossos termos. Para apoiar estas finalidades comerciais, poderemos desenvolver, melhorar e utilizar tecnologias de aprendizagem automática (machine learning) para ajudar a identificar conteúdos prejudiciais, tóxicos ou fraudulentos nos nossos serviços. Os conteúdos identificados por estas tecnologias poderão ser sujeitos a revisão humana. Caso aplicável, o utilizador poderá ter a possibilidade de solicitar uma revisão humana de decisões tomadas por meios automatizados.
 
-• Outras entidades da Epic (como subsidiárias que poderão ajudar a apoiar determinados Serviços da Epic).
+• <EULA.Highlight>Obrigações legais</>: tratamos dados pessoais sempre que tal seja necessário para cumprir obrigações legais, como responder a pedidos legítimos de autoridades policiais ou de outras entidades públicas, em conformidade com os procedimentos legais aplicáveis; identificar ou moderar conteúdos ou comportamentos ilegais nos Serviços Epic; ou tratar a data de nascimento para assegurar o cumprimento das leis de proteção de menores aplicáveis.
 
+• <EULA.Highlight>Consentimento</>: tratamos dados pessoais quando nos dá o seu consentimento para o fazer. O utilizador não é obrigado a facultar o seu consentimento caso não pretenda que os seus dados pessoais sejam tratados para as finalidades indicadas, podendo retirá-lo a qualquer momento.
 
-• Outros usuários (por exemplo, se você usar recursos de bate-papo ou sociais nos Serviços da Epic).
+<EULA.Header>11. CONTACTE-NOS</>
 
+Se tiver dúvidas ou preocupações relacionadas com os Serviços Epic (como problemas com jogos, dificuldades de acesso à sua conta Epic, erros ou outras questões técnicas, assuntos relativos a pagamentos ou problemas com conteúdos e direitos de utilização), contacte as nossas equipas de apoio ao jogador. Pode obter mais informações sobre como apresentar pedidos de apoio relativamente a produtos e serviços em:
 
-• Prestadores de serviços (conforme descrito em “Como compartilhamos as informações?”, acima).
+• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</><EULA.Highlight> </>(como Fortnite)
+• <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</> (como Rocket League)
+• <a id="url" href="https://www.postparty.gg/faq" style="EULA.Hyperlink">Life on Air</> (Postparty)
+• <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Mediatonic</> (incluindo Fall Guys)
 
+Se pretender obter mais informações sobre as nossas práticas de privacidade ou sobre a presente política, ou exercer os seus direitos enquanto titular de dados, envie um e-mail para privacy@support.epicgames.com, dpo@support.epicgames.com, ou utilize os contactos apropriados indicados abaixo, relativos à entidade responsável pela prestação dos Serviços Epic na sua região. 
 
-• Plataformas e sistemas operacionais.
+Também pode contactar-nos por correio postal (com a menção “Attn: Legal Department”) para Epic Games, Inc., localizada em 620 Crossroads Blvd., Cary, NC 27518, EUA.
 
+<EULA.Highlight>Se residir fora dos Estados Unidos, consulte as informações de contacto adicionais abaixo, consoante os produtos ou serviços que estiver a utilizar:</>
 
-• Entidades governamentais ou outros terceiros em resposta a solicitações judiciais.
+<EULA.Highlight>Se estiver a utilizar a Epic Games Store:</>
+• Responsável pelo tratamento dos dados: Epic Games, Inc.
+• Endereço: 620 Crossroads Blvd., Cary, NC 27518, EUA 
+• Encarregado da proteção de dados: dpo@support.epicgames.com
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com) 
 
-
-<EULA.Highlight>C. Residentes do Espaço Econômico Europeu, do Reino Unido e da Suíça</>
-
-
-Se você estiver localizado no Espaço Econômico Europeu (EEE), Reino Unido ou Suíça, você tem determinados direitos sobre como seus dados pessoais são processados.
-
-
-<EULA.Highlight>Direitos do titular de dados</>
-
-
-Você poderá ter o direito de acessar, corrigir ou excluir dados pessoais que coletamos sobre você por meio dos Serviços da Epic. Você também poderá ter o direito a uma cópia portátil dos dados pessoais que forneceu e a se opor ou restringir o processamento dos seus dados pessoais, como para marketing direto. Se aplicável, você pode solicitar análise humana das decisões tomadas por meios automáticos. Se você tiver fornecido o seu consentimento para o nosso processamento de dados, você tem o direito de retirá-lo.
-
-
-Você também tem o direito de fazer uma reclamação contra nós entrando em contato com sua autoridade supervisora local de proteção de dados (se houver uma em seu país). No entanto, agradeceríamos a oportunidade de abordar suas preocupações antes de você entrar em contato com um regulador de proteção de dados e solicitamos que nos encaminhe sua reclamação primeiro.
-
-
-Consulte a seção “Como entrar em contato conosco”, abaixo, para saber mais sobre como entrar em contato com a Epic com qualquer preocupação relevante que você possa ter. Você pode encontrar mais detalhes sobre sua autoridade de proteção de dados local da seguinte forma:
-
-
-• EEE: <a id="url" href="https://www.edpb.europa.eu/about-edpb/about-edpb/members" style="EULA.Hyperlink">autoridades europeias de proteção de dados</> 
-
-
-• Reino Unido: <a id="url" href="https://ico.org.uk/global/contact-us/" style="EULA.Hyperlink">gabinete do comissário de informações</>
-
-
-• Suíça: <a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">comissário federal de informações e proteção de dados</> 
-
-
-<EULA.Highlight>Bases para o processamento</>
-
-
-As fundamentações jurídicas com as quais contamos para processar seus dados pessoais dependem dos Serviços da Epic que você usa e de como você interage com esses serviços. Incluem, principalmente:
-
-
-•<EULA.Highlight> Necessidade contratual</>: processamos dados pessoais para executar os Serviços da Epic solicitados por você de acordo com os dos nossos Termos de Serviço ou outros acordos contratuais semelhantes com você. Por exemplo, processamos dados pessoais para configurar e manter a sua conta; processar suas compras; autenticar usuários; oferecer recursos de experiência do usuário (como salvar suas preferências); monitorar e analisar os Serviços da Epic; detectar e prevenir fraudes, trapaças ou outro uso indevido semelhante; facilitar recursos como progressão cruzada que permitem que você jogue um jogo em uma plataforma e continue seu progresso em outra, o que poderá exigir que compartilhemos suas informações com parceiros terceiros; e entrar em contato com você sobre a sua conta, operações ou outras atualizações. Também contamos com o cumprimento do contrato para gerenciar nossa relação com você, o que inclui responder às suas solicitações de suporte ou consultas gerais e notificar você sobre alterações em nossos termos ou políticas aplicáveis.
-
-
-• <EULA.Highlight>Interesses legítimos</>: processamos dados pessoais conforme necessário para os fins comerciais da Epic, ponderando o possível impacto sobre seus direitos de privacidade. Isso inclui muitas finalidades comuns que você normalmente esperaria, como: nos comunicarmos com você, responder às suas solicitações ou fornecer atualizações e informações; entender melhor nossos usuários e suas respectivas preferências; personalizar a sua experiência, salvar suas preferências, autenticar nossos usuários e oferecer recursos semelhantes de experiência do usuário; desenvolver, entregar e melhorar os Serviços da Epic e outras ofertas (algumas das quais poderão ser oferecidas em parceria com outras partes); gerenciar e personalizar anúncios ou ofertas promocionais; gerenciar compras (no jogo); proteger os Serviços da Epic; auxiliar auditorias, análises de dados e outras operações comerciais legítimas; prevenir ou moderar conteúdo ou conduta fraudulenta, tóxica, prejudicial ou ilegal que viole nossos termos. Para apoiar essas finalidades comerciais, poderemos criar, melhorar e usar tecnologias de aprendizado de máquina para ajudar a identificar conteúdo prejudicial, tóxico ou fraudulento em nossos serviços. O conteúdo identificado por essas tecnologias pode estar sujeito à análise humana. Caso contrário, se aplicável, você pode solicitar análise humana das decisões automáticas.
-
-
-• <EULA.Highlight>Obrigações jurídicas</>: processamos dados pessoais quando necessário para cumprir obrigações judiciais, como atender a solicitações legítimas de autoridades de aplicação da lei ou de outros funcionários públicos de acordo com processos judiciais; identificar ou moderar conteúdo ou conduta ilegal nos Serviços da Epic; ou para processar a data de nascimento para facilitar a conformidade com as leis de proteção juvenil aplicáveis.
-
-
-• <EULA.Highlight>Consentimento</>: processamos dados pessoais quando você nos dá o seu consentimento para fazê-lo. O seu consentimento não será solicitado se você não desejar que seus dados pessoais sejam processados para as finalidades solicitadas e você poderá retirar seu consentimento a qualquer momento.
-
-
-<EULA.Header>8. PRESERVAÇÃO</>
-
-
-Como os dados pessoais específicos que processamos e nossos motivos para fazê-lo, muitas vezes, variam dependendo de como você usa os Serviços da Epic, o período pelo qual os preservamos também pode variar. De modo geral, armazenamos dados pessoais pelo tempo que justificadamente precisarmos e para os fins descritos nesta política (como cumprir nossas obrigações legais, gerenciar registros internos, fazer cumprir os nossos termos e resolver disputas), salvo se um longo período de preservação seja exigido ou permitido por lei.
-
-
-Os principais critérios que consideramos na determinação dos períodos de preservação específicos geralmente incluem exigências mínimas nos termos da legislação aplicável, normas relevantes do setor, os tipos de dados em questão (como o nível de confidencialidade), relevância para possíveis litígios ou processos semelhantes (como nos defendermos contra ações judiciais) e se os dados são necessários para evitar fraude ou abuso semelhante dos Serviços da Epic (inclusive para impor proibições contra trapaças e outros comportamentos não autorizados). Por exemplo, se você criar uma conta Epic, de modo geral, armazenaremos os dados pessoais associados à sua conta Epic pelo tempo necessário para manter a sua conta, fornecer os Serviços da Epic solicitados por você, fazer valer os termos que regem o seu uso dos Serviços da Epic e manter registros adequados que demonstrem o nosso fornecimento dos Serviços da Epic para você.
-
-
-Para saber mais sobre como solicitar que a Epic exclua seus dados pessoais, consulte “Suas opções e controles” e “Direitos do titular de dados”, acima.
-
-
-<EULA.Header>9. SEGURANÇA</>
-
-
-Mantemos proteções administrativas, técnicas e físicas adequadas para proteger suas informações pessoais contra destruição, perda, alteração, acesso, divulgação ou uso acidental, ilegal ou não autorizado e outras formas ilegais de processamento. Em alguns casos, suas informações são acessíveis quando você faz login em um recurso que oferecemos e, nesses casos, você precisa manter suas credenciais de usuário e senha confidenciais e seguras para que suas informações sejam protegidas. Se tomarmos conhecimento da divulgação não autorizada das suas informações pessoais, notificaremos você conforme exigido por lei e tomaremos medidas para ajudar a proteger suas informações.
-
-
-<EULA.Header>10. ATUALIZAÇÕES</>
-
-
-Atualizaremos esta política ao longo do tempo para refletir mudanças nas nossas práticas ou na legislação. Quando o fizermos, alteraremos a data indicada na parte superior da política. Em alguns casos, também poderemos notificar você sobre as alterações por e-mail ou dentro dos Serviços da Epic. Consulte esta política regularmente para assegurar que você entende a sua relação com a Epic e as maneiras pelas quais poderemos coletar, usar e compartilhar as informações relacionadas aos Serviços da Epic.
-
-
-<EULA.Header>11. COMO ENTRAR EM CONTATO CONOSCO</>
-
-
-Em caso de dúvidas ou preocupações sobre os Serviços da Epic (como problemas relacionados ao jogo, problemas ao acessar sua conta Epic, bugs ou outros problemas técnicos, questões de pagamento ou problemas de conteúdo e direito), entre em contato com as nossas equipes de Suporte ao jogador. Você pode saber mais sobre o envio de solicitações de suporte para produtos e serviços em:
-
-
-• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</> (como Fortnite);
-
-
-• <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</><EULA.Highlight> </>(como Rocket League);
-
-
-• <a id="url" href="https://www.postparty.gg/faq" style="EULA.Hyperlink">Life on Air</> (Postparty); e
-
-
-• <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Mediatonic</> (inclusive Fall Guys)
-
-
-Se você desejar saber mais sobre as nossas práticas de privacidade ou sobre esta política, envie suas perguntas para privacy@support.epicgames.com, dpo@support.epicgames.com ou para as informações de contato indicadas abaixo para a entidade responsável por fornecer os Serviços da Epic na sua região. Você também pode entrar em contato conosco por correio (marcado com “Attn: Legal Department” [Aos cuidados do: Departamento jurídico]) para a Epic Games, Inc., localizada na 620 Crossroads Blvd., Cary, NC 27518, EUA.
-
-<EULA.Highlight>Se você mora fora dos Estados Unidos, consulte as informações de contato adicionais abaixo relacionadas aos produtos ou serviços que você está usando:</>
-
-<EULA.Highlight>Se você estiver usando a Epic Games Store:</>
-
-• Controlador de dados: Epic Games, Inc.
-
-• Endereço: 620 Crossroads Blvd., Cary, NC 27518, EUA • Responsável pela proteção de dados: dpo@support.epicgames.com
-
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Se você estiver usando jogos fornecidos pela Epic Games, como o Fortnite, que esteja vinculado a esta política de privacidade:</>
-
-• Controlador de dados: Epic Games Entertainment International GmbH
-
+<EULA.Highlight>Se estiver a utilizar quaisquer jogos disponibilizados pela Epic Games, como o Fortnite, que remetam para a presente política de privacidade:</>
+• Responsável pelo tratamento dos dados: Epic Games Entertainment International GmbH
 • Endereço: Platz 10, 6039 Root D4, Suíça
+• Encarregado da proteção de dados: dpo@support.epicgames.com
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com) 
 
-• Responsável pela proteção de dados: dpo@support.epicgames.com
-
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Se você estiver usando outros produtos fornecidos pela Epic Games, como o Unreal Engine, que esteja vinculado a esta política de privacidade:</>
-
-• Controlador de dados: Epic Games Commerce GmbH
-
+<EULA.Highlight>Se estiver a utilizar quaisquer outros produtos ou serviços disponibilizados pela Epic Games, como o Unreal Engine, que remetam para a presente política de privacidade:</>
+• Responsável pelo tratamento dos dados: Epic Games Commerce GmbH
 • Endereço: Platz 10, 6039 Root D4, Suíça
+• Encarregado da proteção de dados: dpo@support.epicgames.com
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com) 
 
-• Responsável pela proteção de dados: dpo@support.epicgames.com
+<EULA.Highlight>Se estiver a utilizar produtos ou serviços disponibilizados pela Mediatonic, como o Fall Guys, que remetam para a presente política de privacidade:</>
+• Responsável pelo tratamento dos dados: Mediatonic Limited
+• Endereço: Octagon Point, 5 Cheapside, London, EC2V 6AA, Reino Unido
+• Contacto: privacy@support.epicgames.com
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com) 
 
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Se você estiver usando produtos ou serviços fornecidos pela Mediatonic, como o Fall Guys, que esteja vinculado a esta política de privacidade:</>
-
-• Controlador de dados: Mediatonic Limited
-
-• Endereço: Octagon Point, 5 Cheapside, Londres, EC2V 6AA, Reino Unido
-
-• Contato: privacy@support.epicgames.com
-
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Se você estiver usando produtos ou serviços fornecidos pela Psyonix, como o Rocket League, que esteja vinculado a esta política de privacidade:</>
-
-• Controlador de dados: Psyonix LLC
-
+<EULA.Highlight>Se estiver a utilizar produtos ou serviços disponibilizados pela Psyonix, como o Rocket League, que remetam para a presente política de privacidade:</>
+• Responsável pelo tratamento dos dados: Psyonix LLC
 • Endereço: 401 A St. #4200, San Diego, CA 92101, EUA
+• Contacto: privacy@support.epicgames.com
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com) 
 
-• Contato: privacy@support.epicgames.com
+<EULA.Highlight>Se estiver a utilizar os serviços KWS disponibilizados pela Kids Web Services Ltd:</>
+• Responsável pelo tratamento dos dados: Kids Web Services Ltd, na qualidade de responsável conjunto pelo tratamento com a Epic
+• Endereço: Octagon Point, 5 Cheapside, London, EC2V 6AA, Reino Unido
+• Contacto: privacy@kidswebservices.com
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com) 
 
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Se você estiver usando os serviços da KWS fornecidos pela Kids Web Services Ltd.:</>
-
-• Controlador de dados: Kids Web Services Ltd como controladora conjunta, junto à Epic
-
-• Endereço: Octagon Point, 5 Cheapside, Londres, EC2V 6AA, Reino Unido
-
-• Contato: privacy@kidswebservices.com
-
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Se você estiver usando produtos ou serviços fornecidos pela Life on Air, como o PostParty, que estejam vinculados a esta política de privacidade:</>
-
-• Controlador de dados: Life on Air, Inc.
-
+<EULA.Highlight>Se estiver a utilizar produtos ou serviços disponibilizados pela Life on Air, como o Postparty, que remetam para a presente política de privacidade:</>
+• Responsável pelo tratamento dos dados: Life on Air, Inc.
 • Endereço: 620 Crossroads Blvd., Cary, NC 27518, EUA
+• Contacto: privacy@support.epicgames.com
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com) 
 
-• DPO: privacy@support.epicgames.com
-
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Se você estiver usando produtos ou serviços fornecidos pela Aquiris, como o Horizon Chase 2, que estejam vinculados a esta política de privacidade:</>
-
-• Controlador de dados: Aquiris Games Studio LLC
-
-Endereço: c/o IBCPA, 20801 Biscayne Blvd, Ste 403, Office 415, Aventura, Florida, 33180, EUA
-
-• Responsável pela proteção de dados: dpo@aquiris.com.br.
-
-• Representante da UE/do Reino Unido: Mishcon de Reya (representative@mishcon.com)
-
-
+<EULA.Highlight>Se estiver a utilizar produtos ou serviços disponibilizados pela Aquiris, como o Horizon Chase 2, que remetam para a presente política de privacidade:</>
+• Responsável pelo tratamento dos dados: Aquiris Games Studio LLC
+• Endereço: c/o IBCPA, 20801 Biscayne Blvd, Ste 403, Office 415, Aventura, Florida, 33180, EUA
+• Encarregado da proteção de dados: dpo@aquiris.com.br.
+• Representante na UE/Reino Unido: Mishcon de Reya (representative@mishcon.com)

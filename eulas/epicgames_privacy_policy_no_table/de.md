@@ -1,16 +1,16 @@
-# EPIC GAMES PRIVACY POLICY
+# DATENSCHUTZRICHTLINIE VON EPIC GAMES
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67fec2ec039fa3483a799710` |
+| `id` | `68796af751d88839daa68b57` |
 | `key` | `epicgames_privacy_policy_no_table` |
 | `version` | `2` |
-| `revision` | `2` |
-| `title` | `EPIC GAMES PRIVACY POLICY` |
+| `revision` | `4` |
+| `title` | `DATENSCHUTZRICHTLINIE VON EPIC GAMES` |
 | `locale` | `de` |
-| `createdTimestamp` | `2025-04-15T20:34:52.139Z` |
-| `lastModifiedTimestamp` | `2025-04-15T20:34:52.139Z` |
+| `createdTimestamp` | `2025-07-17T21:28:23.376Z` |
+| `lastModifiedTimestamp` | `2025-07-17T21:28:23.376Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/de/v2/r2/ce9459df9ca7e28b050ea3b7c490c10e.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/de/v2/r4/532154521ed7aee95626ac442963ea1f.pdf` |
 | `bodyFormat` | `HTML` |

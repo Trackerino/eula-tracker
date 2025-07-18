@@ -15,7 +15,7 @@
 نستخدم عبارة "خدمات Epic" لوصف أي منتجات أو خدمات من Epic تتضمن رابطًا مباشرًا إلى سياسة الخصوصية هذه. ويشمل ذلك، على سبيل المثال:
 
 • الألعاب مثل <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</> و<a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</> (من خلال شركتنا التابعة Psyonix)، و<a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</> (من خلال شركتنا التابعة Mediatonic)، و<a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</> (من خلال شركتنا التابعة Aquiris Game Studio LLC)؛
-• المواقع الإلكترونية والتطبيقات مثل موقع <EULA.Highlight>‎www.epicgames.com‏</> ومتجر <EULA.Highlight>‎Epic Games Store‏</>، وبرنامج <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty‏</>(من خلال شركة ‎Life on Air‏)، وموقع <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">‎www.rocketleague.com‏</> (من خلال شركة Psyonix) وموقع <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</> (من خلال شركة Mediatonic)؛
+• المواقع الإلكترونية والتطبيقات مثل موقع  <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> ومتجر <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">Epic Games Store</>‏، وبرنامج <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty‏</>(من خلال شركة ‎Life on Air‏)، وموقع <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">‎www.rocketleague.com‏</> (من خلال شركة Psyonix) وموقع <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</> (من خلال شركة Mediatonic)؛
 • الأحداث المباشرة التي يتم فيها نشر سياسة الخصوصية هذه؛ و
 • أدوات المطورين، بما في ذلك <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">Developer Portal</> و<a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</>.
 
@@ -122,7 +122,7 @@
 
 <EULA.Highlight>ب. حقوق خصوصية الطفل والوالدين</>
 
-يمكن للمستخدمين الأطفال وأولياء أمورهم ممارسة حقوق الخصوصية الفردية الخاصة بهم على النحو الموضح في <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">القسم 6 أدناه</>. تُمكّن عناصر تحكم الرقابة الأبوية الآباء والأوصياء من تغيير اختياراتهم السابقة بشأن استخدام أطفالهم لميزات محددة مثل الدردشة الصوتية. يمكن للوالدين والأوصياء أيضًا مراجعة معلومات الطفل الشخصية التي تحتفظ بها Epic Games، وحذف حساب طفلهم على Epic (وهو ما يؤدي إلى حذف المعلومات الشخصية والتوقف عن جمع المزيد من المعلومات). لممارسة هذه الحقوق أو لطرح أي أسئلة عن كيفية تعاملنا مع المعلومات الشخصية للأطفال، يُرجى الاطلاع على قسم "اتصل بنا" أدناه، أو التوجه مباشرةً إلى <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">نموذج طلب دعم الوالدين</>.
+يمكن للمستخدمين الأطفال وأولياء أمورهم ممارسة حقوق الخصوصية الفردية الخاصة بهم على النحو الموضح في القسم 6 أدناه. تُمكّن عناصر تحكم الرقابة الأبوية الآباء والأوصياء من تغيير اختياراتهم السابقة بشأن استخدام أطفالهم لميزات محددة مثل الدردشة الصوتية. يمكن للوالدين والأوصياء أيضًا مراجعة معلومات الطفل الشخصية التي تحتفظ بها Epic Games، وحذف حساب طفلهم على Epic (وهو ما يؤدي إلى حذف المعلومات الشخصية والتوقف عن جمع المزيد من المعلومات). لممارسة هذه الحقوق أو لطرح أي أسئلة عن كيفية تعاملنا مع المعلومات الشخصية للأطفال، يُرجى الاطلاع على قسم "اتصل بنا" أدناه، أو التوجه مباشرةً إلى <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">نموذج طلب دعم الوالدين</>.
 
 <EULA.Header>6. الاختيارات والضوابط المتاحة لك</>
 
