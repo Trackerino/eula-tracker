@@ -1,520 +1,328 @@
-<EULA.Highlight>Değişikliklerin Özeti </>
-
-
-Gizlilik Politikamızı güncelledik ve artık <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Topluluk Kurallarımızın</> ihlallerini belirleme, yönetme ve hafifletme şeklimizi iyileştirmek için makine öğrenimi modellerini eğitmek üzere hafifletme raporları kullanıyoruz. Bu, insan moderatörlerden oluşan ekibimizin daha etkili ve verimli olmasına yardımcı oluyor. Bu modelleri eğitmek için rapor verilerini kullanmadan önce bir kişisel bilgi filtresi uyguluyoruz.
-
-
-Bu değişiklikleri incelemek ve aşağıdaki güncellenmiş Gizlilik Politikasını kabul etmek için Bölüm 3’e bakmanızı öneririz:
-
-
-<EULA.Highlight>EPIC GAMES GİZLİLİK POLİTİKASI</>
-
-
-Son Güncelleme: Ocak 2025
-
+Son Güncelleme: 18 Temmuz,2025
 
 <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Çocukların Gizliliği</> için bkz. Bölüm 5
 
-
 Epic’e Hoş Geldiniz!
-
 
 Epic Games, Inc.’nin genel merkezi Cary, North Carolina’da bulunmaktadır. Biz ve iştiraklerimiz dünyanın çeşitli yerlerinde bulunan ve Fortnite gibi oyunlar, Unreal Engine gibi geliştirme araçları dâhil olmak üzere en beğenilen bazı ürünlerimizin ve hizmetlerimizin oluşturulmasına ve sağlanmasına yardımcı olan ofislere ve faaliyetlere sahiptir (aşağıdaki “Global Faaliyetlerimiz” bölümüne bakın).
 
-
 Bu gizlilik politikası Epic Hizmetleri’nde, onun vasıtası ile veya onunla ilişkili şekilde bilgi toplayabileceğimiz, kullanabileceğimiz veya paylaşabileceğimiz çeşitli yolları açıklamaktadır (aşağıdaki “Epic Hizmetleri nelerdir?” bölümüne bakın). Herhangi bir sorunuz varsa, aşağıdaki “Bize Ulaşın” bölümünden, bize her zaman ulaşabilirsiniz.
-
 
 Bu gizlilik politikasında “Epic”e (veya “biz” veya “bize” gibi benzer bir terime) atıfta bulunduğumuz zaman Epic Hizmetleri’nin sağlanmasına ve desteklenmesine yardımcı olan Epic Games, Inc. ve onun iştirakleri dâhil olmak üzere, bilgilerinizi kontrol eden ve onlardan sorumlu olan Epic Games tüzel kişiliğini kastederiz. Ayrıca aşağıdaki “Bize Ulaşın” bölümünde, çeşitli Epic Hizmetleri vasıtası ile topladığımız kişisel bilgilerin veri sorumlusu hakkındaki ayrıntıları bulabilirsiniz.
 
-
 <EULA.Header>1. EPIC HİZMETLERİ NELERDİR?</>
-
 
 Bu gizlilik politikasına doğrudan bağlantı sağlayan herhangi bir Epic ürününü veya hizmetini tarif etmek için “Epic Hizmetleri” terimini kullanırız. Bunlar arasında örneğin şunlar bulunmaktadır:
 
-
 • <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</> (iştirakimiz Psyonix vasıtası ile), <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</> (iştirakimiz Mediatonic vasıtası ile) ve <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</> (iştirakimiz Aquiris Game Studio LLC vasıtası ile) gibi oyunlar;
-
-
-• <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> ve <a id="url" href="https://www.epicgames.com/store/" style="EULA.Hyperlink">Epic Games Mağazası</>, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</> (Life on Air aracılığıyla), <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.rocketleague.com</> (Psyonix aracılığıyla) ve <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.fallguys.com</> (Mediatonic aracılığıyla) gibi web siteleri ve uygulamalar;
-
-
+• <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> ve <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">Epic Games Store</>, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</> (Life on Air aracılığıyla), <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> (Psyonix aracılığıyla) ve<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink"> www.fallguys.com</> (Mediatonic aracılığıyla) gibi web siteleri ve uygulamalar;
 • bu gizlilik politikasının yayınlandığı canlı etkinlikler ve
-
-
 • geliştirici araçları, <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">Geliştirici Portalı</> ve <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</> dahil olmak üzere.
 
-
-Epic Hizmetleri’ni kullanımınızın ek hükümlere ve koşullara da tabi olabileceğini belirtmek isteriz. Örneğin, Fortnite oynamak için <a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">Fortnite Son Kullanıcı Lisans Sözleşmesini,</> Rocket League oynamak için <a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">Psyonix Son Kullanıcı Lisans Sözleşmesini</><EULA.Highlight> </>ve Fall Guys oynamak için <EULA.Highlight>Fall Guys: Ultimate Knockout – Son Kullanıcı Lisans Sözleşmesini </>ve Horizon Chase 2 oynamak için <EULA.Highlight>Horizon Chase 2 Son Kullanıcı Lisans Sözleşmesini </>incelemek ve kabul etmek zorundasınız.
-
+Epic Hizmetleri’ni kullanımınızın ek hükümlere ve koşullara da tabi olabileceğini belirtmek isteriz. Örneğin, Fortnite oynamak için<EULA.Highlight> </><a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">Fortnite Son Kullanıcı Lisans Sözleşmesini</>, Rocket League oynamak için <a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">Psyonix Son Kullanıcı Lisans Sözleşmesini</> ve Fall Guys oynamak için <a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink">Fall Guys: Ultimate Knockout – Son Kullanıcı Lisans Sözleşmesini</> ve Horizon Chase 2 oynamak için <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2 Son Kullanıcı Lisans Sözleşmesini</> incelemek ve kabul etmek zorundasınız.
 
 Lütfen bu gizlilik politikasının tamamını okuyun. Ayrıca, bu ürünleri ve hizmetleri kullanmadan önce, kullandığınız Epic Hizmetleri için geçerli olan diğer tüm sözleşmeleri de dikkatle incelemeniz ve onları anladığınızı teyit etmeniz gerekir.
 
-
 <EULA.Header>2. HANGİ BİLGİLERİ TOPLUYORUZ?</>
-
 
 Topladığımız bilgi türleri bizim ile nasıl etkileşimde bulunduğunuza bağlıdır. Genellikle, üç temel yoldan bilgi toplarız: A) bunları siz sağladığınız zaman, B) Epic Hizmetleri’ni kullandığınız zaman otomatik şekilde ve C) hizmet sağlayıcılardan ve üçüncü taraflardan.
 
-
 <EULA.Highlight>A. Sizin Sağladığınız Bilgiler</>
-
 
 Epic Hizmetleri ile nasıl etkileşimde bulunduğunuza bağlı olarak bize üç değişik tür bilgi sağlayabilirsiniz. Epic Hizmetleri’nin bazı bölümlerini size sağlamak için gerek duyduğumuzda yaptığımız gibi, bazen belirli bilgi unsurları sağlamanızı isteyeceğiz (örneğin, sizi doğum tarihinizi sağlamaya veya çevrim içi bir kayıt sürecini tamamlamaya yönlendirerek). Bu gibi durumlarda bize bilgi sağlamanızı istediğimiz takdirde, bunu yapmamayı seçerseniz, ilgili Epic Hizmetleri’ne erişemeyebilirsiniz ve/veya bazı özellikler amaçlanan şekilde çalışmayabilir.
 
-
 Örneğin, Epic Games Mağazası’nda satın alma yapabilmek ve bazı oyunlarımızı oynayabilmek için bir Epic hesabınızın bulunması gerekir. Bir hesap oluşturmak için bize adınız, herkese açık bir görüntüleme adı, şifre, yaşadığınız ülke ve e-posta adresi gibi temel kayıt bilgilerini vermeniz gerekecektir. Bir satın alma yapmak istiyorsanız, işlemi tamamlamak için ödeme ile ilgili bilgiler (kredi kartı numaranız ve son kullanma tarihi gibi) sağlamanızı isteyebiliriz. Ayrıca hizmetlerimizin çoğu, size hangi özellikleri sunabileceğimizi ve yaşınıza ve konumunuza bağlı olarak hesabınıza hangi ayarların uygulanacağını belirlemek için doğum tarihinizi gerektirir.
-
 
 Ayrıca, e-posta uyarılarına kaydolmak, forumlar veya sohbetler gibi sosyal özellikleri kullanmak, oyunlarımıza erken erişim için kaydolmak, geliştirici araçlarımızı kullanmak (oyunlar ve başka içerik oluşturmak ve yayınlamak için dâhil), iki faktörlü kimlik doğrulamayı etkinleştirmek, etkinliklerimiz için kaydolmak veya bunlara katılmak, anketler doldurmak veya Oyuncu Destek istekleri veya müşteri hizmetleri üzerinden bize ulaşmak için kendi isteğiniz ile verdiğiniz bilgileri de toplarız. Sesli sohbet özelliğimizi kullanırsanız ve bir ses kanalında ses raporlama etkinse sesli sohbet ses verilerinin parçaları cihazınızda ve ses kanalındaki katılımcıların cihazlarında depolanacaktır. Topluluk Kurallarımızın bir ihlali raporlanırsa bu parçalar bu Topluluk Kurallarını yürürlüğe koymaya yardımcı olmak üzere Epic’e iletilebilir. Bir yarışmaya ya da rekabete dayanan bir etkinliğe girmeniz veya <a id="url" href="https://www.epicgames.com/affiliate/overview" style="EULA.Hyperlink">Bir-Kreatör-Destekle</> veya <a id="url" href="https://create.fortnite.com/island-creator/" style="EULA.Hyperlink">Ada Kreatörü</> programlarımıza katılmanız durumunda başvuru bilgilerinizi ve yeterliliğe sahip olduğunuzu teyit etmek ve ödemeleri işlemek için gerek duyabileceğimiz başka bilgileri toplayabiliriz. Bu veya benzer başka durumlarda bize vermeyi tercih ettiğiniz bilgileri toplarız.
 
-
 <EULA.Highlight>B. Otomatik Olarak Topladığımız Bilgiler</>
-
 
 Epic Hizmetleri’ni ziyaret ettiğiniz, onlara eriştiğiniz veya onları kullandığınız zaman otomatik olarak bazı bilgiler toplarız. Oyun oynamanız veya uygulama kullanımınız, satın aldıklarınız, haklar ve hesabınız (Epic hesabınızda oturum açtığınız veya Epic Hizmetleri’ne erişmek için üçüncü taraf bir hesabı kullandığınız takdirde) veya cihazınıza veya profilinize bizim atadığımız bir tanımlayıcı ile ilişkili olarak Epic Hizmetleri’ndeki diğer tüm aktiviteleriniz ile ilgili bilgiler buna dâhildir. Otomatik olarak topladığımız belirli bilgi türlerinin değişebilir olmasına karşın, bunlar genellikle şunları içerir:
 
-
 • Epic hizmetleri ile nasıl etkileşim kurduğunuz hakkındaki kullanım bilgileri ve istatistikler: kullandığınız uygulama veya oynadığınız oyun, onu ne kadar süreyle ve ne zaman kullandığınız veya oynadığınız, oyun oynama denemeleri, ilerleme durumu ve sonuçları, kaydedilmiş tercihler, çökme raporları, ziyaret ettiğiniz web sitelerimizin URL’leri, yönlendiren ve çıkış yapılan sayfaların URL’leri, sayfa görüntülemeleri, bir sayfada geçirilen zaman, tıklama sayısı ve platform türü;
-
-
 • Hizmetlerimize erişmek için kullandığınız bilgisayarınız, cihazınız, donanımınız veya yazılımınız ile ilgili olarak örneğin IP adresi, cihaz tanımlayıcılar gibi teknik bilgiler, internet hizmet sağlayıcınız, eklentiler, cihazınız için işlem veya tanımlayıcı ile ilgili başka bilgiler, (cihaz markası ve modeli, cihaz işletim sistemleri ve tarayıcılar hakkında bilgiler veya diğer cihaz veya sistem ile ilgili spesifikasyonlar) ve
-
-
 • Genellikle cihazınızın IP adresinden elde ettiğimiz şekilde cihazınızın genel konumu.
-
 
 Epic Hizmetleri yukarıda sıralanan bilgi türlerini otomatik şekilde toplamak için çerezler, günlük dosyaları ve web işaretçileri gibi teknolojiler kullanır. Bu teknolojilerden bazıları cihazınıza depolanabilecek olan küçük dosyalar veya kayıt tutma araçları yaratabilir. Bunlar bize, hizmet sağlayıcılarımıza ve üçüncü taraflara cihazınızı tanımakta yardımcı olur ve Epic Hizmetleri’ni nasıl kullandığınız ve onlar ile nasıl etkileşim kurduğunuz hakkında bilgi sağlar. Örneğin bunlar kullanıcıların kimliğini doğrulama olanağımızı destekler, tercihleri hatırlar, reklamları yönetir, deneyimleri kişiselleştirir ve veri analizi yapar.
 
-
 Lütfen, Epic Hizmetleri’ndeki bazı özellikler üçüncü taraflarca sağlandığı takdirde bu üçüncü tarafların da otomatik veri toplama yolları kullanabileceğini ve zaman içinde Epic Hizmetleri’ni, onların hizmetlerini veya başkalarının web sitelerini kullanımınız ile ilgili bilgiler kaydedebileceğini unutmayın. Örneğin, üçüncü taraf yazılımları içeren Epic Hizmetleri’ni (Unreal Engine gibi) kullandığınız zaman bu üçüncü taraf sağlayıcılar kendi teknolojileri aracılığıyla bilgi toplayabilir. Bu özellikler, üçüncü tarafların gizlilik bildirimlerine ve politikalarına tabidir.
-
 
 <EULA.Highlight>C. Başka Kaynaklardan Topladığımız Bilgiler</>
 
-
 Bazı durumlarda, Epic Hizmetleri’ni kullanımınız, biz veya başka platformlar ile etkileşimleriniz ile ilgili olarak hizmet sağlayıcılardan ve üçüncü taraflardan da hakkınızda bilgi alabiliriz.
-
 
 Örneğin bazı başka geliştiriciler onların hizmetinde oturum açmanız için Epic hesabınızı kullanmanıza izin verir. Ve Epic hesabınızı üçüncü taraf bir sosyal medya (Facebook gibi), oyun (Steam gibi), başka bir benzer web sitesi veya hizmeti üzerindeki hesabınıza bağlamayı tercih ettiğinizde, dış bir web sitesinde veya hizmetinde Epic Hizmetleri’nden birinin bir reklamı ile etkileşime girdiğiniz zaman o web sitesini veya hizmetini işleten şirket kendi gizlilik uygulamalarına uygun şekilde Epic ile bazı bilgiler paylaşabilir. Diğer şirketin Epic ile paylaşabileceği belirli bilgi türlerini genellikle onun web sitesindeki veya hizmetindeki gizlilik ayarları kontrol eder, bu nedenle bunları düzenli şekilde incelemeyi ve güncellemeyi lütfen unutmayın. Bağlanmış hesaplar için yaygın örnekler arasında üçüncü taraf hesabınızın görüntüleme adı, kullanıcı kimliği, ayrıca ilişkili cihaz bilgileri, ad ve e-posta adresi bulunabilir. Bir-Kreatör-Destekle programımızın katılımcılarına, program yeterliliği amaçlarımız için, sahip olduğunuz sosyal medya hesabı takipçilerinizin sayısını da toplayabiliriz.
 
-
-Ayrıca, bazı Epic Hizmetleri’ni üçüncü taraflarca işletilen hizmetlerde veya onlar vasıtası ile satın alabilir, indirebilir veya onlara erişebilirsiniz. Bunu yapmanız hâlinde Epic Hizmetleri’ne erişiminizi ve onları kullanımınızı kolaylaştırmak için onlar bize bilgiler sağlayabilir. Bu genellikle görüntüleme adınız, kullanıcı kimliğiniz ve cihaz ve bölge bilgileriniz gibi bilgiler içerir. Örneğin Fortnite gibi oyunları oyun konsolu hesabınız vasıtası ile oyun konsollarında (PlayStation®, Microsoft Xbox ve Nintendo Switch gibi) indirmeyi ve oynamayı tercih edebilirsiniz. Bunu yaptığınız zaman, o platformu veya hizmeti işleten şirket, bizim ile bazı bilgiler paylaşabilir ve bu bilgiler bize oyun oynamanızı kolaylaştırmak, ilerlemenizi ve haklarınızı izlemek gibi şeyler yapmamızı sağlar.
-
+Ayrıca bazı Epic Hizmetleri’ni üçüncü taraflarca işletilen hizmetlerde veya onlar vasıtası ile satın alabilir, indirebilir veya onlara erişebilirsiniz. Bunu yapmanız hâlinde Epic Hizmetleri’ne erişiminizi ve onları kullanımınızı kolaylaştırmak için onlar bize bilgiler sağlayabilir. Bu genellikle görüntüleme adınız, kullanıcı kimliğiniz ve cihaz ve bölge bilgileriniz gibi bilgiler içerir. Örneğin Fortnite gibi oyunları oyun konsolu hesabınız vasıtası ile oyun konsollarında (PlayStation®, Microsoft Xbox ve Nintendo Switch gibi) indirmeyi ve oynamayı tercih edebilirsiniz. Bunu yaptığınız zaman, o platformu veya hizmeti işleten şirket, bizim ile bazı bilgiler paylaşabilir ve bu bilgiler bize oyun oynamanızı kolaylaştırmak, ilerlemenizi ve haklarınızı izlemek gibi şeyler yapmamızı sağlar.
 
 <EULA.Highlight>D. Sahteciliği Önleme ve Hile ile Mücadele</>
 
-
 Kullanıcılara Epic Hizmetleri’nde adil, dengeli ve rekabetçi bir deneyim sağlamak bizim için son derece önemlidir. Epic Hizmetleri’nde hileye, korsanlığa, hesap çalmaya, yetkisiz veya aldatıcı başka faaliyetlere karşı kesin olarak yasaklar uyguluyoruz. Zararlı faaliyeti belirlememize ve önlememize yardımcı olması için çok çeşitli hile ile mücadele ve sahteciliği önleme teknolojileri kullanıyoruz. Bu hizmetler hileyi algılamak için bilgisayarınız ve bilgisayarınızdaki yazılım hakkında veriler toplayabilir ve analiz edebilir ve Epic veya hizmet sağlayıcılar tarafından sağlanabilir.
-
 
 <EULA.Header>3. BİLGİLERİ NASIL KULLANIYORUZ?</>
 
-
-Genel bir konu olarak, topladığımız bilgileri (ayrı olarak ya da bu politikada açıklandığı gibi, toplanan diğer bilgiler ile birlikte) Epic Hizmetleri’ni sağlamamıza, iyileştirmemize, özelleştirmemize, analiz etmemize ve tanıtmamıza yardımcı olması için kullanırız.
-
-
-Bunların şu gibi amaçlar için kullanılması buna dâhildir:
-
+Genel bir konu olarak, topladığımız bilgileri (ayrı olarak ya da bu politikada açıklandığı gibi, toplanan diğer bilgiler ile birlikte) Epic Hizmetleri’ni sağlamamıza, iyileştirmemize, özelleştirmemize, analiz etmemize ve tanıtmamıza yardımcı olması için kullanırız. Bunların şu gibi amaçlar için kullanılması buna dâhildir:
 
 • Kullanıcı hesaplarının ve özelliklerinin oluşturulması, doğrulanması ve yönetilmesi;
-
-
 • Epic Hizmetleri’nin sağlanmasının yanı sıra soruları yanıtlama, işlemleri veya istekleri işleme, kullanıcılar ile iletişim kurma (hizmet ve hesap ile ilgili mesajlar ve güncellemeler göndermek gibi) yolları dâhil olmak üzere hizmetler için destek ve yardım sağlanması;
-
-
 • Epic Hizmetleri’nin ve bazıları başka taraflar ile ortaklık içinde sunulabilecek olan diğer tekliflerimizin geliştirilmesi, sağlanması ve iyileştirilmesi;
-
-
 • Size, ilgi alanlarınıza veya ilgi alanlarınız hakkındaki yaptığımız çıkarımlara daha uygun duruma getirilmiş içerik veya özellikler sunmak dâhil olmak üzere deneyiminizin kişiselleştirilmesi (örneğin, belli bir türdeki oyunları sık şekilde oynamanız durumunda o türe ilgi duyacağınız sonucuna varabilir ve size benzer oyunlar önerebiliriz);
-
-
 • Reklamlarımızı, promosyon tekliflerimizi, anketlerimizi ve etkinliklerimizi yöneterek, özelleştirerek ve bunların etki düzeyini ölçerek Epic Hizmetleri’nin tanıtılması;
-
-
 • Alfa, beta veya erken erişim testlerinin yönetilmesi (ve geri bildirim toplanması);
-
-
 • Veri analizi yapılması (Epic Hizmetleri’ni daha iyi anlayabilmemiz, geliştirebilmemiz ve kişiselleştirebilmemiz için onların nasıl kullanıldığını analiz etmek gibi);
-
-
-• Yasa veya sözleşme temelindeki yükümlülüklerimize uyulması ve koşullarımızın yürürlüğe konması;
-
-
+• Yasa veya sözleşme temelindeki yükümlülüklerimize uyulması ve koşullarımızın yürürlüğe konması; 
 • Sahteciliği belirleyerek yapılması gibi Epic Hizmetleri’nin güvene alınması, Epic’in ve diğer kullanıcıların yasa dışı veya zararlı davranışlardan korunması ve
-
-
 • Bu amaçları gerçekleştirmek için kullanılan teknolojilerin veya süreçlerin iyileştirilmesi (örneğin zehirli, yasa dışı veya zararlı içeriğin belirlenmesine veya hafifletilmesine yardımcı olmak veya <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Topluluk Kurallarımız</> gibi koşullarımızı ve politikalarımızı uygulamak ve yürürlüğe koymak için kullanılan makine öğrenimi modellerinin eğitilmesi gibi).
-
 
 Ayrıca, bizim oluşturduğumuz veya başka kaynaklardan topladığımız toplu duruma getirilmiş veya kimlikten arındırılmış bilgiler dâhil olmak üzere, sizi bireysel olarak belirlemeyen bilgiler işleyebiliriz. Bu bilgiler daha geniş kullanıcı gruplarını daha iyi anlamamızı sağlar. Bu bilgileri sizi belirleyen bilgiler ile birleştirmemiz hâlinde bunları bu gizlilik politikasında açıklanan şekilde ele alacağız. Ancak bu gizlilik bildiriminin sizi bireysel olarak belirlemeyen bilgileri işleme olanağımızı kısıtlamadığına ve toplu duruma getirilmiş veya kimlikten arındırılmış bilgileri yasanın izin verdiği herhangi bir nedenle kullanabileceğimize ve açıklayabileceğimize lütfen dikkat edin.
 
-
 <EULA.Header>4. BİLGİLERİ NASIL PAYLAŞIYORUZ?</>
-
 
 Topladığımız bazı bilgileri Epic Hizmetleri’ni işletmeye ve geliştirmeye yardımcı olmak için paylaşabiliriz. Bizimle nasıl etkileşimde bulunduğunuza bağlı olarak yaygın örnekler şunlardır:
 
-
 • Konsol ve platform iş ortakları ile (örneğin, Epic Hizmetleri’ne üçüncü taraf bir konsol sağlayıcı vasıtası ile eriştiğiniz zaman oyun oynamayı kolaylaştırmak için);
-
-
 • Diğer oyun geliştiricileri ile (örneğin, Epic Games Mağazası vasıtası ile elde ettiğiniz oyunun özelliklerini etkinleştirmek için);
-
-
 • Diğer kullanıcılar ile (örneğin, sohbet gibi sosyal özellikler kullandığı takdirde);
-
-
 • Herkese açık olarak (örneğin, görüntüleme adınız, oluşturduğunuz veya paylaştığınız içerik, temel oyun istatistikleri ve benzer başka bilgiler, başkaları için genellikle erişilebilir olabilir);
-
-
 • Epic Hizmetleri’ni bizim talimatlarımıza uygun şekilde desteklemeye yardımcı olmak için bizim adımıza faaliyet gösteren hizmet sağlayıcılar ile (örneğin, bulut depolama sağlayıcılar, ödeme işleyiciler veya pazarlama ve reklam iş ortakları);
-
-
 • Yasaya uymak için veya sizi, Epic’i veya başkalarını korumak için mecbur olduğumuza inandığımız zaman (örneğin, mahkeme emrine veya celbine karşılık olarak, sahtecilik veya başka bir yasa dışı faaliyet veya hükümler ve koşullarımızın ihlali hakkındaki bir soruşturmanın parçası olarak veya başkalarını ölümden veya ağır yaralanmadan ya da maddi zarardan korumak için gerekli olması hâlinde);
-
-
 • Diğer Epic tüzel kişilikleri ile (Epic Hizmetleri için uluslararası şekilde destek sağlanmasına yardımcı olmak dâhil);
-
-
 • Bazı kurumsal işlem türleri ile ilişkili olarak (örneğin, işimizin tamamının veya önemli bir bölümünün yeniden yapılandırılması veya satılması durumunda);
-
-
 • Sizin izninizle (örneğin, dış hesapları Epic hesabınız ile bağladığınız veya üçüncü taraf oyunlarda veya hizmetlerde oturum açmak veya çapraz promosyon etkinliklerine katılmak için Epic hesabınızı kullandığınız takdirde) ve
-
-
 • Ayrıca toplu duruma getirilmiş veya kimlikten arındırılmış bilgiler dâhil olmak üzere, sizi belirlemeyen bilgileri üçüncü taraflar ile paylaşabiliriz.
-
 
 Güvenlik amaçları için Epic’e sağlanan hiçbir cep telefonu numarası pazarlama/tanıtım amaçları için üçüncü taraflarla paylaşılmayacaktır. 
 
-
 Kişisel bilgilerinizi üçüncü taraflarla paylaştığımız takdirde bu üçüncü tarafların Epic'in bu gizlilik politikasında tanımladığı koruma önlemleri ile aynı olan veya onlara önemli ölçüde benzeyen koruma önlemleri sağlamasını temin etmeye çalışırız. 
-
 
 Epic Hizmetleri vasıtası ile etkileşimde bulunduğunuz üçüncü taraflar Epic’ten farklı gizlilik uygulamalarına sahip olabilir ve bu nedenle, bilgilerinizi onlar ile paylaşmadan önce onların gizlilik politikalarını incelemenizi tavsiye ederiz.
 
-
 <EULA.Header>5. ÇOCUKLARIN GİZLİLİĞİ</>
-
 
 Epic Hizmetleri’ni, dünyanın her yerindeki her yaştan kullanıcıyı kucaklayacak şekilde tasarlarız. Bu, kullanıcılardan yaş bilgileri topladığımız anlamına gelir ve bazı hizmetlerimiz, bir kullanıcının yaşı ve nerede yaşadığı hakkında bildiklerimiz temelinde farklı bir deneyim sağlayacaktır. Aşağıdaki bilgiler, ebeveynlerin ve vasilerin çocuklarla (13 yaşının veya kullanıcının bölgesinde dijital izin yaşının altında, hangisi daha yüksekse) ilgili gizlilik uygulamalarımızı anlamaları içindir.
 
-
 Bir kullanıcı çocuk olduğunu belirttiği zaman yukarıda tanımlandığı gibi artık çocuk olmayana kadar ya da ebeveyni veya vasisi ek gizlilik izni verene ve ebeveyn kontrollerini etkinleştirene kadar bir “Sınırlı Hesaba” yerleştirilir. Sınırlı Hesap, Fortnite ve Fall Guys gibi Epic oyunlarını oynayabilir ancak sesli sohbet ve gerçek para ile satın alma gibi özellikler etkin değildir. Epic, her durumda geçerli gençler gizlilik ve koruma yasalarına göre Sınırlı Hesapları işletmek için bunlardan sınırlı kişisel bilgiler toplar:
 
-
 • Yaşı belirlemek ve uygun ayarları uygulamak için doğum tarihi ve ülkesi;
-
-
 • Ek özellikler için bildirimde bulunmak ve izin almak için ebeveyn veya vasi e-posta adresi (ebeveyn 14 gün içinde yanıt vermezse bu silinir);
-
-
 • Oturum açmak için kullanıcı e-posta adresi (yalnızca okunamayan kıyılmış ve dolgu baytları eklenmiş bir biçimde saklanır) ve
-
-
 • Epic Hizmetleri’ni sağlamak ve sürdürmek (onları iyileştirmek için analizler dâhil), kullanıcıların güvenliğini ve bütünlüğünü korumak, yasa ve düzenleyici uyumunu sağlamak ve oyun geliştirme ve avatar seçimi gibi oyun içi kişiselleştirmeyi kolaylaştırmak için IP adresi, oyun platformu hesap kimlikleri, cihaz tanımlayıcıları ve web sitesi izleme teknolojileri ile bağlantılı benzer veriler gibi kalıcı tanımlayıcılar.
 
-
-Bir Sınırlı Hesabı olan bir kullanıcı bir soru veya talep için bizimle iletişime geçerse sağlanan tüm kişisel bilgiler sorgu çözümlendikten sonra silinecektir. Sınırlı Hesaplardan gelen kişisel bilgileri harici olarak paylaştığımız zaman bu da bu sınırlı amaçları gerçekleştirmemize yardımcı olur (oyununuzu yürütmeye yardımcı olmak için konsollarla veya bulut depolama sağlayıcımızla paylaşmak gibi) <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">Sınırlı Hesaplar hakkında daha fazla bilgi edinin</><EULA.Highlight>.</>
-
+Bir Sınırlı Hesabı olan bir kullanıcı bir soru veya talep için bizimle iletişime geçerse sağlanan tüm kişisel bilgiler sorgu çözümlendikten sonra silinecektir. Sınırlı Hesaplardan gelen kişisel bilgileri harici olarak paylaştığımız zaman bu da bu sınırlı amaçları gerçekleştirmemize yardımcı olur (oyununuzu yürütmeye yardımcı olmak için konsollarla veya bulut depolama sağlayıcımızla paylaşmak gibi). <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">Sınırlı Hesaplar hakkında daha fazla bilgi edinin</>.
 
 <EULA.Highlight>A. Bildirim, İzin ve Ebeveyn Kontrolleri</>
 
-
 Ebeveyne veya vasiye çocuğun bir Sınırlı Hesap oluşturduğuna dair bir e-posta bildirimi göndermek için bir çocuk oyuncudan bir ebeveyn veya vasi e-posta adresi alırız. Bu bildirim ayrıca onların Sınırlı Olmayan Hesaplar için gizlilik uygulamalarımızı incelemelerine, çocuklarının ek özellikleri etkinleştirmesi için Sınırlı Olmayan bir Hesaba izin vermelerine ve Ebeveyn Kontrolleri oluşturmalarına olanak verir. Lütfen ebeveynlerin/vasilerin Sınırlı olmayan bir Hesaba izin vermek için ebeveyn doğrulama sürecimizi tamamlaması gerektiğini unutmayın.
 
-
-Ebeveyn/vasi ve kullanıcı yaşı doğrulama amaçları için, yan kuruluşumuz Kids Web Services Ltd tarafından sunulan bir hizmet olan Kids Web Services’ı (KWS / Çocuklar Web Hizmetleri) kullanırız. KWS teknolojisi tarafından işletilen diğer oyunlara/hizmetlere erişmek üzere e-posta adresinizi kullanacağınız bir dahaki sefere KWS yaşınızı doğrulamış olduğunuzu hatırlayacak ve böylece tekrar doğrulamanız gerekmeyecektir. Kişisel bilgilerinizin bazılarının bu kapsamda ele alınmasından Epic ve KWS müştereken sorumludur. <EULA.Highlight>Doğrulanabilir ebeveyn izni</> ve KWS hakkında <EULA.Highlight>KWS Gizlilik Politikası</>’nda daha fazla bilgi edinin.
-
+Ebeveyn/vasi ve kullanıcı yaşı doğrulama amaçları için, yan kuruluşumuz Kids Web Services Ltd tarafından sunulan bir hizmet olan Kids Web Services’ı (KWS / Çocuklar Web Hizmetleri) kullanırız. KWS teknolojisi tarafından işletilen diğer oyunlara/hizmetlere erişmek üzere e-posta adresinizi kullanacağınız bir dahaki sefere KWS yaşınızı doğrulamış olduğunuzu hatırlayacak ve böylece tekrar doğrulamanız gerekmeyecektir. Kişisel bilgilerinizin bazılarının bu kapsamda ele alınmasından Epic ve KWS müştereken sorumludur. <a id="url" href="https://www.epicgames.com/site/parental-consent" style="EULA.Hyperlink">Doğrulanabilir ebeveyn izni</> ve KWS hakkında <a id="url" href="https://www.kidswebservices.com/privacy-policy" style="EULA.Hyperlink">KWS Gizlilik Politikası</>’nda daha fazla bilgi edinin.
 
 Bir ebeveyn veya vasi, çocuğuna Sınırlı olmayan bir Hesap için izin verdiği zaman Ebeveyn Kontrolleri otomatik olarak etkinleştirilir. Böylece Ebeveyn Kontrollerine bir PIN kodu kullanılarak erişilebilir, belirli özellikler hakkında izin akışı sırasında yapılan seçenekleri değiştirmenize ve çocuğunuzun deneyimini daha da özelleştirmenize olanak verir. <a id="url" href="https://www.epicgames.com/site/parental-controls" style="EULA.Hyperlink">Ebeveyn Kontrolleri hakkında daha fazla bilgi edinin</>.
 
-
-Bir ebeveyn, çocuğu için Sınırlı olmayan bir Hesaba yetki verdikten sonra, bu Gizlilik Politikasının başka bir yerinde açıklanan gizlilik uygulamaları genellikle geçerlidir ancak genç kullanıcılar tüm içeriğe veya özelliklere erişemeyebilir (varsayılan gizlilik ayarlarımız, belirli hizmet ve özellikler için yaş gerekliliklerimiz ve/veya yürürlükteki Ebeveyn Kontrollerimiz nedeniyle). Ebeveyn kontrol ayarlarına ve kullanıcının yaşına bağlı olarak, kullanıcılar iletişimlere ve sosyal özelliklere (sohbet gibi) erişebilir ve Epic Hizmetleri’nin çoğu ile serbestçe etkileşime girebilir (Epic Games Mağazası’ndan başka oyunlar indirmek dâhil). Bir kullanıcı Epic Games Mağazası üzerinden üçüncü taraf bir oyuna veya uygulamaya eriştiği zaman işlemi ve ürün özelliklerini etkinleştirmek için bazı hesap bilgileri o oyunun veya uygulamanın yayıncısı veya geliştiricisi ile paylaşılır. İndirmeden önce her ürün listesinde geliştiriciyi ve yayıncıyı görebilir veya <a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink">Yayıncı Dizinimizi</> inceleyebilirsiniz. Epic’in bu üçüncü taraflarla veri paylaşımı hakkındaki sorularınız için lütfen aşağıda açıklanan şekilde bizimle iletişime geçin. Ek ayrıntılar için lütfen yukarıdaki “Hangi Bilgileri Topluyoruz?”, “Bilgileri Nasıl Kullanıyoruz?” ve “Bilgileri Nasıl Paylaşıyoruz?” bölümlerine bakın.
-
+Bir ebeveyn, çocuğu için Sınırlı olmayan bir Hesaba yetki verdikten sonra, bu Gizlilik Politikasının başka bir yerinde açıklanan gizlilik uygulamaları genellikle geçerlidir ancak genç kullanıcılar tüm içeriğe veya özelliklere erişemeyebilir (varsayılan gizlilik ayarlarımız, belirli hizmet ve özellikler için yaş gerekliliklerimiz ve/veya yürürlükteki Ebeveyn Kontrollerimiz nedeniyle). Ebeveyn kontrol ayarlarına ve kullanıcının yaşına bağlı olarak, kullanıcılar iletişimlere ve sosyal özelliklere (sohbet gibi) erişebilir ve Epic Hizmetleri’nin çoğu ile serbestçe etkileşime girebilir (Epic Games Mağazası’ndan başka oyunlar indirmek dâhil). Bir kullanıcı Epic Games Mağazası üzerinden üçüncü taraf bir oyuna veya uygulamaya eriştiği zaman işlemi ve ürün özelliklerini etkinleştirmek için bazı hesap bilgileri o oyunun veya uygulamanın yayıncısı veya geliştiricisi ile paylaşılır. İndirmeden önce her ürün listesinde geliştiriciyi ve yayıncıyı görebilir veya<EULA.Highlight> </><a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink">Yayıncı Dizinimizi</> inceleyebilirsiniz. Epic’in bu üçüncü taraflarla veri paylaşımı hakkındaki sorularınız için lütfen aşağıda açıklanan şekilde bizimle iletişime geçin. Ek ayrıntılar için lütfen yukarıdaki “Hangi Bilgileri Topluyoruz?”, “Bilgileri Nasıl Kullanıyoruz?” ve “Bilgileri Nasıl Paylaşıyoruz?” bölümlerine bakın.
 
 <EULA.Highlight>B. Çocuk ve Ebeveyn Gizlilik Hakları</>
 
-
-Çocuk kullanıcılar ve ebeveynleri, <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">aşağıda Bölüm 6’da</> açıklanan şekilde kendi kişisel gizlilik haklarını kullanabilirler. Ebeveyn Kontrolleri, ebeveynlerin ve vasilerin çocuklarının sesli sohbet gibi belirli özellikleri kullanması hakkında yaptıkları seçimleri değiştirmelerini sağlar. Ebeveynler ve Vasiler ayrıca çocuğun Epic Games tarafından tutulan kişisel bilgilerini inceleyebilir ve çocuklarının Epic hesabını silebilir (bu işlem kişisel bilgileri siler ve daha fazla toplamayı durdurur). Bu hakları kullanmak veya çocukların kişisel bilgilerini nasıl ele aldığımız hakkında sorular sormak için lütfen aşağıdaki “Bize Ulaşın” bölümüne bakın veya doğrudan <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Ebeveyn Destek Talebi formumuza</> gidin.
-
+Çocuk kullanıcılar ve ebeveynleri, aşağıda Bölüm 6’da açıklanan şekilde kendi kişisel gizlilik haklarını kullanabilirler. Ebeveyn Kontrolleri, ebeveynlerin ve vasilerin çocuklarının sesli sohbet gibi belirli özellikleri kullanması hakkında yaptıkları seçimleri değiştirmelerini sağlar. Ebeveynler ve Vasiler ayrıca çocuğun Epic Games tarafından tutulan kişisel bilgilerini inceleyebilir ve çocuklarının Epic hesabını silebilir (bu işlem kişisel bilgileri siler ve daha fazla toplamayı durdurur). Bu hakları kullanmak veya çocukların kişisel bilgilerini nasıl ele aldığımız hakkında sorular sormak için lütfen aşağıdaki “Bize Ulaşın” bölümüne bakın veya doğrudan <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Ebeveyn Destek Talebi formumuza</> gidin.
 
 <EULA.Header>6. SEÇENEKLERİNİZ VE KONTROLLERİNİZ</>
 
-
 Topladığımız kişisel bilgiler hakkında size anlamlı seçenekler sunmaya çalışıyoruz. Kullanabileceğiniz belirli seçenekler, sıklıkla, kullandığınız Epic Hizmetleri gibi sizin ile ilişkimizin kesin özelliğine bağlı olarak değişir. Yaygın örnekler arasında şunlar vardır:
 
-
 • Sizden toplamış olduğumuz kişisel bilgilere erişim sağlamamızı, onları düzeltmemizi veya silmemizi isteyebilirsiniz. Epic hesabınız ile ilişkili kişisel bilgilere erişme, onları güncelleme veya silme isteklerini lütfen aşağıdaki “Bize Ulaşın” bölümünde açıklandığı gibi bize ulaşarak gönderin. İsteğinizi tamamlamadan önce, kim olduğunuzu doğrulamamıza yardımcı olması için sizden ek bilgiler isteyebileceğimizi göz önünde bulundurun.
-
-
 • Geçerli ise, otomatik yollardan alınan kararlara itiraz etme veya bunların insan tarafından incelenmesini talep etme seçeneğiniz de olabilir.
-
-
 • Örneğin, pazarlama e-postalarındaki tercih dışı bırakma mekanizmasını kullanarak, Epic hesabı ayarlarınızı güncelleyerek veya isteğiniz hakkında bize erişerek e-posta pazarlama tercihlerinizi herhangi bir zamanda değiştirebilirsiniz (aşağıdaki “Bize Ulaşın” bölümüne bakın).
-
-
 • Başka tarafların bizim ile paylaşabileceği bilgileri sınırlandırmak için onların web sitelerindeki (sosyal ağlar gibi) veya platformlarındaki (konsol sağlayıcılar gibi) gizlilik ayarlarınızı değiştirebilirsiniz.
-
-
 • Çerezler gibi izleme teknolojilerini engellemek, yönetmek, silmek veya sınırlandırmak için tarayıcı veya mobil cihaz ayarlarınızı değiştirebilirsiniz. Bazı durumlarda, çerezleri engellemek veya kapatmak, Epic Hizmetleri’nin amaçlandığı şekilde çalışmamasına neden olabilir ve bazı özelliklere erişemeyebilirsiniz.
-
-
 • 18 yaşının altında olmanız ve bir Epic hesabınız bulunması durumunda, Epic Hizmetleri’nde sağlamış olduğunuz bazı içerikleri kaldırmamızı veya isimsiz duruma getirmemizi isteyebilirsiniz. Epic Hizmetleri’ndeki içeriği silmeye veya düzenlemeye yardımcı olma isteklerini lütfen aşağıdaki “Bize Ulaşın” bölümünde açıklandığı gibi Epic’e yönlendirin.
-
-
 • Ebeveynler ve vasiler <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">Ebeveyn Kontrollerini</> kullanarak çocuklarının Epic hesabının ayarlarını yapabilir.
-
 
 Dünyanın bazı yerlerinde bireylere, onların kişisel bilgileri ile ilgili olarak yerel yasa kapsamındaki haklar yolu ile belirli seçenekler sağlamaktadır.
 
+<EULA.Header>7. SAKLAMA</>
 
-<EULA.Header>7. GLOBAL FAALİYETLERİMİZ</>
+İşlediğimiz söz konusu kişisel bilgiler ve bunu yapma nedenlerimiz Epic Hizmetleri’ni nasıl kullandığınıza bağlı olarak sıklıkla değiştiği için onları ne kadar süreyle sakladığımız da değişkenlik gösterebilir. Yasa tarafından daha uzun bir saklama dönemi gerekli tutulmadığı veya buna izin verilmediği sürece kişisel bilgileri genellikle bu politikada açıklanan amaçlar (yasal yükümlülüklerimize uymak, iç kayıtları yönetmek, koşullarımızı yürürlüğe koymak ve anlaşmazlıkları çözümlemek gibi) için, makul olarak gerek duyduğumuz sürece saklarız.
 
+Belirli saklama dönemlerini belirlerken göz önünde bulundurduğumuz temel kıstaslar çoğunlukla şunları içerir: geçerli yasa kapsamındaki asgari gereklilikler, ilgili endüstri standartları, söz konusu olan bilgi türleri (hassasiyet düzeyi gibi), muhtemel davalar veya benzer işlemler ile ilgisi (yasal taleplere karşı kendimizi savunmak gibi) ve sahteciliği veya Epic Hizmetleri’nin benzer şekilde kötüye kullanılmasını önlemek için bilgilere gerek olup olmaması (hileye ve başka yetkisiz davranışlara karşı yasaklar yürürlüğe koymak dâhil). Örneğin, bir Epic hesabı oluşturmanız durumunda Epic hesabınız ile ilişkili kişisel bilgileri, hesabınızı muhafaza etmek, istediğiniz Epic Hizmetleri’ni sağlamak, Epic Hizmetleri’ni kullanımınız için geçerli olan ve onu düzenleyen tüm koşulları yürürlüğe koymak ve size Epic Hizmetleri’ni nasıl sağladığımızı yansıtan gerekli kayıtları tutmak için gerekli olduğu sürece, genellikle saklayacağız.
 
-Epic Games, Inc. Birleşik Devletler’de kurulmuştur, ama dünyanın her yerindeki kullanıcılara Epic Hizmetleri’nde daha iyi bir deneyim sağlamaya yardımcı olması için küresel ölçekte faaliyet gösteriyoruz. Bu faaliyetleri bir dizi farklı yollardan desteklemesi için dünyanın çeşitli yerlerinde iştiraklerimiz, ofislerimiz, hizmet sağlayıcılarımız ve iş ortaklarımız vardır -- örneğin, Fall Guys’ın geliştiricisi, Birleşik Krallık’ta kurulmuş Mediatonic Limited adlı bir iştiraktir. Yani Epic, Epic Hizmetleri’ni kullanımınız ile ilgili olarak topladığımız bilgileri ikamet ettiğiniz bölgenin dışındaki yerlerde işleyebilir.
+Epic’in kişisel verilerinizi silmesini isteme hakkında daha fazla bilgi için lütfen yukarıdaki “Seçenekleriniz ve Kontrolleriniz” bölümüne bakın.
 
-
-<EULA.Highlight>A. Veri Aktarımları</>
-
-
-Epic Hizmetleri’ni kullandığınız zaman, bilgileriniz ABD’ye ya da, bizim veya hizmet sağlayıcılarımızın faaliyet gösterdiği başka ülkelere aktarılabilir veya oralarda depolanabilir. Bu ülkelerdeki veri koruma yasaları ve kuralları yaşadığınız yerdekilerden farklı olabilir. Uygun olduğu zaman, toplandığı ülkenin dışına bilgi aktarımlarını yasaya uygun şekilde desteklemeye yardımcı olması için çeşitli yasal mekanizmalara yaslanırız. Yerel yasa kapsamında izin verildiği takdirde, Epic’e Epic Hizmetleri’ni kullanarak bilgilerinizi faaliyet gösterdiğimiz yerlerin herhangi birisinde (Birleşik Devletler dâhil) işlemesi için yetki veriyorsunuz.
-
-
-Kullandığınız Epic Hizmetleri’ni işletmekten sorumlu olan Epic tüzel kişiliği hakkında daha fazla bilgi için aşağıdaki “Bize Ulaşın” bölümüne bakın.
-
-
-<EULA.Highlight>B. Kaliforniya Sakinleri</>
-
-
-Kaliforniya Tüketici Gizliliği Yasası veya “CCPA” Kaliforniya’da ikamet eden tüketicilere onların kişisel bilgileri konusunda bazı haklar vermektedir. Bir Kaliforniya sakini olmanız durumunda şu haklarınız bulunabilir: (1) topladığımız, kullandığımız ve açıkladığımız kişisel bilgilerin kategorileri ve belirli unsurları hakkında daha fazla bilgi almak; (2) kişisel bilgilerinizin silinmesini istemek; (3) kişisel bilgilerinizin (var ise) satılmasını tercih dışı bırakmak ve (4) bu hakları kullanmak yüzünden ayırımcılığa uğramamak.
-
-
-Siz veya yetkili temsilciniz aşağıdaki “Bize Ulaşın” bölümünde açıklandığı gibi bize ulaşarak bu isteklerde bulunabilir. İsteğinizi tamamlamadan önce, kim olduğunuzu doğrulamamıza yardımcı olması için sizden ek bilgiler isteyebileceğimizi göz önünde bulundurun. İsteğinizi yetkili bir temsilciden almamız durumunda o kişiye sizin adınıza haklar kullanmak üzere isteklerde bulunmak için yetki verdiğinizin kanıtını isteyebiliriz. CCPA kapsamındaki haklarınızı kullanmanız hâlinde size karşı ayırımcılık yapmayacağız.
-
-
-Biz CCPA’da açıklanan şekli ile aşağıdaki kişisel bilgi kategorilerini toplarız:
-
-
-• Tanımlayıcılar (e-posta adresleri gibi);
-
-
-• Demografik bilgiler (yaşlar gibi);
-
-
-• Ticari bilgiler (haklar veya satın alma geçmişi dâhil);
-
-
-• İnternet veya elektronik ağ faaliyeti (örneğin, oyun oynama veya web sitesi kullanımı ayrıntıları);
-
-
-• Ses, elektronik, görsel veya benzer bilgiler (sesli sohbet gibi);
-
-
-• Coğrafi konum bilgileri (IP adresinizden elde edilebilecek veya fatura bilgilerinizde bulunabilecek olanlar gibi);
-
-
-• Kaliforniya yasası kapsamında tanımlanan diğer “kişisel bilgiler” (kredi veya banka kartı bilgileriniz gibi) ve
-
-
-• Bu kategorilerin herhangi birisinden elde edilen çıkarımlar (örneğin, satın alma geçmişinizden yola çıkarak oynamayı tercih edebileceğiniz oyunların türleri hakkında).
-
-
-Topladığımız kesin veri noktaları ve bu bilgileri almış olduğumuz kaynakların kategorileri hakkındaki ayrıntılar için lütfen yukarıdaki “Hangi Bilgileri Topluyoruz?” bölümüne bakın. Kişisel bilgileri yukarıdaki “Bilgileri Nasıl Kullanıyoruz?” bölümünde açıklanan iş ve ticaret amaçları için topluyoruz.
-
-
-Epic, topladığımız kişisel bilgileri satmaz veya paylaşmaz (bunların CCPA’da tanımlanan şekli ile). Ama kişisel bilgileri bu politikada açıklanan şekilde paylaşıyoruz (yukarıdaki “Bilgileri Nasıl Paylaşıyoruz?” bölümüne bakın). Son 12 ay içinde aşağıdaki alıcı kategorilerine kişisel bilgi açıkladık:
-
-
-• İş ortakları (örneğin, e-posta adresinizi Epic Games Mağazası’nda satın aldığınız bir oyunun geliştiricisi ile paylaşmamızı istediğiniz takdirde);
-
-
-• Diğer Epic tüzel kişilikleri (bazı Epic Hizmetleri’nin desteklenmesine yardımcı olabilecek iştirakler gibi);
-
-
-• Diğer kullanıcılar (örneğin, Epic Hizmetleri’nde sohbet veya sosyal özelliklerini kullanmanız hâlinde);
-
-
-• Hizmet sağlayıcılar (yukarıdaki “Bilgileri Nasıl Paylaşıyoruz?” bölümünde açıklandığı gibi);
-
-
-• İşletim sistemleri ve platformları ve
-
-
-• Yasal bir isteğe yanıt olarak devlet kuruluşları veya başka üçüncü taraflar.
-
-
-<EULA.Highlight>C. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre Sakinleri</>
-
-
-Avrupa Ekonomik Alanı (AEA), Birleşik Krallık (UK) veya İsviçre içinde bulunmanız halinde kişisel verilerinizin işlenme şekli ile ilgili bazı haklarınız olur.
-
-
-<EULA.Highlight>Veri Sahibi Hakları</>
-
-
-Epic Hizmetleri vasıtası ile hakkınızda toplamış olduğumuz kişisel verilere erişme, düzletme veya silme hakkınız olabilir. Ayrıca, sağlamış olduğunuz kişisel verilerin taşınabilir bir kopyasını alma ve kişisel verilerinizin örneğin, doğrudan pazarlama için işlenmesine itiraz etme veya bunu kısıtlama hakkınız olabilir. Geçerli ise, insan incelemesi veya yarışma kararlarının otomatik yollardan yapılmasını isteyebilirsiniz. Veri işlememiz için izninizi vermiş olduğunuz zaman izni geri çekme hakkınız vardır.
-
-
-Ayrıca, veri koruma için yerel denetleme makamınız (ülkenizde var ise) ile iletişime geçerek bize karşı şikâyette bulunma hakkınız vardır. Ancak bir veri koruma düzenleyicisi ile iletişime geçmeden önce endişelerinizi ele alma şansına sahip olmaktan memnuniyet duyarız ve şikâyetinizi önce bize iletmenizi isteriz.
-
-
-Herhangi bir ilgili endişeniz için Epic’e ulaşmak hakkında daha fazla bilgi için lütfen aşağıdaki “Bize Ulaşın” bölümüne bakın. Yerel Veri Koruma Makamınız hakkında şu şekilde daha fazla bilgi bulabilirsiniz:
-
-
-• AEA: <a id="url" href="https://www.edpb.europa.eu/about-edpb/about-edpb/members" style="EULA.Hyperlink">Avrupa Veri Koruma Makamları</> 
-
-
-• Birleşik Krallık: <a id="url" href="https://ico.org.uk/global/contact-us/" style="EULA.Hyperlink">Bilgi Komiserliği</>
-
-
-• İsviçre: <a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">Federal Veri Koruma ve Bilgi Komiseri</> 
-
-
-<EULA.Highlight>İşlemenin Temeli</>
-
-
-Kişisel verilerinizi işlemek için dayandığımız yasal temeller, kullandığınız Epic Hizmetleri’ne ve onlar ile nasıl etkileşimde bulunduğunuza bağlıdır. Bunlar başlıca aşağıdakileri içerir:
-
-
-• <EULA.Highlight>Sözleşme Zorunluluğu</>: Hizmet Koşulları veya sizin ile yapılan başka bir benzer sözleşmeye dayalı anlaşma kapsamında istemiş olduğunuz Epic Hizmetleri’ni yerine getirmek için kişisel verileri işleriz. Örneğin, hesabınızı oluşturmak ve muhafaza etmek; satın alımlarınızı işlemek; kullanıcıların kimliğini doğrulamak; kullanıcı deneyimi özellikleri sağlamak (tercihlerinizi kaydetmek gibi); Epic Hizmetleri’ni gözlemlemek ve analiz etmek; sahteciliği, hileyi veya benzer kötüye kullanımları belirlemek ve önlemek; bir oyunu bir platformda oynamanıza ve başka bir platformda ilerlemeye devam etmenize olanak veren çapraz ilerleme gibi özellikleri kolaylaştırmak için, ki bu, bilgilerinizi üçüncü taraf ortaklar ile paylaşmamızı gerektirebilir; hesabınız, işlemleriniz veya diğer güncellemeleriniz hakkında sizinle iletişim kurmak için kişisel verileri işleriz. Ayrıca, sizin ile ilişkilerimizi yönetmek için bir sözleşmenin yerine getirilmesine yaslanırız ve bu, destek isteklerinizi veya genel sorularınızı yanıtlamayı ve geçerli koşullarımızdaki veya politikalarımızdaki değişikliler hakkında size bildirimde bulunmayı içerir.
-
-
-• <EULA.Highlight>Meşru Çıkarlar</>: kişisel verileri, gizlilik haklarınız üzerindeki potansiyel etkilere göre dengelenmiş olarak Epic’in iş amaçları için gereken şekilde işleriz. Bu, makul olarak bekleyebileceğiniz şekilde, şunlar gibi birçok bilinen amaç içerir: sizin ile iletişim kurmak, isteklerinizi yanıtlamak veya size güncellemeler ve bilgiler sağlamak; kullanıcılarımızı ve onların tercihlerini daha iyi anlamak; deneyiminizi kişiselleştirmek, tercihlerinizi kaydetmek, kullanıcılarımızın kimliğini doğrulamak ve benzer kullanıcı deneyimi özellikleri sağlamak; Epic Hizmetleri’ni ve diğer teklifleri geliştirmek, sağlamak ve iyileştirmek (bunların bazıları başka taraflar ile ortaklık hâlinde teklif edilebilir); reklamları ve promosyon amaçlı teklifleri yönetmek ve özelleştirmek; (oyun içi) satın almaları yönetmek; Epic Hizmetleri’ni güvene almak ve korumak; denetlemeyi, veri analizini ve diğer meşru iş faaliyetlerini desteklemek; koşullarımızı ihlal eden hileli, zehirli, zararlı veya yasa dışı içeriği veya davranışı önlemek veya hafifletmek. Bu iş amaçlarını desteklemek için hizmetlerimizdeki zararlı, zehirli veya hileli içeriği belirlemeye yardımcı olmak üzere makine öğrenimi teknolojileri kurabilir, iyileştirebilir ve kullanabiliriz. Bu teknolojiler tarafından belirlenen içerik insan incelemesine tabi olabilir. Aksi takdirde, geçerli ise, otomatik kararların insan tarafından incelenmesini talep etme olanağınız olabilir.
-
-
-• <EULA.Highlight>Yasal Yükümlülükler</>: ilgili yasal süreçlere uygun şekilde kolluk kuvveti makamlarından veya diğer devlet yetkililerinden gelen meşru isteklere yanıt vermek, Epic Hizmetlerinde yasa dışı içeriği veya davranışı belirlemek veya hafifletmek veya geçerli gençleri koruma yasalarına uyumu kolaylaştırmak için doğum tarihini işlemek gibi yasal yükümlülüklere uymak için gerekli olduğu zaman kişisel verileri işleriz.
-
-
-• <EULA.Highlight>İzin</>: kişisel verileri, onları işlememiz için bize izninizi verdiğiniz zaman işleriz. Kişisel verilerinizin talep edilen amaçlar doğrultusunda işlenmesini istemiyorsanız izin vermek zorunda değilsiniz ve izninizi herhangi bir zamanda geri çekebilirsiniz.
-
-
-<EULA.Header>8. SAKLAMA</>
-
-
-İşlediğimiz söz konusu kişisel bilgiler ve bunu yapma nedenlerimiz Epic Hizmetleri’ni nasıl kullandığınıza bağlı olarak sıklıkla değiştiği için onları ne kadar süreyle sakladığımız da değişkenlik gösterebilir. Yasa tarafından uzun bir saklama dönemi gerekli tutulmadığı veya buna izin verilmediği sürece kişisel bilgileri genellikle bu politikada açıklanan amaçlar (yasal yükümlülüklerimize uymak, iç kayıtları yönetmek, koşullarımızı yürürlüğe koymak ve anlaşmazlıkları çözümlemek gibi) için, makul olarak gerek duyduğumuz sürece saklarız.
-
-
-Belirli saklama dönemlerini belirlerken göz önünde bulundurduğumuz temel kıstaslar çoğunlukla şunları içerir: geçerli yasa kapsamındaki asgari gereklilikler, ilgili endüstri standartları, söz konusu olan veri türleri (hassasiyet düzeyi gibi), muhtemel davalar veya benzer işlemler ile ilgisi (yasal taleplere karşı kendimizi savunmak gibi) ve sahteciliği veya Epic Hizmetleri’nin benzer şekilde kötüye kullanılmasını önlemek için verilere gerek olup olmaması (hileye ve başka yetkisiz davranışlara karşı yasaklar yürürlüğe koymak dâhil). Örneğin, bir Epic hesabı oluşturmanız durumunda Epic hesabınız ile ilişkili kişisel bilgileri, hesabınızı muhafaza etmek, istediğiniz Epic Hizmetleri’ni sağlamak, Epic Hizmetleri’ni kullanımınız için geçerli olan ve onu düzenleyen tüm koşulları yürürlüğe koymak ve size Epic Hizmetleri’ni nasıl sağladığımızı yansıtan gerekli kayıtları tutmak için gerekli olduğu sürece, genellikle saklayacağız.
-
-
-Epic’in kişisel verilerinizi silmesini isteme hakkında daha fazla bilgi için lütfen yukarıdaki “Seçenekleriniz ve Kontrolleriniz” ve “Veri Sahibi Hakları” bölümlerine bakın.
-
-
-<EULA.Header>9. GÜVENLİK</>
-
+<EULA.Header>8. GÜVENLİK</>
 
 Kişisel bilgilerinizi kazara, yasadışı veya yetkisiz şekilde imha edilmeye, kaybolmaya, değiştirilmeye, erişilmeye, açıklanmaya, kullanılmaya ve başka yasa dışı işleme şekillerine karşı korumak için uygun idari, teknik ve fiziksel koruma önlemlerine sahibiz. Bazı durumlarda, sunduğumuz bir özelliğe giriş yaptığınızda bilgilerinize erişilebilir ve bu durumlarda, bilgilerinizin korunabilmesi için kullanıcı kimlik bilgilerinizi ve şifrenizi gizli ve güvende tutmanız gerekir. Kişisel bilgilerinizin yetkisiz şekilde açıklandığının farkına varırsak yasanın gerektirdiği şekilde sizi bilgilendireceğiz ve bilgilerinizin güvenliğini sağlamaya yardımcı olmak için gerekli adımları atacağız.
 
-
-<EULA.Header>10. GÜNCELLEMELER</>
-
+<EULA.Header>9. GÜNCELLEMELER</>
 
 Uygulamalarımızdaki ve ilgili yasalardaki değişiklikleri yansıtmak için bu politikayı zaman zaman güncelleyeceğiz. Bunu yaptığımız zaman bu politikanın en üstünde belirtilen tarihi değiştireceğiz. Bazı durumlarda ayrıca ilgili değişiklikler hakkında size e-posta ile veya Epic Hizmetleri içinde bildirimde bulunabiliriz. Epic ile ilişkinizi ve Epic Hizmetleri ile bağlantılı şekilde bilgi toplayabileceğimiz, kullanabileceğimiz ve paylaşabileceğimiz yolları anlamanız için lütfen bu politikayı düzenli şekilde inceleyin.
 
+<EULA.Header>10. GLOBAL FAALİYETLERİMİZ</>
+
+Epic Games, Inc. Birleşik Devletler’de kurulmuştur, ama dünyanın her yerindeki kullanıcılara Epic Hizmetleri’nde daha iyi bir deneyim sağlamaya yardımcı olması için küresel ölçekte faaliyet gösteriyoruz. Bu faaliyetleri bir dizi farklı yollardan desteklemesi için dünyanın çeşitli yerlerinde iştiraklerimiz, ofislerimiz, hizmet sağlayıcılarımız ve iş ortaklarımız vardır -- örneğin, Fall Guys’ın geliştiricisi, Birleşik Krallık’ta kurulmuş Mediatonic Limited adlı bir iştiraktir. Yani Epic, Epic Hizmetleri’ni kullanımınız ile ilgili olarak topladığımız bilgileri ikamet ettiğiniz bölgenin dışındaki yerlerde işleyebilir.
+
+<EULA.Highlight>A. Veri Aktarımları</>
+
+Epic Hizmetleri’ni kullandığınız zaman, bilgileriniz ABD’ye ya da, bizim veya hizmet sağlayıcılarımızın faaliyet gösterdiği başka ülkelere aktarılabilir veya oralarda depolanabilir. Bu ülkelerdeki veri koruma yasaları ve kuralları yaşadığınız yerdekilerden farklı olabilir. Uygun olduğu zaman, toplandığı ülkenin dışına bilgi aktarımlarını yasaya uygun şekilde desteklemeye yardımcı olması için çeşitli yasal mekanizmalara yaslanırız. Yerel yasa kapsamında izin verildiği takdirde, Epic’e Epic Hizmetleri’ni kullanarak bilgilerinizi faaliyet gösterdiğimiz yerlerin herhangi birisinde (Birleşik Devletler dâhil) işlemesi için yetki veriyorsunuz.
+
+Kullandığınız Epic Hizmetleri’ni işletmekten sorumlu olan Epic tüzel kişiliği hakkında daha fazla bilgi için aşağıdaki “Bize Ulaşın” bölümüne bakın.
+
+<EULA.Highlight>B. ABD Eyalet Kapsamlı Gizlilik Yasaları</>
+
+<EULA.Highlight>Kaliforniya'da İkamet Edenler İçin</>
+
+Kaliforniya Tüketici Gizliliği Yasası veya “CCPA”, Kaliforniya sakinlerine kişisel bilgileri konusunda bazı haklar vermektedir. Bu alt bölümde kullanılan terimler CCPA tarafından tanımlanmıştır.
+
+Kaliforniya'da ikamet ediyorsanız şu haklara sahipsiniz:
+
+• toplanan kişisel bilgi kategorileri ve kaynakları, toplama için iş veya ticari amaçlar, kişisel bilgileri ifşa ettiğimiz üçüncü taraf kategorileri ve toplanan belirli kişisel bilgi parçaları dâhil olmak üzere hakkınızda hangi kişisel bilgileri topladığımızı bilmek ve bunlara erişmek; 
+• kişisel bilgilerinizi düzeltmek ve
+• kişisel verilerinizi silmek.
+
+Aşağıdakiler de dâhil olmak üzere operasyonel veya yasal nedenlerle saklanması gerekli olmadıkça kişisel bilgilerinizi sileceğiz:
+
+• talep ettiğiniz Epic Hizmetleri’ni sağlamak, işlemleri tamamlamak veya sizinle sözleşmemizi yerine getirmek;
+• Epic Hizmetlerinin güvenliğini veya bütünlüğünü sağlamak ya da Epic Hizmetleri'nde hata ayıklamak;
+• kendimiz veya başkaları adına yasal hakları kullanmak; 
+• kullanıcı beklentileri ile uyumlu dahili kullanımları mümkün kılmak veya
+• Yasal bir zorunluluğa uymak.
+
+Ayrıca, aşağıdakiler de dahil olmak üzere taleplerinize nasıl yanıt vereceğimizi sınırlayabiliriz: 
+• yasal talepleri ele almak; 
+• yürürlükteki yasalara veya yasal yükümlülüklere uymak veya 
+• kolluk kuvvetleriyle iş birliği yapmak.
+
+Yukarıdaki “Hangi Bilgileri Topluyoruz?” bölümünde daha ayrıntılı olarak açıklandığı üzere sizden topladığımız belirli bilgiler genellikle Epic Hizmetleri üzerinde veya aracılığıyla bizimle nasıl etkileşim kurmayı seçtiğinize bağlıdır. Son 12 ay içinde aşağıdaki kategorilerden kişisel bilgi topladık: 
+• tanımlayıcılar (ör. e-posta adresi);
+• ticari bilgiler (ör. haklar veya satın alma geçmişi);
+• İnternet veya diğer elektronik ağ etkinlik bilgileri (örneğin, oyun veya web sitesi kullanım ayrıntıları);
+• Ses, elektronik, görsel veya benzer bilgiler (ör. sesli sohbet);
+• coğrafi konum verileri (ör. IP adresinizden elde edilebilecek veya fatura bilgilerinizde bulunabilecek olanlar);
+• Kaliforniya yasaları veya federal yasalar uyarınca korunan sınıflandırma özellikleri (ör. yaş); 
+• Kaliforniya Medeni Kanunu Bölüm 1798.80(e)'de tanımlanan kişisel bilgiler (ör. isim veya kredi ya da banka kartı bilgileri); 
+• bazı durumlarda hassas kişisel bilgiler (ör. hesap oturum açma bilgileri ve pazar yerlerimizden birinde yaratıcı içerik listeliyor, satıyor veya takas ediyorsanız, resmi kimlik) ve 
+• Yukarıdaki kategorilerden herhangi birisinden elde edilen çıkarımlar (ör. satın alma geçmişinizden yola çıkarak oynamayı tercih edebileceğiniz oyunların türleri hakkında).
+
+Epic, hassas kişisel bilgileri Epic Hizmetlerini sağlamak için gerekli olan veya CCPA kapsamında izin verilenler dışındaki amaçlar için kullanmaz veya ifşa etmez. Epic ayrıca topladığı kişisel bilgileri satmaz veya paylaşmaz. Buna 16 yaşından küçük olduğunu bildiğimiz kullanıcılar da dahildir. 
+
+(1) kişisel bilgilerinizin toplandığı kaynak kategorileri hakkında daha fazla bilgi için lütfen yukarıdaki “Hangi Bilgileri Topluyoruz?” bölümüne bakın; (2) hassas kişisel bilgiler de dahil olmak üzere kişisel bilgilerinizi toplamanın iş veya ticari amaçları için lütfen “Bilgileri Nasıl Kullanıyoruz?” bölümüne bakın ve (3) kişisel bilgilerinizi ifşa ettiğimiz üçüncü taraf kategorileri için lütfen yukarıdaki “Bilgileri Nasıl Paylaşıyoruz?” bölümüne bakın.
+
+<EULA.Highlight>Diğer ABD Eyaleti Sakinleri İçin </>
+
+Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah ve Virginia eyaletlerinin her biri kapsamlı bir gizlilik yasası çıkararak bu eyaletlerde yaşayanlara kişisel verilerine ilişkin belirli haklar sağlamıştır. Bu alt bölümde kullanılan terimler, ikamet ettiğiniz eyaletteki geçerli gizlilik yasası tarafından tanımlanmıştır.
+
+Bu eyaletlerde ikamet ediyorsanız şu haklara sahipsiniz:
+
+• kişisel verilerinizi işleyip işlemediğimizi bilmek;
+• kişisel verilerinize erişmek ve bir kopyasını almak;
+• kişisel verilerinizi düzeltmek (Utah ve Iowa'da ikamet edenler hariç) ve 
+• kişisel verilerinizi silme.
+
+Belirli yasal yükümlülükler ve operasyonel ihtiyaçlar taleplerinize yanıt verme şeklimizi sınırlandırabilir. Bu istisnalar şunları içerebilir:
+
+• talep ettiğiniz Epic Hizmetlerini sunma veya sözleşmelerimizi yerine getirme;
+• Epic Hizmetlerini geliştirme veya iyileştirmek için araştırma yapma; 
+• teknik sorunları belirleme ve çözme; 
+• kullanıcı beklentilerine uygun diğer dahili işlemleri gerçekleştirme;
+• güvenlik olaylarını, dolandırıcılığı, kimlik hırsızlığını veya diğer yasa dışı veya zararlı faaliyetleri önleme veya bunlara müdahale etme;
+• yasal talepleri ele alma; 
+• yürürlükteki yasalara veya yasal yükümlülüklere uyma veya 
+• kolluk kuvvetleriyle iş birliği yapma.
+
+Epic, topladığı kişisel verileri satmaz veya hedef odaklı reklamcılık için işlemez. Epic ayrıca, yasal veya benzer şekilde önemli etkileri olan kararlar almak için kullanıcılarının profilini otomatik yollarla oluşturmaz. Buna 18 yaşından küçük olduğunu bildiğimiz kullanıcılar da dahildir. 
+
+(1) tarafımızdan işlenen kişisel veri kategorileri hakkında daha fazla bilgi için lütfen yukarıdaki “Hangi Bilgileri Topluyoruz?” bölümüne bakın; (2) 13 yaşın altındaki bilinen bir çocuğun hassas verilerini işlememiz için lütfen yukarıdaki “Çocukların Gizliliği” bölümüne bakın; (3) kişisel verileri işleme amaçlarımız için lütfen yukarıdaki “Bilgileri Nasıl Kullanıyoruz?” bölümüne bakın ve (4) kişisel verileri paylaştığımız üçüncü taraf kategorileri ve paylaştığımız kişisel veri kategorileri için lütfen yukarıdaki “Bilgileri Nasıl Paylaşıyoruz?” bölümüne bakın.
+
+<EULA.Highlight>Gizlilik Haklarınızı Kullanma</>
+
+Gizlilik haklarınızı kullanmak için aşağıdaki “Bize Ulaşın” bölümünde listelenen yöntemlerden birini kullanın. Sadece siz (veya Kaliforniya'da ikamet eden bir kişi adına yetkili bir temsilci) doğrulanabilir bir talep gönderebilirsiniz; bu talep, kimliğinizi doğrulamamız ve talebi anlamamız için yeterli bilgiyi içermelidir. Bir Epic Games hesabınız varsa kimliğinizi doğrulamak için oturum açmanızı isteyebiliriz. Kaliforniya'da ikamet eden kişilerin yetkili temsilcileri, ikamet eden kişi tarafından imzalanmış yazılı izin belgesi sunmalıdır; bu kişilerin kimliklerini doğrudan doğrulamaları da gerekebilir. Kimliğinizi veya yetkinizi doğrulayamazsak talepler reddedilebilir. İtirazlar, aşağıdaki “Bize Ulaşın” bölümünde listelenen aynı iletişim yöntemleri kullanılarak gönderilebilir. 
+
+Yürürlükteki yasalar uyarınca gizlilik haklarınızdan herhangi birini kullandığınız için size karşı ayrımcılık yapmayacağız. 
+
+<EULA.Highlight>C. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre Sakinleri</>
+
+Avrupa Ekonomik Alanı (AEA), Birleşik Krallık (UK) veya İsviçre içinde bulunmanız halinde kişisel verilerinizin işlenme şekli ile ilgili bazı haklarınız olur.
+
+<EULA.Highlight>Veri Sahibi Hakları</>
+
+Epic Hizmetleri vasıtası ile hakkınızda toplamış olduğumuz kişisel verilere erişme, düzletme veya silme hakkınız olabilir. Ayrıca, sağlamış olduğunuz kişisel verilerin taşınabilir bir kopyasını alma ve kişisel verilerinizin örneğin, doğrudan pazarlama için işlenmesine itiraz etme veya bunu kısıtlama hakkınız olabilir. Geçerli ise, insan incelemesi veya yarışma kararlarının otomatik yollardan yapılmasını isteyebilirsiniz. Veri işlememiz için izninizi vermiş olduğunuz zaman izni geri çekme hakkınız vardır.
+
+Ayrıca, veri koruma için yerel denetleme makamınız (ülkenizde var ise) ile iletişime geçerek bize karşı şikâyette bulunma hakkınız vardır. Ancak bir veri koruma düzenleyicisi ile iletişime geçmeden önce endişelerinizi ele alma şansına sahip olmaktan memnuniyet duyarız ve şikâyetinizi önce bize iletmenizi isteriz.
+
+Herhangi bir ilgili endişeniz için Epic’e ulaşmak hakkında daha fazla bilgi için lütfen aşağıdaki “Bize Ulaşın” bölümüne bakın. Yerel Veri Koruma Makamınız hakkında şu şekilde daha fazla bilgi bulabilirsiniz:
+
+• AEA: <a id="url" href="https://www.edpb.europa.eu/about-edpb/about-edpb/members" style="EULA.Hyperlink">Avrupa Veri Koruma Makamları</>
+• Birleşik Krallık: <a id="url" href="https://ico.org.uk/global/contact-us/" style="EULA.Hyperlink">Bilgi Komiserliği Ofisi</> 
+• İsviçre: <a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">Federal Veri Koruma ve Bilgi Komiseri</>
+
+<EULA.Highlight>İşlemenin Temeli</>
+
+Kişisel verilerinizi işlemek için dayandığımız yasal temeller, kullandığınız Epic Hizmetleri’ne ve onlar ile nasıl etkileşimde bulunduğunuza bağlıdır. Bunlar başlıca aşağıdakileri içerir:
+
+• <EULA.Highlight>Sözleşme Zorunluluğu</>: Hizmet Koşulları veya sizin ile yapılan başka bir benzer sözleşmeye dayalı anlaşma kapsamında istemiş olduğunuz Epic Hizmetleri’ni yerine getirmek için kişisel verileri işleriz. Örneğin, hesabınızı oluşturmak ve muhafaza etmek; satın alımlarınızı işlemek; kullanıcıların kimliğini doğrulamak; kullanıcı deneyimi özellikleri sağlamak (tercihlerinizi kaydetmek gibi); Epic Hizmetleri’ni gözlemlemek ve analiz etmek; sahteciliği, hileyi veya benzer kötüye kullanımları belirlemek ve önlemek; bir oyunu bir platformda oynamanıza ve başka bir platformda ilerlemeye devam etmenize olanak veren çapraz ilerleme gibi özellikleri kolaylaştırmak için, ki bu, bilgilerinizi üçüncü taraf ortaklar ile paylaşmamızı gerektirebilir; hesabınız, işlemleriniz veya diğer güncellemeleriniz hakkında sizinle iletişim kurmak için kişisel verileri işleriz. Ayrıca, sizin ile ilişkilerimizi yönetmek için bir sözleşmenin yerine getirilmesine yaslanırız ve bu, destek isteklerinizi veya genel sorularınızı yanıtlamayı ve geçerli koşullarımızdaki veya politikalarımızdaki değişikliler hakkında size bildirimde bulunmayı içerir.
+
+• <EULA.Highlight>Meşru Çıkarlar</>: kişisel verileri, gizlilik haklarınız üzerindeki potansiyel etkilere göre dengelenmiş olarak Epic’in iş amaçları için gereken şekilde işleriz. Bu, makul olarak bekleyebileceğiniz şekilde, şunlar gibi birçok bilinen amaç içerir: sizin ile iletişim kurmak, isteklerinizi yanıtlamak veya size güncellemeler ve bilgiler sağlamak; kullanıcılarımızı ve onların tercihlerini daha iyi anlamak; deneyiminizi kişiselleştirmek, tercihlerinizi kaydetmek, kullanıcılarımızın kimliğini doğrulamak ve benzer kullanıcı deneyimi özellikleri sağlamak; Epic Hizmetleri’ni ve diğer teklifleri geliştirmek, sağlamak ve iyileştirmek (bunların bazıları başka taraflar ile ortaklık hâlinde teklif edilebilir); reklamları ve promosyon amaçlı teklifleri yönetmek ve özelleştirmek; (oyun içi) satın almaları yönetmek; Epic Hizmetleri’ni güvene almak ve korumak; denetlemeyi, veri analizini ve diğer meşru iş faaliyetlerini desteklemek; koşullarımızı ihlal eden hileli, zehirli, zararlı veya yasa dışı içeriği veya davranışı önlemek veya hafifletmek. Bu iş amaçlarını desteklemek için hizmetlerimizdeki zararlı, zehirli veya hileli içeriği belirlemeye yardımcı olmak üzere makine öğrenimi teknolojileri kurabilir, iyileştirebilir ve kullanabiliriz. Bu teknolojiler tarafından belirlenen içerik insan incelemesine tabi olabilir. Aksi takdirde, geçerli ise, otomatik kararların insan tarafından incelenmesini talep etme olanağınız olabilir.
+
+• <EULA.Highlight>Yasal Yükümlülükler</>: ilgili yasal süreçlere uygun şekilde kolluk kuvveti makamlarından veya diğer devlet yetkililerinden gelen meşru isteklere yanıt vermek, Epic Hizmetlerinde yasa dışı içeriği veya davranışı belirlemek veya hafifletmek veya geçerli gençleri koruma yasalarına uyumu kolaylaştırmak için doğum tarihini işlemek gibi yasal yükümlülüklere uymak için gerekli olduğu zaman kişisel verileri işleriz.
+
+• <EULA.Highlight>İzin</>: kişisel verileri, onları işlememiz için bize izninizi verdiğiniz zaman işleriz. Kişisel verilerinizin talep edilen amaçlar doğrultusunda işlenmesini istemiyorsanız izin vermek zorunda değilsiniz ve izninizi herhangi bir zamanda geri çekebilirsiniz.
 
 <EULA.Header>11. BİZE ULAŞIN</>
 
-
 Epic Hizmetleri hakkında sorularınız veya endişeleriniz varsa, (oyunlarla ilgili sorunlar, Epic hesabınıza erişimde sorun, hatalar veya başka teknik sorunlar, ödeme sorunları veya içerik ve hak sahipliği sorunları gibi), lütfen Oyuncu Destek ekiplerimiz ile iletişime geçin. Ürünler ve hizmetler hakkında destek istekleri gönderilmesi hakkında şuradan daha fazla bilgi alabilirsiniz:
 
-
-• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</><EULA.Highlight> </>(Fortnite gibi)
-
-
-• <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</><EULA.Highlight> </>(Rocket League gibi)
-
-
+• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</> (Fortnite gibi)
+• <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</> (Rocket League gibi)
 • <a id="url" href="https://www.postparty.gg/faq" style="EULA.Hyperlink">Life on Air</> (Postparty)
+• <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Mediatonic</> (Fall Guys dâhil)
 
+Gizlilik uygulamalarımız veya bu politika hakkında daha fazla bilgi edinmek veya veri sahibi haklarınızı kullanmak isterseniz lütfen privacy@support.epicgames.com<EULA.Highlight>, </>dpo@support.epicgames.comadreslerine veya bölgenizdeki ilgili Epic Hizmetlerini sağlamaktan sorumlu kuruluşun aşağıda listelenen uygun iletişim bilgilerine e-posta gönderin. 
 
-• <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Mediatonic</><EULA.Highlight> </>(Fall Guys dâhil)
+Ayrıca, 620 Crossroads Blvd., Cary, NC 27518, ABD adresinde bulunan Epic Games, Inc.’ye posta ile mektup göndererek de bize ulaşabilirsiniz (“İlgi: Hukuk Bölümü” şeklinde belirtilmiş olarak).
 
-
-Gizlilik uygulamalarımız veya bu politika hakkında daha fazla bilgi edinmek isterseniz, lütfen sorularınızı privacy@support.epicgames.com, dpo@support.epicgames.com adreslerine veya bölgenizdeki ilgili Epic Hizmetleri’ni sağlamaktan sorumlu kuruluş için aşağıda listelenen uygun iletişim bilgilerine e-posta ile gönderin. Ayrıca, 620 Crossroads Blvd., Cary, NC 27518, ABD adresinde bulunan Epic Games, Inc.’ye posta ile mektup göndererek de bize ulaşabilirsiniz (“İlgi: Hukuk Bölümü” şeklinde belirtilmiş olarak).
-
-<EULA.Highlight>Amerika Birleşik Devletleri dışında yaşıyorsanız, lütfen kullandığınız ürün veya hizmetlerle ilgili aşağıdaki ek iletişim bilgilerine bakın:</>
+<EULA.Highlight>Amerika Birleşik Devletleri dışında yaşıyorsanız lütfen kullandığınız ürün veya hizmetlerle ilgili aşağıdaki ek iletişim bilgilerine bakın:</>
 
 <EULA.Highlight>Epic Games Mağazası’nı kullanıyorsanız:</>
-
 • Veri Sorumlusu: Epic Games, Inc.
-
 • Adres: 620 Crossroads Blvd., Cary, NC 27518, ABD 
-
 • Veri Koruma Yetkilisi: dpo@support.epicgames.com
-
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com) 
 
 <EULA.Highlight>Fortnite gibi Epic Games tarafından sağlanan ve bu gizlilik politikasıyla bağlantıya sahip olan herhangi bir oyunu kullanıyorsanız:</>
-
 • Veri Sorumlusu: Epic Games Entertainment International GmbH
-
 • Adres: Platz 10, 6039 Root D4, İsviçre
-
 • Veri Koruma Yetkilisi: dpo@support.epicgames.com
-
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com) 
 
 <EULA.Highlight>Epic Games tarafından sağlanan ve bu gizlilik politikasıyla bağlantıya sahip olan Unreal Engine gibi herhangi bir başka ürün veya hizmet kullanıyorsanız:</>
-
 • Veri Sorumlusu: Epic Games Commerce GmbH
-
 • Adres: Platz 10, 6039 Root D4, İsviçre
-
 • Veri Koruma Yetkilisi: dpo@support.epicgames.com
-
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com) 
 
 <EULA.Highlight>Mediatonic tarafından sağlanan ve bu gizlilik politikasıyla bağlantıya sahip olan Fall Guys gibi ürünler veya hizmetler kullanıyorsanız:</>
-
 • Veri Sorumlusu: Mediatonic Limited
-
 • Adres: Octagon Point, 5 Cheapside, London, EC2V 6AA, Birleşik Krallık
-
 • İletişim: privacy@support.epicgames.com
-
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com) 
 
 <EULA.Highlight>Psyonix tarafından sağlanan ve bu gizlilik politikasıyla bağlantıya sahip olan Rocket League gibi ürünler veya hizmetler kullanıyorsanız:</>
-
 • Veri Sorumlusu: Psyonix LLC
-
 • Adres: 401 A St. #4200, San Diego, CA 92101, ABD
-
 • İletişim: privacy@support.epicgames.com
-
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com) 
 
 <EULA.Highlight>Kids Web Services Ltd tarafından sağlanan KWS hizmetlerini kullanıyorsanız:</>
-
 • Veri Sorumlusu: Epic ile ortak sorumlu olarak Kids Web Services Ltd
-
 • Adres: Octagon Point, 5 Cheapside, London, EC2V 6AA, Birleşik Krallık
-
 • İletişim: privacy@kidswebservices.com
-
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com) 
 
 <EULA.Highlight>Life on Ailr tarafından sağlanan ve bu gizlilik politikasıyla bağlantıya sahip olan Postparty gibi ürünler veya hizmetler kullanıyorsanız:</>
-
 • Veri Sorumlusu: Life on Air, Inc.
-
 • Adres: 620 Crossroads Blvd., Cary, NC 27518, ABD
-
-• DPO: privacy@support.epicgames.com
-
+• İletişim: privacy@support.epicgames.com
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com) 
 
 <EULA.Highlight>Aquiris tarafından sağlanan ve bu gizlilik politikasıyla bağlantıya sahip olan Horizon Chase 2 gibi ürünler veya hizmetler kullanıyorsanız:</>
-
 • Veri Sorumlusu: Aquiris Games Studio LLC
-
 • Adres: IBCPA, 20801 Biscayne Blvd, Ste 403, Office 415, Aventura, Florida, 33180, ABD vasıtası ile
-
 • Veri Koruma Yetkilisi: dpo@aquiris.com.br.
-
 • AB/BK Temsilcisi: Mishcon de Reya (representative@mishcon.com)
-
-

@@ -1,16 +1,16 @@
-# EPIC GAMES PRIVACY POLICY
+# Epic Games隐私政策
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6840b9075a691f29d991a0cc` |
+| `id` | `68799475921efe687795bd8c` |
 | `key` | `epicgames_privacy_policy_no_table` |
 | `version` | `2` |
-| `revision` | `5` |
-| `title` | `EPIC GAMES PRIVACY POLICY` |
+| `revision` | `6` |
+| `title` | `Epic Games隐私政策` |
 | `locale` | `zh-CN` |
-| `createdTimestamp` | `2025-06-04T21:22:15.140Z` |
-| `lastModifiedTimestamp` | `2025-06-04T21:22:15.140Z` |
+| `createdTimestamp` | `2025-07-18T00:25:25.315Z` |
+| `lastModifiedTimestamp` | `2025-07-18T00:25:25.315Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/zh-CN/v2/r5/20348721b39f17083239f3dd6bfc01d2.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/zh-CN/v2/r6/a5f58795e5b2c051eba5507f6a1d0286.pdf` |
 | `bodyFormat` | `HTML` |
