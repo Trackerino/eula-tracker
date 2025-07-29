@@ -321,7 +321,7 @@ Bitte beachten Sie, dass Epic die Kontoinformationen aus dem Sony Entertainment 
 
 In keinem Fall dürfen Sie eine virtuelle Software-Währung in eine reale Währung, materielle Güter oder Sachleistungen umwandeln, und es ist Ihnen ausdrücklich untersagt, außerhalb der Plattform Verkäufe oder Austausche dieser virtuellen Währung durchzuführen, wie beispielsweise auf eBay oder anderen Auktionsseiten.
 
-<EULA.Highlight>Für SIEA-Benutzer: </>Der Kauf und die Nutzung von Artikeln unterliegen den Nutzungsbedingungen und der Nutzungsvereinbarung des Netzwerks. Dieser Online-Service wurde von Sony Interactive Entertainment America an Sie unterlizenziert.
+<EULA.Highlight>Für SIEA-Benutzer: </>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
 <EULA.Highlight>Für SIEE-Benutzer: </>Alle Inhalte, die in In-Game-Shops käuflich erworben werden, werden von Sony Interactive Entertainment Network Europe Limited („SIENE“) erworben und unterliegen den Nutzungsbedingungen und der Endbenutzervereinbarung von PlayStation™Network, die über PlayStation™Store eingesehen werden können. Wir empfehlen, die Nutzungsrechte für jedes erworbene Produkt zu überprüfen, da sie sich von Fall zu Fall unterscheiden können. Sofern nicht anders angegeben, gilt für sämtliche Inhalte, die in In-Game-Shops erhältlich sind, dieselbe Altersfreigabe wie für das entsprechende Spiel.
 

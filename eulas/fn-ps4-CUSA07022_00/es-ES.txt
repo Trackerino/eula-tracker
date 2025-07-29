@@ -321,9 +321,9 @@ Tenga en cuenta que Epic almacenará la información de la cuenta de Sony Entert
 
 En ningún caso puede convertir ninguna moneda virtual del Software en moneda real, bienes tangibles o una contraprestación en especie, y se le prohíbe expresamente realizar ventas o intercambios fuera de la plataforma de dicha moneda virtual, como por ejemplo en eBay u otros sitios de subastas.
 
-<EULA.Highlight>Para usuarios de SIEA: </>La compra y uso de artículos están sujetos a los Términos de Servicio y Acuerdo de Usuario de la Network. Una sublicencia de este servicio online le ha sido otorgada por Sony Interactive Entertainment America.
+<EULA.Highlight>Para usuarios de SIEA (Sony Interactive Entertainment America): </>La compra y uso de artículos están sujetos a los Términos de Servicio y Acuerdo de Usuario de la Network. Una sublicencia de este servicio online le ha sido otorgada por Sony Interactive Entertainment America.
 
-<EULA.Highlight>Para usuarios de SIEE: </>Cualquier contenido adquirido en una tienda del juego se le comprará a Sony Interactive Entertainment Network Europe Limited (“SIENE”) y estará sujeto a los Términos de servicio / Acuerdo de usuario de PlayStation™Network que está disponible en PlayStation™Store. Le rogamos que compruebe los derechos de uso en cada compra, ya que pueden variar según el producto. A menos que se indique lo contrario, el contenido disponible en una tienda del juego tiene la misma clasificación por edades que el juego.
+<EULA.Highlight>Para usuarios de SIEE (Sony Interactive Entertainment Europe): </>Cualquier contenido adquirido en una tienda del juego se le comprará a Sony Interactive Entertainment Network Europe Limited (“SIENE”) y estará sujeto a los Términos de servicio / Acuerdo de usuario de PlayStation™Network que está disponible en PlayStation™Store. Le rogamos que compruebe los derechos de uso en cada compra, ya que pueden variar según el producto. A menos que se indique lo contrario, el contenido disponible en una tienda del juego tiene la misma clasificación por edades que el juego.
 
 <EULA.Header>18.2 Usuarios de Microsoft Xbox</>
 
