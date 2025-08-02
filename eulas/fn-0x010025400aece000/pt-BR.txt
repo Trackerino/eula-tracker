@@ -321,9 +321,9 @@ Observe que a Epic armazenará informações de conta da Sony Entertainment Netw
 
 Em hipótese alguma você poderá converter qualquer moeda virtual do software em dinheiro real, em bens tangíveis ou valor em espécie, e você é expressamente proibido de participar de vendas ou trocas dessa moeda virtual fora da plataforma, por exemplo, no eBay ou em outros sites de leilão.
 
-<EULA.Highlight>Para usuários da SIEA: </>A compra e o uso de itens estão sujeitos aos Termos de serviço e Contrato do usuário da Network. Este serviço online foi sublicenciado a você pela Sony Interactive Entertainment America.
+<EULA.Highlight>Para utilizadores da SIEA: </>A compra e o uso de itens estão sujeitos aos Termos de serviço e Contrato do usuário da Network. Este serviço online foi sublicenciado a você pela Sony Interactive Entertainment America.
 
-<EULA.Highlight>Para usuários da SIEE: </>Qualquer conteúdo comprado numa loja de jogo é comprado à Sony Interactive Entertainment Network Europe Limited (“SIENE”) e está sujeito aos Termos de Serviço e Acordo de Utilizador da PlayStation™Network, disponíveis na PlayStation™Store. Verifique os direitos de utilização relativos a cada compra, uma vez que estes podem diferir de um artigo para outro. Salvo indicação em contrário, o conteúdo disponível em qualquer loja de jogo possui a mesma classificação etária que o próprio jogo.
+<EULA.Highlight>Para utilizadores da SIEE: </>Qualquer conteúdo comprado numa loja de jogo é comprado à Sony Interactive Entertainment Network Europe Limited (“SIENE”) e está sujeito aos Termos de Serviço e Acordo de Utilizador da PlayStation™Network, disponíveis na PlayStation™Store. Verifique os direitos de utilização relativos a cada compra, uma vez que estes podem diferir de um artigo para outro. Salvo indicação em contrário, o conteúdo disponível em qualquer loja de jogo possui a mesma classificação etária que o próprio jogo.
 
 <EULA.Header>18.2 Usuários do Microsoft Xbox</>
 

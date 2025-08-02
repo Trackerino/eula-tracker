@@ -321,9 +321,9 @@ Epicは、Epicのプライバシーポリシーに記載されているとおり
 
 いかなる場合においても、ソフトウェア仮想通貨を実質通貨、有形財、または現物対価に変換することは禁じられており、eBayや他のオークションサイトでのように、プラットフォーム外での仮想通貨の販売や交換を行うことは明確に禁じられています。
 
-<EULA.Highlight>SIEAユーザー向け：</>アイテムの購入および使用には、ネットワーク利用規約およびユーザー規約が適用されます。本オンラインサービスは、Sony Interactive Entertainment Americaによってサブライセンスされています。
+<EULA.Highlight>SIEAユーザー向け：</>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
-<EULA.Highlight>SIEEユーザー向け：</>ゲーム内ストアで購入されたコンテンツはすべて、Sony Interactive Entertainment Network Europe Limited（「SIENE」）から購入され、そのコンテンツにはPlayStation™ Network利用規約およびPlayStation® Storeで入手可能なユーザー規約が適用されます。商品によって使用権が異なる場合がありますので、購入ごとに使用権をご確認ください。特に示されていない限り、ゲーム内ストアで入手可能なコンテンツの年齢制限はゲームと同じです。
+<EULA.Highlight>SIEEユーザー向け：</>Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
 
 <EULA.Header>18.2 Microsoft Xboxユーザー</>
 

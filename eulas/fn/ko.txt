@@ -363,9 +363,9 @@ Epic의 개인정보 처리방침에 설명된 대로, Epic에서 사용자의 �
 
 어떤 경우에도 소프트웨어 가상화폐를 실제 통화, 유형 상품 또는 현물 대가로 변환할 수 없으며, eBay 또는 기타 경매 사이트와 같은 곳에서 가상화폐의 비정형 판매나 교환에 참여하는 것은 명백히 금지됩니다. 
 
-<EULA.Highlight>SIEA 사용자: </>아이템의 구입 및 사용은 네트워크 서비스 이용 약관의 적용을 받습니다. 이 온라인 서비스는 소니 인터랙티브 엔터테인먼트 아메리카에서 사용자에게 서브라이선스를 주었습니다. 
+<EULA.Highlight>SIEA 사용자: </>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
-<EULA.Highlight>SIEE 사용자: </>게임 내 매장에서 구입한 모든 콘텐츠는 소니 인터랙티브 엔터테인먼트 네트워크 유럽 유한회사(‘SIENE’)에서 구입하며, PlayStation™Store 에서 구매 가능한 Playstation™Network 서비스 및 사용자 계약의 적용을 받습니다. 아이템별로 다를 수 있으므로 각 구매에 대한 사용 권한을 확인하십시오. 달리 명시되어 있지 않는 한, 게임 매장에서 구매 가능한 콘텐츠는 게임과 동일한 연령 제한이 있습니다. 
+<EULA.Highlight>SIEE 사용자: </>Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
 
 <EULA.Highlight>18.2 마이크로소프트 Xbox 사용자.</> 
 

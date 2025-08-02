@@ -378,13 +378,9 @@ Houd er rekening mee dat Epic PlayStation™Network-accountinformatie zal opslaa
 
 In geen geval mag u virtuele Softwarevaluta omzetten in echte valuta, tastbare goederen of in natura, en het is u uitdrukkelijk verboden om deel te nemen aan verkoop buiten het platform of dergelijke virtuele valuta te verkopen, zoals op eBay of andere veilingsites. 
 
-<EULA.Highlight>Voor SIEA-gebruikers:</> De aankoop en het gebruik van artikelen vallen onder de Servicevoorwaarden en Gebruikersovereenkomst van het Netwerk. 
+<EULA.Highlight>Voor SIEA-gebruikers:</> Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
-Deze online dienst is aan u in sublicentie gegeven door Sony Interactive Entertainment America. 
-
-<EULA.Highlight>Voor SIEE-gebruikers:</> Alle inhoud die in een gamestore wordt gekocht, wordt gekocht bij Sony Interactive 
-
-Entertainment Network Europe Limited ("SIENE") en vallen onder de Servicevoorwaarden en Gebruikersovereenkomst van PlayStation™Network die beschikbaar is in de PlayStation™Store. Controleer de gebruiksrechten voor elke aankoop, aangezien deze per artikel kunnen verschillen. Tenzij anders weergegeven, heeft content die beschikbaar is in een gamestore dezelfde leeftijdsclassificatie als het spel. 
+<EULA.Highlight>Voor SIEE-gebruikers:</> Elke content die in een winkel in het spel is gekocht, wordt gekocht van Sony Interactive Entertainment Network Europe Limited (“SIENE”) en is onderworpen aan de servicevoorwaarden van PlayStation™Network die bij PlayStation™Store verkrijgbaar zijn. U dient de gebruiksrechten te controleren omdat deze per item kunnen verschillen. Tenzij anderszins vermeld, gelden dezelfde leeftijdsbeperkingen voor content die in een winkel in het spel beschikbaar is als voor het spel zelf.
 
 
 <EULA.Header>18.2 Gebruikers van Microsoft Xbox</> 

@@ -392,13 +392,9 @@ b.	Epic Games Entertainment International GmbH บริษัทจำกัด
 
 ไม่ว่าในกรณีใดก็ตาม คุณจะไม่สามารถแปลงสกุลเงินเสมือนในซอฟต์แวร์ให้เป็นเงินตราจริง สินค้าที่จับต้องได้ หรือค่าตอบแทนในรูปแบบอื่นใดได้ และคุณถูกห้ามอย่างชัดแจ้งไม่ให้มีส่วนร่วมในการขายหรือการแลกเปลี่ยนสกุลเงินเสมือนดังกล่าวนอกแพลตฟอร์ม เช่น ที่ eBay หรือเว็บไซต์ประมูลอื่น ๆ 
 
-<EULA.Highlight>สำหรับผู้ใช้งาน SIEA:</> การซื้อและการใช้ไอเท็มต่าง ๆ จะอยู่ภายใต้เงื่อนไขการให้บริการของเครือข่ายและข้อตกลงผู้ใช้งาน 
+<EULA.Highlight>สำหรับผู้ใช้งาน SIEA:</> Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
-บริการออนไลน์นี้ให้สิทธิ์การใช้งานต่อแก่คุณโดย Sony Interactive Entertainment America 
-
-<EULA.Highlight>สำหรับผู้ใช้งาน SIEE:</> เนื้อหาใด ๆ ที่ซื้อภายในร้านค้าในเกมจะถือเป็นการซื้อจาก Sony Interactive 
-
-Entertainment Network Europe Limited (“SIENE”) และอยู่ภายใต้ข้อกำหนดในการให้บริการของ PlayStation™Network และข้อตกลงผู้ใช้งาน ซึ่งสามารถดูได้ที่ PlayStation™Store โปรดตรวจสอบสิทธิ์การใช้งานของแต่ละรายการที่สั่งซื้อ เนื่องจากสิทธิ์เหล่านี้อาจแตกต่างกันไปในแต่ละรายการ เว้นแต่จะระบุไว้เป็นอย่างอื่น เนื้อหาใด ๆ ที่มีในร้านค้าในเกมจะมีเรตอายุเท่ากับตัวเกม 
+<EULA.Highlight>สำหรับผู้ใช้งาน SIEE:</> Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
 
 
 <EULA.Header>18.2 ผู้ใช้งาน Microsoft Xbox</> 

@@ -321,9 +321,9 @@ Należy pamiętać, że Epic będzie przechowywał dane konta Sony Entertainment
 
 W żadnym razie nie wolno użytkownikowi wymieniać żadnej wirtualnej waluty w ramach Oprogramowania na realną walutę, dobra materialne czy inne świadczenia w naturze i w sposób wyraźny zabrania się mu angażowania w sprzedaż czy wymianę takiej waluty wirtualnej poza platformą, np. poprzez eBay czy inne witryny aukcyjne.
 
-<EULA.Highlight>Dotyczy użytkowników SIEA: </>Zakupy i korzystanie z nich podlegają Warunkom korzystania z usługi Sieci i Umowie z użytkownikiem. Użytkownik otrzymał sublicencję na tę usługę online od Sony Interactive Entertainment America.
+<EULA.Highlight>Dotyczy użytkowników SIEA: </>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
-<EULA.Highlight>Zawartość zakupiona za pośrednictwem sklepu udostępnionego w grze oznacza, że została ona zakupiona od firmy Sony Interactive Entertainment Network Europe Limited („SIENE”) i podlega Warunkom świadczenia usług obowiązującym w sieci PlayStation™Network, z którymi można zapoznać się w sklepie PlayStation™Store. Prawa użytkowania należy sprawdzać przy każdym zakupie, ponieważ mogą one być różne w zależności od pozycji. Jeśli nie zaznaczono inaczej, zawartość dostępna w dowolnym sklepie udostępnionym w grze jest objęta tą samą klasyfikacją co gra.</>
+Zawartość zakupiona za pośrednictwem sklepu udostępnionego w grze oznacza, że została ona zakupiona od firmy Sony Interactive Entertainment Network Europe Limited („SIENE”) i podlega Warunkom świadczenia usług obowiązującym w sieci PlayStation™Network, z którymi można zapoznać się w sklepie PlayStation™Store. Prawa użytkowania należy sprawdzać przy każdym zakupie, ponieważ mogą one być różne w zależności od pozycji. Jeśli nie zaznaczono inaczej, zawartość dostępna w dowolnym sklepie udostępnionym w grze jest objęta tą samą klasyfikacją co gra.
 
 <EULA.Header>18.2 Użytkownicy Microsoft Xbox</>
 

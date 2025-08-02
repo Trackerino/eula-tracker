@@ -365,9 +365,9 @@ Epic 之義務受現行法律和法律程序之拘束，儘管本協議有任何
 
 在任何情況下，您均不得將任何軟體虛擬貨幣轉換為真實貨幣、有形商品或等價實物，也明確禁止您在 eBay 或其他拍賣網站從事此類虛擬貨幣的平台外銷售或交換。
 
-<EULA.Highlight>針對 SIEA 使用者：</>商品的購買和使用必須受 Network 服務條款與使用者協議的約束。此線上服務已由 Sony Interactive Entertainment America 轉授權給您。
+<EULA.Highlight>針對 SIEA 使用者：</>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
-<EULA.Highlight>針對 SIEE 使用者：</>在遊戲內商店購買的任何內容均會從 Sony Interactive Entertainment Network Europe Limited（下稱「SIENE」）購買，並受 PlayStation™ Network 服務條款與使用者協議的約束；本合約可見於 PlayStation® Store。使用權可能會因購買項目而異，因此請在每次購買時確認使用權。除非另有說明，否則任何遊戲內商店中提供之內容的年齡分級均與遊戲相同。
+<EULA.Highlight>針對 SIEE 使用者：</>Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
 
 <EULA.Highlight>18.2 Microsoft Xbox 使用者。</>
 
