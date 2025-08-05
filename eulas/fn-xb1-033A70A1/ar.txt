@@ -361,9 +361,11 @@
 
 لا يجوز بأي حال من الأحوال تحويل أي عملة افتراضية في البرامج إلى عملة حقيقية أو سلع ملموسة أو مقابل عيني، وتُحظر عليك صراحةً المشاركة في مبيعات أو عمليات تبادل لهذه العملة الافتراضية خارج المنصة، مثلاً على eBay أو غيره من مواقع المزادات.
 
-<EULA.Highlight>لمستخدمي SIEA: </>Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
+<EULA.Highlight>لمستخدمي SIEA: </>
+Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America
 
-<EULA.Highlight>لمستخدمي SIEE: </>سيتم شراء أي محتوى تم شراؤه من متجر داخل اللعبة من 
+<EULA.Highlight>لمستخدمي SIEE: </>
+سيتم شراء أي محتوى تم شراؤه من متجر داخل اللعبة من 
 Sony Interactive Entertainment Network Europe Limited ("SIENE")‎ وسيخضع لشروط الخدمة واتفاقية المستخدم الخاصة بـ PlayStation™Network والمتوفرة على PlayStation™Store. يُرجى التحقق من حقوق الاستخدام لكل عملية شراء لأنها قد تختلف من عنصر لآخر. يكون المحتوى المتوفر في أي متجر داخل اللعبة بنفس تقييم السن الخاص باللعبة، إلا إذا تم عرض غير ذلك.
 
 <EULA.Highlight>18.2 مستخدمو Microsoft Xbox.</>
