@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `688d604b91f74326c2e5fa5f` |
+| `id` | `689e124153296031d82b7a00` |
 | `key` | `fn` |
 | `version` | `9` |
-| `revision` | `4` |
+| `revision` | `5` |
 | `title` | `Fortnite®最終使用者授權合約` |
 | `locale` | `zh-HK` |
-| `createdTimestamp` | `2025-08-02T00:48:11.304Z` |
-| `lastModifiedTimestamp` | `2025-08-02T00:48:11.304Z` |
+| `createdTimestamp` | `2025-08-14T16:43:45.316Z` |
+| `lastModifiedTimestamp` | `2025-08-14T16:43:45.316Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/zh-HK/v9/r4/4f544ba81e21a32a5e27e2b46c2271d3.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/zh-HK/v9/r5/466a8c08b6b7781c9e61bad2440826ce.pdf` |
 | `bodyFormat` | `HTML` |
