@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `688d601ac5eb720ffeb5ded7` |
+| `id` | `689eebf10433ea2a0d7ccb68` |
 | `key` | `fn-ps4-CUSA07669_00` |
 | `version` | `6` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Fortnite®最終使用者授權合約` |
 | `locale` | `zh-HK` |
-| `createdTimestamp` | `2025-08-02T00:47:22.199Z` |
-| `lastModifiedTimestamp` | `2025-08-02T00:47:22.199Z` |
+| `createdTimestamp` | `2025-08-15T08:12:33.419Z` |
+| `lastModifiedTimestamp` | `2025-08-15T08:12:33.419Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07669_00/zh-HK/v6/r2/e65ddbc733c98155b352aac082649921.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07669_00/zh-HK/v6/r3/c758d31202a5cf9fb0d94983fca5d276.pdf` |
 | `bodyFormat` | `HTML` |
