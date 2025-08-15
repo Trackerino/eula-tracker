@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `68146b3a6dbab84aa77e11d0` |
+| `id` | `689f0af2c8e281093931fce6` |
 | `key` | `mfnlaunch` |
 | `version` | `2` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `FORTNITE MOBIELE LICENTIEOVEREENKOMST VOOR EINDGEBRUIKERS` |
 | `locale` | `nl` |
-| `createdTimestamp` | `2025-05-02T06:50:34.355Z` |
-| `lastModifiedTimestamp` | `2025-05-02T06:50:34.355Z` |
+| `createdTimestamp` | `2025-08-15T10:24:50.904Z` |
+| `lastModifiedTimestamp` | `2025-08-15T10:24:50.904Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/nl/v2/r1/60027c38bda19ce19649952dd52627aa.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/nl/v2/r2/501f80df428857004c6be0ec355b0e4d.pdf` |
 | `bodyFormat` | `HTML` |

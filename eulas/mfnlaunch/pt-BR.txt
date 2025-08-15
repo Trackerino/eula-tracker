@@ -306,8 +306,8 @@ Você concorda que este Contrato não confere direitos ou tutelas a ninguém al�
 
 As obrigações da Epic estão sujeitas aos processos legais e às leis vigentes, e a Epic poderá cumprir a aplicação da lei ou as solicitações ou exigências regulatórias independentemente de qualquer termo em contrário neste Contrato.
 
-<EULA.Highlight>Exigência de divulgação - Usuários ativos mensais da UE (atualizado em 14 de fevereiro de 2025)</>
+<EULA.Highlight>Exigência de divulgação - Usuários ativos mensais da UE (atualizado em 15 de agosto de 2025)</>
 
-A média mensal estimada de beneficiários ativos na União Europeia do Fortnite nos últimos seis meses foi de 22,1 milhões.
-A média mensal estimada de beneficiários ativos na União Europeia do Fortnite.com nos últimos seis meses foi de 3,6 milhões.
-Os usuários que acessaram mais de um dos serviços ou produtos da Epic em um determinado mês são contados como usuários de cada serviço ou produto.
+A média mensal estimada de beneficiários ativos na União Europeia do Fortnite nos últimos seis meses foi de 18,6 milhões.
+A média mensal estimada de beneficiários ativos na União Europeia do Fortnite.com nos últimos seis meses foi de 2,7 milhões.
+Os usuários que acessaram mais de um dos serviços ou produtos da Epic em um determinado mês são contados como um usuário para cada serviço ou produto.

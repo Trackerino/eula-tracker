@@ -361,7 +361,7 @@ Aşağıda yer alan ek hüküm ve koşullar sahip olduğunuz ya da kontrol etti�
 
 Yazılım, Samsung’un Uygulama İçi Satın Alma UPA’ları aracılığıyla ödeme yapmanıza izin verebilir. Samsung’un Uygulama İçi Satın Alma sistemini kullanarak ödeme yaptığınızda, Samsung’un Uygulama İçi Satın Alma sistemini kullanmak için Samsung Electronics Co., Ltd. (veya iştirakleri) ile imzaladığınız Samsung GALAXY Uygulamaları Hüküm ve Koşulları ve eş değer hükümleri ödeme ve söz konusu ödeme ile ilgili tüm iadeler için geçerli olacaktır.
 
-<EULA.Highlight>Açıklama Gerekliliği - AB'deki Aylık Etkin Kullanıcı Sayısı (14 Şubat 2025'te Güncellendi)</>
-Son altı ayda Fortnite’ın Avrupa Birliği’ndeki tahmini ortalama aylık etkin alıcı sayısı 22,1 milyondur.
-Son altı ayda Fortnite.com’un Avrupa Birliği’ndeki tahmini ortalama aylık etkin alıcı sayısı 3,6 milyondur.
-Belirli bir ay içinde Epic’in hizmetlerinden veya ürünlerinden birden fazlasına erişen kullanıcılar, her hizmet veya ürün için bir kullanıcı olarak sayılmaktadır.
+<EULA.Highlight>Açıklama Gerekliliği - AB'deki Aylık Etkin Kullanıcı Sayısı (15 Ağustos 2025'te Güncellendi)</>
+Son altı ayda Fortnite'ın Avrupa Birliği'ndeki tahmini ortalama aylık etkin alıcı sayısı 18,6 milyon oldu.
+Son altı ayda Fortnite.com'un Avrupa Birliği'ndeki tahmini ortalama aylık etkin alıcı sayısı 2,7 milyon oldu.
+Belirli bir ay içinde Epic'in birden fazla hizmetine veya ürününe erişen kullanıcılar, her hizmet veya ürün için bir kullanıcı olarak sayılır.

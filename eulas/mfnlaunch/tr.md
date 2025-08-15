@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67afddc5ac2f4d52b9040fa3` |
+| `id` | `689f0bdf2c6f564fc53b3096` |
 | `key` | `mfnlaunch` |
 | `version` | `2` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `FORTNITE® MOBİL SON KULLANICI LİSANS ANLAŞMASI` |
 | `locale` | `tr` |
-| `createdTimestamp` | `2025-02-15T00:20:21.489Z` |
-| `lastModifiedTimestamp` | `2025-02-15T00:20:21.489Z` |
+| `createdTimestamp` | `2025-08-15T10:28:47.444Z` |
+| `lastModifiedTimestamp` | `2025-08-15T10:28:47.444Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/tr/v2/r3/895c75659e09f126108e87a5a3cf23ce.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/tr/v2/r4/f3d90d4c20261832fa0dd0f55f01fc77.pdf` |
 | `bodyFormat` | `HTML` |

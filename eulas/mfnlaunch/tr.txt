@@ -306,8 +306,8 @@ Açıkça belirtilmediği sürece bu Anlaşma ile Anlaşma tarafları dışında
 
 Epic’in yükümlülükleri mevcut yasalara ve yasal sürece tabidir ve Epic bu Anlaşmada bulunan aksine herhangi bir hükme rağmen kolluk kuvvetleri veya düzenleyici taleplerine veya gerekliliklerine uyabilir.
 
-<EULA.Highlight>Açıklama Gerekliliği - AB'deki Aylık Etkin Kullanıcı Sayısı (14 Şubat 2025'te Güncellendi)</>
+<EULA.Highlight>Açıklama Gerekliliği - AB'deki Aylık Etkin Kullanıcı Sayısı (15 Ağustos 2025'te Güncellendi)</>
 
-Son altı ayda Fortnite’ın Avrupa Birliği’ndeki tahmini ortalama aylık etkin alıcı sayısı 22,1 milyondur.
-Son altı ayda Fortnite.com’un Avrupa Birliği’ndeki tahmini ortalama aylık etkin alıcı sayısı 3,6 milyondur.
-Belirli bir ay içinde Epic’in hizmetlerinden veya ürünlerinden birden fazlasına erişen kullanıcılar, her hizmet veya ürün için bir kullanıcı olarak sayılmaktadır.
+Son altı ayda Fortnite'ın Avrupa Birliği'ndeki tahmini ortalama aylık etkin alıcı sayısı 18,6 milyon oldu.
+Son altı ayda Fortnite.com'un Avrupa Birliği'ndeki tahmini ortalama aylık etkin alıcı sayısı 2,7 milyon oldu.
+Belirli bir ay içinde Epic'in birden fazla hizmetine veya ürününe erişen kullanıcılar, her hizmet veya ürün için bir kullanıcı olarak sayılır.
