@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `688d5e0f82e9fa4e9a46b140` |
+| `id` | `689f24e4592d220020e716a6` |
 | `key` | `fn-xb1-033A70A1` |
 | `version` | `4` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Fortnite® Son Kullanıcı Lisans Sözleşmesi` |
 | `locale` | `tr` |
-| `createdTimestamp` | `2025-08-02T00:38:39.259Z` |
-| `lastModifiedTimestamp` | `2025-08-02T00:38:39.259Z` |
+| `createdTimestamp` | `2025-08-15T12:15:32.622Z` |
+| `lastModifiedTimestamp` | `2025-08-15T12:15:32.622Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-033A70A1/tr/v4/r2/ad3629e3b36f96a0ead9a569ff144386.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-033A70A1/tr/v4/r3/85288c4f8da36755814b7f98ee584ac4.pdf` |
 | `bodyFormat` | `HTML` |

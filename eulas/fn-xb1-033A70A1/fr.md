@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `688d51c4f6598b20019780b0` |
+| `id` | `689f2324eb189d5e5491a88f` |
 | `key` | `fn-xb1-033A70A1` |
 | `version` | `4` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Accord de Licence d’utilisateur Fortnite®` |
 | `locale` | `fr` |
-| `createdTimestamp` | `2025-08-01T23:46:12.259Z` |
-| `lastModifiedTimestamp` | `2025-08-01T23:46:12.259Z` |
+| `createdTimestamp` | `2025-08-15T12:08:04.570Z` |
+| `lastModifiedTimestamp` | `2025-08-15T12:08:04.570Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-033A70A1/fr/v4/r2/5116aec0c5f58c7ee2cbdd9368d594b4.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-033A70A1/fr/v4/r3/43f60b9dba0939b2ffa22ecb66cd647b.pdf` |
 | `bodyFormat` | `HTML` |
