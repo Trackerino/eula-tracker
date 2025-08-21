@@ -1,6 +1,6 @@
 Son Güncelleme: 18 Temmuz,2025
 
-<a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Çocukların Gizliliği</> için bkz. Bölüm 5
+<a id="url" href="#children" style="EULA.Hyperlink">Çocukların Gizliliği</> için bkz. Bölüm 5
 
 Epic’e Hoş Geldiniz!
 
@@ -96,7 +96,7 @@ Güvenlik amaçları için Epic’e sağlanan hiçbir cep telefonu numarası paz
 Kişisel bilgilerinizi üçüncü taraflarla paylaştığımız takdirde bu üçüncü tarafların Epic'in bu gizlilik politikasında tanımladığı koruma önlemleri ile aynı olan veya onlara önemli ölçüde benzeyen koruma önlemleri sağlamasını temin etmeye çalışırız. 
 
 Epic Hizmetleri vasıtası ile etkileşimde bulunduğunuz üçüncü taraflar Epic’ten farklı gizlilik uygulamalarına sahip olabilir ve bu nedenle, bilgilerinizi onlar ile paylaşmadan önce onların gizlilik politikalarını incelemenizi tavsiye ederiz.
-
+<span id="children"></span>
 <EULA.Header>5. ÇOCUKLARIN GİZLİLİĞİ</>
 
 Epic Hizmetleri’ni, dünyanın her yerindeki her yaştan kullanıcıyı kucaklayacak şekilde tasarlarız. Bu, kullanıcılardan yaş bilgileri topladığımız anlamına gelir ve bazı hizmetlerimiz, bir kullanıcının yaşı ve nerede yaşadığı hakkında bildiklerimiz temelinde farklı bir deneyim sağlayacaktır. Aşağıdaki bilgiler, ebeveynlerin ve vasilerin çocuklarla (13 yaşının veya kullanıcının bölgesinde dijital izin yaşının altında, hangisi daha yüksekse) ilgili gizlilik uygulamalarımızı anlamaları içindir.

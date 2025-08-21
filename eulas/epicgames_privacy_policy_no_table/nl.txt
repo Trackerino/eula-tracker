@@ -1,6 +1,6 @@
 Laatst bijgewerkt: 18 juli 2025
 
-Voor <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Privacy van kinderen</>, zie sectie 5
+Voor <a id="url" href="#children" style="EULA.Hyperlink">Privacy van kinderen</>, zie sectie 5
 
 Welkom bij Epic!
 
@@ -96,7 +96,7 @@ Mobiele telefoonnummers die voor veiligheidsdoeleinden aan Epic zijn verstrekt, 
 Voor zover we uw persoonlijke gegevens delen met derden, proberen we ervoor te zorgen dat deze derden dezelfde of in wezen vergelijkbare bescherming bieden als die welke Epic beschrijft in dit privacybeleid. 
 
 Derden waarmee u communiceert via de Diensten van Epic kunnen andere privacypraktijken toepassen dan Epic, dus we raden u aan om hun privacybeleid door te nemen voordat u uw informatie met hen deelt.
-
+<span id="children"></span>
 <EULA.Header>5. PRIVACY VAN KINDEREN</>
 
 We ontwerpen de Diensten van Epic om gebruikers van alle leeftijden over de hele wereld welkom te heten. Dit betekent dat we leeftijdsinformatie van gebruikers verzamelen en dat sommige van onze diensten een andere ervaring bieden op basis van wat we weten over de leeftijd van een gebruiker en waar ze wonen. De onderstaande informatie is voor ouders en voogden om onze privacypraktijken met betrekking tot kinderen te begrijpen (jonger dan 13 jaar of de leeftijd van digitale toestemming in de regio van de gebruiker, afhankelijk van wat hoger is).

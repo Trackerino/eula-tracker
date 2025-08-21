@@ -1,6 +1,6 @@
 Data dell’ultimo aggiornamento: 18 luglio 2025
 
-Per la <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Privacy dei minori</>, consultare la Sezione 5
+Per la <a id="url" href="#children" style="EULA.Hyperlink">Privacy dei minori</>, consultare la Sezione 5
 
 Benvenuto in Epic!
 
@@ -96,7 +96,7 @@ I numeri di cellulare forniti a Epic per motivi di sicurezza non saranno condivi
 Qualora condividiamo le informazioni personali dell’utente con terze parti, ci impegniamo a garantire che tali terze parti forniscano le stesse protezioni o protezioni sostanzialmente simili a quelle che Epic descrive nella presente Informativa sulla privacy. 
 
 I terzi con cui l’utente interagisce attraverso i Servizi Epic possono avere pratiche sulla privacy diverse da quelle di Epic, quindi, lo invitiamo a rivedere le rispettive informative sulla privacy prima di condividere i propri dati con tali terzi.
-
+<span id="children"></span>
 <EULA.Header>5. PRIVACY DEI MINORI</>
 
 Progettiamo i Servizi Epic per dare il benvenuto a utenti di tutte le età in tutto il mondo. Ciò significa che raccogliamo informazioni sull’età dagli utenti e alcuni dei nostri servizi forniranno un’esperienza diversa in base a ciò che sappiamo sull’età di un utente e su dove vive. Le informazioni riportate di seguito consentono ai genitori e ai tutori di comprendere le nostre pratiche sulla privacy in relazione ai minori (di età inferiore ai 13 anni o all’età del consenso digitale nella regione dell’utente, a seconda di quale sia la più elevata).

@@ -1,6 +1,6 @@
 Ostatnia aktualizacja:  18 lipiec 2025
 
-Aby poznać postanowienia dotyczące <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">prywatności dzieci</>, zapoznaj się z ustępem 5.
+Aby poznać postanowienia dotyczące <a id="url" href="#children" style="EULA.Hyperlink">prywatności dzieci</>, zapoznaj się z ustępem 5.
 
 Witamy w Epic!
 
@@ -96,7 +96,7 @@ Możemy udostępniać niektóre gromadzone przez nas informacje w celu umożliwi
 W zakresie, w jakim udostępniamy dane osobowe użytkownika osobom trzecim, dokładamy wszelkich starań, aby odnośne osoby trzecie zapewniały taki sam lub zasadniczo podobny stopień ochrony, jak ten opisany przez Epic w niniejszej polityce prywatności. 
 
 Podmioty zewnętrzne, z którymi Użytkownik wchodzi w interakcje za pośrednictwem Usług Epic mogą stosować inne zasady ochrony prywatności niż Epic, dlatego zachęcamy do zapoznania się z ich zasadami ochrony prywatności przed przekazaniem im informacji.
-
+<span id="children"></span>
 <EULA.Header>5. PRYWATNOŚĆ DZIECI</>
 
 Projektujemy Usługi Epic tak, aby były przyjazne dla użytkowników w każdym wieku na całym świecie. Oznacza to, że gromadzimy informacje o wieku od użytkowników, a niektóre z naszych usług zapewniają różne doświadczenia w zależności od tego, co wiemy o wieku użytkownika i jego miejscu zamieszkania. Poniższe informacje są przeznaczone dla rodziców i opiekunów, aby mogli zrozumieć nasze praktyki dotyczące prywatności w odniesieniu do dzieci (poniżej 13. roku życia albo wieku udzielenia cyfrowej zgody w regionie użytkownika, w zależności od tego, który wiek jest wyższy).
