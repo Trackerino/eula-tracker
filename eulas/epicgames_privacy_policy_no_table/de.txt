@@ -1,6 +1,6 @@
 Zuletzt aktualisiert: 18. Juli 2025
 
-<a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Datenschutz für Kinder </>siehe Abschnitt 5
+<a id="url" href="#children" style="EULA.Hyperlink">Datenschutz für Kinder </>siehe Abschnitt 5
 
 Willkommen bei Epic!
 
@@ -96,7 +96,7 @@ Mobiltelefonnummern, die Sie Epic zu Sicherheitszwecken bereitstellen, werden vo
 Soweit wir Ihre personenbezogenen Daten an Dritte weitergeben, bemühen wir uns sicherzustellen, dass diese Dritten dieselben oder im Wesentlichen vergleichbare Schutzmaßnahmen treffen, wie sie von Epic in dieser Datenschutzrichtlinie beschrieben werden. 
 
 Drittparteien, mit denen Sie über die Epic-Dienste interagieren, können andere Datenschutzpraktiken als Epic haben, daher empfehlen wir Ihnen, deren Datenschutzrichtlinien zu lesen, bevor Sie Ihre Daten mit diesen teilen.
-
+<span id="children"></span>
 <EULA.Header>5. DATENSCHUTZ FÜR KINDER</>
 
 Wir gestalten die Epic-Dienste so, dass sie für Benutzer aller Altersgruppen auf der ganzen Welt zugänglich sind. Das bedeutet, dass wir Altersinformationen von Benutzern erheben und dass einige unserer Dienste je nachdem, was wir über das Alter eines Benutzers und seinen Wohnort wissen, eine andere Erfahrung bieten. Die nachstehenden Informationen sind für Eltern und Erziehungsberechtigte gedacht, damit sie unsere Datenschutzpraktiken in Bezug auf Kinder (unter 13 Jahren oder dem Alter der digitalen Einwilligung in der Region des Benutzers, je nachdem, welches höher ist) verstehen.
