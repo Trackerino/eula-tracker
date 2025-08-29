@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `68a76052b1234124dee1827f` |
+| `id` | `68b17e5582ea49361d42d57d` |
 | `key` | `epicgames_privacy_policy_no_table` |
 | `version` | `2` |
-| `revision` | `6` |
+| `revision` | `7` |
 | `title` | `EPIC GAMES GİZLİLİK POLİTİKASI` |
 | `locale` | `tr` |
-| `createdTimestamp` | `2025-08-21T18:07:14.043Z` |
-| `lastModifiedTimestamp` | `2025-08-21T18:07:14.043Z` |
+| `createdTimestamp` | `2025-08-29T10:17:57.425Z` |
+| `lastModifiedTimestamp` | `2025-08-29T10:17:57.425Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/tr/v2/r6/9c4e119c95c54fcc46db5689d0364bd8.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/tr/v2/r7/cc478218975f04c16a7d78d577cabc94.pdf` |
 | `bodyFormat` | `HTML` |
