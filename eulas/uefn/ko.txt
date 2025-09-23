@@ -6,7 +6,7 @@ Unreal Editor for Fortnite(“<EULA.Header>UEFN</>”)는 콘텐츠 크리에이
 
 Fortnite EULA에 대한 Fortnite 추가 조건에 대한 본 Unreal Editor(본 “<EULA.Header>약관</>”)는 귀하의 UEFN 사용에 적용됩니다. 본 약관은 본 약관을 수락하는 크리에이터(“<EULA.Header>귀하</>”, “<EULA.Header>귀하의</>” 또는 “<EULA.Header>귀하의 것</>”)와 “Epic”(Fortnite EULA에 정의되어 있음)(“<EULA.Header>Epic</>”, “<EULA.Header>당사</>”, “<EULA.Header>당사의</>” 또는 “<EULA.Header>당사를</>”) 간의 계약입니다.
 
-본 계약은 귀하가 본 약관을 수락하고, 귀하가 본 계약의 조건뿐만 아니라 <a href="https://www.fortnite.com/eula?sessionInvalidated=true" style="EULA.Hyperlink" id="url" target="_blank">Fortnite EULA</>(본 약관의 일부), <a href="https://www.fortnite.com/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink" id="url" target="_blank">크리에이터 콘텐츠 규칙</>, <a href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink" id="url" target="_blank">Epic 콘텐츠 지침</>, <a href="https://www.epicgames.com/site/en-US/community-rules" style="EULA.Hyperlink" id="url" target="_blank">Epic 커뮤니티 규칙</>, <a href="https://www.epicgames.com/site/en-US/fan-art-policy" style="EULA.Hyperlink" id="url" target="_blank">팬 콘텐츠 정책</>, Epic의 단독 재량으로 Epic이 수시로 게시하거나 업데이트할 수 있는 기타 해당 정책 또는 문서(각 해당 문서에 명시된 대로 귀하에게 통지할 수 있음)를 포함한 Epic의 정책을 검토했으며, 이에 구속되는 데 동의함을 인정할 때 그 효력을 발생합니다. <EULA.Header>크리에이터가 되려면 항상 Epic의 모든 정책을 준수해야 합니다.</>
+본 계약은 귀하가 본 약관을 수락하고, 귀하가 본 계약의 조건뿐만 아니라 <a href="https://www.fortnite.com/eula?sessionInvalidated=true" style="EULA.Hyperlink" id="url" target="_blank">Fortnite EULA</>(본 약관의 일부), <a href="https://www.fortnite.com/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink" id="url" target="_blank">크리에이터 콘텐츠 규칙</>, <a href="https://www.epicgames.com/content-guidelines" style="EULA.Hyperlink" id="url" target="_blank">Epic 콘텐츠 지침</>, <a href="https://www.epicgames.com/community-rules" style="EULA.Hyperlink" id="url" target="_blank">Epic 커뮤니티 규칙</>, <a href="https://www.epicgames.com/fan-art-policy" style="EULA.Hyperlink" id="url" target="_blank">팬 콘텐츠 정책</>, Epic의 단독 재량으로 Epic이 수시로 게시하거나 업데이트할 수 있는 기타 해당 정책 또는 문서(각 해당 문서에 명시된 대로 귀하에게 통지할 수 있음)를 포함한 Epic의 정책을 검토했으며, 이에 구속되는 데 동의함을 인정할 때 그 효력을 발생합니다. <EULA.Header>크리에이터가 되려면 항상 Epic의 모든 정책을 준수해야 합니다.</>
 
 여기에 정의되지 않은 대문자로 표시된 용어는 Fortnite EULA에 정의된 의미를 갖습니다. UEFN 및 UEFN을 통해 귀하에게 제공되는 모든 서비스(예: Unreal Revision Control 서비스)는 Fortnite EULA에 따라 “소프트웨어” 및 “서비스”를 구성합니다. <EULA.Header>귀하가 이전에 Fortnite EULA에 동의하지 않은 경우, 귀하는 본 약관에 동의함으로써 Fortnite EULA에 동의한 것으로 간주됩니다</>. 다음 부분은 매우 중요합니다:
 
@@ -126,7 +126,7 @@ UEFN 콘텐츠를 업로드할 때마다 귀하는 Fortnite EULA의 섹션 5에�
 
 ﻿귀하는 공동 작업자가 공유한 자료를 공동 작업자와 함께 UEFN 프로젝트를 개발하는 목적 외 다른 목적으로 사용할 수 없으며, 다른 UEFN 프로젝트나 UEFN 외부에서 사용하기 위해 자료를 추출할 수 없습니다.
 
-협업 자격이 있는 사람들의 경우, Epic의 Fortnite 크리에이티브 개발 웹사이트인 크리에이터 포털에 액세스하여 추가 연령 확인 절차를 거쳐야 합니다. 크리에이터 포털에 대한 자세한 정보와 UEFN 프로젝트에서 다른 크리에이터와 협업할 수 있는 기능을 보려면 <a href="https://dev.epicgames.com/documentation/en-us/uefn/UEFN/collaborating-in-unreal-editor-for-fortnite" style="EULA.Hyperlink" id="url" target="_blank">여기</>를 클릭하십시오.
+협업 자격이 있는 사람들의 경우, Epic의 Fortnite 크리에이티브 개발 웹사이트인 크리에이터 포털에 액세스하여 추가 연령 확인 절차를 거쳐야 합니다. 크리에이터 포털에 대한 자세한 정보와 UEFN 프로젝트에서 다른 크리에이터와 협업할 수 있는 기능을 보려면 <a href="https://dev.epicgames.com/documentation/ko-kr/fortnite/collaborating-in-unreal-editor-for-fortnite" style="EULA.Hyperlink" id="url" target="_blank">여기</>를 클릭하십시오.
 
 UEFN 프로젝트에서 다른 크리에이터와 협업하기로 선택하는 경우, 귀하는 다음을 인정합니다:
 
@@ -135,7 +135,7 @@ UEFN 프로젝트에서 다른 크리에이터와 협업하기로 선택하는 �
 ● Epic은 공동 크리에이터가 UEFN 프로젝트에 기여한 UEFN 콘텐츠의 소유권을 결정하는 방법에 관한 의견이나 조언을 제공하지 않습니다.
 ● 공동 크리에이터의 행위로 인해 귀하의 지적 재산권이 침해되었다고 생각하는 경우, 귀하는 DMCA 게시 중단 절차를 통해 해결책을 구할 수 있습니다(섹션 6.9.1 참조).
 
-<EULA.Header>6.4.         Unreal Revision Control</> 서비스. Epic은 Epic이 호스팅하는 클라우드 기반 개정 관리 저장소인 Unreal Revision Control 서비스에 대한 액세스를 제공할 수 있습니다. Unreal Revision Control 서비스는 UEFN의 일부입니다. Epic의 Unreal Revision Control 서비스 및 UEFN 프로젝트의 개정 관리를 위해 이를 활용하는 방법에 대한 자세한 내용은 <a href="https://dev.epicgames.com/documentation/en-us/uefn/UEFN/unreal-revision-control-in-unreal-editor-for-fortnite" style="EULA.Hyperlink" id="url" target="_blank">여기</>를 참조하십시오.
+<EULA.Header>6.4.         Unreal Revision Control</> 서비스. Epic은 Epic이 호스팅하는 클라우드 기반 개정 관리 저장소인 Unreal Revision Control 서비스에 대한 액세스를 제공할 수 있습니다. Unreal Revision Control 서비스는 UEFN의 일부입니다. Epic의 Unreal Revision Control 서비스 및 UEFN 프로젝트의 개정 관리를 위해 이를 활용하는 방법에 대한 자세한 내용은 <a href="https://dev.epicgames.com/documentation/ko-kr/fortnite/unreal-revision-control-in-unreal-editor-for-fortnite" style="EULA.Hyperlink" id="url" target="_blank">여기</>를 참조하십시오.
 
 위의 섹션 6.3에 따라 UEFN의 협업 기능을 활용할 수 있는 경우, 귀하는 UEFN 프로젝트에서 귀하와 협력하는 승인된 크리에이터가 해당 UEFN 프로젝트의 Unreal Revision Control 서비스 위치에 액세스할 수 있도록 할 수 있습니다. 하지만 귀하는 해당 액세스 기능을 활용하여 귀하의 UEFN 콘텐츠 또는 공동 크리에이터의 UEFN 콘텐츠를 귀하와 함께, 또는 귀하를 대신하여 UEFN 프로젝트를 개발하기 위해 선의로 UEFN 콘텐츠를 활용하는 공동 크리에이터 이외의 다른 사람과 공유할 수 없습니다. 귀하가 프로젝트(들)를 위해 Unreal Revision Control 서비스 위치에 업로드하는 자료는 귀하의 UEFN 콘텐츠에 해당하며, 귀하는 Epic에게 섹션 5에 명시된 UEFN 콘텐츠에 대한 라이선스를 부여합니다.
 
@@ -156,7 +156,7 @@ Unreal Revision Control은 백업 시스템이 <EULA.Header>아니라</> 크리�
 
 <EULA.Header>6.8.1.         </><EULA.HighlightItalic>IP 침해 혐의</><EULA.Header>.</> 디지털 밀레니엄 저작권법(“DMCA”) 및 기타 관련 법에 따라, Epic은 Epic의 판단에 따른 적절한 상황에서 타인의 저작권법을 반복적으로 침해하는 것으로 여겨지는 사용자 또는 계정 소유자의 사용을 중단시키는 정책을 채택했습니다. 또한 Epic은 당사의 단독 재량으로 침해 행위의 반복성과 상관없이 타인의 지적 재산권을 침해하는 사용자의 UEFN 또는 다른 Epic 제품이나 서비스에 대한 액세스를 제한하고/하거나 이러한 사용자 계정의 업데이트나 전송을 제한하거나, 이를 일시 정지 또는 해지할 수 있습니다.
 
-귀하의 저작물이 Epic의 웹사이트 또는 기타 Epic 서비스에서 저작권 침해에 해당하는 방식으로 사용되었다고 생각하는 경우, 당사의 <a href="https://www.epicgames.com/site/en-US/infringement" style="EULA.Hyperlink" id="url" target="_blank">침해 신고</> 페이지에서 침해 혐의 통지서(“DMCA 통지서”)를 제출하는 방법을 참조하십시오.
+귀하의 저작물이 Epic의 웹사이트 또는 기타 Epic 서비스에서 저작권 침해에 해당하는 방식으로 사용되었다고 생각하는 경우, 당사의 <a href="https://www.epicgames.com/site/infringement" style="EULA.Hyperlink" id="url" target="_blank">침해 신고</> 페이지에서 침해 혐의 통지서(“DMCA 통지서”)를 제출하는 방법을 참조하십시오.
 
 <EULA.Header>6.8.2.         </><EULA.HighlightItalic>고객 지원</><EULA.Header>.</> UEFN에 문제가 있는 경우, Epic 고객 지원에 문의하십시오.
 
