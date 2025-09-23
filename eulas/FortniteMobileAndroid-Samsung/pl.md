@@ -10,7 +10,7 @@
 | `locale` | `pl` |
 | `createdTimestamp` | `2024-12-17T20:00:44.583Z` |
 | `lastModifiedTimestamp` | `2024-12-17T20:00:44.583Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid-Samsung/pl/v6/r1/19dabf8d4a49717ec12479e7599a9025.pdf` |
 | `bodyFormat` | `HTML` |

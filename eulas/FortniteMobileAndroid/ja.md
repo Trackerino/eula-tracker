@@ -10,7 +10,7 @@
 | `locale` | `ja` |
 | `createdTimestamp` | `2024-12-17T19:56:02.066Z` |
 | `lastModifiedTimestamp` | `2024-12-17T19:56:02.066Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid/ja/v5/r1/c41785c36b6d6a2d4cd92593516ce2fe.pdf` |
 | `bodyFormat` | `HTML` |

@@ -12,7 +12,7 @@
 | `locale` | `en` |
 | `createdTimestamp` | `2024-12-20T00:47:46.263Z` |
 | `lastModifiedTimestamp` | `2024-12-20T00:47:46.263Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `description` | `Should have already been replaced by "mfnlaunch". Waiting for confirmation before deactivating.` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileIOS/en/v5/r2/d222630c0302f916cf8f42d86b6f5f80.pdf` |
