@@ -4,16 +4,16 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67f2e44ad8169c3d116cf220` |
+| `id` | `689f543694484b0d01f2791e` |
 | `key` | `fn_DE` |
 | `version` | `1` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `FORTNITE® ENDBENUTZER-LIZENZVEREINBARUNG` |
 | `locale` | `de` |
-| `createdTimestamp` | `2025-04-06T20:30:02.363Z` |
-| `lastModifiedTimestamp` | `2025-04-06T20:30:02.363Z` |
+| `createdTimestamp` | `2025-08-15T15:37:26.874Z` |
+| `lastModifiedTimestamp` | `2025-08-15T15:37:26.874Z` |
 | `status` | `ACTIVE` |
 | `description` | `Nettle` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn_DE/de/v1/r2/81b94e1c4f2f5f154aa773dbe28fd9a5.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn_DE/de/v1/r3/e6918b50694d1bb3e5c8bacdb9c1c6e4.pdf` |
 | `bodyFormat` | `HTML` |

@@ -1,19 +1,19 @@
-# FORTNITE® ENDBENUTZER-LIZENZVEREINBARUNG FÜR MOBILGERÄTE
+# FORTNITE® ENDBENUTZER-LIZENZVEREINBARUNG FÜR MOBILGERÄTE FÜR DEUTSCHLAND
 
 > Nettle
 
 | Key | Value |
 | --- | ----- |
-| `id` | `67f2e177debe375f5feb7991` |
+| `id` | `689f5315aa1b8d32ad5d49d8` |
 | `key` | `mfnlaunch_DE` |
 | `version` | `1` |
-| `revision` | `2` |
-| `title` | `FORTNITE® ENDBENUTZER-LIZENZVEREINBARUNG FÜR MOBILGERÄTE` |
+| `revision` | `4` |
+| `title` | `FORTNITE® ENDBENUTZER-LIZENZVEREINBARUNG FÜR MOBILGERÄTE FÜR DEUTSCHLAND` |
 | `locale` | `de` |
-| `createdTimestamp` | `2025-04-06T20:17:59.636Z` |
-| `lastModifiedTimestamp` | `2025-04-06T20:17:59.636Z` |
+| `createdTimestamp` | `2025-08-15T15:32:37.910Z` |
+| `lastModifiedTimestamp` | `2025-08-15T15:32:37.910Z` |
 | `status` | `ACTIVE` |
 | `description` | `Nettle` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch_DE/de/v1/r2/a3e95de5afb94d4bdd323f2e4b4c8587.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch_DE/de/v1/r4/fc0bd1023bc2aa010d296cd3f55de842.pdf` |
 | `bodyFormat` | `HTML` |
