@@ -1,16 +1,16 @@
-# CONDIZIONI DEL PROGRAMMA DI RETRIBUZIONE DELLA PARTECIPAZIONE
+# Termini per Sviluppatori Fortnite
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6913035a781c80205697e64c` |
+| `id` | `6913298789fbb10cf852cfa3` |
 | `key` | `ic_agreement` |
 | `version` | `2` |
-| `revision` | `1` |
-| `title` | `CONDIZIONI DEL PROGRAMMA DI RETRIBUZIONE DELLA PARTECIPAZIONE` |
+| `revision` | `2` |
+| `title` | `Termini per Sviluppatori Fortnite` |
 | `locale` | `it` |
-| `createdTimestamp` | `2025-11-11T09:35:22.715Z` |
-| `lastModifiedTimestamp` | `2025-11-11T09:35:22.715Z` |
+| `createdTimestamp` | `2025-11-11T12:18:15.229Z` |
+| `lastModifiedTimestamp` | `2025-11-11T12:18:15.229Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/it/v2/r1/dfb4bb8f729a2f9f53a86dffd8f35c7d.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/it/v2/r2/2520b2656fd9704d2687cfdd30a3242e.pdf` |
 | `bodyFormat` | `HTML` |

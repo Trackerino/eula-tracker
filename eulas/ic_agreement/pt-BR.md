@@ -1,16 +1,16 @@
-# TERMOS DE PAGAMENTO DO PROGRAMA DE ENGAJAMENTO
+# Termos do Desenvolvedor do Fortnite
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6913035a781c80205697e651` |
+| `id` | `691329f7cce6290380515b49` |
 | `key` | `ic_agreement` |
 | `version` | `2` |
-| `revision` | `1` |
-| `title` | `TERMOS DE PAGAMENTO DO PROGRAMA DE ENGAJAMENTO` |
+| `revision` | `2` |
+| `title` | `Termos do Desenvolvedor do Fortnite` |
 | `locale` | `pt-BR` |
-| `createdTimestamp` | `2025-11-11T09:35:22.723Z` |
-| `lastModifiedTimestamp` | `2025-11-11T09:35:22.723Z` |
+| `createdTimestamp` | `2025-11-11T12:20:07.893Z` |
+| `lastModifiedTimestamp` | `2025-11-11T12:20:07.893Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pt-BR/v2/r1/61f38adb90b689edb54cbe2da189d817.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pt-BR/v2/r2/c1b985889523be638e874154ef0dacf2.pdf` |
 | `bodyFormat` | `HTML` |
