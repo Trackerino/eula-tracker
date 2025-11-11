@@ -1,16 +1,16 @@
-# KATILIM PROGRAMI ÖDEME ŞARTLARI
+# Fortnite Geliştirici Şartları
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a185e4347ae8353378b6c3` |
+| `id` | `6913050799bd62525ea945d6` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `6` |
-| `title` | `KATILIM PROGRAMI ÖDEME ŞARTLARI` |
+| `version` | `2` |
+| `revision` | `2` |
+| `title` | `Fortnite Geliştirici Şartları` |
 | `locale` | `tr` |
-| `createdTimestamp` | `2024-01-12T18:33:08.157Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:33:08.157Z` |
+| `createdTimestamp` | `2025-11-11T09:42:31.091Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:42:31.091Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/tr/v1/r6/d676b99a896ccf1137668e9758e196ff.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/tr/v2/r2/5890c98a24aae6aea7f05a395cb45634.pdf` |
 | `bodyFormat` | `HTML` |

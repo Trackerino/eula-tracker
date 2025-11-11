@@ -1,16 +1,15 @@
-# شروط برنامج حوافز المشاركة
+# شروط مطور لعبة Fortnite
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a185740f2e2900427316c3` |
+| `id` | `6913040689fbb10cf852ccd4` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `9` |
-| `title` | `شروط برنامج حوافز المشاركة` |
+| `version` | `2` |
+| `revision` | `2` |
+| `title` | `شروط مطور لعبة Fortnite` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2024-01-12T18:31:16.600Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:31:16.600Z` |
+| `createdTimestamp` | `2025-11-11T09:38:14.240Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:38:14.240Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ar/v1/r9/ad6ee21e02fe502555b7027d46fc55a6.pdf` |
 | `bodyFormat` | `HTML` |

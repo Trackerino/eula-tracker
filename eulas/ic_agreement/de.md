@@ -1,16 +1,15 @@
-# AUSZAHLUNGSBEDINGUNGEN FÜR DAS ENGAGEMENT-PROGRAMM
+# Fortnite-Entwicklervereinbarungen
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a1857e420e724dae63c862` |
+| `id` | `69130456040b6a7521af9479` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `6` |
-| `title` | `AUSZAHLUNGSBEDINGUNGEN FÜR DAS ENGAGEMENT-PROGRAMM` |
+| `version` | `2` |
+| `revision` | `3` |
+| `title` | `Fortnite-Entwicklervereinbarungen` |
 | `locale` | `de` |
-| `createdTimestamp` | `2024-01-12T18:31:26.169Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:31:26.169Z` |
+| `createdTimestamp` | `2025-11-11T09:39:34.206Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:39:34.206Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/de/v1/r6/db1b2a59b5d60e803973d3030a491c2a.pdf` |
 | `bodyFormat` | `HTML` |

@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a185b412ce160e08dbc6a6` |
+| `id` | `6913035a781c80205697e64e` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `6` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `참여 프로그램 지급 약관` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2024-01-12T18:32:20.375Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:32:20.375Z` |
+| `createdTimestamp` | `2025-11-11T09:35:22.718Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:35:22.718Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ko/v1/r6/9892172f39995bc3674f068f750a6823.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ko/v2/r1/d64f47ce577f58e4bd9dfe9ae26fd63a.pdf` |
 | `bodyFormat` | `HTML` |

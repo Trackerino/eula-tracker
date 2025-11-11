@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a1858d668ff83761c5952a` |
+| `id` | `6913035a781c80205697e649` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `6` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `TÉRMINOS DEL PROGRAMA DE PAGO POR PARTICIPACIÓN` |
 | `locale` | `es` |
-| `createdTimestamp` | `2024-01-12T18:31:41.243Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:31:41.243Z` |
+| `createdTimestamp` | `2025-11-11T09:35:22.710Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:35:22.710Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/es/v1/r6/f78cade927810f4d57541514dfa5bbdb.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/es/v2/r1/e3bcd067d5b53355cba20a50dd9f80b6.pdf` |
 | `bodyFormat` | `HTML` |

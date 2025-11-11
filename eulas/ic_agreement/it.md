@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a185a64c4beb5185932264` |
+| `id` | `6913035a781c80205697e64c` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `6` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `CONDIZIONI DEL PROGRAMMA DI RETRIBUZIONE DELLA PARTECIPAZIONE` |
 | `locale` | `it` |
-| `createdTimestamp` | `2024-01-12T18:32:06.124Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:32:06.124Z` |
+| `createdTimestamp` | `2025-11-11T09:35:22.715Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:35:22.715Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/it/v1/r6/3f5b3ac6bf7835af0aa3b075b8175946.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/it/v2/r1/dfb4bb8f729a2f9f53a86dffd8f35c7d.pdf` |
 | `bodyFormat` | `HTML` |

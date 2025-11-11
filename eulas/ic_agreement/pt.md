@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a185c31f9a3b2404086c12` |
+| `id` | `6913035a781c80205697e650` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `6` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `TERMOS DE PAGAMENTO DO PROGRAMA DE ENGAJAMENTO` |
 | `locale` | `pt` |
-| `createdTimestamp` | `2024-01-12T18:32:35.343Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:32:35.343Z` |
+| `createdTimestamp` | `2025-11-11T09:35:22.721Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:35:22.721Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pt/v1/r6/a491d913b4a3ca98313a51850980b0d8.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pt/v2/r1/44eaf674fd7643f71feeab7e316b3cea.pdf` |
 | `bodyFormat` | `HTML` |

@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `65a185db3b0b52735191e858` |
+| `id` | `6913035a781c80205697e652` |
 | `key` | `ic_agreement` |
-| `version` | `1` |
-| `revision` | `6` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `УСЛОВИЯ ПРОГРАММЫ ВЫПЛАТ ЗА ВЗАИМОДЕЙСТВИЕ` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2024-01-12T18:32:59.170Z` |
-| `lastModifiedTimestamp` | `2024-01-12T18:32:59.170Z` |
+| `createdTimestamp` | `2025-11-11T09:35:22.725Z` |
+| `lastModifiedTimestamp` | `2025-11-11T09:35:22.725Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ru/v1/r6/94899a144c360cffa3e7192e2594020e.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ru/v2/r1/2460dcbe33a6a7d6e85b70ddcaa9b061.pdf` |
 | `bodyFormat` | `HTML` |
