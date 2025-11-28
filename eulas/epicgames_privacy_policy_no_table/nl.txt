@@ -1,212 +1,242 @@
-Laatst bijgewerkt: 18 juli 2025
-
-Voor <a id="url" href="#children" style="EULA.Hyperlink">Privacy van kinderen</>, zie sectie 5
+Laatst bijgewerkt: 28 november 2025
 
 Welkom bij Epic!
 
-Epic Games, Inc. heeft haar hoofdkantoor in Cary, North Carolina. Wij en onze dochterondernemingen hebben kantoren en activiteiten over de hele wereld die helpen bij het ontwikkelen en leveren van enkele van uw favoriete producten en diensten, waaronder games zoals Fortnite en ontwikkeltools zoals Unreal Engine (zie "Onze wereldwijde activiteiten" hieronder).
+Als je een kind bent, raadpleeg dan onze <a id="url" href="https://legal.epicgames.com/epicgames/young-player-policy" style="EULA.Hyperlink">privacy-informatie voor jonge spelers</>.
 
-Dit privacybeleid beschrijft de verschillende manieren waarop we informatie kunnen verzamelen, gebruiken en delen op, via of in verband met de Diensten van Epic ("Wat zijn de Diensten van Epic?" hieronder). Als u vragen hebt, kunt u altijd contact met ons opnemen zoals beschreven in "Neem contact met ons op" hieronder.
+Als u de ouder/voogd van een kind bent, raadpleeg dan <a id="url" href="#children" style="EULA.Hyperlink">sectie 2 (Hoe verwerken we gegevens over kinderen?)</>.
 
-Wanneer we in dit privacybeleid verwijzen naar "Epic" (of vergelijkbare termen zoals "wij" of "ons"), bedoelen we de Epic Games-entiteit die uw informatie beheert en er verantwoordelijk voor is, met inbegrip van Epic Games, Inc. en haar dochterondernemingen die helpen bij het leveren en ondersteunen van de Diensten van Epic. In het gedeelte “Neem contact met ons op” hieronder kunt u ook meer informatie vinden over de verwerkingsverantwoordelijke voor de persoonsgegevens die wij via de verschillende Diensten van Epic verzamelen.
+Epic Games, Inc. heeft haar hoofdkantoor in Cary, North Carolina. Wij en onze dochterondernemingen hebben kantoren en activiteiten over de hele wereld die helpen bij het ontwikkelen en leveren van een aantal van uw favoriete producten en diensten, waaronder games zoals Fortnite en tools voor ontwikkelaars zoals Unreal Engine.
 
-<EULA.Header>1. WAT ZIJN DE DIENSTEN VAN EPIC?</>
+Dit privacybeleid van Epic Games (dit “<EULA.Highlight>Beleid</>”) beschrijft de verschillende manieren waarop we gegevens kunnen verzamelen, gebruiken, beveiligen, bewaren, bekendmaken en anderszins verwerken die kunnen worden gebruikt om u te identificeren op, via of in verband met de diensten van Epic (hieronder gedefinieerd).
 
-We gebruiken de term "Diensten van Epic" om alle Epic-producten of -diensten te beschrijven die gerelateerd zijn aan dit privacybeleid. Deze omvatten bijvoorbeeld:
+U moet dit volledige beleid en alle andere overeenkomsten die van toepassing zijn op uw gebruik van de diensten van Epic zorgvuldig doorlezen en bevestigen dat u deze begrijpt en ermee akkoord gaat, voordat u een van de diensten van Epic gebruikt. Als u vragen hebt, kunt u altijd contact met ons opnemen via de contactgegevens vermeld in sectie 12 (Hoe kunt u contact met ons opnemen?).
 
-• games zoals <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</> (via onze dochteronderneming Psyonix), <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</> (via onze dochteronderneming Mediatonic) en <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</> (via onze dochteronderneming Aquiris Games Studio LLC);
-• websites en applicaties zoals <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</> en de <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">Epic Games Store</>, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</> (via Life on Air), <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> (via Psyonix), en<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink"> www.fallguys.com</> (via Mediatonic);
-• live evenementen waar dit privacybeleid is geplaatst; en
-• tools voor ontwikkelaars, inclusief de <a id="url" href="https://dev.epicgames.com/portal/" style="EULA.Hyperlink">Developer Portal</> en <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</>.
+<EULA.Header>1. WAT VALT ER ONDER DIT BELEID?</>
 
-Houd er rekening mee dat voor uw gebruik van de Diensten van Epic ook aanvullende voorwaarden kunnen gelden. U moet bijvoorbeeld de <a id="url" href="https://www.epicgames.com/fortnite/eula" style="EULA.Hyperlink">Fortnite Licentieovereenkomst voor eindgebruikers</> lezen en accepteren om Fortnite te spelen, de <a id="url" href="https://www.psyonix.com/eula" style="EULA.Hyperlink">Gebruiksvoorwaarden voor Psyonix</> om Rocket League te spelen, en de <a id="url" href="https://fallguys.com/eula" style="EULA.Hyperlink">Fall Guys: Ultimate Knockout - Licentieovereenkomst voor eindgebruikers</> om Fall Guys te spelen en de <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2 Licentieovereenkomst voor eindgebruikers om Horizon Chase 2</> te spelen.
+Wanneer we in dit privacybeleid verwijzen naar “<EULA.Highlight>Epic</>” (of vergelijkbare termen zoals “<EULA.Highlight>wij/we</>,” “<EULA.Highlight>ons</>,” of “<EULA.Highlight>onze</>”), bedoelen we de Epic Games-entiteit die uw gegevens beheert en er verantwoordelijk voor is, zoals Epic Games, Inc. en haar dochterondernemingen en gelieerde ondernemingen die de diensten van Epic leveren. Dit beleid is van toepassing wanneer Epic optreedt als verwerkingsverantwoordelijke van uw gegevens. Details over de verwerkingsverantwoordelijke die verantwoordelijk is voor uw gegevens vindt u in sectie 12 (Hoe kunt u contact met ons opnemen?).
 
-Lees dit volledige privacybeleid goed door. U moet ook alle andere overeenkomsten die van toepassing zijn op de Diensten van Epic die u gebruikt zorgvuldig bekijken en bevestigen dat u deze begrijpt en ermee akkoord gaat, voordat u deze producten of diensten gebruikt.
+We gebruiken de term “<EULA.Highlight>Diensten van Epic</>” om alle Epic-producten of -diensten te beschrijven die een directe link naar dit beleid bevatten, waaronder:
 
-<EULA.Header>2. WELKE INFORMATIE VERZAMELEN WIJ?</>
+• onze games (bijv. <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</>, <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</> en <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</>); 
+• onze marktplaatsen (bijv. <a id="url" href="https://store.epicgames.com/" style="EULA.Hyperlink">Epic Games Store</> en <a id="url" href="https://www.fab.com/" style="EULA.Hyperlink">Fab</>);
+• onze tools voor ontwikkelaars (bijv. <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal En</><a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">gine</>, <a id="url" href="https://www.metahuman.com/" style="EULA.Hyperlink">MetaHuman</> en <a id="url" href="https://store.epicgames.com/p/fortnite--uefn" style="EULA.Hyperlink">Unreal Editor For Fortnite</>); 
+• onze applicaties (bijv. <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>); 
+• onze websites en hun respectievelijke subdomeinen (bijv. <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> en<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink"> </><a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>); en 
+• live evenementen waar dit privacybeleid is geplaatst.
 
-De types informatie die wij verzamelen, hangen af van de manier waarop u met ons communiceert. In het algemeen verzamelen wij informatie op drie belangrijke manieren: A) wanneer u deze aan ons verstrekt, B) automatisch wanneer u de Diensten van Epic gebruikt, en C) afkomstig van dienstverleners en derden.
-
-<EULA.Highlight>A. Informatie die u aan ons verstrekt</>
-
-U kunt ons verschillende soorten informatie verstrekken, afhankelijk van de manier waarop u met de Diensten van Epic omgaat. Soms vragen we u om specifieke informatie, bijvoorbeeld wanneer we die nodig hebben om u delen van de Diensten van Epic te kunnen aanbieden (bijvoorbeeld door u te vragen uw geboortedatum op te geven of een online registratieproces te voltooien). Als wij u in deze situaties vragen ons informatie te verstrekken en u kiest ervoor dit niet te doen, is het mogelijk dat u geen toegang zult krijgen tot de relevante Diensten van Epic en/of dat sommige functies niet werken zoals oorspronkelijk bedoeld.
-
-Om bijvoorbeeld aankopen te kunnen doen in de Epic Games Store en om sommige van onze games te kunnen spelen, hebt u een Epic-account nodig. Om er een aan te maken, moet u ons elementaire registratie-informatie bezorgen, zoals uw naam, een publieke gebruikersnaam, een wachtwoord, het land waar u woont en uw e-mailadres. Als u een aankoop wilt doen, kunnen wij u vragen om betalingsgerelateerde informatie te verstrekken (zoals uw creditcardnummer en de vervaldatum) om de transactie te voltooien. Bovendien vereisen veel van onze diensten uw geboortedatum om te bepalen welke functies we u kunnen aanbieden en welke instellingen we op uw account moeten toepassen op basis van uw leeftijd en locatie.
-
-We verzamelen ook de informatie die u vrijwillig verstrekt om u aan te melden voor e-mailmeldingen, gebruik te maken van sociale functies zoals fora of chat, u te registreren voor vroege toegang tot onze games, onze ontwikkeltools te gebruiken (inclusief voor het maken en publiceren van games en andere inhoud), twee-factor-authenticatie in te schakelen, u te registreren voor of deel te nemen aan onze evenementen, enquêtes in te vullen of contact met ons op te nemen via verzoeken om ondersteuning van spelers of de klantenservice. Als u onze functie voor voicechat gebruikt en spraakrapportage is ingeschakeld in een voicekanaal, worden fragmenten van audiogegevens van de voicechat opgeslagen op uw apparaat en de apparaten van deelnemers aan het spraakkanaal. Als een schending van onze Communityregels wordt gemeld, kunnen deze fragmenten worden verzonden naar Epic om ons te helpen deze Communityregels te handhaven. Als u meedoet aan een wedstrijd of competitief evenement, of deelneemt aan onze <a id="url" href="https://www.epicgames.com/affiliate/overview" style="EULA.Hyperlink">Support-A-Creator</> of <a id="url" href="https://create.fortnite.com/island-creator/" style="EULA.Hyperlink">Island Creator</> programma’s, verzamelen we uw aanmeldingsgegevens en andere informatie die we nodig kunnen hebben om te bevestigen of u in aanmerking komt en om betalingen te verwerken. We verzamelen alle informatie die u ons in deze of andere soortgelijke gevallen verstrekt.
-
-<EULA.Highlight>B. Informatie die wij automatisch verzamelen</>
-
-Sommige gegevens verzamelen we automatisch wanneer u de Diensten van Epic bezoekt, opent of gebruikt. Dit omvat informatie over uw gameplay- of applicatiegebruik, aankopen, rechten en andere activiteiten in de Diensten van Epic, die doorgaans zijn gekoppeld aan uw account (als u bent aangemeld bij uw Epic-account of een account van derden gebruikt om toegang te krijgen tot de Diensten van Epic) of aan een identificatiecode die we aan uw apparaat of profiel hebben toegewezen. Hoewel de specifieke soorten informatie die we automatisch verzamelen kunnen variëren, omvatten ze in het algemeen:
-
-• gebruiksinformatie en statistieken over uw interactie met de Diensten van Epic, waaronder de toepassing die u hebt gebruikt of de game die u hebt gespeeld, hoe lang u het hebt gebruikt of gespeeld en wanneer, gameplay-pogingen, progressie en resultaten, opgeslagen voorkeuren, crash-rapporten, de URL's van onze websites die u hebt bezocht, URL's van verwijzende en exit-pagina's, bekeken pagina's, tijd die u op een pagina hebt doorgebracht, aantal klikken, en platformtype;
-• technische informatie over uw computer, apparaat, hardware of software die u gebruikt om toegang te krijgen tot onze diensten, zoals IP-adres, apparaat-id’s, uw internetprovider, plug-ins, of andere transactie- of identificerende informatie voor uw apparaat (zoals merk en model van het apparaat, informatie over besturingssystemen en browsers van het apparaat, of andere apparaat- of systeemgerelateerde specificaties); en
-• de algemene locatie van uw apparaat, die wij gewoonlijk afleiden uit het IP-adres van uw apparaat.
-
-De Diensten van Epic maken gebruik van technologieën zoals cookies, logbestanden en webbakens om automatisch de hierboven vermelde types informatie te verzamelen. Sommige van deze technologieën kunnen kleine bestanden of hulpmiddelen voor het bijhouden van gegevens aanmaken die op uw apparaat worden opgeslagen. Deze helpen ons, onze dienstverleners en derden om uw apparaat te herkennen en informatie te verstrekken over uw gebruik van en interactie met de Diensten van Epic. Zo ondersteunen zij bijvoorbeeld ons vermogen om gebruikers te authentiseren, voorkeuren te onthouden, advertenties te beheren, ervaringen te personaliseren en gegevensanalyses uit te voeren.
-
-Houd er rekening mee dat als bepaalde functies op de Diensten van Epic worden geleverd door derden, deze derden ook geautomatiseerde middelen voor gegevensverzameling kunnen gebruiken en informatie kunnen vastleggen over uw gebruik van de Diensten van Epic, hun diensten of de websites van anderen in de loop van de tijd. Wanneer u bijvoorbeeld Diensten van Epic (zoals Unreal Engine) gebruikt die software van derden bevatten, kunnen die externe leveranciers informatie verzamelen via hun technologie. Voor deze functies gelden de privacyverklaringen en het privacybeleid van deze derden.
-
-<EULA.Highlight>C. Informatie die wij verzamelen uit andere bronnen</>
-
-In sommige gevallen kunnen wij ook informatie over u ontvangen van dienstverleners en derden in verband met uw gebruik van de Diensten van Epic of uw interacties met ons op andere platforms.
-
-Sommige andere ontwikkelaars staan bijvoorbeeld toe dat u uw Epic-account gebruikt om in te loggen op hun dienst. En als u ervoor kiest om uw Epic-account te koppelen aan uw account op een sociale media- (zoals Facebook), gaming- (zoals Steam) of andere soortgelijke website of dienst van een derde partij, of als u reageert op een advertentie voor een van de Diensten van Epic op een externe website of dienst, kan het bedrijf dat die website of dienst beheert bepaalde informatie delen met Epic in overeenstemming met hun eigen privacypraktijken. Uw privacyinstellingen op de website of de dienst van het andere bedrijf bepalen doorgaans de specifieke types informatie die zij met Epic kunnen delen, dus zorg ervoor dat u deze regelmatig controleert en bijwerkt. Courante voorbeelden van gekoppelde accounts zijn de gebruikersnaam en de gebruikers-ID van uw account bij derden, evenals de bijbehorende apparaatinformatie, naam en e-mailadres. Voor deelnemers aan ons Support-a-Creator-programma kunnen we ook het aantal volgers van uw sociale media-account verzamelen om in aanmerking te komen voor het programma.
-
-U kunt ook bepaalde Diensten van Epic kopen, downloaden of openen op of via diensten die door derden worden beheerd. Als u dat doet, kunnen zij ons informatie verstrekken om uw toegang tot en gebruik van de Diensten van Epic mogelijk te maken. Doorgaans bevat deze informatie zoals uw gebruikersnaam, gebruikers-ID, en apparaat- en regio-informatie. U kunt er bijvoorbeeld voor kiezen om games zoals Fortnite te downloaden en te spelen op spelconsoles (zoals Sony PlayStation®, Microsoft Xbox en Nintendo&nbsp;Switch) via de account van uw spelconsole. Wanneer u dat doet, kan het bedrijf dat dat platform of die dienst beheert bepaalde informatie met ons delen, wat ons helpt dingen te doen zoals uw gameplay vergemakkelijken en uw vooruitgang en rechten bijhouden.
-
-<EULA.Highlight>D. Fraudepreventie & Anti-cheat</>
-
-Het is voor ons uiterst belangrijk om gebruikers een eerlijke, evenwichtige en concurrerende ervaring te bieden op de Diensten van Epic. Wij zien daarom strikt toe op de naleving van verbodsbepalingen tegen cheaten, hacken, het stelen van accounts en alle andere ongeoorloofde of frauduleuze activiteiten op de Diensten van Epic. Wij gebruiken verschillende anti-cheat en fraudepreventietechnologieën om ons te helpen kwaadwillige activiteiten te identificeren en te voorkomen. Deze diensten kunnen gegevens over uw computer en de software op uw computer verzamelen en analyseren om cheaten op te sporen en kunnen worden geleverd door Epic of door externe dienstverleners.
-
-<EULA.Header>3. HOE GEBRUIKEN WIJ INFORMATIE?</>
-
-Algemeen gebruiken we de informatie die we verzamelen (afzonderlijk of in combinatie met andere informatie die wordt verzameld zoals beschreven in dit beleid) om ons te helpen de Diensten van Epic te leveren, te verbeteren, aan te passen, te analyseren en te promoten. Dit omvat het gebruik ervan voor doeleinden zoals:
-
-• het aanmaken, verifiëren en beheren van gebruikersaccounts en -functies;
-• het verlenen van de Diensten van Epic, alsook de ondersteuning en bijstand daarvoor, onder meer door het beantwoorden van vragen, het verwerken van transacties of verzoeken en het communiceren met gebruikers (zoals door het verzenden van service- en accountgerelateerde berichten en updates);
-• het ontwikkelen, leveren en verbeteren van de Diensten van Epic en andere aangeboden producten, waarvan sommige in samenwerking met andere partijen kunnen worden aangeboden;
-• het personaliseren van uw ervaring, onder meer door inhoud of functies te presenteren die beter op u of uw interesses zijn afgestemd, of onze afleidingen over uw interesses (als u bijvoorbeeld vaak games van een bepaald genre speelt, kunnen wij afleiden dat u geïnteresseerd bent in dat genre en u soortgelijke games voorstellen);
-• het promoten van de Diensten van Epic, met inbegrip van het beheren, personaliseren en meten van de doeltreffendheid van onze advertenties, promotionele aanbiedingen, enquêtes en evenementen;
-• het beheren van alfa-, bèta- of early access-tests (en verzamelen van feedback);
-• het uitvoeren van gegevensanalyses (zoals het analyseren van hoe de Diensten van Epic worden gebruikt zodat we deze beter kunnen begrijpen, verbeteren en personaliseren);
-• het naleven van onze wettelijke of contractuele verplichtingen en het handhaven van onze voorwaarden; 
-• het beveiligen van de Diensten van Epic, zoals door het opsporen van fraude en het op andere manieren beschermen van Epic en andere gebruikers tegen illegale of kwaadwillige handelingen; en
-• het verbeteren van technologieën of processen die worden gebruikt om deze doeleinden te bereiken (zoals het trainen van machine learning-modellen die worden gebruikt om kwaadaardige, illegale of schadelijke inhoud te detecteren of te matigen of het uitvoeren en handhaven van onze voorwaarden en beleidslijnen zoals onze <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Communityregels</>).
-
-We kunnen ook informatie verwerken op basis waarvan uw identiteit niet kan worden achterhaald, met inbegrip van geaggregeerde of geanonimiseerde informatie die we creëren of verzamelen uit andere bronnen. Deze informatie helpt ons om grotere groepen gebruikers beter te begrijpen. Indien wij deze informatie combineren met informatie waarmee u kunt worden geïdentificeerd, zullen wij die informatie behandelen zoals uiteengezet in dit privacybeleid. Merk echter op dat dit privacybeleid geen beperking inhoudt van ons vermogen om informatie te verwerken waarmee u niet individueel kunt worden geïdentificeerd, en dat wij geaggregeerde of geanonimiseerde informatie kunnen gebruiken en openbaar maken om iedere reden die door de wet is toegestaan.
-
-<EULA.Header>4. HOE DELEN WIJ INFORMATIE?</>
-
-Mogelijk delen we een deel van de informatie die we verzamelen om de Diensten van Epic te helpen beheren en verbeteren. Afhankelijk van hoe u met ons in contact treedt, kunnen gebruikelijke voorbeelden van informatie die wij delen, de volgende zijn:
-
-• met console- en platformpartners (bijvoorbeeld om de gameplay mogelijk te maken wanneer u via een derde consoleaanbieder toegang krijgt tot de Diensten van Epic);
-• met andere gameontwikkelaars (zoals bijvoorbeeld om functies mogelijk te maken voor games die u aanschaft via de Epic Games Store);
-• met andere gebruikers (wanneer u sociale functies zoals chat gebruikt);
-• publiekelijk (bijvoorbeeld, uw gebruikersnaam, inhoud die u maakt of deelt, basis-gamestatistieken en andere soortgelijke informatie kan algemeen toegankelijk zijn voor anderen);
-• met dienstverleners die namens ons werken om de Diensten van Epic volgens onze instructies te helpen ondersteunen (bijvoorbeeld leveranciers van cloudopslag, betalingsverwerkers of marketing- en advertentiepartners);
-• wanneer wij van mening zijn dat dit noodzakelijk is om te voldoen aan de wet of om u, Epic of anderen te beschermen (bijvoorbeeld als reactie op een gerechtelijk bevel of dagvaarding, in het kader van een onderzoek naar fraude of andere illegale activiteiten, of schending van onze voorwaarden of ons beleid, of indien dit noodzakelijk is om anderen te beschermen tegen overlijden of ernstige schade aan lichaam of eigendom);
-• met andere Epic-entiteiten (onder meer om de Diensten van Epic internationaal te helpen ondersteunen);
-• in het kader van bepaalde soorten zakelijke transacties (zoals in het geval van een herstructurering of de verkoop van het geheel of een aanzienlijk deel van onze activiteiten);
-• met uw toestemming (bijvoorbeeld als u externe accounts koppelt aan uw Epic-account, of uw Epic-account gebruikt om u aan te melden bij games en diensten van derden of deelneemt aan gemeenschappelijke promotionele evenementen); en
-• we kunnen ook informatie waarmee uw identiteit niet kan worden achterhaald delen met derden, met inbegrip van geaggregeerde of geanonimiseerde informatie.
-
-Mobiele telefoonnummers die voor veiligheidsdoeleinden aan Epic zijn verstrekt, worden niet gedeeld met derden of gelieerde ondernemingen voor marketing-/promotiedoeleinden. 
-
-Voor zover we uw persoonlijke gegevens delen met derden, proberen we ervoor te zorgen dat deze derden dezelfde of in wezen vergelijkbare bescherming bieden als die welke Epic beschrijft in dit privacybeleid. 
-
-Derden waarmee u communiceert via de Diensten van Epic kunnen andere privacypraktijken toepassen dan Epic, dus we raden u aan om hun privacybeleid door te nemen voordat u uw informatie met hen deelt.
+Houd er rekening mee dat voor uw gebruik van de diensten van Epic ook aanvullende voorwaarden gelden. U moet bijvoorbeeld de <a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">Servicevoorwaarden van Epic Games</> lezen en aanvaarden om Fortnite, Rocket League, Fall Guys en Horizon Chase 2 te kunnen spelen. 
 <span id="children"></span>
-<EULA.Header>5. PRIVACY VAN KINDEREN</>
+<EULA.Header>2. HOE VERWERKEN WE DE GEGEVENS VAN KINDEREN?</>
 
-We ontwerpen de Diensten van Epic om gebruikers van alle leeftijden over de hele wereld welkom te heten. Dit betekent dat we leeftijdsinformatie van gebruikers verzamelen en dat sommige van onze diensten een andere ervaring bieden op basis van wat we weten over de leeftijd van een gebruiker en waar ze wonen. De onderstaande informatie is voor ouders en voogden om onze privacypraktijken met betrekking tot kinderen te begrijpen (jonger dan 13 jaar of de leeftijd van digitale toestemming in de regio van de gebruiker, afhankelijk van wat hoger is).
+We ontwerpen de diensten van Epic zodanig dat gebruikers van alle leeftijden over de hele wereld welkom zijn. Dit betekent dat we de leeftijdsinformatie van gebruikers verzamelen en dat sommige van de diensten van Epic een andere ervaring bieden op basis van wat we weten over de leeftijd van een gebruiker en waar die woont. De onderstaande informatie is bedoeld zodat ouders/voogden onze privacypraktijken kunnen begrijpen met betrekking tot kinderen (jonger dan 13 jaar of de leeftijd van digitale toestemming in de regio van de gebruiker, afhankelijk van wat hoger is).
 
-Wanneer een gebruiker aangeeft dat hij/zij een kind is, wordt hij/zij in een “Cabined Account” geplaatst totdat hij/zij niet langer een kind is zoals hierboven gedefinieerd, of totdat zijn/haar ouder of voogd aanvullende privacytoestemming geeft en ouderlijk toezicht inschakelt. “Cabined accounts” kunnen de games van Epic spelen, zoals Fortnite en Fall Guys, maar functies zoals voicechat en aankopen met echt geld zijn uitgeschakeld. Epic verzamelt beperkte persoonsgegevens van Cabined accounts om deze te beheren, in elk geval volgens de toepasselijke wetgeving inzake privacy en bescherming van jongeren:
+Wanneer een gebruiker aangeeft dat hij/zij een kind is, wordt hij/zij in een “<EULA.Highlight>Beperkt Account</>” (Cabined Account) geplaatst totdat hij/zij niet langer een kind is zoals hierboven gedefinieerd, of totdat zijn/haar ouder/voogd aanvullende privacytoestemming geeft en ouderlijk toezicht inschakelt. “Beperkte accounts” kunnen de games van Epic spelen, (zoals Fortnite, Rocket League of Fall Guys), maar functies zoals voicechat en aankopen met echt geld zijn uitgeschakeld. Epic verzamelt beperkte persoonsgegevens van Beperkte accounts om deze te beheren, in elk geval volgens de toepasselijke wetgeving inzake privacy en bescherming van jongeren:
 
-• geboortedatum en land om leeftijd te bepalen en de juiste instellingen toe te passen;
-• e-mailadres van ouder of voogd voor kennisgeving en toestemming voor extra functies (wordt verwijderd als de ouder niet binnen 14 dagen reageert);
-• e-mailadres van de gebruiker voor aanmelding (dat alleen wordt opgeslagen in een onleesbare gehashte vorm); en
-• persistente identificatoren zoals IP-adres, account-ID's van het gamingplatform, apparaatidentificatoren en soortgelijke gegevens die zijn verzameld met websitetrackingtechnologieën om de Diensten van Epic te leveren en te onderhouden (inclusief analyses om ze te verbeteren), de veiligheid en integriteit van gebruikers te beschermen, naleving van wet- en regelgeving te waarborgen en personalisatie binnen de game te vereenvoudigen, zoals voortgang binnen de game en avatarkeuze.
+• geboortedatum en land van de gebruiker om leeftijd te bepalen en de juiste instellingen toe te passen;
+• e-mailadres van de gebruiker voor aanmelding (dit wordt alleen opgeslagen in een onleesbare, gehashte vorm); 
+• permanente identificatiegegevens van de gebruiker, zoals IP-adres, account-ID's van gamingplatforms, apparaat-ID's en soortgelijke gegevens die worden verzameld met websitetrackingtechnologieën om de Epic-services te leveren en te onderhouden (inclusief analyses om deze te verbeteren), de veiligheid en integriteit van gebruikers te beschermen, te voldoen aan wettelijke en regelgevende vereisten en personalisatie in games te faciliteren om gebruikersvoorkeuren te behouden (bijvoorbeeld voortgang in games en avatarkeuze); en 
+• e-mailadres van ouder/voogd voor kennisgeving en toestemming voor extra functies (wordt verwijderd als de ouder/voogd niet binnen 14 dagen reageert).
 
-Als een gebruiker met een Cabined account contact met ons opneemt met een vraag of verzoek, worden alle verstrekte persoonsgegevens verwijderd nadat het verzoek is afgehandeld. Wanneer we persoonsgegevens van een Cabined account extern delen, is dat om ons te helpen deze beperkte doeleinden uit te voeren (zoals het delen met consoles om uw game te helpen uitvoeren of met onze cloud-opslagproviders). <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">Meer informatie over Cabined accounts</>.
+Als een gebruiker met een Beperkt Account contact met ons opneemt met een vraag of verzoek, worden alle verstrekte persoonsgegevens verwijderd nadat het verzoek is afgehandeld. Wanneer we persoonsgegevens van een Beperkt Account extern bekendmaken, is dat om ons te helpen deze beperkte doeleinden uit te voeren (zoals het delen met consoles om uw game te helpen uitvoeren of met onze cloudopslagproviders). <a id="url" href="https://www.epicgames.com/site/cabinedaccounts" style="EULA.Hyperlink">Meer informatie over Beperkte accounts</>.
 
 <EULA.Highlight>A. Kennisgeving, toestemming en ouderlijk toezicht</>
 
-Wij verzamelen een e-mailadres van een ouder of voogd van een speler dat een kind is, om de ouder of voogd een e-mailbericht te sturen dat het kind een “Cabined Account” heeft aangemaakt. Via deze kennisgeving kunnen zij ook onze privacypraktijken voor niet-”Cabined Accounts” bekijken, toestemming geven voor een niet-”Cabined Account” voor hun kind om extra functies in te schakelen, en ouderlijk toezicht instellen. Houd er rekening mee dat ouders/voogden ons verificatieproces voor ouders moeten voltooien om toestemming te geven voor een niet-”Cabined Account”.
+Wij verzamelen een e-mailadres van een ouder/voogd van een gebruiker die een kind is, om de ouder/voogd een e-mailbericht te sturen dat het kind een Beperkt Account heeft aangemaakt. Via deze kennisgeving kunnen zij ook onze privacypraktijken voor niet-Beperkte accounts bekijken, toestemming geven voor een niet-Beperkt Account voor hun kind om extra functies in te schakelen, en ouderlijk toezicht instellen. Houd er rekening mee dat ouders/voogden ons verificatieproces voor ouders moeten voltooien om toestemming te geven voor een niet-Beperkt Account.
 
-We gebruiken Kids Web Services (KWS), een dienst die wordt aangeboden door onze dochteronderneming Kids Web Services Ltd, voor leeftijdsverificatie van de ouder/voogd en gebruikers. KWS onthoudt dat u uw leeftijd hebt geverifieerd wanneer u de volgende keer uw e-mailadres gebruikt om toegang te krijgen tot andere games/diensten die gebruikmaken van de KWS-technologie, zodat u dit niet nog een keer hoeft te verifiëren. Epic en KWS zijn gezamenlijk verantwoordelijk voor de verwerking van sommige van uw persoonsgegevens in dit verband. U kunt meer te weten komen over hoe <a id="url" href="https://www.epicgames.com/site/parental-consent" style="EULA.Hyperlink">verifieerbare ouderlijke toestemming</> werkt en over KWS in het <a id="url" href="https://www.kidswebservices.com/privacy-policy" style="EULA.Hyperlink">KWS Privacybeleid</>.
+We gebruiken Kids Web Services (“<EULA.Highlight>KWS</>”), een dienst die wordt aangeboden door onze dochteronderneming Kids Web Services Ltd, voor leeftijdsverificatie van de ouder/voogd en gebruikers. <a id="url" href="https://www.epicgames.com/site/parental-consent" style="EULA.Hyperlink">Meer informatie over verifieerbare toestemming van ouders</>. Nadat een e-mailadres is geverifieerd, zal KWS het herkennen in andere games of diensten die worden aangedreven door KWS-technologie, zodat het niet opnieuw geverifieerd hoeft te worden. <a id="url" href="https://www.kidswebservices.com/privacy-policy" style="EULA.Hyperlink">Meer informatie over KWS</>. 
 
-Wanneer een ouder of voogd toestemming geeft voor een niet-”Cabined Account” voor hun kind, wordt ouderlijk toezicht automatisch ingeschakeld. Ouderlijk toezicht is dan toegankelijk via een pincode; dit stelt u in staat om keuzes over bepaalde functies te wijzigen die tijdens de toestemmingsprocedure zijn gemaakt, en om de ervaring van uw kind verder aan te passen. <a id="url" href="https://www.epicgames.com/site/parental-controls" style="EULA.Hyperlink">Meer informatie over ouderlijk toezicht</>.
+Wanneer een ouder/voogd toestemming geeft voor een niet-Beperkt Account voor hun kind, wordt het ouderlijk toezicht automatisch ingeschakeld. Het ouderlijk toezicht is vervolgens toegankelijk met behulp van een pincode en dit stelt de ouder/voogd in staat om de functie-instellingen die tijdens het toestemmingsproces zijn gekozen, te bekijken en te wijzigen en de ervaring van hun kind verder aan te passen. <a id="url" href="https://www.epicgames.com/site/parental-controls" style="EULA.Hyperlink">Meer informatie over ouderlijk toezicht</>.
 
-Zodra een ouder een niet-”Cabined Account” voor zijn/haar kind heeft geautoriseerd, zijn de privacypraktijken die elders in dit privacybeleid worden beschreven over het algemeen van toepassing, maar jongere gebruikers hebben mogelijk geen toegang tot alle inhoud of functies (vanwege onze standaard privacyinstellingen, leeftijdsvereisten voor bepaalde diensten en functies en/of ouderlijk toezicht). Afhankelijk van de instellingen voor ouderlijk toezicht en de leeftijd van de gebruiker, hebben gebruikers toegang tot communicatie en sociale functies (zoals chat) en kunnen ze vrij communiceren met de meeste Diensten van Epic (inclusief het downloaden van andere games uit de Epic Games Store). Wanneer een gebruiker via de Epic Games Store toegang krijgt tot een game of app van derden, worden bepaalde accountgegevens gedeeld met de uitgever of ontwikkelaar van die game of app om de transactie en de productkenmerken mogelijk te maken. U kunt de ontwikkelaar en uitgever op elke productvermelding zien voordat u deze downloadt, of u kunt onze<EULA.Highlight> </><a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink">Uitgeversindex</> bekijken. Neem contact met ons op zoals hieronder beschreven voor vragen over het delen van gegevens door Epic met deze derden. Voor verdere details, zie "Welke informatie verzamelen wij?", "Hoe gebruiken wij informatie?", en "Hoe delen wij informatie?" hierboven.
+Nadat een ouder/voogd een niet-Beperkt Account voor zijn/haar kind heeft geautoriseerd, zijn de privacypraktijken die elders in dit beleid worden beschreven over het algemeen van toepassing, maar jongere gebruikers hebben mogelijk geen toegang tot alle inhoud of functies (vanwege onze standaard privacyinstellingen, leeftijdsvereisten voor bepaalde diensten en functies en/of het aanwezige ouderlijk toezicht). Afhankelijk van de instellingen voor ouderlijk toezicht en de leeftijd van de gebruiker kunnen gebruikers bijvoorbeeld toegang krijgen tot communicatiefuncties (zoals spraak- en tekstchat) en gebruikmaken van de meeste Epic-services (waaronder het downloaden van andere games of apps uit de Epic Games Store). Wanneer een gebruiker via de Epic Games Store toegang krijgt tot een game of app van derden, worden bepaalde accountgegevens bekendgemaakt aan de uitgever en ontwikkelaar van die game of app om de transactie en de productkenmerken mogelijk te maken. De informatie over ontwikkelaars en uitgevers is te vinden op de productlijst of in onze<EULA.Highlight> </><a id="url" href="https://store.epicgames.com/publisher-index" style="EULA.Hyperlink">Index</>. Voor meer informatie over onze privacypraktijken, zie secties 3 (Welke gegevens verzamelen we en hoe?), 4 (Waarom verwerken we gegevens?) en 5 (Aan wie verstrekken we gegevens?). Als u vragen hebt over de bekendmaking van persoonsgegevens door Epic, neem dan contact met ons op via de contactgegevens vermeld in sectie 12 (Hoe kunt u contact met ons opnemen?).
 
-<EULA.Highlight>B. Privacyrechten voor kinderen en ouders</>
+<EULA.Highlight>B. Privacyrechten voor kinderen en ouders/voogden</>
 
-Minderjarige gebruikers en hun ouders kunnen hun individuele privacyrechten uitoefenen zoals beschreven in sectie 6 hieronder. Ouderlijke controles stellen ouders en voogden in staat om de keuzes die ze hebben gemaakt over het gebruik van specifieke functies door hun kind, zoals voicechat, te wijzigen. Ouders en voogden kunnen ook de persoonsgegevens van het kind inzien die in het bezit is van Epic Games en het Epic-account van hun kind verwijderen (waardoor de persoonsgegevens wordt verwijderd en verdere verzameling wordt gestopt). Om deze rechten uit te oefenen of vragen te stellen over hoe we omgaan met de persoonsgegevens van kinderen, raadpleegt u het gedeelte “Neem contact met ons op” hieronder, of gaat u rechtstreeks naar ons <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Aanvraagformulier voor ouderondersteuning</>.
+Naast het ouderlijk toezicht waarmee ouders/voogden de keuzes kunnen wijzigen die ze hebben gemaakt over het gebruik van specifieke functies zoals spraak- en tekstchat door hun kind, kunnen kinderen en hun ouders/voogden hun individuele privacyrechten uitoefenen zoals beschreven in sectie 9 (Welke keuzes en controles hebt u?). Deze rechten omvatten het recht om de persoonsgegevens van hun kind die door Epic worden bewaard in te zien en het Epic-account van hun kind te verwijderen (waardoor hun persoonsgegevens worden verwijderd en verdere verzameling wordt gestopt). Om deze rechten uit te oefenen of vragen te stellen over hoe we omgaan met de persoonsgegevens van kinderen, kunt u de contactgegevens gebruiken die worden vermeld in sectie 12 (Hoe kunt u contact met ons opnemen?) of ga rechtstreeks naar ons <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Aanvraagformulier voor ouderondersteuning</>.
 
-<EULA.Header>6. UW KEUZES EN CONTROLEMOGELIJKHEDEN</>
+<EULA.Header>3. WELKE GEGEVENS VERZAMELEN WIJ EN HOE?</>
 
-Wij streven ernaar u relevante keuzes te bieden met betrekking tot de persoonsgegevens die wij verzamelen. De specifieke keuzes die voor u beschikbaar zijn, verschillen vaak afhankelijk van de precieze aard van onze relatie met u, zoals de diensten van Epic die u gebruikt. Gangbare voorbeelden zijn:
+Welke soorten gegevens wij verzamelen hangt af van hoe u communiceert met de diensten van Epic. In het algemeen verzamelen wij gegevens op drie manieren: A) wanneer u deze aan ons verstrekt, B) automatisch wanneer u de diensten van Epic gebruikt, en C) afkomstig van derden.
 
-• u kunt ons verzoeken om toegang te verlenen tot persoonsgegevens die wij over u hebben verzameld, of om deze informatie te corrigeren of te wissen. Verzoeken om toegang, bijwerking of wissen van persoonsgegevens in verband met uw Epic-account kunt u indienen door contact met ons op te nemen zoals beschreven in "Neem contact met ons op" hieronder. Let op: wij kunnen u om aanvullende informatie vragen om ons te helpen bij het verifiëren van uw identiteit voordat we uw aanvraag voltooien.
-• indien van toepassing hebt u ook de mogelijkheid om in beroep te gaan of op een andere manier te verzoeken om menselijke beoordeling van beslissingen die op een geautomatiseerde manier zijn genomen.
-• u kunt uw voorkeuren voor e-mailmarketing altijd wijzigen, bijvoorbeeld door gebruik te maken van het afmeldingsmechanisme in onze marketingmails, door de instellingen van uw Epic-account bij te werken of door contact met ons op te nemen met uw verzoek (zie "Neem contact met ons op" hieronder).
-• u kunt uw privacyinstellingen wijzigen op websites van andere partijen (zoals sociale netwerken) of platforms (zoals consoleproviders) om de informatie te beperken die zij met ons kunnen delen.
-• u kunt de instellingen van uw browser of mobiele apparaat wijzigen om tracking-technologieën zoals cookies te blokkeren, te beheren, te verwijderen of te beperken. In sommige gevallen kan het blokkeren of uitschakelen van cookies ertoe leiden dat de diensten van Epic niet werken zoals bedoeld en dat sommige functies niet beschikbaar zijn.
-• als u jonger bent dan 18 jaar en een Epic-account hebt, kunt u ons vragen bepaalde inhoud die u via de diensten van Epic hebt verstrekt, te verwijderen of te anonimiseren. Stuur verzoeken om te helpen bij het verwijderen of bewerken van inhoud van de Diensten van Epic naar Epic, zoals beschreven in "Neem contact met ons op" hieronder.
-• ouders en voogden kunnen de instellingen voor het Epic-account van hun kind aanpassen met behulp van <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">ouderlijk toezicht</>.
+Dit beleid is ontworpen om u te helpen begrijpen hoe we omgaan met gegevens die kunnen worden gebruikt om u te identificeren. In sommige gevallen kunnen we ook gegevens creëren of verzamelen die u niet individueel identificeren, zoals geanonimiseerde of geaggregeerde gegevens. Als we dit soort gegevens combineren met gegevens die u identificeren, zullen we de gecombineerde gegevens behandelen als gegevens die kunnen worden gebruikt om u te identificeren onder dit beleid. 
 
-In sommige delen van de wereld hebben personen op grond van de plaatselijke wetgeving recht op specifieke keuzemogelijkheden met betrekking tot hun persoonsgegevens.
+<EULA.Highlight>A. Gegevens die u aan ons verstrekt</>
 
-<EULA.Header>7. BEWARING</>
+U kunt ervoor kiezen om ons verschillende soorten gegevens te verstrekken, afhankelijk van de manier waarop u met de diensten van Epic omgaat. In sommige gevallen zullen we u om specifieke gegevens vragen, omdat we deze nodig hebben voor de diensten van Epic of hun respectievelijke functies. Als u ervoor kiest om de gevraagde gegevens niet te verstrekken, kunt u mogelijk geen toegang krijgen tot die diensten van Epic of werken bepaalde functies mogelijk niet goed. Bijvoorbeeld:
 
-Omdat de specifieke persoonsgegevens die wij verwerken en onze redenen om dit te doen vaak verschillen afhankelijk van hoe u de Diensten van Epic gebruikt, kan ook de bewaartermijn van deze gegevens verschillen. Doorgaans bewaren wij persoonsgegevens zo lang als wij deze redelijkerwijs nodig hebben voor de doeleinden die in dit beleid worden beschreven (zoals het voldoen aan onze wettelijke verplichtingen, het beheren van interne dossiers, het doen naleven van onze voorwaarden en het oplossen van geschillen), tenzij een langere bewaartermijn wettelijk vereist of toegestaan is.
+• Wanneer u toegang krijgt tot de diensten van Epic, kunnen we uw geboortedatum verzamelen om uw leeftijd te bepalen en de juiste instellingen toe te passen, en als u aangeeft dat u een kind bent, verzamelen we ook het e-mailadres van uw ouder/voogd om hen te informeren en hun toestemming te vragen voor aanvullende functies.
+• Wanneer u een Epic-account aanmaakt, kunnen we basisregistratiegegevens verzamelen (bijv. naam, publieke weergavenaam, wachtwoord, land en e-mailadres) om uw account aan te maken en te onderhouden, de door u gevraagde diensten van Epic te leveren, voorwaarden of beleidsregels te handhaven die van toepassing zijn op en gelden voor uw gebruik van de diensten van Epic, en de juiste gegevens bij te houden om weer te geven hoe we de diensten van Epic aan u leveren.
+• Wanneer u een aankoop doet in de Epic Games Store, kunnen we, afhankelijk van welke betaalmethode u gebruikt, uw betalingsgegevens verzamelen (bijv. nummer en vervaldatum van uw creditcard, naam, en regiogegevens) om de transactie te voltooien.
+• Wanneer u zich aanmeldt voor e-mailmeldingen, verzamelen we uw e-mailadres om u op de hoogte te houden van updates waarvoor u zich hebt aangemeld.
+• Wanneer u twee-factor-authenticatie inschakelt, kunnen we, afhankelijk van welke verificatiemethode u gebruikt, uw telefoonnummer en e-mailadres verzamelen om uw account te beveiligen.
+• Wanneer u sociale functies zoals onze forums of chat gebruikt, kunnen we de gegevens verzamelen die u op of via die functies wilt delen (bijv. de berichten die u op onze forums deelt). Als u onze functie voor spraakchat gebruikt en spraakrapportage is ingeschakeld in een spraakkanaal, worden fragmenten van audiogegevens van de spraakchat opgeslagen op uw apparaat en de apparaten van deelnemers aan het spraakkanaal. Als een schending van onze voorwaarden of beleidsregels (bijv. <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Communityregels</>) wordt gemeld, kunnen deze fragmenten worden doorgestuurd naar Epic om die gemelde schending te beoordelen en onze voorwaarden en beleidsregels te handhaven. 
+• Wanneer u AI-functies gebruikt (bijv. Epic Developer Assistant), gebruiken we uw invoer (bijv. gegevens die u indient waarmee u kunt worden geïdentificeerd) om output te genereren (bijv. reacties). 
+• Wanneer u MetaHuman gebruikt om personages in de game te maken, verzamelen we afbeeldingen van uw gezicht om een gezichtsmesh te genereren uitsluitend om de gevraagde functionaliteit te bieden, niet om u te identificeren.
+• Wanneer u onze andere tools voor ontwikkelaars gebruikt, verzamelen we de gegevens, inclusief alle inhoud, die u maakt en publiceert.
+• Wanneer u meedoet aan een wedstrijd of competitief evenement, of deelneemt aan onze <a id="url" href="https://www.epicgames.com/affiliate/overview" style="EULA.Hyperlink">Support-A-Creator</> of <a id="url" href="https://create.fortnite.com/island-creator/" style="EULA.Hyperlink">Island Creator</>-programma’s, verzamelen we uw aanmeldingsgegevens en andere gegevens die u aan ons verstrekt om te bevestigen of u in aanmerking komt en om uitbetalingen te verwerken. 
+• Wanneer u zich registreert voor onze evenementen of vroegtijdige toegang tot onze games, verzamelen we uw registratiegegevens. 
+• Wanneer u een verwijderingsverzoek indient, verzamelen we de gegevens die u verstrekt (bijv. naam, contactgegevens, handtekening en bewijs ter ondersteuning van uw claim om die verzoeken te beoordelen en erop te reageren).
+• Wanneer u onze enquêtes of vragenlijsten invult, kunnen we uw antwoorden en feedback verzamelen. 
+• Wanneer u contact met ons opneemt via spelersondersteuning of een ander ondersteuningskanaal, verzamelen we uw correspondentie en contactgegevens.
 
-De belangrijkste criteria die we in overweging nemen bij het bepalen van specifieke bewaartermijnen zijn vaak de minimumvereisten op grond van de toepasselijke wetgeving, relevante industrienormen, de type informatie in kwestie (zoals de mate van gevoeligheid), de relevantie voor mogelijke rechtszaken of soortgelijke procedures (zoals de verdediging tegen juridische claims), en of de informatie nodig is om fraude of soortgelijk misbruik van de Diensten van Epic te voorkomen (waaronder de handhaving van verbodsbepalingen tegen cheaten en ander ongeoorloofd gedrag). Als u bijvoorbeeld een Epic-account aanmaakt, bewaren we de persoonsgegevens die aan uw Epic-account zijn gekoppeld doorgaans zo lang als nodig is om uw account te onderhouden, de door u aangevraagde Diensten van Epic te kunnen leveren, de voorwaarden af te dwingen die van toepassing zijn op uw gebruik van deze Diensten van Epic en de juiste gegevens bij te houden om weer te geven hoe we de Diensten van Epic aan u leveren.
+<EULA.Highlight>B. Gegevens die wij automatisch verzamelen</>
 
-Raadpleeg “Uw keuzes en controlemogelijkheden” hierboven voor meer informatie over het verzoek aan Epic om uw persoonsgegevens te wissen.
+We verzamelen automatisch bepaalde gegevens wanneer u de diensten van Epic bezoekt, opent of gebruikt. Dit omvat gegevens over uw gameplay- of gebruik van toepassingen die doorgaans zijn gekoppeld aan uw Epic-account, uw account van derden (als u dit gebruikt om toegang te krijgen tot de diensten van Epic) of aan een identificatiecode die we aan uw apparaat of profiel hebben toegewezen. Hoewel de specifieke soorten gegevens die we automatisch verzamelen kunnen variëren, omvatten ze in het algemeen:
 
-<EULA.Header>8. BEVEILIGING</>
+• gebruiksgegevens en statistieken over uw interactie met de diensten van Epic, waaronder de toepassing die u hebt gebruikt of de game die u hebt gespeeld, hoe lang u het hebt gebruikt of gespeeld en wanneer, gameplay-pogingen, progressie en resultaten, opgeslagen voorkeuren (bijv. taal), crash-rapporten, de URL's van onze websites die u hebt bezocht, de URL's van verwijzende en verlaten pagina's, bekeken pagina's, tijd die u op een pagina hebt doorgebracht, aantal klikken, en platformtype; 
+• technische gegevens over uw computer, apparaat, hardware of software die u gebruikt om toegang te krijgen tot de diensten van Epic, zoals IP-adres, apparaat-ID, uw internetprovider, browserplug-ins, of andere transactie- of identificerende gegevens (zoals merk en model van het apparaat, besturingssysteem en browsertype van het apparaat, of andere systeemgerelateerde specificaties); en
+• algemene locatiegegevens over uw apparaat, meestal afgeleid van het IP-adres.
 
-Wij handhaven passende administratieve, technische en fysieke waarborgen om uw persoonsgegevens te beschermen tegen onopzettelijke, onwettige of ongeoorloofde vernietiging, verlies, wijziging, toegang, openbaarmaking of gebruik en andere onwettige vormen van verwerking. In sommige gevallen is uw informatie toegankelijk wanneer u inlogt op een functie die wij aanbieden, en in die gevallen moet u uw gebruikersgegevens en wachtwoord vertrouwelijk en veilig bewaren, opdat uw informatie beschermd is. Als we ons bewust worden van ongeoorloofde openbaarmaking van uw persoonsgegevens, zullen we u op de hoogte stellen zoals vereist door de wet en stappen ondernemen om uw informatie te helpen beveiligen.
+De diensten van Epic maken gebruik van technologieën zoals cookies, logbestanden en webbakens om automatisch de hierboven vermelde soorten gegevens te verzamelen. Sommige van deze technologieën kunnen kleine bestanden of hulpmiddelen voor het bijhouden van gegevens aanmaken die op uw apparaat worden opgeslagen. Deze technologieën helpen ons uw apparaat te herkennen en gegevens te verzamelen over uw interacties met de diensten van Epic, en we gebruiken die gegevens om, bijvoorbeeld, de diensten van Epic te leveren en te exploiteren (bijv. u te verifiëren en uw voorkeuren op te slaan); de diensten van Epic te controleren (bijv. crashes op te sporen en te rapporteren); de diensten van Epic te begrijpen en te verbeteren (bijv. gegevensanalyses uit te voeren); de diensten van Epic te personaliseren (bijv. lokale valuta's weer te geven); en de diensten van Epic te promoten (bijv. reclame beheren).
 
-<EULA.Header>9. UPDATES</>
+Wanneer bepaalde functies van de diensten van Epic worden geleverd door derden, kunnen deze derden ook technologieën voor geautomatiseerde gegevensverzameling gebruiken en gegevens verzamelen over uw gebruik van de diensten van Epic, hun diensten of de websites van anderen in de loop van de tijd. Wanneer u bijvoorbeeld diensten van Epic (zoals Unreal Engine) gebruikt die software van derden bevatten, kunnen die derden uw gegevens verzamelen via hun technologieën. Voor functies die door derden worden verstrekt, gelden hun toepasselijke privacyverklaringen en -beleidsregels.
 
-Wij zullen dit beleid van tijd tot tijd bijwerken om mogelijke wijzigingen in onze praktijken of relevante wetten weer te geven. Als we dit doen, zullen we de datum bovenaan dit beleid aanpassen. In sommige gevallen kunnen wij u ook per e-mail of binnen de Diensten van Epic op de hoogte brengen van de betreffende wijzigingen. Raadpleeg dit beleid regelmatig om er zeker van te zijn dat u een goed begrip hebt van uw relatie met Epic en van de manieren waarop we gegevens kunnen verzamelen, gebruiken en delen in verband met de Diensten van Epic.
+<EULA.Highlight>C. Gegevens die we van anderen ontvangen</>
 
-<EULA.Header>10. ONZE WERELDWIJDE ACTIVITEITEN</>
+In sommige gevallen kunnen wij ook gegevens over u ontvangen van dienstverleners en derden in verband met uw gebruik van de diensten van Epic of uw interacties met ons op andere platforms, websites of diensten van derden. Bijvoorbeeld:
 
-Epic Games, Inc. is gevestigd in de Verenigde Staten, maar we zijn wereldwijd actief om gebruikers over de hele wereld een betere ervaring te bieden dankzij de Diensten van Epic. Wij hebben dochterondernemingen, kantoren, dienstverleners en partners over de hele wereld om deze activiteiten op een aantal verschillende manieren te ondersteunen -- de ontwikkelaar van Fall Guys is bijvoorbeeld een dochteronderneming die Mediatonic Limited heet en in het Verenigd Koninkrijk is gevestigd. Dit betekent dat Epic de informatie die wij verzamelen in verband met uw gebruik van de Diensten van Epic kan verwerken op plaatsen buiten de regio waar u verblijft.
+• Wanneer u onze games koopt, downloadt of opent via gameconsoles van derden (bijv. PlayStation®, Microsoft Xbox en Nintendo Switch), kunnen we gegevens van die consoles ontvangen (bijv. uw externe weergavenaam, gebruikers-ID, apparaatinformatie en land) om gameplay te vergemakkelijken, uw voortgang en rechten bij te houden en uw gebruik van de diensten van Epic te ondersteunen. 
+• Wanneer u uw Epic-account koppelt aan uw account op sociale media van derden (bijv. Facebook), gaming (bijv. Steam) of een vergelijkbaar platform, kunnen we gegevens van dat platform ontvangen (bijv. uw externe weergavenaam, gebruikers-ID, apparaatinformatie, naam en e-mailadres). 
+• Wanneer u uw Epic-account gebruikt om in te loggen op het product of de dienst van een externe ontwikkelaar, kunnen we uw gegevens van die ontwikkelaar ontvangen (bijv. gegevens over uw interacties in de game, waaronder prestaties om prestaties in de Epic Games Store bij te houden, weer te geven en te ontgrendelen).
+• Wanneer u een advertentie voor de diensten van Epic gebruikt op een website of dienst van derden, kunnen we gerelateerde gegevens ontvangen van het bedrijf dat die website of dienst exploiteert.
+• Als een andere gebruiker meldt dat u onze voorwaarden of beleidsregels hebt geschonden, kunnen we gegevens over u ontvangen van die gebruiker. Als u een ouder/voogd van een kind bent, kunnen we uw e-mailadres rechtstreeks van uw kind ontvangen om contact met u op te nemen voor verifieerbare toestemming van de ouders. 
 
-<EULA.Highlight>A. Gegevensdoorgiften</>
+Uw privacy-instellingen op platforms, websites en diensten van derden bepalen doorgaans welke gegevens ze aan Epic bekendmaken, dus we raden u aan om deze instellingen regelmatig te controleren en bij te werken. Hoewel we dit beleid volgen bij het gebruik van gegevens die door derden worden verstrekt, hebben we geen controle over hoe derden uw gegevens verzamelen of gebruiken. Raadpleeg voor meer gegevens hun privacyverklaringen en -beleid.
 
-Wanneer u de diensten van Epic gebruikt, kan uw informatie worden doorgegeven aan of opgeslagen in de Verenigde Staten of andere landen waar wij of onze dienstverleners actief zijn. De wetten en regels inzake gegevensbescherming in deze landen kunnen verschillen van die in uw land. Wij vertrouwen op verschillende juridische mechanismen om de doorgifte van informatie buiten het land van verzameling waar nodig wettelijk te ondersteunen. Indien toegestaan op grond van de plaatselijke wetgeving, geeft u Epic toestemming om uw gegevens te verwerken op alle locaties waar wij actief zijn (waaronder de Verenigde Staten) door gebruik te maken van de diensten van Epic.
+<EULA.Header>4. WAAROM VERWERKEN WE GEGEVENS?</>
 
-Voor meer informatie over de Epic-entiteit die verantwoordelijk is voor het beheer van de diensten van Epic die u gebruikt, raadpleegt u “Neem contact met ons op” hieronder.
+We verwerken de gegevens die we verzamelen, hetzij individueel of in combinatie met andere gegevens zoals beschreven in dit beleid, voor de hieronder beschreven doeleinden. Als u zich in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland bevindt, worden de relevante rechtsgrondslagen hieronder tussen haakjes beschreven. Voor meer gegevens over rechtsgrondslagen, zie sectie 11 (Aanvullende kennisgeving voor personen gevestigd in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland). 
 
-<EULA.Highlight>B. Uitgebreide privacywetgeving van Amerikaanse staten</>
+• <EULA.Highlight>Om de diensten van Epic te leveren en te exploiteren</> (contractuele noodzaak of gerechtvaardigde belangen): Bijvoorbeeld, we kunnen uw gegevens gebruiken om uw Epic-account aan te maken en te onderhouden, u toegang te verlenen tot de diensten van Epic, inclusief het verifiëren van uw identiteit, functies van de diensten van Epic mogelijk te maken, inclusief cross-progressiefuncties die gameplay op verschillende platforms en AI-aangedreven functies mogelijk maken, uw transacties te voltooien en te beheren, uw voorkeuren op te slaan, onze voorwaarden en beleidsregels te handhaven, u op de hoogte te stellen van wijzigingen in onze voorwaarden en beleidsregels, en contact met u op te nemen over uw Epic-account, transacties, en andere servicegerelateerde berichten die nodig zijn voor het functioneren van de diensten van Epic.
+• <EULA.Highlight>Om de diensten van Epic te ondersteunen en te controleren </>(gerechtvaardigde belangen of contractuele noodzaak): We kunnen uw gegevens bijvoorbeeld gebruiken om te reageren op ondersteuningsverzoeken en algemene vragen die u ons hebt verzonden, en om crashes op te sporen en te melden.
+• <EULA.Highlight>Om de diensten van Epic en anderen te beveiligen en te beschermen </>(gerechtvaardigde belangen, contractuele noodzaak of wettelijke verplichtingen): We kunnen uw gegevens bijvoorbeeld gebruiken om fraude, bedrog, hacking, diefstal van accounts, misbruik en andere ongeoorloofde activiteiten op de diensten van Epic op te sporen en te voorkomen, en om de rechten, eigendommen en veiligheid van Epic, onze gebruikers en anderen te beschermen.
+• <EULA.Highlight>Om de diensten van Epic te modereren </>(gerechtvaardigde belangen, wettelijke verplichtingen of contractuele noodzaak): We kunnen uw gegevens bijvoorbeeld gebruiken om gemelde illegale, schadelijke, kwaadaardige en frauduleuze inhoud en gedrag dat in strijd is met de toepasselijke wetgeving of onze voorwaarden en beleidsregels op te sporen, te modereren en erop te reageren.
+• <EULA.Highlight>Om de diensten van Epic te ontwikkelen </>(gerechtvaardigde belangen): We kunnen uw gegevens bijvoorbeeld gebruiken om alfa-, bèta- en vroege toegangstests te beheren en feedback te verzamelen. 
+• <EULA.Highlight>Om de diensten van Epic te begrijpen en te verbeteren </>(gerechtvaardigde belangen): We kunnen uw gegevens bijvoorbeeld gebruiken om uw gebruik van de diensten van Epic te analyseren, audits te ondersteunen, en functies, technologieën en processen te verbeteren, inclusief door machine learning-technologieën te trainen om illegaal, schadelijk, kwaadaardig en frauduleus gedrag en inhoud die in strijd is met de toepasselijke wetgeving of onze voorwaarden en beleidsregels op te sporen en te modereren.
+• <EULA.Highlight>Om de diensten van Epic te personaliseren </>(gerechtvaardigde belangen): We kunnen uw gegevens bijvoorbeeld gebruiken om inhoud, functies en aanbevelingen te presenteren die op u zijn afgestemd, of die zijn afgeleid van uw activiteiten, inclusief door games voor te stellen in genres die u vaak koopt, en eilanden en gameniveaus te onthullen op basis van uw speelgeschiedenis, en om de machine learning-technologieën te verbeteren die helpen bij het leveren van deze gepersonaliseerde aanbevelingen. 
+• <EULA.Highlight>Om de diensten van Epic te promoten </>(toestemming of gerechtvaardigde belangen): We kunnen uw gegevens bijvoorbeeld gebruiken om de effectiviteit van onze advertenties, promotionele aanbiedingen, enquêtes en evenementen te beheren, aan te passen en te meten.
+• <EULA.Highlight>Om zakelijke transacties te faciliteren </>(gerechtvaardigde belangen): Wij kunnen uw gegevens bijvoorbeeld binnen onze bedrijfsgroep overdragen in geval van een bedrijfsherstructurering en aan een derde partij in verband met of tijdens onderhandelingen over een verkoop, fusie, afstoting, herstructurering, reorganisatie, ontbinding, faillissement, liquidatie of andere overdracht van een deel of al onze activa, of een andere soortgelijke bedrijfsactiviteit.
+• <EULA.Highlight>Om rechtsvorderingen in te stellen en ertegen te verdedigen </>(gerechtvaardigde belangen of wettelijke verplichtingen): Als u bijvoorbeeld een rechtsvordering tegen ons indient, kunnen we uw gegevens gebruiken om die vordering te onderzoeken en erop te reageren en onszelf ertegen te verdedigen; en wanneer we misbruik van de diensten van Epic detecteren, kunnen we uw gegevens gebruiken om onze rechtsvorderingen in te dienen en te vervolgen.
+• <EULA.Highlight>Om te voldoen aan de toepasselijke wet- en regelgeving en juridische processen </>(wettelijke verplichtingen): We kunnen uw gegevens bijvoorbeeld gebruiken om te reageren op geldige verzoeken van wetshandhavings- en overheidsinstanties, waaronder dagvaardingen, gerechtelijke bevelen en huiszoekingsbevelen; en we kunnen uw geboortedatum gebruiken om de naleving van de wetgeving inzake jeugdbescherming te vergemakkelijken. 
+• <EULA.Highlight>Voor doeleinden waarvoor u toestemming hebt gegeven</> (toestemming):<EULA.Highlight> </>Met uw toestemming kunnen we uw gegevens bijvoorbeeld gebruiken om u marketingberichten te sturen. U bent niet verplicht om uw toestemming te geven en u kunt uw toestemming op elk gewenst moment intrekken.
 
-<EULA.Highlight>Voor inwoners van Californië</>
+We kunnen uw gegevens in de toekomst ook verwerken voor aanvullende doeleinden, die overeenkomen met de hierboven beschreven doeleinden, en we kunnen u het doel uitleggen op het moment van verzameling. Daarnaast kunnen we gegevens die u niet individueel identificeren, zoals niet-geïdentificeerde of geaggregeerde gegevens, gebruiken voor zakelijke, operationele of andere doeleinden die zijn toegestaan onder de toepasselijke wetgeving.
 
-De California Consumer Privacy Act of “CCPA” geeft inwoners van Californië specifieke rechten met betrekking tot hun persoonlijke informatie. Termen die in deze subsectie worden gebruikt, worden gedefinieerd door de CCPA.
+<EULA.Header>5. AAN WIE MAKEN WE GEGEVENS BEKEND?</>
+
+We kunnen sommige van uw gegevens bekendmaken aan onze dochterondernemingen en gelieerde ondernemingen, onze dienstverleners en derden voor de hierboven uiteengezette doeleinden. 
+
+Wanneer we gegevens bekendmaken aan onze dienstverleners, streven we ernaar om ervoor te zorgen dat deze dienstverleners bescherming bieden die gelijk is aan, of in wezen vergelijkbaar is met, de bescherming die in dit beleid wordt beschreven (bijv. door het gebruik van uw gegevens te beperken tot de geleverde diensten). Onze dienstverleners omvatten:
+
+• aanbieders van hosting en opslag van databases; 
+• tools voor klantrelatiebeheer;
+• aanbieders van e-maildiensten;
+• aanbieders van technologie ter voorkoming van fraude en bedrog;
+• betalingsverwerkers;
+• aanbieders van grote taalmodellen om AI-functies mogelijk te maken; en
+• marketing- en reclamepartners.
+
+Afhankelijk van welke diensten van Epic u gebruikt en hoe u die gebruikt, omvatten derden:
+
+• ontwikkelaars van games die u koopt of speelt via de Epic Games Store en makers die eilanden publiceren in Fortnite (bijv. om te helpen met inlog- of ondersteuningsverzoeken);
+• gameconsoles (bijv. PlayStation®, Microsoft Xbox en Nintendo Switch);
+• platforms voor sociale media (bijv. Facebook) en gamingplatforms (bijv. Steam) als u uw Epic-account koppelt aan een platform van derden;
+• andere gebruikers (bijv. wanneer u sociale functies zoals chat gebruikt) of het publiek (bijv. wanneer u onze games speelt of onze tools voor ontwikkelaars gebruikt, kunnen gegevens zoals uw weergavenaam, gamestatistieken en inhoud die u hebt gemaakt of gedeeld openbaar toegankelijk zijn);
+• onze advocaten, consultants, accountants, bedrijfsadviseurs en soortgelijke derden die ons een geheimhoudingsplicht verschuldigd zijn;
+• een koper of andere opvolger in het geval van een verkoop, fusie, afstoting, herstructurering, reorganisatie, ontbinding of andere overdracht van sommige of al onze activa, hetzij als een lopende onderneming of als onderdeel van faillissement, liquidatie of soortgelijke procedure, waarbij gegevens die door ons worden bewaard met betrekking tot gebruikers van de diensten van Epic tot de overgedragen activa behoren; 
+• wetshandhaving, overheidsinstanties of anderen zoals vereist om te voldoen aan toepasselijke wetten, voorschriften of juridische processen, of als we van mening zijn dat bekendmaking noodzakelijk is om de rechten, eigendommen of veiligheid van Epic, onze gebruikers of anderen te beschermen (bijv. om fraude of andere illegale activiteiten te onderzoeken, onze voorwaarden en beleidsregels te handhaven of onze gebruikers of anderen te beschermen tegen overlijden of ernstige schade); en 
+• anderen met uw toestemming (bijv. als u uw Epic-account gebruikt om u aan te melden bij producten of diensten van derden, deel te nemen aan gezamenlijke promotionele evenementen of bepaalde betaalmethoden te gebruiken). 
+
+Mobiele telefoonnummers die voor veiligheidsdoeleinden aan Epic zijn verstrekt, worden niet gedeeld met derden of gelieerde ondernemingen voor marketing- of promotiedoeleinden.
+
+<EULA.Header>6. WAAR VERWERKEN WE GEGEVENS? </>
+
+Epic Games, Inc. is gevestigd in de Verenigde Staten, maar we zijn wereldwijd actief om gebruikers over de hele wereld een betere ervaring te bieden dankzij de diensten van Epic. Dit betekent dat Epic uw gegevens kan verwerken, opslaan en doorgeven buiten het land waar u woont. 
+
+De wetten inzake gegevensbescherming in deze landen kunnen afwijken van die in uw land. Wanneer we uw gegevens doorgeven buiten het land waar ze zijn verzameld, baseren we on op passende juridische mechanismen om de doorgifte te ondersteunen en implementeren we technische, organisatorische en fysieke veiligheidsmaatregelen om uw gegevens te beveiligen. Deze maatregelen omvatten modelcontractbepalingen (zoals de modelcontractbepalingen van de Europese Commissie) en, indien van toepassing, adequaatheidsbesluiten van regelgevende instanties.
+
+Waar wettelijk toegestaan, geeft uw gebruik van de diensten van Epic ons toestemming om uw gegevens te verwerken in elk land waar we actief zijn, inclusief de Verenigde Staten. Voor meer gegevens over de locatie van de Epic-entiteit die verantwoordelijk is voor het beheer van de diensten van Epic die u gebruikt, zie sectie 12 (Hoe kunt u contact met ons opnemen?).
+
+<EULA.Header>7. HOE GEBRUIKEN WIJ GEGEVENS?</>
+
+<EULA.Highlight>A. Retentie</>
+
+Omdat de specifieke gegevens die wij verwerken en onze redenen om dit te doen vaak verschillen afhankelijk van hoe u de diensten van Epic gebruikt, kan ook de tijd dat we uw gegevens bewaren verschillen. In het algemeen bewaren we gegevens zo lang als we deze redelijkerwijs nodig hebben voor de doeleinden beschreven in sectie 4 (Waarom verwerken we gegevens?), tenzij een langere bewaartermijn wettelijk vereist of toegestaan is. Als u bijvoorbeeld een Epic-account aanmaakt, bewaren we de gegevens die aan uw account zijn gekoppeld (bijv. naam, publieke weergavenaam, wachtwoord, land en e-mailadres) doorgaans zo lang als nodig is om uw account te onderhouden, de door u aangevraagde diensten van Epic te kunnen leveren, de voorwaarden en beleidsregels te handhaven die van toepassing zijn op en gelden voor uw gebruik van de diensten van Epic en om te registreren hoe we de diensten van Epic aan u leveren. 
+
+De belangrijkste criteria die we overwegen bij het bepalen van specifieke bewaartermijnen omvatten vaak minimumvereisten onder de toepasselijke wetgeving, relevante industrienormen, de soorten gegevens in kwestie (bijv. het gevoeligheidsniveau), de doeleinden waarvoor we de gegevens verwerken (bijv. het naleven van onze wettelijke verplichtingen, het beheren van interne documenten, het handhaven van onze voorwaarden en beleidsregels, en het oplossen van geschillen), of we die doelen op andere manieren kunnen bereiken, het potentiële risico op schade door ongeoorloofd gebruik of bekendmaking van de gegevens, de relevantie van de gegevens voor mogelijke rechtszaken of soortgelijke procedures (bijv. onszelf te verdedigen tegen rechtsvorderingen), en of de gegevens vereist zijn om fraude of soortgelijk misbruik van de diensten van Epic te voorkomen (bijv. het handhaven van verbodsbepalingen tegen bedrieglijk en ander ongeoorloofd gedrag). 
+
+U kunt Epic verzoeken uw gegevens te verwijderen. Zie secties 9 (Welke keuzes en controles hebt u?), 10 (Aanvullende kennisgeving voor inwoners van bepaalde Amerikaanse staten) en 11 (Aanvullende kennisgeving voor personen in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland) voor meer gegevens over het verzoek om verwijdering van uw gegevens.
+
+<EULA.Highlight>B. Beveiliging</>
+
+Wij handhaven passende administratieve, technische, contractuele en fysieke waarborgen om uw gegevens te beschermen tegen onopzettelijke, onrechtmatige of ongeoorloofde vernietiging, verlies, wijziging, toegang, bekendmaking of gebruik en andere onwettige vormen van verwerking. In sommige gevallen kunnen uw gegevens toegankelijk zijn wanneer u de diensten van Epic gebruikt. Om uw gegevens veilig te houden, moet u de vertrouwelijkheid van uw inloggegevens handhaven. Als we ons bewust worden van ongeoorloofde bekendmaking van uw gegevens, zullen we u op de hoogte stellen zoals vereist door de wet en stappen ondernemen om uw gegevens te helpen beveiligen.
+
+<EULA.Header>8. WORDT DIT BELEID BIJGEWERKT?</>
+
+Ja, we zullen dit beleid van tijd tot tijd bijwerken om mogelijke wijzigingen in onze praktijken of relevante wetten weer te geven. Als we dit doen, zullen we de datum bovenaan dit beleid aanpassen. In sommige gevallen kunnen we u ook per e-mail of binnen de diensten van Epic op de hoogte brengen van de betreffende wijzigingen. Lees dit beleid regelmatig door om er zeker van te zijn dat u uw relatie met Epic begrijpt en de manieren waarop we uw gegevens die kunnen worden gebruikt om u te identificeren verzamelen, gebruiken, beveiligen, bewaren, bekendmaken en anderszins verwerken op, via of in verband met de diensten van Epic.
+
+<EULA.Header>9. WELKE KEUZES EN CONTROLES HEBT U?</>
+
+We streven ernaar u relevante keuzes te bieden met betrekking tot de gegevens die we verzamelen. De specifieke keuzes die voor u beschikbaar zijn, verschillen vaak afhankelijk van de precieze aard van onze relatie met u, zoals welke diensten van Epic u gebruikt. Gangbare voorbeelden zijn:
+
+• U kunt uw gegevens corrigeren via uw Epic-account.
+• U kunt ons verzoeken om toegang te verlenen tot gegevens die wij over u hebben verzameld, of om deze gegevens te corrigeren of te wissen. 
+• U kunt uw voorkeuren voor e-mailmarketing op elk moment wijzigen (bijvoorbeeld door gebruik te maken van het afmeldingsmechanisme in onze marketingmails, door de instellingen van uw Epic-account bij te werken of door rechtstreeks contact met ons op te nemen).
+• U kunt uw privacy-instellingen op platforms, websites en diensten van derden wijzigen om te beperken welke gegevens zij aan ons bekendmaken. 
+• U kunt cookies en andere technologieën voor automatische gegevensverzameling beheren via uw browser- of apparaatinstellingen (bijv. door ze te blokkeren, te verwijderen of te beperken). Houd er rekening mee dat het uitschakelen van cookies ertoe kan leiden dat delen van de diensten van Epic niet goed werken en dat sommige functies mogelijk niet langer beschikbaar zullen zijn.
+• U kunt beroep aantekenen tegen of verzoeken om een menselijke beoordeling van beslissingen die met geautomatiseerde middelen zijn genomen, zoals vereist door de toepasselijke wetgeving. 
+• Als u jonger bent dan 18 jaar en een Epic-account hebt, kunt u ons vragen om bepaalde inhoud die u via de diensten van Epic hebt verstrekt, te verwijderen of te anonimiseren. 
+• Ouders/voogden kunnen de instellingen voor het Epic-account van hun kind aanpassen met behulp van <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">Ouderlijk toezicht</>.
+
+Om een verzoek in te dienen, kunt u contact met ons opnemen via de contactgegevens vermeld in sectie 12 (Hoe kunt u contact met ons opnemen?). Wij kunnen u om aanvullende gegevens vragen om ons te helpen bij het verifiëren van uw identiteit voordat we uw verzoek voltooien.
+
+In sommige delen van de wereld hebben mensen op grond van de toepasselijke wetgeving recht op specifieke keuzemogelijkheden met betrekking tot hun gegevens. Zie secties 10 (Aanvullende kennisgeving voor inwoners van bepaalde Amerikaanse staten) en 11 (Aanvullende kennisgeving voor personen in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland) voor meer informatie.
+
+<EULA.Header>10. AANVULLENDE KENNISGEVING VOOR INWONERS VAN BEPAALDE AMERIKAANSE STATEN</>
+
+<EULA.Highlight>A. Voor inwoners van Californië</>
+
+De California Consumer Privacy Act (CCPA) vereist dat we inwoners van Californië op een andere manier informeren over hun persoonsgegevens. De termen die in deze subsectie worden gebruikt, zijn gedefinieerd door de CCPA.
 
 Als u een inwoner van Californië bent, hebt u het recht:
 
-• om te weten en in te zien welke persoonlijke informatie we over u verzamelen, met inbegrip van de categorieën verzamelde persoonlijke informatie en bronnen, de zakelijke of commerciële doeleinden voor het verzamelen, de categorieën derden aan wie we persoonlijke informatie bekendmaken en de specifieke verzamelde persoonlijke informatie; 
-• om uw persoonlijke informatie te corrigeren; en
-• op verwijdering van uw persoonlijke informatie.
+• om te weten en in te zien welke persoonsgegevens we over u verzamelen, met inbegrip van de categorieën verzamelde persoonsgegevens en bronnen, de zakelijke of commerciële doeleinden voor het verzamelen, de categorieën derden aan wie we persoonsgegevens bekendmaken en de specifieke verzamelde persoonsgegevens; 
+• om uw persoonsgegevens te corrigeren; en
+• op verwijdering van uw persoonsgegevens.
 
-We verwijderen uw persoonlijke informatie, tenzij bewaring noodzakelijk is om operationele of juridische redenen, waaronder om:
+We verwijderen uw persoonsgegevens, tenzij het bewaren ervan noodzakelijk is om operationele of juridische redenen, waaronder om:
 
-• de door u gevraagde Diensten van Epic te leveren, transacties af te ronden of ons contract met u uit te voeren;
-• de veiligheid of integriteit van de Diensten van Epic te waarborgen, of de Diensten van Epic te debuggen;
+• de door u gevraagde diensten van Epic te leveren, transacties af te ronden of ons contract met u uit te voeren;
+• de veiligheid of integriteit van de diensten van Epic te waarborgen, of de diensten van Epic te debuggen;
 • namens onszelf of anderen wettelijke rechten uit te oefenen; 
 • intern gebruik dat is afgestemd op de verwachtingen van de gebruiker mogelijk te maken; of
-• aan een wettelijke verplichting te voldoen.
+• te voldoen aan de California Electronic Communications Privacy Act of een andere wettelijke verplichting.
 
-We kunnen ook de manier waarop we op uw verzoeken reageren beperken, bijvoorbeeld wanneer dat nodig is om: 
+We kunnen ook de manier waarop we op uw verzoeken reageren beperken, bijvoorbeeld wanneer dat nodig is om:
+
 • juridische claims te behandelen; 
 • aan toepasselijke wetten of wettelijke verplichtingen te voldoen; of 
 • met wetshandhavingsinstanties samen te werken.
 
-Zoals uitgebreider beschreven in “Welke informatie verzamelen wij?” hierboven, hangt de specifieke informatie die we van u verzamelen meestal af van hoe u ervoor kiest om met ons in contact te treden op of via de Diensten van Epic. In de afgelopen 12 maanden hebben wij de volgende categorieën persoonlijke informatie verzameld: 
-• identificatiegegevens (bijv. e-mailadres);
-• commerciële informatie (bijv. rechten of aankoopgeschiedenis);
-• internetactiviteit of andere elektronische netwerkactiviteit (bijv. gameplay of details over websitegebruik);
-• audio-, elektronische, visuele, of soortgelijke informatie (bijv. voicechat);
-• geolocatiegegevens (bijv. zoals afgeleid uit uw IP-adres of opgenomen in uw factureringsgegevens);
+Zoals verder beschreven in sectie 3 (Welke gegevens verzamelen we en hoe?), hangen de specifieke gegevens die we van u verzamelen meestal af van hoe u ervoor kiest om met ons te communiceren op de diensten van Epic. In de afgelopen 12 maanden hebben we de volgende categorieën persoonsgegevens verzameld:
+
+• identificatiegegevens (bijv. naam, weergavenaam, account-ID, apparaat-ID, IP-adres, telefoonnummer of e-mailadres);
+• commerciële gegevens (bijv. rechten of aankoopgeschiedenis);
+• informatie over internetactiviteit of andere elektronische netwerkactiviteit (bijv. informatie over gameplay of websitegebruik);
+• audio-, elektronische, visuele, of soortgelijke gegevens (bijv. spraakchat);
+• geolocatiegegevens (bijv. zoals afgeleid uit uw IP-adres of opgenomen in uw betalingsgegevens);
 • kenmerken van beschermde classificaties op grond van de Californische of federale wetgeving (bijv. leeftijd); 
-• persoonlijke informatie beschreven in sectie 1798.80(e) van het Burgerlijk Wetboek van Californië (bijv. naam of informatie van credit- of debetkaart); 
-• in sommige gevallen, gevoelige persoonlijke informatie (bijv. inloggegevens voor accounts en, als u creatieve inhoud op een van onze marktplaatsen vermeldt, verkoopt of verhandelt, ID van de overheid); en 
-• afleidingen van een van deze categorieën (bijv. over de genres van games die u mogelijk graag speelt op basis van uw aankoopgeschiedenis).
+• persoonsgegevens beschreven in sectie 1798.80(e) van het Burgerlijk Wetboek van Californië (bijv. naam, handtekening, telefoonnummer of gegevens van credit- of debetkaart); 
+• in sommige gevallen, gevoelige persoonsgegevens (bijv. inloggegevens voor accounts en, als u creatieve inhoud op een van onze marktplaatsen vermeldt, verkoopt of verhandelt, een identiteitskaart van de overheid); en 
+• gevolgtrekkingen uit een van deze bovenstaande categorieën (bijv. over de genres van games die u mogelijk graag speelt op basis van uw aankoopgeschiedenis).
 
-Epic gebruikt of onthult gevoelige persoonlijke informatie niet voor andere doeleinden dan die noodzakelijk zijn om de Diensten van Epic te leveren of die toegestaan zijn op grond van de CCPA. Epic verkoopt of deelt de persoonlijke informatie die wordt verzameld ook niet. Dit geldt ook voor gebruikers waarvan we weten dat ze jonger zijn dan 16 jaar. 
+Epic gebruikt of onthult gevoelige persoonsgegevens niet voor andere doeleinden dan die noodzakelijk zijn om de diensten van Epic te leveren of die toegestaan zijn op grond van de CCPA. Epic verkoopt of deelt de persoonsgegevens die het verzamelt ook niet. Dit geldt ook voor gebruikers waarvan we zeker weten dat ze jonger zijn dan 16 jaar. 
 
-Voor meer informatie over (1) de categorieën bronnen waaruit uw persoonlijke informatie wordt verzameld, zie de sectie “Welke informatie verzamelen wij?” hierboven; (2) de zakelijke of commerciële doeleinden voor het verzamelen van uw persoonlijke informatie, waaronder gevoelige persoonlijke informatie, zie de sectie “Hoe gebruiken wij informatie?” hierboven; en (3) de categorieën van derden aan wie we uw persoonlijke informatie bekendmaken, zie de sectie “Hoe delen wij informatie?” hierboven.
+Voor meer informatie over (1) de categorieën van bronnen waaruit uw persoonsgegevens worden verzameld, zie sectie 3 (Welke gegevens verzamelen we en hoe?); (2) de zakelijke of commerciële doeleinden voor het verzamelen van uw persoonsgegevens, inclusief gevoelige persoonsgegevens, zie sectie 4 (Waarom verwerken we gegevens?); en (3) de categorieën van derden aan wie we uw persoonsgegevens bekendmaken, zie sectie 5 (Aan wie verstrekken we gegevens?).
 
-<EULA.Highlight>Voor inwoners van andere staten in de VS </>
+<EULA.Highlight>B. Voor inwoners van andere staten in de VS </>
 
-Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah en Virginia hebben elk een uitgebreide privacywet aangenomen, die de inwoners van die staten bepaalde rechten geeft met betrekking tot hun persoonsgegevens. De termen die in deze subsectie worden gebruikt, worden gedefinieerd door de toepasselijke privacywetgeving in de staat waar u woont.
+Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah en Virginia hebben elk een uitgebreide privacywet aangenomen, die ons verplicht om de inwoners van die staten op een andere manier te informeren over hun persoonsgegevens. De termen die in deze subsectie worden gebruikt, worden gedefinieerd door de toepasselijke privacywetgeving in de staat waar u woont.
 
 Als u een inwoner van die staten bent, dan hebt u het recht:
 
@@ -217,8 +247,8 @@ Als u een inwoner van die staten bent, dan hebt u het recht:
 
 Bepaalde wettelijke verplichtingen en operationele behoeften kunnen de manier waarop we op uw verzoeken reageren beperken. Deze uitzonderingen kunnen het volgende omvatten:
 
-• het leveren van de Diensten van Epic die u aanvraagt of het uitvoeren van onze contracten;
-• het uitvoeren van onderzoek om de Diensten van Epic te ontwikkelen of te verbeteren; 
+• het leveren van de diensten van Epic die u aanvraagt of het uitvoeren van onze contracten;
+• het uitvoeren van onderzoek om de diensten van Epic te ontwikkelen of te verbeteren; 
 • het identificeren en oplossen van technische problemen; 
 • het uitvoeren van andere interne activiteiten in overeenstemming met de verwachtingen van de gebruiker;
 • het voorkomen van of reageren op beveiligingsincidenten, fraude, identiteitsdiefstal of andere illegale of schadelijke activiteiten;
@@ -226,103 +256,126 @@ Bepaalde wettelijke verplichtingen en operationele behoeften kunnen de manier wa
 • het voldoen aan toepasselijke wetten of wettelijke verplichtingen; of 
 • het samenwerken met wetshandhavingsinstanties.
 
-Epic verkoopt geen persoonsgegevens die worden verzameld en verwerkt voor gerichte reclame. Epic profileert gebruikers ook niet op geautomatiseerde wijze om beslissingen te nemen die juridische of vergelijkbare significante gevolgen hebben. Dit geldt ook voor gebruikers waarvan we weten dat ze jonger zijn dan 18 jaar. 
+Epic verkoopt geen persoonsgegevens die worden verzameld en verwerkt voor gerichte reclame. Epic profileert gebruikers ook niet op geautomatiseerde wijze om beslissingen te nemen die juridische of vergelijkbare significante gevolgen hebben. Dit geldt ook voor gebruikers waarvan we zeker weten dat ze jonger zijn dan 18 jaar. 
 
-Voor meer informatie over (1) de categorieën persoonsgegevens die door ons worden verwerkt, zie de sectie “Welke informatie verzamelen wij?” hierboven; (2) onze verwerking van gevoelige gegevens van een bekend kind jonger dan 13 jaar, zie de sectie “Privacy van kinderen” hierboven; (3) onze doeleinden voor het verwerken van persoonsgegevens, zie de sectie “Hoe gebruiken we informatie?” hierboven; en (4) de categorieën van derden met wie we persoonsgegevens delen en de categorieën van persoonsgegevens die we hebben gedeeld, zie de sectie “Hoe delen wij informatie?” hierboven.
+Voor meer informatie over (1) onze verwerking van gevoelige gegevens van een kind waarvan bekend is dat het jonger is dan 13 jaar, zie sectie 2 (Hoe verwerken we gegevens over kinderen?); (2) de categorieën persoonsgegevens die door ons worden verwerkt, zie sectie 3 (Welke gegevens verzamelen we en hoe?); (3) onze doeleinden voor het verwerken van persoonsgegevens, zie sectie 4 (Waarom verwerken we gegevens?); en (4) de categorieën van derden aan wie we persoonsgegevens bekendmaken en de categorieën van persoonsgegevens die we hebben bekendgemaakt, zie sectie 5 (Aan wie verstrekken we gegevens?).
 
-<EULA.Highlight>Uw privacyrechten uitoefenen</>
+<EULA.Highlight>C. Uw privacyrechten uitoefenen</>
 
-Om uw privacyrechten uit te oefenen, gebruikt u een van de methoden die worden vermeld in de sectie “Neem contact met ons op” hieronder. Alleen u (of een gemachtigde vertegenwoordiger namens een inwoner van Californië) mag een verifieerbaar verzoek indienen, dat voldoende informatie moet bevatten zodat wij uw identiteit kunnen bevestigen en het verzoek kunnen begrijpen. Als u een Epic Games-account hebt, kunnen we u vragen om in te loggen om uw identiteit te verifiëren. Gemachtigde agenten van inwoners van Californië moeten een schriftelijke toestemming hebben die is ondertekend door de inwoner, die mogelijk ook direct zijn/haar identiteit moet verifiëren. Verzoeken kunnen worden afgewezen als we uw identiteit of autoriteit niet kunnen verifiëren. Beroepen kunnen worden ingediend met behulp van dezelfde contactmethoden die worden vermeld in de sectie “Neem contact met ons op” hieronder. 
+Om uw privacyrechten uit te oefenen, kunt u contact met ons opnemen via de contactgegevens vermeld in sectie 12 (Hoe kunt u contact met ons opnemen?). Alleen u (of een gemachtigde vertegenwoordiger namens een inwoner van Californië) mag een verifieerbaar verzoek indienen, dat voldoende gegevens moet bevatten zodat wij uw identiteit kunnen bevestigen en het verzoek kunnen begrijpen. Als u een Epic-account hebt, kunnen we u vragen om in te loggen om uw identiteit te verifiëren. Gemachtigde vertegenwoordigers van inwoners van Californië moeten een schriftelijke toestemming hebben die is ondertekend door de inwoner, die mogelijk ook direct zijn/haar identiteit moet verifiëren. Verzoeken kunnen worden afgewezen als we uw identiteit of bevoegdheid niet kunnen verifiëren. Een beroep kan worden ingediend met behulp van dezelfde contactgegevens vermeld in sectie 12 (Hoe kunt u contact met ons opnemen?).
 
-Wij zullen u niet discrimineren in het geval u een van uw rechten uitoefent op grond van de toepasselijke wetgeving. 
+Wij zullen u niet discrimineren voor het uitoefenen van uw privacyrechten op grond van de toepasselijke wetgeving. 
 
-<EULA.Highlight>C. Inwoners van de Europese Economische Ruimte, het Verenigd Koninkrijk en Zwitserland</>
+<EULA.Header>11. AANVULLENDE KENNISGEVING VOOR MENSEN DIE ZICH BEVINDEN IN DE EUROPESE ECONOMISCHE RUIMTE, HET VERENIGD KONINKRIJK OF ZWITSERLAND</>
 
-Als u een inwoner bent van de Europese Economische Ruimte (EER), het Verenigd Koninkrijk (VK) of Zwitserland, hebt u specifieke rechten met betrekking tot de manier waarop uw persoonsgegevens worden verwerkt.
+De Algemene Verordening Gegevensbescherming (AVG), samen met soortgelijke wetten in het Verenigd Koninkrijk (VK) en Zwitserland, vereist dat we personen in de Europese Economische Ruimte (EER), het Verenigd Koninkrijk of Zwitserland op een andere manier informatie verstrekken over hun persoonsgegevens. De termen die in deze sectie worden gebruikt, zijn gedefinieerd door de AVG.
 
-<EULA.Highlight>Rechten van betrokkenen</>
+Als u zich in de EER, het Verenigd Koninkrijk of Zwitserland bevindt, hebt u het recht om:
 
-U kunt het recht hebben op toegang tot, correctie of het wissen van de persoonsgegevens die wij over u hebben verzameld via de Diensten van Epic. U hebt mogelijk ook het recht op een draagbare kopie van de door u verstrekte persoonsgegevens en om bezwaar te maken tegen de verwerking van uw persoonsgegevens of deze verwerking te beperken, bijvoorbeeld voor direct marketing. Indien van toepassing kunt u vragen om menselijke beoordeling of kunt u bezwaar maken tegen beslissingen die met geautomatiseerde middelen zijn genomen. Wanneer u uw toestemming hebt gegeven voor onze gegevensverwerking, hebt u het recht om die toestemming weer in te trekken.
+• toegang te krijgen tot uw persoonsgegevens;
+• uw persoonsgegevens te corrigeren;
+• uw persoonsgegevens te laten verwijderen;
+• ons gebruik van uw persoonsgegevens tijdelijk te beperken;
+• bezwaar te maken tegen sommige soorten verwerking, waaronder verwerking voor direct marketingdoeleinden en op basis van onze gerechtvaardigde belangen;
+• te profiteren van overdraagbaarheid van gegevens, inclusief het ontvangen van een kopie van uw persoonsgegevens; en 
+• uw toestemming in te trekken, wanneer onze verwerking is gebaseerd op toestemming (als u uw toestemming intrekt, heeft dit geen invloed op de rechtmatigheid van elke verwerking die plaatsvond op basis van uw toestemming voordat deze werd ingetrokken).
 
-U hebt ook het recht om een klacht tegen ons in te dienen door contact op te nemen met uw lokale toezichthoudende autoriteit voor gegevensbescherming (indien een dergelijke autoriteit in uw land bestaat). Wij zouden het echter op prijs stellen dat u ons de kans geeft uw bezorgdheden aan te pakken voordat u contact neemt met een toezichthouder voor gegevensbescherming, en verzoeken u uw klacht eerst aan ons te richten.
+We kunnen om aanvullende gegevens vragen om uw identiteit te verifiëren voordat we aan een verzoek om het uitoefenen van rechten voldoen. We kunnen onze reactie ook beperken in bepaalde omstandigheden, bijvoorbeeld wanneer:
 
-Zie het deel “Neem contact met ons op” hieronder voor meer informatie over hoe u contact kunt opnemen met Epic als u bepaalde bezorgdheden hebt. Meer informatie over uw plaatselijke Gegevensbeschermingsautoriteit vindt u hieronder:
+• het verzoek duidelijk ongegrond of buitensporig is; 
+• het verzoek afbreuk zou doen aan de rechten en vrijheden van anderen; 
+• er doorslaggevende gerechtvaardigde gronden zijn voor de verwerking die zwaarder wegen dan uw belangen, rechten en vrijheden; of
+• de verwerking noodzakelijk is om onze rechtsvorderingen in te stellen, uit te oefenen of te verdedigen, een overeenkomst met u uit te voeren of te voldoen aan onze wettelijke verplichtingen.
+
+U hebt ook het recht om een klacht in te dienen bij uw lokale toezichthoudende autoriteit voor gegevensbescherming (zie onderstaande links) of om rechtstreeks contact met ons op te nemen met een klacht (zie sectie 12 (Hoe kunt u contact met ons opnemen?)). We zouden het op prijs stellen als we de kans krijgen om uw problemen als eerste aan te pakken. 
 
 • EER: <a id="url" href="https://www.edpb.europa.eu/about-edpb/about-edpb/members" style="EULA.Hyperlink">Europese gegevensbeschermingsautoriteiten</>
 • VK:<EULA.Highlight> </><a id="url" href="https://ico.org.uk/global/contact-us/" style="EULA.Hyperlink">Information Commissioner's Office</> 
-• Zwitserland:<EULA.Highlight> </><a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">Federale commissaris voor gegevensbescherming en informatie</><EULA.Highlight> </>
+• Zwitserland:<EULA.Highlight> </><a id="url" href="https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html" style="EULA.Hyperlink">Federale commissaris voor gegevensbescherming en informatie</>
 
-<EULA.Highlight>Grondslag voor de verwerking</>
+De rechtsgrondslagen waarop wij ons baseren om uw persoonsgegevens te verwerken, zijn afhankelijk van welke diensten van Epic u gebruikt en op welke manier u hiermee omgaat. Deze rechtsgrondslagen zijn:
 
-De rechtsgronden waarop wij ons baseren om uw persoonsgegevens te verwerken, hangen af van de Diensten van Epic die u gebruikt en de manier waarop u hiermee omgaat. Deze omvatten in de eerste plaats:
+• Contractuele noodzaak: wanneer we uw persoonsgegevens verwerken om de diensten van Epic die u hebt aangevraagd te leveren op grond van onze Servicevoorwaarden of andere soortgelijke contractuele overeenkomsten met u. 
+• Gerechtvaardigde belangen: wanneer we uw persoonsgegevens verwerken als dat nodig is om de zakelijke doeleinden van Epic te ondersteunen, en wegen dit af tegen de mogelijke gevolgen voor uw privacyrechten.
+• Wettelijke verplichtingen: wanneer we uw persoonsgegevens verwerken om te voldoen aan onze wettelijke verplichtingen.
+• Toestemming: wanneer u ons toestemming geeft om uw persoonsgegevens te verwerken. U bent niet verplicht om toestemming te geven en u kunt uw toestemming op elk gewenst moment intrekken.
 
-• <EULA.Highlight>Uitvoering van een Overeenkomst</>: wij verwerken persoonsgegevens om de Diensten van Epic die u hebt aangevraagd te leveren op grond van onze Servicevoorwaarden of andere soortgelijke contractuele overeenkomsten met u. Wij verwerken bijvoorbeeld persoonsgegevens om uw account in te stellen en te onderhouden; uw aankopen te verwerken; gebruikers te verifiëren; gebruikerservaringsfuncties te bieden (zoals het opslaan van uw voorkeuren); de diensten van Epic te bewaken en te analyseren; fraude, cheaten of ander soortgelijk misbruik op te sporen en te voorkomen; functies zoals cross-progression mogelijk te maken waarmee u een game op het ene platform kunt spelen en uw voortgang op een ander platform kunt voortzetten, waarvoor het nodig kan zijn dat wij uw informatie delen met derden; en contact met u op te nemen over uw account, transacties of andere updates. Wij vertrouwen ook op de uitvoering van een overeenkomst om onze relatie met u te beheren, met inbegrip van het beantwoorden van uw verzoeken om support of algemene vragen, en u in kennis te stellen van wijzigingen in onze toepasselijke voorwaarden of beleidsregels.
+Voor meer gegevens over hoe deze rechtsgrondslagen van toepassing zijn op verschillende doeleinden van verwerking, zie sectie 4 (Waarom verwerken we gegevens?).
 
-• <EULA.Highlight>Gerechtvaardigde belangen:</> wij verwerken persoonsgegevens als dat nodig is voor de zakelijke doeleinden van Epic, en wegen dit af tegen de mogelijke gevolgen voor uw privacyrechten. Dit omvat vele algemene doeleinden die u redelijkerwijs zou verwachten, zoals: met u communiceren, op uw vragen reageren of u voorzien van updates en informatie; onze gebruikers en hun voorkeuren beter begrijpen; uw ervaring personaliseren, uw voorkeuren opslaan, onze gebruikers authentiseren en soortgelijke functies voor gebruikerservaring bieden; de Diensten van Epic en andere aangeboden producten (waarvan sommige kunnen worden aangeboden in samenwerking met andere partijen) ontwikkelen, leveren en verbeteren; advertenties of promotionele aanbiedingen beheren en aanpassen; (in-game) aankopen beheren; de Diensten van Epic beveiligen en beschermen; audits, gegevensanalyse en andere legitieme bedrijfsactiviteiten ondersteunen; en frauduleuze, kwaadaardige, schadelijke of illegale inhoud of gedrag dat in strijd is met onze voorwaarden voorkomen of modereren. Om deze zakelijke doeleinden te ondersteunen, kunnen we machine learning-technologieën ontwikkelen, verbeteren en gebruiken om schadelijke, kwaadaardige of frauduleuze inhoud in onze diensten te identificeren. De inhoud die door deze technologieën wordt geïdentificeerd, kan door mensen worden gecontroleerd. Anders hebt u, indien van toepassing, de mogelijkheid om menselijke beoordeling van geautomatiseerde beslissingen aan te vragen.
+<EULA.Header>12. HOE KUNT U CONTACT MET ONS OPNEMEN?</>
 
-• <EULA.Highlight>Wettelijke verplichtingen:</> wij verwerken persoonsgegevens wanneer dit nodig is om te voldoen aan wettelijke verplichtingen, zoals het reageren op legitieme verzoeken van wetshandhavingsinstanties of andere overheidsfunctionarissen in overeenstemming met relevante wettelijke processen; om illegale inhoud of gedrag op de Diensten van Epic te identificeren of te modereren; of het verwerken van geboortedata om de naleving van de toepasselijke wetgeving inzake jeugdbescherming te vergemakkelijken.
+<EULA.Highlight>A. Verzoeken om ondersteuning</>
 
-• <EULA.Highlight>Toestemming:</> wij verwerken persoonsgegevens wanneer u ons daarvoor toestemming geeft. U bent niet verplicht ons uw toestemming te geven als u niet akkoord gaat dat uw persoonsgegevens voor de gevraagde doeleinden worden verwerkt, en u kunt uw toestemming op elk moment intrekken.
+Als u vragen of zorgen hebt over de diensten van Epic (bijv. problemen met betrekking tot een game, toegang tot uw Epic-account, bugs, betalingen, inhoud of rechten), neem dan contact op met het relevante ondersteuningskanaal via de onderstaande links.
 
-<EULA.Header>11. NEEM CONTACT MET ONS OP</>
+<EULA.Highlight>• </><a id="url" href="https://www.epicgames.com/help/c-202300000001636" style="EULA.Hyperlink">Fortnite</>
+<EULA.Highlight>• </><a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Rocket League</>
+<EULA.Highlight>• </><a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Fall Guys</>
+<EULA.Highlight>• </><a id="url" href="https://www.epicgames.com/help/c-202300000001639" style="EULA.Hyperlink">Epic Games Store</>
+<EULA.Highlight>• </><a id="url" href="https://dev.epicgames.com/community/fab" style="EULA.Hyperlink">Fab</>
+<EULA.Highlight>• </><a id="url" href="https://www.unrealengine.com/support" style="EULA.Hyperlink">Unreal Engine</>
 
-Als u vragen of bezorgdheden hebt over de Diensten van Epic (zoals game-gerelateerde kwesties, problemen met de toegang tot uw Epic-account, bugs of andere technische problemen, betalingskwesties of content- en rechtenkwesties), kunt u contact opnemen met onze Player Support-teams. U kunt meer te weten komen over het indienen van verzoeken om support voor producten en diensten via:
+<EULA.Highlight>B. Verzoeken inzake privacy </>
 
-• <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">Epic Games</><EULA.Highlight> </>(zoals Fortnite)
-• <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Psyonix</> (zoals Rocket League)
-• <a id="url" href="https://www.postparty.gg/faq" style="EULA.Hyperlink">Life on Air</> (Postparty)
-• <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Mediatonic</> (zoals onder meer Fall Guys)
+Als u meer wilt weten over onze privacypraktijken of dit beleid, of uw rechten als betrokkene wilt uitoefenen, stuur dan een e-mail naar privacy@support.epicgames.com of dpo@support.epicgames.com. U kunt ook contact met ons opnemen via e-mail of post (gemarkeerd als “Attn: Legal Department”) met behulp van de onderstaande contactgegevens voor de entiteit die verantwoordelijk is voor het leveren van de toepasselijke diensten van Epic.
 
-Als u meer wilt weten over onze privacypraktijken of dit beleid, of als u uw rechten als betrokkene wilt uitoefenen, kunt u een e-mail sturen naar privacy@support.epicgames.com, dpo@support.epicgames.com of de juiste contactgegevens hieronder vermeld voor de entiteit die verantwoordelijk is voor het leveren van de relevante Diensten van Epic in uw regio. 
+<EULA.Highlight>• Fortnite</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Entertainment International GmbH (voor niet-inwoners van de VS)
+<EULA.Highlight>• Rocket League</>: Psyonix LLC
+<EULA.Highlight>• Fall Guys</>: Epic Games, Inc.
+<EULA.Highlight>• Horizon Chase 2</>: Aquiris Games Studio LLC
+<EULA.Highlight>• Rock Band</>: Harmonix Music Systems, Inc.
+<EULA.Highlight>• Epic Games Store en</> <EULA.Highlight>Fab</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Commerce GmbH (voor niet-inwoners van de VS)
+<EULA.Highlight>• Unreal Engine en MetaHuman</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Commerce GmbH (voor niet-inwoners van de VS)
+<EULA.Highlight>• Unreal Editor For Fortnite</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Entertainment International GmbH (voor niet-inwoners van de VS)
+<EULA.Highlight>• Postparty</>: Life on Air, Inc.
+<EULA.Highlight>• Onze websites en hun respectievelijke subdomeinen die een link naar dit beleid bevatten</>: Epic Games, Inc. 
+<EULA.Highlight>• Andere diensten van Epic</>: Raadpleeg de relevante algemene voorwaarden voor de licentieverlenende entiteit die is vermeld voor uw regio
 
-U kunt ook contact met ons opnemen via de post (met vermelding "Attn: Legal Department") aan Epic Games, Inc. 620 Crossroads Blvd., Cary, NC 27518, USA.
+<EULA.Highlight>Contactinformatie</>
 
-<EULA.Highlight>Als u buiten de Verenigde Staten woont, raadpleeg dan de onderstaande aanvullende contactgegevens met betrekking tot de producten of diensten die u gebruikt: </>
+Aquiris Games Studio LLC
 
-<EULA.Highlight>Als u de Epic Games Store gebruikt:</>
-• Verwerkingsverantwoordelijke: Epic Games, Inc.
-• Adres: 620 Crossroads Blvd., Cary, NC 27518, Verenigde Staten 
-• Functionaris voor gegevensbescherming: dpo@support.epicgames.com
+• Adres: C/O C T Corporation System, 1200 South Pine Island Road, Plantation, Florida 33324, VS
 • Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
+• Functionaris voor gegevensbescherming in Brazilië: Henrique Fabretti van Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com).
 
-<EULA.Highlight>Als u gebruik maakt van games van Epic Games, zoals Fortnite, verwijzen die naar dit privacybeleid:</>
-• Verwerkingsverantwoordelijke: Epic Games Entertainment International GmbH
+Epic Games Commerce GmbH
+
 • Adres: Platz 10, 6039 Root D4, Zwitserland
-• Functionaris voor gegevensbescherming: dpo@support.epicgames.com
 • Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
+• Functionaris voor gegevensbescherming EU/VK: dpo@support.epicgames.com
+• Functionaris voor gegevensbescherming in Brazilië: Henrique Fabretti van Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com).
 
-<EULA.Highlight>Als u andere producten of diensten gebruikt die door Epic Games worden geleverd, zoals Unreal Engine, die naar dit privacybeleid linken:</>
-• Verwerkingsverantwoordelijke: Epic Games Commerce GmbH
+Epic Games Entertainment International GmbH
+
 • Adres: Platz 10, 6039 Root D4, Zwitserland
-• Functionaris voor gegevensbescherming: dpo@support.epicgames.com
 • Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
+• Functionaris voor gegevensbescherming EU/VK: dpo@support.epicgames.com
+• Functionaris voor gegevensbescherming in Brazilië: Henrique Fabretti van Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com).
 
-<EULA.Highlight>Als u producten of diensten van Mediatonic gebruikt, zoals Fall Guys, die naar dit privacybeleid linken:</>
-• Verwerkingsverantwoordelijke: Mediatonic Limited
-• Adres: Octagon Point, 5 Cheapside, London, EC2V 6AA, Verenigd Koninkrijk
-• Contact: privacy@support.epicgames.com
-• Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
+Epic Games, Inc.
 
-<EULA.Highlight>Als u producten of diensten gebruikt die door Psyonix worden geleverd, zoals Rocket League, die naar dit privacybeleid linken:</>
-• Verwerkingsverantwoordelijke: Psyonix LLC
-• Adres: 401 A St. #4200, San Diego, CA 92101, VS
-• Contact: privacy@support.epicgames.com
-• Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Als u gebruik maakt van KWS-diensten geleverd door Kids Web Services Ltd:</>
-• Verwerkingsverantwoordelijke: Kids Web Services Ltd als gezamenlijke verwerkingsverantwoordelijke met Epic
-• Adres: Octagon Point, 5 Cheapside, London, EC2V 6AA, Verenigd Koninkrijk
-• Contact opnemen met: privacy@kidswebservices.com
-• Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Als u producten of diensten van Life on Air gebruikt, zoals Postparty, die naar dit privacybeleid linken:</>
-• Verwerkingsverantwoordelijke: Life on Air, Inc.
-• Adres: 620 Crossroads Blvd., Cary, NC 27518, Verenigde Staten
-• Contact: privacy@support.epicgames.com
-• Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
-
-<EULA.Highlight>Als u producten of diensten van Aquiris gebruikt, zoals Horizon Chase 2, die naar dit privacybeleid linken:</>
-• Verwerkingsverantwoordelijke: Aquiris Games Studio LLC
-• Adres: c/o IBCPA, 20801 Biscayne Blvd, Ste 403, Office 415, Aventura, Florida, 33180, Verenigde Staten
-• Functionaris voor gegevensbescherming: dpo@aquiris.com.br.
+• Adres: 620 Crossroads Boulevard, Cary, North Carolina 27518, VS 
 • Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com)
+• Functionaris voor gegevensbescherming EU/VK: dpo@support.epicgames.com
+• Functionaris voor gegevensbescherming in Brazilië: Henrique Fabretti van Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com). 
+
+Harmonix Music Systems, Inc.
+
+• Adres: 40 Broad Street, Floor 7, Boston, Massachusetts 02109, VS
+• Contact: privacy@harmonixmusic.com 
+• Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
+
+Life on Air, Inc.
+
+• Adres: 620 Crossroads Boulevard, Cary, North Carolina 27518, VS
+• Contact: privacy@support.epicgames.com 
+• Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
+• Functionaris voor gegevensbescherming in Brazilië: Henrique Fabretti van Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com).
+
+Psyonix LLC
+
+• Adres: 401 West A. Street, Suite 2400, San Diego, California 92101, VS
+• Contact: privacy@support.epicgames.com
+• Vertegenwoordiger EU/VK: Mishcon de Reya (representative@mishcon.com) 
+• Functionaris voor gegevensbescherming in Brazilië: Henrique Fabretti van Opice Blum, Bruno Advogados Associados (dpo@support.epicgames.com).
