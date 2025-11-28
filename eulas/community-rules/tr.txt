@@ -1,0 +1,150 @@
+<EULA.Header>12 Eylül 2024'te Güncellendi</>
+
+<EULA.Header>EPIC GAMES - TOPLULUK KURALLARI</>
+
+Epic Games'in oyun oynayabileceğin veya arkadaşlarınla vakit geçirebileceğin güvenli ve eğlenceli bir ortam olmasını istiyoruz. Bu ortamı koruyabilmek için yardımına ihtiyacımız var.
+
+Epic Hizmet Şartları ve diğer anlaşmalar, kullandığın Epic hizmetleri için geçerli olan kuralları içerir, bu nedenle bu kuralların bazıları sana tanıdık gelebilir. Buna karşın Epic oyunları, hizmetleri ve ortamları aracılığıyla başkaları ile etkileşime girmenin birçok yolunu sunduğu için topluluk standartlarımızın daha ayrıntılı şekilde açıklanması yardımcı olacaktır. 
+
+Topluluk Kurallarımız Epic'in oyunları, hizmetleri ve ortamlarını kullanan herkes için geçerlidir. Bu standartlar, Epic Games ekosistemindeyken çevrenle nasıl etkileşim kurman gerektiği konusunda yol gösterir. Aşağıda bazı belirli örnekleri verdik ancak bir şeyin aşağıda örnek olarak gösterilmemiş olması onun hoş görüleceği anlamına gelmez. 
+
+Kurallara uymak çok zor bir şey değil. Ancak bu kuralları ihlal etmek, hesabına kalıcı bir yasaklamaya kadar ulaşabilen yaptırımlar uygulanmasına neden olabilir. 
+
+________________________________________
+
+<EULA.Header>Topluluk Kuralları</>
+
+<EULA.Header>Kişisel Bilgiler</>
+
+Başkalarının görünen adları dışındaki hiçbir kişisel bilgisini paylaşamazsın ve kendine ait bilgileri de paylaşmamanı şiddetle öneriyoruz. Başka bir kişinin alternatif hesap adlarını, gerçek dünya konumunu, gerçek adını vb. paylaşmak veya paylaşma tehdidinde bulunmak yasaktır.
+ 
+
+<EULA.Header>Hoşgörüsüzlük veya Ayrımcılık</>
+
+Epic, nefretin veya ayrımcılığın hiçbir türüne göz yummaz.
+
+Epic ekosistemi; etnik köken, renk, dini inanç, cinsel kimlik, cinsel yönelim, engellilik hali veya ulusal köken gözetmeden herkese kucak açar. Diğer kullanıcıları veya grupları küçümseme, dışlama, aşağılama veya onlara karşı nefret dili kullanma. 
+ 
+
+<EULA.Header>Zorbalık ve Taciz</>
+
+Sohbet ederken, oynarken veya bir şeyler üretirken başkalarına karşı saygılı ol. Başkalarına karşı saldırgan, tehditkâr, korkutucu, aşağılayıcı, küçümseyici, mahremiyetlerini ihlal edici veya istismarcı davranmak kurallara aykırıdır.
+
+Kendini iyi hissetmek için başkasını kötü hissettirmeye çalışmamalısın. Bu deneyimin keyfini hep birlikte çıkarmak çok daha kolay ve eğlencelidir!
+ 
+
+<EULA.Header>Başkasının Kimliğine Bürünmek</>
+
+Başka oyuncuları, yayıncıları, ünlüleri, devlet yetkililerini, Epic çalışanlarını veya kişileri taklit etme. Başka kişilerin veya kuruluşların eserlerini kendin yapmışsın gibi gösterme. Başkalarını aldatmak veya dolandırmak için başka biri gibi davranmak doğru değil.
+ 
+
+<EULA.Header>Hile Yapmak ve Trollemek</>
+
+Oyunu adil ve kurallarına uygun bir şekilde oyna. Hile yapma, oyunu mahvetme, takım olma veya hataları ve sorunları kötüye kullanma. Bilinen hileleri, hataları veya açıkları tanıtma veya reklamını yapma. Bir açık mı buldun? <a id="url" href="https://www.epicgames.com/help/en-US/epic-games-store-c73" style="EULA.Hyperlink">Bildir.
+</a> 
+
+<EULA.Header>Tehlikeli veya Yasa Dışı Aktiviteler</>
+
+Topluluk içinde kumar, yasadışı uyuşturucu kullanımı, kimlik avı, insan kaçakçılığı, fuhuş, kişisel bilgilerin ifşası, acil servisleri aldatma veya şiddeti yücelten, tahrik eden içerikler paylaşmak da dahil olmak üzere yasadışı veya tehlikeli hiçbir aktiviteye katılma ve bunları teşvik etme. Kendine veya başkalarına zarar verme tehditleri ciddiye alınır, şaka bile olsa bunları yapma. Diğer oyuncuları riske atan bir şey görürsen oyun içi rapor gönder (<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink">Fortnite</a>, <a id="url" href="https://support.rocketleague.com/hc/en-us/articles/360015606894-How-Do-I-Report-a-Player-" style="EULA.Hyperlink">Rocket League</a>) veya <a id="url" href="https://www.epicgames.com/help/en-US/" style="EULA.Hyperlink">oyuncu desteği ekibimize bildir</a>.
+ 
+
+<EULA.Header>Dolandırıcı ve Yanıltıcı Uygulamalar</>
+
+Diğer oyuncuların iyi niyetini kötüye kullanma. Hesap bilgilerine ulaşmaya çalışmak, hesap veya kişisel bilgi alışverişi yapmak dahil olmak üzere her türlü dolandırıcılık ve aldatıcı eylem yasaktır.
+ 
+
+<EULA.Header>Uygunsuz İçerik</>
+
+Epic ekosistemindeki içerikler, iletişimler ve faaliyetler, başkalarının olumlu deneyim yaşamasının önünde engel olmamalıdır. Tüm içerikler <a id="url" href="https://www.epicgames.com/site/content-guidelines" style="EULA.Hyperlink">İçerik Kuralları</a>'na uygun olmalıdır.
+
+
+<EULA.Header>Çocukların Mahremiyeti</>
+
+<EULA.Highlight>Çocukların Cinsel İstismarı ve Suistimali</>
+
+Epic'in sunduğu hizmetlerde çocukların cinsel istismarını veya suistimalini içeren her türlü içerik veya faaliyet yasaktır. 
+
+Cinsel istismar, suistimal, çocuk ticareti, şantaj ve kandırma gibi çocuklara zarar veren ya da onları tehlikeye sokan her türlü içerik ve faaliyet bu yasağa dahildir. 18 yaşının altındaki herkes çocuk olarak tanımlanır.
+
+Aşağıdaki içeriklerin oluşturulması, talep edilmesi veya paylaşılması yasaktır:
+
+●	<EULA.Highlight>Çocukların Cinsel İstismarına İlişkin Materyaller</>, yani çocuk pornografisi. Çocuk pornografisi, reşit olmayan bireyleri içeren görsel cinsel içeriklerdir. Oldukça gerçekçi görünen dijital içerikler, yapay zekâyla oluşturulan içerikler veya çocukların kendi oluşturduğu içerikler de buna dahildir. 
+
+●	<EULA.Highlight>Çocukların cinselleştirildiği</>, yani çocukların cinsel istismarına teşvik eden veya buna özendiren her türlü içerik. Bir çocuğun cinsel olarak tahrik edici davranışlarda bulunması veya cinsel çağrışımlar yaratacak şekilde resmedilmesi; örneğin dikkat çekmek için göğüs bölgesi gibi mahrem vücut bölgelerinin kasıtlı olarak öne çıkarılması gibi içerikler cinselleştirmeye dahildir. 
+
+●	<EULA.Highlight>Çocuk ticareti</>, yani çocukların ticari cinsel sömürü için kullanılması veya bu eylemler için kandırılması. Ticari cinsel sömürü; bir kişinin cinsel faaliyet karşılığında para, yemek, ilaç, uyuşturucu veya kalacak yer vermesi veya almasına denir.
+
+Çocuklara yönelik şu saldırgan davranışlar da buna dahildir:
+
+●	<EULA.Highlight>Çocukların kandırılması</>, yani bir cinsel teklifte bulunma veya cinsel içerik paylaşma amacıyla bir çocukla iletişime geçmek, konuşmak, ve dostça yaklaşmak. 
+
+●	<EULA.Highlight>Cinsel şantaj</>, yani bir çocuğun cinsel görüntülerine erişimi olma veya bunları paylaşma yoluyla onu tehdit ederek şantaj yapmak.
+
+Epic, çocukların cinsel istismarını veya suistimalini içeren içerikler tespit ettiğinde bunu Ulusal Kayıp ve İstismara Uğramış Çocuklar Merkezi'ne (NCMEC) bildirir. 
+
+
+<EULA.Highlight>Çocukların Güvenliği </>
+
+Epic, reşit olmayan bireyleri tehlikeye sokan hiçbir içeriğe veya davranışa izin vermez. 
+
+Talep edilen, anlatılan veya teşvik edilen şu içerik ve davranışlara da izin verilmez: 
+
+●	<EULA.Highlight>Yeme bozuklukları ve vücutla ilgili olumsuz imajlar, </>kilo verme veya kilo kontrolü ile ilgili tehlikeli davranışlar, çocukları vücut tipinden dolayı küçümseyen davranışlar. Kilo kontrolü davranışı, anlık olarak veya uzun vadede sağlığı ciddi anlamda tehdit ediyorsa tehlikeli olarak değerlendirilir (az yeme veya çok yeme hastalığı gibi). 
+
+●	<EULA.Highlight>Tehlikeli aktiviteler ve meydan okumalar. </>Gerçek dünyada ciddi fiziksel hasara yol açan, veya açması an meselesi olan, denenirse de aynı şekilde ciddi fiziksel hasara yol açabilecek aktivitelerin resmedilmesi ya da anlatılması. 
+
+●	<EULA.Highlight>Uyuşturucu ve alkol. </>Yasadışı uyuşturucu, reçeteli ve reçetesiz ilaçlar, alkol, tütün mamulleri, yapay nikotin ürünleri (elektronik sigara gibi) ve çocukların tüketimine uygun olmayan diğer benzer maddeler.
+
+●	<EULA.Highlight>Cinsel ürünler ve hizmetler. </> Cinsel ilişki ile ilgili yardım ve rehberleri de içeren cinsel ürünler, cinsel temalı eğlence unsurları ve eskortluk hizmetleri gibi cinsel hizmetler.
+
+●	<EULA.Highlight>İntihar ve kendine zarar verme eylemleri. </>Kendine zarar verme konusunda bilgi paylaşımı ve buna teşvik etme. 
+
+●	<EULA.Highlight>Bir çocuğun fiziksel sağlığını tehlikeye atan etkileşimler.</> Bir çocuğa zarar vermek amacıyla yüz yüze buluşma planı yapmak veya sohbet etmek için onları farklı bir platforma çağırmak gibi eylemler. 
+
+________________________________________
+
+<EULA.Header>Sonuçlar</>
+
+Belirli bir kural ihlali için atacağımız adım, her bir durum için özel olarak değerlendirilip belirlenir. Olayın ciddiyetine, daha önce herhangi bir ihlalde bulunup bulunmadığına ve diğer etmenlere bakarız. Atılan adımlar, daha hafif ihlaller için yalnızca bir uyarı vermekten sesli sohbet ve arkadaş ekleme gibi sosyal özelliklere erişimi kaybetmeye ve hatta hesabın kalıcı olarak yasaklanmasına kadar ulaşabilir.
+
+Hesabın kalıcı olarak yasaklandıysa oyunlarına, sanal içeriklerine, hesap bakiyene, satın aldığın veya kazandığın diğer ürünlere erişim hakkını kaybedebilirsin. Birden fazla hesabın varsa bu yasaklama işlemi bütün hesaplarına uygulanabilir.
+
+İçerik yönetimi uygulamalarımız hakkında daha fazla bilgi için lütfen <a id="url" href="https://safety.epicgames.com/en-US" style="EULA.Hyperlink">Güvenlik Merkezi</a> sayfamızı ziyaret et.
+
+________________________________________
+
+<EULA.Header>Oyuncu Raporlama</>
+
+Hepimiz bu topluluğun bir parçasıyız ve bu topluluğu arkadaş canlısı, eğlenceli ve olumsuzluklardan uzak tutmak hepimizin görevi.
+
+Topluluk Kuralları'na, <a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">İçerik Kuralları'na</a> ve diğer oyunculara saygı duymayan bir oyuncu ile karşılaşırsan, bu kişileri<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink"> oyun içi raporlama</a> kullanarak bildirebilirsin.
+
+Hoşlanmadığın ancak Topluluk Kuralları'nı ihlal etmeyen birisiyle tanışırsan<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-manage-my-party-and-voice-chat-options-from-the-fortnite-lobby-a3477" style="EULA.Hyperlink"> bu kişiyi engelleyebilirsin</a>.
+ 
+
+________________________________________
+
+<EULA.Header>Güvenlik</>
+
+Hesap bilgilerini güvende ve gizli tut. Hesabının erişimini paylaşmak seni riske atar. Bir şey şüpheli veya gerçek olamayacak kadar güzel görünüyorsa, büyük ihtimalle öyledir. Bedavaya V-Papel diye bir şey yoktur. Kendi hesap bilgilerini veya başkalarının hesap bilgilerini kimseyle paylaşma.
+
+Söz konusu Epic ekosisteminde güvende olmak olduğunda bunu gerçekleştirebilmek için gerekli olan bütün araçları sağlamanın önemli olduğuna inanıyoruz. <a id="url" href="https://www.epicgames.com/store/news/epic-games-account-security" style="EULA.Hyperlink">Sıkça Sorulan Sorularımızda</a> kendini daha iyi korumak için yapabileceğin şeylerin ve seni güvende tutmak için yaptıklarımızın tam bir listesini bulabilirsin.
+
+<a id="url" href="https://www.epicgames.com/fortnite/parental-controls" style="EULA.Hyperlink">https://www.epicgames.com/fortnite/parental-controls</a>Ebeveyn Kontrolleri ve çocuğunun oyun süresini veya Epic Games'teki etkileşimlerini nasıl yöneteceğin konusunda merak ettiklerin varsa, hesap yönetimi altındaki Ebeveyn Kontrolleri merkezine göz at.
+ 
+
+________________________________________
+
+
+Epic Topluluk Kuralları nihai değildir ve zaman içerisinde değişiklik geçirebilir, bu nedenle haberdar olmak için düzenli olarak kontrol ettiğinden emin ol. "Ama bilmiyordum..." iyi bir bahane değildir. Hepimiz eğlenmek, üretmek ve harika oyunların keyfini çıkarmak için buradayız!
+
+Topluluk Kuralları'nın yanı sıra şu ek kaynakları incele: 
+
+●	<a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">Epic Games İçerik Kuralları</a>
+
+●	<a id="url" href="https://www.epicgames.com/fortnite/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink">Fortnite Kreatif - İçerik Üreticisi İçerik Kuralları ve Kılavuzları</a>
+
+●	<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League Davranış Kuralları</a>
+
+
+Epic topluluğunun bir parçası olduğun ve bu ortamı herkes için güvenli ve eğlenceli tutmak konusunda görevini yerine getirdiğin için teşekkürler.

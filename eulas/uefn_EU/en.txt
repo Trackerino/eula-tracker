@@ -1,0 +1,101 @@
+<EULA.Header>1.	Introduction.</>
+
+Unreal Editor for Fortnite (“<EULA.Highlight>UEFN</>”) is a creation tool that enables people to create, develop, modify, or contribute content in Fortnite (“<EULA.Highlight>UEFN Content</>”), and to upload, publish, or otherwise make UEFN Content available to other users of Licensed Products. A person who uses UEFN to create UEFN Content will be referred to in this document as a “<EULA.Highlight>Developer</>,” and all In-Game Content created, offered, displayed, made available, or arranged by Developers is “<EULA.Highlight>Developer-Made Content</>.” Islands are an example of Developer-Made Content. Epic provides tools for Developers to use (“<EULA.Highlight>Developer Tools</>”), and UEFN is one such Developer Tool. “<EULA.Highlight>End User</>” means any natural person, company, or other legal entity lawfully interacting with Fortnite pursuant to Epic’s policies.
+
+These Unreal Editor for Fortnite Supplemental Terms (“<EULA.Highlight>UEFN Terms</>”) are a contract between the Developer who accepts them (“<EULA.Highlight>you</>,” “<EULA.Highlight>your</>,” or “<EULA.Highlight>yours</>”) and Epic. These UEFN Terms supplement the <a id="url" href="http://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">Epic Games Terms of Service</> (the “ULA.Highlight>Epic Terms</>”). Developer Tools and any services made available to you through Developer Tools (for example, the Unreal Revision Control service) constitute “Licensed Products” under the Epic Terms. Capitalized terms not defined in these UEFN Terms will have the meaning given to them in the Epic Terms. In the event of conflicts between the UEFN Terms and the Epic Terms, the UEFN Terms will control with respect to your use of the UEFN. 
+
+Developers who accept these UEFN Terms also must have agreed to the Epic Terms, and all Developers are subject to the <a id="url" href="https://www.fortnite.com/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink">Developer Content Rules</>, <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Epic Games Content Guidelines</>, <a id="url" href="https://legal.epicgames.com/epicgames/community-rules" style="EULA.Hyperlink">Epic Games Community Rules</>, the <a id="url" href="https://www.epicgames.com/fan-art-policy" style="EULA.Hyperlink">Fan Content Policy</>, and any other applicable policies or documentation Epic may publish or update from time to time at Epic’s sole discretion (subject to notice to you as provided in each respective document). <EULA.Highlight>You must be in compliance with all of Epic’s policies at all times.</>
+
+<EULA.Highlight>PLEASE READ THESE UEFN TERMS AND THE EPIC TERMS CAREFULLY. ANY DISPUTES ARISING UNDER THESE TERMS WILL BE RESOLVED AS PROVIDED FOR IN THE EPIC TERMS, WHICH FOR U.S. PERSONS MEANS YOU ARE AGREEING TO RESOLVE MOST DISPUTES IN BINDING, INDIVIDUAL ARBITRATION AND GIVING UP THE RIGHT TO GO TO COURT OR TO PARTICIPATE IN CLASS ACTIONS. SEE SECTIONS 16 AND 17 OF THE EPIC TERMS FOR DETAILS. </> 
+
+Epic reserves the right to determine which End Users are eligible to access Developer Tools. If any Developer Tools are subject to additional terms and conditions, you must agree to them prior to your use of those Developer Tools. 
+
+<EULA.Highlight>IF YOU ARE NOT AN ADULT (18+ in most jurisdictions), ASK YOUR PARENT OR GUARDIAN TO READ THIS WITH YOU. By accepting these UEFN Terms, you (& your parent/guardian) are agreeing to abide by these rules and the Epic Terms. If your Epic Games Account uses an email address with a domain owned by your employer or organization (i.e., a work email) to accept these UEFN Terms, you agree that you are binding your employer or organization to these UEFN Terms.</>
+
+<EULA.Header>2.	Rules for Developer-Made Content</>
+
+•	Developer-Made Content may not violate the Epic Terms, these UEFN Terms, the <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Epic Games Content Guidelines</>, applicable laws, or any other rules, policies or documentation applicable between you and Epic related to Developer-Made Content or Developer Tools.
+•	Epic can revoke or limit your permission to create Developer-Made Content at any time in accordance with these Terms.
+•	You may not say or imply that Developer-Made Content is developed or endorsed by Epic.
+•	Developer-Made Content cannot contain viruses, malware, spyware, corrupted data, or other elements that could harm or negatively affect how other End Users enjoy any Licensed Products.
+•	Developer-Made Content may not promote or exploit hacks or Cheats for Licensed Products or any other games or products or include a link or reference to any website or media content that does so.
+•	Developer-Made Content and code may not contain materials that, after being uploaded to Epic or downloaded by End Users, attempt to establish connections with servers outside of the Epic hosting servers for Developer-Made Content. As an example, your Developer-Made Content cannot “phone home” and transmit usage information directly to you or non-Epic servers.
+
+<EULA.Header>3.	Your License to Epic Assets Used in Developer-Made Content</>
+
+Epic may make available Epic-created content (“<EULA.Highlight>Epic Assets</>”) that Developers can use and/or modify (e.g., by adding your own original content to the template). Epic Assets include any digital asset based on Epic’s intellectual property, including but not limited to:
+
+•	Island templates (Epic-owned, premade islands that you can modify as desired);
+•	Tiles (building blocks that form the structure of an island, such as floors and walls);
+•	Weapons;
+•	Devices (objects that perform a specific task to control gameplay); 
+•	Sound recordings, the musical works embodied in those sound recordings and/or sound effects (collectively, “<EULA.Highlight>Epic-Provided Audio</>”); and
+•	Pre-fabs and props (items that can be placed on an island). 
+
+Your use of the Epic Assets is covered by the license granted to you by Epic discussed in Section 3 of the Epic Terms. While we encourage you to use Epic Assets, you do not own any Epic Assets or any of their components. Your arrangement or selection of Epic Assets in your Developer-Made Content does not give you any ownership or other legal right to Epic Assets and does not restrict Epic’s or any other individual’s ability to copy, modify, arrange, or otherwise use Epic Assets in other creations. Don’t infringe on Epic’s intellectual property by recreating Epic-owned islands or digital goods. You also acknowledge and agree that your use of Epic Assets and other Developer Tools provided by Epic does not give you any right to bring any action against Epic from any third party’s use of the same or similar Epic Assets and Developer Tools. 
+
+If Epic-Provided Audio is available for use in Developer-Made Content, Epic grants you a non-exclusive, personal, limited, revocable, non-transferable, and non-sublicensable license to: (i) synchronize the Epic-Provided Audio during the period of time when it is offered, and (ii) play, listen, and interact solely through the relevant Licensed Product(s).
+
+If Epic expressly permits edits to Epic-Provided Audio, your modifications (e.g., edits, use of a portion) to synchronize into Developer-Made Content are considered derivative works included in the definition of Epic-Provided Audio above, the rights to which are retained by Epic and its licensors/partners.
+
+<EULA.Header>4.	Your Developer-Made Content is Yours. </>
+
+Apart from the limited license you grant Epic below and Epic’s rights in its Licensed Products, we have no rights under these UEFN Terms from you or your licensors in any Developer-Made Content you submit. The rights you grant to Epic herein are not ownership rights, but a license to service the Developer-Made Content you own. You have the right to use the Developer-Made Content you own that you have developed in Developer Tools in any of your current and future works, including works outside of UEFN, Unreal Engine, Licensed Products, and Epic’s other services, provided that you do not use or infringe any of Epic's content or trademarks, or third-party content obtained through Developer Tools that you aren't licensed to use in those works.
+
+<EULA.Header>5.	Your License to Epic of Developer-Made Content</>
+
+When you post or share your Developer-Made Content in Licensed Products, you grant Epic a limited worldwide license to store, copy and use your Developer-Made Content for purposes of hosting and displaying your Developer-Made Content to End Users. The license you grant to Epic for your Developer-Made Content is limited in scope:
+
+•	<EULA.Highlight>Limited Purposes.</> Epic can only exercise the license rights you grant us as permitted by these UEFN Terms, including to: (a) promote, market, and provide access to the Developer-Made Content to End Users; (b) operate, promote, market, and support the Licensed Products; and (c) operate, improve, update, market, and support Developer Tools. When you publish or release updates, you can opt-out of Epic marketing and promoting your Developer-Made Content outside of the Licensed Products (e.g., on social media).
+
+•	<EULA.Highlight>Limited Uses for Artificial Intelligence. </>Epic agrees not to use any of your Developer-Made Content, or to license any of your Developer-Made Content to third parties for use, to train Generative AI Programs, except for Epic’s use of AI (i) to improve our localization technology by training it on your corrections to our automated localized output, unless you opt out or (ii) at your explicit direction, for example to incorporate feedback explicitly provided by you to the Epic Developer Assistant using the 👍 or 👎buttons to train the AI based on your prompt and the AI's response. This restriction does not prevent Epic’s use of AI to (i) classify content in order to maintain compliance with our Content Guidelines and Community Rules, for example, by identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, uses or interactions which might break our rules; or (ii) provide search, recommendations, and content discovery.
+
+“<EULA.Highlight>Generative AI Programs</>” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. Programs do not meet this definition of Generative AI Programs where they, by non-limiting example, (a) solely operate on the original content (such as image upscaling); (b) generate tags to classify visual input content; or (c) generate instructions to arrange existing content, without creating new content.
+
+Subject to those restrictions listed above, the license you grant is sublicensable, royalty-free, irrevocable, and non-exclusive. The license you grant is also perpetual. This means the license continues until the termination of these Terms as to you; after that, the license still continues as long as the IP rights in your Developer-Made Content exist, but only so Epic can continue to make any Developer-Made Content you have contributed to an experience you do not own available (see Section 7 – Collaboration with Others) even if you request to delete your Developer-Made Content or your Epic Games Account); 
+
+This means, among other things, that Epic may (a) promote and market Developer-Made Content in any media (except for media outside of the Licensed Products if you opt out), (b) make your Developer-Made Content available for End Users to operate through Licensed Products on all current and future platforms and means of play, (c) host information about your Developer-Made Content on our websites and services; and (d) support links into your Developer-Made Content from any channels which support hyperlinks and other forms of linking.
+
+You understand and agree that Developer-Made Content you share, as well as any associated information (such as your display name or other Epic Games Account identifier or profile photo) may be visible to others and captured, edited, and shared by others in gameplay footage and screenshots displayed outside of the Licensed Products (see discussion of External Fan Content in Section 11 of the Epic Terms). End Users may freely use and interact with your Developer-Made Content in Licensed Products, and you have no right to assert a claim against Epic or other End Users for such use. 
+
+Unless you apply to and Epic accepts your enrollment in in Epic's Fortnite Publishing Program and/or Support-A-Creator, you will not receive, and you have no right to expect, any compensation, fees, consideration, or other remuneration in connection with your Developer-Made Content for any reason, including Epic’s exercise of the rights you grant to Epic in these Terms.
+
+You may not create, post, store, or share any Developer-Made Content (i) that violates these UEFN Terms or the Epic Terms, or (ii) as to which you do not have all the rights necessary to grant us the license described above. You warrant and guarantee that Developer-Made Content, and our use of it as permitted by these UEFN Terms, will not violate any rights of or cause injury to any person or entity and will not require any consent from or payment to any person or entity. You also grant Epic the right to make modifications to your Developer-Made Content as necessary to resolve bugs, promote compliance with applicable laws or these UEFN Terms, or otherwise support and maintain your Developer-Made Content. As an alternative to Epic’s making these modifications, Epic may request that you make them. 
+
+Epic is not obligated to screen, edit, monitor, host, maintain, or support your Developer-Made Content, or market or advertise them. Once your Developer-Made Content is published, Epic may delete, remove or suspend your Developer-Made Content at any time and for any reason.
+
+You may also remove your Developer-Made Content yourself, except for contributions that you chose to provide to an experience you do not own. If you discover you do not have the rights required to grant a license to Epic, you must remove that Developer-Made Content.
+
+<EULA.Header>6.	Special Requirements for Musical Works. </>
+
+Your Developer-Made Content may include music, but you must own all rights in any music you upload through the Developer Tools. That usually requires that: 
+
+•	You alone wrote the composition and lyrics;
+•	You performed and recorded the music;
+•	You do not have a contract with a record label, music publisher, or a collective rights organization which covers the musical work in your Developer-Made Content. 
+
+We know this means most music cannot be used in Developer-Made Content. This is to protect you and us from potential copyright infringement claims and to protect music creators, who have the right to agree (or not) to have their music in Licensed Products and to negotiate on what terms. 
+
+Please remember that by uploading music in Developer-Made Content, you promise to Epic that you fully own the music and that Epic has no obligation to pay royalties to any third party, including a sound recording copyright owner (e.g., a record label), a musical work copyright owner (e.g., a music publisher), and performing rights or collective management organization, whether representing authors’ rights (e.g., ASCAP, BMI, SESAC, PRS, SACEM, JASRAC, etc.), or producers’ or performers’ rights (e.g., PPL, GVL, FKMP), any unions or guilds, or other third parties, anywhere in the world, with respect to Use of your music by Epic and others under these Terms. The license you grant to Epic pursuant to this Section applies to music you upload, including the pass-through rights to other End Users described in Section 5 of these UEFN Terms.
+
+<EULA.Header>7.	Collaboration with Others. </>
+
+You may be able to work with other Developers, each contributing your own Developer-Made Content to complete ‘playable’ interactive experiences, before publishing them through a Licensed Product. You are free to use our collaborative functionality to collaborate with these other Developers. You must not use our collaborative functionality to share content with non-collaborators such as adding players for testing.
+
+Look <a id="url" href="https://create.fortnite.com/welcome?team=personal" style="EULA.Hyperlink">here</> for more information on how to collaborate with other Developers in Licensed Products.
+
+If you choose to collaborate with other Developers on Developer-Made Content, you acknowledge that:
+
+•	Epic is not bound by any agreement among or between co-Developers.
+•	By default, only the Developer designated as the owner of an experience will be attributed as the project’s Developer. Any codes associated with that experience will be associated only with the Developer designated as the owner.
+•	Epic does not offer any opinion or advice concerning how co-Developers determine ownership in any Developer-Made Content contributed to the experience. 
+
+If you believe your intellectual property rights have been infringed as a result of a co-Developer’s actions, we recommend you consult with a lawyer.
+
+<EULA.Header>8.	Indemnification. </>
+
+To the fullest extent authorized by applicable law, Developer will indemnify, pay the defense costs of, and hold the Epic Parties harmless from and against any claims, demands, actions, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorney and expert witness fees) arising out of or related to (a) any claim that, if true, would be a breach of these UEFN Terms by you or your negligence, (b) any act or failure to act by you using the Developer Tools or the Licensed Products, or (c) your Developer-Made Content. You will reimburse the Epic Parties on request for any defense costs incurred by the Epic Parties and any payments made or losses suffered by the Epic Parties, whether in a court judgment or settlement, based on any matter covered by this Section. If the law where you live doesn’t let you agree to this indemnification, then you assume all responsibility for claims, demands, actions, losses, liabilities, and expenses (including attorneys’ fees, costs, and expert witnesses’ fees) that would have been covered by the indemnification. This obligation of indemnification includes claims by and against Developer.
+
+<EULA.Header>9.	Termination. </>
+
+If you terminate or Epic terminates the Epic Terms as to you, these UEFN Terms also will terminate as to you (subject to the provisions of the Epic Terms that survive termination). You may, or Epic may, terminate these UEFN Terms as to you without terminating the Epic Terms.

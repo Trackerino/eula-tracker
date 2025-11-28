@@ -1,0 +1,150 @@
+<EULA.Highlight>Atualizado em 12 de setembro de 2024</>
+
+<EULA.Header>EPIC GAMES - REGRAS DA COMUNIDADE</>
+
+Queremos que a Epic Games seja um lugar seguro e divertido para você jogar e se distrair com seus amigos. Para isso, precisamos da sua ajuda.
+
+Os Termos de Serviço da Epic e outros acordos contêm regras que se aplicam ao seu uso dos serviços da Epic, então algumas dessas regras podem parecer familiares. A Epic oferece vários modos de interação em seus jogos, serviços e ambientes e, por isso, acreditamos que seria útil explicarmos melhor nossas normas da comunidade. 
+
+Nossas Regras da Comunidade se aplicam a todos os usuários de jogos, serviços e ambientes da Epic. Essas normas servem de guia sobre como interagir dentro do ecossistema da Epic Games. Incluímos alguns exemplos específicos abaixo, mas só porque não especificamos algo, não significa que seja permitido 
+
+Não é muito difícil seguir as regras. Porém, se você as violar, isso pode resultar em uma ação contra a sua conta que pode chegar a um banimento permanente. 
+
+________________________________________
+
+<EULA.Header>Regras da Comunidade</>
+
+<EULA.Header>Informações Pessoais</>
+
+É proibido compartilhar informações pessoais de outras pessoas, com exceção do nome de exibição, e sugerimos que você não compartilhe as suas. É proibido compartilhar ou ameaçar compartilhar nomes de contas alternativas, localização no mundo real, nome verdadeiro, etc.
+ 
+
+<EULA.Header>Intolerância e Discriminação</>
+
+A Epic não tolera qualquer forma de ódio ou discriminação.
+
+O ecossistema da Epic saúda a diversidade de raça, etnia, cor, religião, identidade de gênero, orientação sexual, deficiências, origem de nacionalidade e outros grupos. Não deprecie, marginalize, use linguagem de ódio contra, ou menospreze outros usuários ou grupos. 
+ 
+
+<EULA.Header>Bullying e Assédio</>
+
+Respeite os outros — ao bater papo, ao jogar ou ao criar. É proibido interagir com os outros de maneira predatória, ameaçadora, intimidadora, degradante, depreciativa, invasiva da privacidade ou abusiva.
+
+Tentar fazer alguém se sentir mal para você se sentir bem não funciona. É muito mais fácil, e divertido, aproveitar a experiência juntos!
+ 
+
+<EULA.Header>Se Passar por Outra Pessoa</>
+
+Não se passe por outros jogadores, streamers, celebridades, oficiais do governo, funcionários da Epic ou qualquer outra pessoa. E não roube os créditos por alguma criação de um outro jogador ou entidade. Fingir ser outra pessoa para enganar ou defraudar os outros não é permitido.
+ 
+
+<EULA.Header>Trapaceando e Trollando</>
+
+Jogue limpo e de acordo com as regras do jogo. Não trapaceie, importune outros jogadores, crie uniões para prejudicar os outros ou explore erros ou falhas. Não promova ou divulgue trapaças conhecidas, bugs ou recursos para tirar vantagem. Encontrou uma falha? <a id="url" href="https://www.epicgames.com/help/en-US/epic-games-store-c73" style="EULA.Hyperlink">Avise.
+</a> 
+
+<EULA.Header>Atividades Perigosas ou Ilegais</>
+
+Não se envolva ou encoraje atividades ilegais ou perigosas dentro da comunidade, incluindo apostas e jogos de azar, uso de drogas ilegais, phishing, tráfico de pessoas, prostituição, divulgação de dados pessoais, trotes para a polícia ou compartilhamento de conteúdo que glorifique ou incite a violência. Levamos muito a sério ameaças de dano a si mesmo ou a outros. Não as faça, principalmente de brincadeira. Se você vir algo que coloca outros jogadores em risco, faça uma denúncia no jogo (<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink">Fortnite</a>, <a id="url" href="https://support.rocketleague.com/hc/en-us/articles/360015606894-How-Do-I-Report-a-Player-" style="EULA.Hyperlink">Rocket League</a>) ou <a id="url" href="https://www.epicgames.com/help/en-US/" style="EULA.Hyperlink">informe nossa equipe de suporte ao jogador</a>.
+ 
+
+<EULA.Header>Golpes ou atividades enganosas</>
+
+Não tire vantagem de outros jogadores. São proibidos golpes ou práticas enganosas, incluindo a busca de informações da conta e a compra ou venda de contas ou informações pessoais.
+ 
+
+<EULA.Header>Conteúdo Inapropriado</>
+
+Conteúdos, comunicações e atividades no ecossistema Epic não devem prejudicar a experiência positiva dos outros. Todo conteúdo precisa seguir as <a id="url" href="https://www.epicgames.com/site/content-guidelines" style="EULA.Hyperlink">Regras de Conteúdo</a>.
+
+
+<EULA.Header>Ameaça a Crianças</>
+
+<EULA.Highlight>Exploração ou Abuso Sexual Infantil</>
+
+A Epic proíbe qualquer conteúdo ou atividade de exploração ou abuso sexual infantil (EASI) em seus serviços. 
+
+EASI refere-se a qualquer conteúdo ou atividade que prejudique ou ameace prejudicar uma criança por meio de exploração sexual, tráfico, extorsão, aliciamento ou abuso. Qualquer pessoa abaixo de 18 anos de idade (ou a idade legal da maioridade) é definida como criança.
+
+São ações proibidas criar, solicitar ou compartilhar conteúdo que contenha:
+
+●	<EULA.Highlight>Material de Abuso Sexual Infantil (MASI)</>, que é pornografia infantil. Pornografia infantil é qualquer representação visual de conduta sexualmente explícita envolvendo um menor de idade, incluindo MASI gerado pela própria pessoa e conteúdo digital ou gerado por IA de aparência altamente realista. 
+
+●	<EULA.Highlight>Sexualização de menores de idade</>, que é um conteúdo que sexualiza uma criança de forma que promova ou incentive a exploração sexual de crianças. Sexualização inclui representações de uma criança envolvida em comportamentos que têm a intenção de ser sexualmente excitantes, ou em uma posição sexualmente sugestiva (por exemplo, enfatizando intencionalmente partes íntimas do corpo cobertas com roupas, como os seios, para chamar a atenção a essas partes). 
+
+●	<EULA.Highlight>Tráfico de crianças</>, que é anunciar uma criança para um ato sexual comercial ou solicitar um serviço nesse sentido. Um ato sexual comercial ocorre quando uma pessoa dá ou recebe algo de valor (por exemplo, dinheiro, comida, drogas, um lugar para ficar) em troca de atividade sexual.
+
+Isso também inclui comportamento predatório em relação a crianças, como:
+
+●	<EULA.Highlight>Aliciamento de crianças</>, que é entrar em contato, conversar ou fazer amizade com uma criança com a intenção de pedir ou oferecer contato sexual ou compartilhar conteúdo para fins sexuais. 
+
+●	<EULA.Highlight>Extorsão sexual</>, que é ameaçar ou chantagear uma criança com a possibilidade de ter acesso ou compartilhar imagens nuas ou sexuais dela.
+
+Ao descobrir conteúdo que contém exploração e abuso sexual infantil, a Epic denuncia ao Centro Nacional para Crianças Desaparecidas e Exploradas (National Center for Missing and Exploited Children, NCMEC). 
+
+
+<EULA.Highlight>Segurança Infantil </>
+
+A Epic não permite conteúdo ou comportamento direcionado a menores de idade que possam colocá-los em risco. 
+
+Isso inclui conteúdo ou comportamento que solicite, instrua ou promova: 
+
+●	<EULA.Highlight>Transtornos alimentares e imagem corporal negativa, </>o que inclui comportamentos perigosos de perda ou controle de peso ou depreciação de uma criança devido ao seu tipo de corpo. Um comportamento de controle de peso é considerado perigoso caso possa criar um risco significativo e imediato ou de longo prazo para a saúde (por exemplo, anorexia, bulimia). 
+
+●	<EULA.Highlight>Atividades e desafios perigosos, </>o que inclui retratar atividades no mundo real que envolvam danos físicos graves visíveis ou iminentes ou que, se imitadas, provavelmente levariam a danos físicos graves. 
+
+●	<EULA.Highlight>Drogas e álcool, </>o que inclui drogas ilegais, medicamentos prescritos e de venda livre, álcool, produtos com tabaco, produtos com nicotina sintética (como vapes e cigarros eletrônicos) e outras substâncias regulamentadas não adequadas para consumo por crianças.
+
+●	<EULA.Highlight>Produtos e serviços sexuais</>, o que inclui produtos sexuais (por exemplo, auxílios ou guias sexuais) e serviços sexuais (por exemplo, entretenimento relacionado a sexo e serviços de acompanhantes).
+
+●	<EULA.Highlight>Suicídio e automutilação,</> o que inclui compartilhar ou promover planos relacionados a automutilação física. 
+
+●	<EULA.Highlight>Interações direcionadas a uma criança que coloquem em risco sua segurança física</>, como planejar um encontro pessoal com uma criança ou atraí-la para fora da plataforma a fim de conversar com o intuito de sujeitá-la a danos. 
+
+________________________________________
+
+<EULA.Header>Consequências</>
+
+O tipo de ação que tomaremos para cada violação dessas regras é determinado caso a caso. Observaremos a gravidade, se você já cometeu alguma violação e outros fatores. As ações podem ir de avisos por conta de ofensas menos graves, perda de acesso a recursos sociais, como bate-papo por voz e adicionar amigos, até chegar no banimento permanente da sua conta.
+
+Se a sua conta for banida permanentemente, você poderá perder todos os direitos a jogos, itens virtuais, saldo da conta ou outros itens ganhos ou comprados. Se você tiver várias contas, podemos agir contra todas elas.
+
+Para mais informações sobre práticas de moderação de conteúdo, acesse nossa <a id="url" href="https://safety.epicgames.com/en-US" style="EULA.Hyperlink">Central de Segurança e Proteção</a>.
+
+________________________________________
+
+<EULA.Header>Denúncia de Jogador</>
+
+Somos todos parte desta comunidade e depende de nós mantê-la amigável, divertida e livre de negatividade.
+
+Se você se deparar com um jogador que não esteja respeitando as Regras da Comunidade, as <a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">Regras de Conteúdo</a> ou outros jogadores, você pode denunciá-lo no nosso recurso de<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink"> denúncia no jogo</a>.
+
+Se você encontrar alguém de quem não gosta, mas que não está em violação das Regras da Comunidade, você pode<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-manage-my-party-and-voice-chat-options-from-the-fortnite-lobby-a3477" style="EULA.Hyperlink"> bloquear a pessoa</a>.
+ 
+
+________________________________________
+
+<EULA.Header>Segurança e Proteção</>
+
+Mantenha as informações da conta seguras e privadas. Dar acesso à sua conta coloca você em risco. Se algo parece suspeito ou bom demais para ser verdade, provavelmente é. V-Bucks não são dados de graça. Não compartilhe as informações da sua conta nem as informações da conta de outras pessoas.
+
+Quando o assunto é a segurança dentro do ecossistema da Epic e manter-se em segurança, acreditamos em fornecer todas as ferramentas necessárias. Você pode encontrar um conjunto com tudo que você pode fazer para manter a segurança da sua conta e tudo que estamos fazendo atualmente para manter sua segurança nas nossas <a id="url" href="https://www.epicgames.com/store/news/epic-games-account-security" style="EULA.Hyperlink">Perguntas Frequentes</a>.
+
+Se você tiver interesse em saber mais sobre o <a id="url" href="https://www.epicgames.com/fortnite/parental-controls" style="EULA.Hyperlink">Controle dos Pais</a> e sobre como moderar o tempo de jogo ou interações da sua criança na Epic Games, acesse nossa central de Controle dos Pais no gerenciamento da conta.
+ 
+
+________________________________________
+
+
+As Regras da Comunidade da Epic não são finais e podem mudar com o tempo. Certifique-se de verificá-las novamente de vez em quando para manter-se atualizado. "Mas, eu não sabia..." não é uma desculpa válida. Todos estamos aqui para nos divertir, criar e aproveitar jogos incríveis!
+
+Além de nossas Regras da Comunidade, veja estes recursos adicionais: 
+
+●	<a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">Regras de Conteúdo da Epic Games</a>
+
+●	<a id="url" href="https://www.epicgames.com/fortnite/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink">Modo Criativo do Fortnite – Regras e Diretrizes para os Conteúdos dos Criadores</a>
+
+●	<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Código de Conduta do Rocket League</a>
+
+
+Agradecemos por participar da comunidade Epic e por fazer a sua parte para manter um espaço seguro e divertido para todos.

@@ -1,0 +1,89 @@
+최종 업데이트: 2025년 11월 28일
+
+<EULA.Highlight>Epic Games 소개</>
+
+안녕하세요! Epic Games는 포트나이트 배틀로얄, 레고 포트나이트 오디세이, 포트나이트 페스티벌, 폴가이즈, Rocket League, 로켓 레이싱 등과 같은 멋진 게임들을 제작하고 있습니다. 또한 사람들이 직접 자신만의 비디오 게임을 만들 수 있도록 돕는 멋진 개발 도구들을 제작하고 Epic Games Store를 운영하고 있습니다.
+
+<EULA.Highlight>이 페이지 정보</>
+
+비디오 게임을 플레이하고 웹사이트를 방문할 때, 일부 개인정보가 수집될 수 있습니다. 이 페이지에서는 수집하는 정보 항목과 수집 이유, 플레이하는 게임, 방문하는 웹사이트와 Epic Games의 기타 온라인 서비스에서 수집한 정보를 사용하는 방식을 설명합니다.
+
+자세한 내용은 부모님/보호자와 함께 에픽게임즈 <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">개인정보처리방침</a> 전체를 읽어보세요.
+
+<EULA.Highlight>수집하는 정보 항목</>
+
+이용하는 게임, 웹사이트 또는 온라인 서비스와 그 이용 방식에 따라 다양한 유형의 정보를 수집합니다.
+
+다음과 같은 경우 <EULA.Highlight>이용자가 제공하는 정보를 수집합니다.</>
+
+• Epic 계정에 가입할 때(예: 이메일이나 생년월일을 입력할 때)
+• 지원센터에 문의할 때
+• 게임을 플레이하는 중 음성 또는 문자 채팅으로 신고할 때
+
+다음과 같은 <EULA.Highlight>특별한 도구를 통해 일부 정보를 자동으로 수집합니다.</>
+
+• 이용자가 사용하는 기기(휴대폰, 콘솔, 또는 컴퓨터) 
+• 플레이하는 게임 
+• 규칙을 위반하는 플레이어를 탐지하는 데 도움이 되는 정보 
+
+<EULA.Highlight>때때로 </>PlayStation®, Microsoft Xbox, Nintendo Switch와 같은 게임 콘솔을 사용하여 Epic의 게임을 플레이할 때, <EULA.Highlight>해당 회사들로부터 일부 정보를 수신합니다.</>
+
+<EULA.Highlight>정보를 사용하는 방식</>
+
+다음 목적으로 정보를 사용합니다.
+
+• 게임, 웹사이트, 온라인 서비스 운영 
+• 게임, 웹사이트, 온라인 서비스를 개선하고 보다 흥미로운 경험 제공
+• 개인 맞춤형 경험을 제공하거나, 이벤트, 소식, 관심 있을 만한 다른 Epic Games의 게임 정보 안내(연령 기준을 충족하거나 허락을 받은 경우) 
+• 부정 행위 등을 감지하고 다른 이용자 보호
+
+<EULA.Highlight>예:</> 포트나이트에서는 만 18세 미만 사용자의 경우 <a id="url" href="https://www.fortnite.com/news/introducing-voice-reporting-in-fortnite" style="EULA.Hyperlink">음성 신고</a> 기능이 항상 활성화되어 있습니다. 즉, 채팅 중 누군가가 <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">규칙</a>을 위반했을 때(예: 괴롭힘이나 비난 등 부적절한 행동을 하는 플레이어를 봤을 때), <a id="url" href="https://www.epicgames.com/help/fortnite-c5719335176219/player-behavior-c19319279166491/how-to-report-bad-player-behavior-in-fortnite-a5720300102171" style="EULA.Hyperlink">게임 내에서 신고하면</a> Epic Games가 음성 채팅 내용을 검토하여 실제로 어떤 일이 있었는지 확인할 수 있습니다. 
+
+<EULA.Highlight>정보를 공유하는 시점</>
+
+다음 대상과 정보를 공유할 수 있습니다.
+
+• 게임, 웹사이트, 기타 온라인 서비스 운영을 지원하는 Epic 계열사 및 협력업체(예: 사용자 ID나 IP 주소 등) 
+• PlayStation®, Microsoft Xbox, Nintendo Switch와 같은 게임 콘솔 회사들(해당 Epic Games의 게임을 플레이하는 경우)
+• 플레이하기 위해 Epic Games Store에서 다운로드하는 경우 해당 게임 제작자들 
+• Epic 계정을 다른 온라인 플랫폼이나 스토어와 연동하는 경우 해당 플랫폼 또는 스토어(연령 기준을 충족하거나 허락을 받은 경우) 
+• 이용자와 기타 관계자(Epic Games 직원 및 플레이어)의 안전을 지키기 위해 경찰 또는 법 집행기관
+
+<EULA.Highlight>정보 주체로서 개인정보에 대한 선택권</>
+
+정보 주체로서 Epic Games에 다음을 요청할 수 있습니다.
+
+• 정보 수정 또는 변경 
+• 정보의 사본 
+• 계정 삭제
+
+부모님/보호자가 대신 이를 수행할 수 있습니다(연령에 따라 다름).
+
+요청을 보내려면 이 페이지 하단의 안내를 따르거나 전체 <a id="url" href="https://www.epicgames.com/privacypolicy" style="EULA.Hyperlink">에픽게임즈 개인정보처리방침</a>에서 제12항(문의 방법)에 나와 있는 연락처로 연락하십시오.
+
+<EULA.Highlight>기본 설정 및 자녀 보호 기능</>
+
+만 18세 미만인 경우, 처음에 Epic 계정은 높은 수준의 개인정보 보호 설정이 적용됩니다. 즉, 
+
+• 채팅, 프로필, 맞춤형 추천과 같은 기능이 제한되거나 비활성화되어 있습니다. 
+• 일부 설정은 연령이 높아졌을 때 직접 변경할 수 있습니다.
+
+일부 기능은 부모님/보호자의 허가가 필요합니다. 부모/보호자는 Epic의 <a id="url" href="https://www.epicgames.com/account/parental-controls" style="EULA.Hyperlink">계정 포털</a>에서 <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">자녀 보호 기능</a>을 설정할 수 있습니다. 
+
+<EULA.Highlight>온라인에서 안전을 유지하는 방법</>
+
+더 즐겁고 안전한 경험을 위해 다음과 같은 온라인 안전 수칙을 기억하세요.
+
+• 표시명을 정할 수 있다면, 재미있는 이름을 사용하고 실제 이름은 사용하지 않습니다.
+• 실제 이름, 전화번호, 주소 또는 기타 개인 정보를 절대 다른 사람과 공유하지 않습니다. 
+• 채팅 시 주의하고, 온라인에서 만난 친구와 개인정보를 공유하지 않습니다. 설정에서 소셜 기능을 직접 관리할 수 있습니다.
+• 아무도 추측할 수 없는 강력한 비밀번호를 설정하고, 그 비밀번호는 절대 다른 사람과 공유하지 마세요. 
+• 누군가 계정에 접근했다고 생각되면, 즉시 알려주세요.
+
+온라인에서 안전을 유지하는 방법은 <a id="url" href="http://safety.epicgames.com/" style="EULA.Hyperlink">안전 및 보안 센터</a>를 확인하십시오.
+
+<EULA.Highlight>문의 방법</>
+
+• 일반적인 문의에 대한 답변은 <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">지원 센터</a>를 확인하십시오. 
+• 궁금한 사항은 privacy@support.epicgames.com으로 이메일을 보내주시기 바랍니다.
+• 부모님/보호자는 <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">부모 또는 보호자 요청</a>을 통해 Epic Games에 문의할 수 있습니다.

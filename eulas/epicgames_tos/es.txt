@@ -1,0 +1,528 @@
+Última actualización: 20 de octubre de 2025
+Vigente desde: 28 de noviembre de 2025
+
+¡Hola! Estas son las reglas y las responsabilidades asociadas con el uso de nuestros juegos y servicios. 
+
+Pero primero, una nota para los jugadores jóvenes. <EULA.HIGHLIGHT>SI NO ES UN ADULTO (MAYOR DE 18 AÑOS EN LA MAYORÍA DE LAS JURISDICCIONES), PÍDALE A SU PADRE, MADRE O TUTOR QUE LEA ESTE DOCUMENTO CON USTED</>. 
+
+<EULA.Highlight>Al aceptar estos Términos, usted (y su padre/madre/tutor) aceptan cumplir con estas reglas, incluidos los límites de la responsabilidad de Epic con usted, las reglas para el contenido en el juego, el arbitraje de disputas y el derecho de Epic de modificar estos Términos y rescindir las Cuentas de Epic Games. Consulte a continuación si desea obtener más términos y detalles. </>
+
+Los Términos de servicio de Epic Games, incluidos todos los documentos a los que se hace referencia y los documentos vinculados (a los que nos referiremos en forma conjunta como estos “<EULA.Highlight>Términos</>”), constituyen un acuerdo legal entre usted y Epic Games. Estos Términos explican las reglas y responsabilidades que usted acepta al usar los sitios web, los productos y los servicios de Epic. Al usarlos, usted acepta estar obligado por estos Términos. <EULA.Highlight>Es importante que lea estos Términos detenidamente. </>
+
+<EULA.Highlight>Para cualquier padre, madre o tutor que lea esto: Si acepta estos Términos en nombre de un menor bajo su cuidado para su Cuenta de Epic Games, usted acepta los Términos en su propio nombre y en nombre del menor. </>Usted acepta que será usted el responsable de todo uso de los Productos con licencia (definidos a continuación) que usted o el menor hagan. Usted será el responsable de cualquier compra u otra transacción realizada desde la Cuenta de Epic Games, incluidas aquellas compras realizadas por el menor, en la medida en que la ley lo permita. Para obtener más información sobre las formas en las que trabajamos para crear un lugar seguro y divertido para los jugadores de todas las edades, consulte el <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Centro de seguridad y protección de Epic Games</>.
+
+Como se explica a continuación, no debe compartir su Cuenta de Epic Games con nadie. Si de todos modos lo hace, violando estos Términos, se aplicarán estos Términos y ellos obligarán a toda aquella persona a la que le dé acceso a su Cuenta de Epic Games. Cuando decimos “<EULA.Highlight>usted</>”, “<EULA.Highlight>su</>” o “<EULA.Highlight>usted mismo</>”, nos referimos a usted como persona y a cualquier usuario de su Cuenta de Epic Games. Se lo considera un “<EULA.Highlight>Usuario final</>” dentro del significado de estos Términos. Para los menores, “usted”, “su” o “usted mismo” se refieren en forma conjunta al padre, la madre o el tutor y al menor. 
+
+Cuando decimos “<EULA.Highlight>Epic Games</>”, “<EULA.Highlight>Epic</>”, “<EULA.Highlight>nosotros</>” o “<EULA.Highlight>nos</>”, nos referimos a la entidad Epic Games, que es la responsable de brindar el Producto con licencia que está utilizando. Para obtener más información sobre las entidades de Epic responsables de brindar los Productos con licencia en su región, consulte la Sección 19. Cuando decimos “incluir/que incluye”, “incluye” e “incluido,” debe leerse que incluye “sin limitación/entre otros/como ejemplo” al final (p. ej., “incluye [sin limitación/entre otros/como ejemplo]”). 
+
+Cuando decimos “<EULA.Highlight>Adulto</>”, el término significa que ha alcanzado la mayoría de edad legal en su lugar de residencia (es decir, 18 años en la mayoría de los estados de los EE. UU., pero esto puede variar según la ley local).
+
+El idioma principal de estos Términos es el inglés; cualquier traducción se proporciona solo para fines de referencia.
+
+<EULA.Highlight>PARA PERSONAS NO RESIDENTES DE LOS ESTADOS UNIDOS: Si usted no vive en los Estados Unidos, ciertas disposiciones, incluidas las exenciones de responsabilidad, el arbitraje obligatorio y la renuncia a la participación en </>“<EULA.Highlight>demandas colectivas</>”,<EULA.Highlight> pueden no ser exigibles en su país debido a la legislación local. </>
+
+<EULA.Header>1.	Productos cubiertos por estos Términos</>
+
+Estos Términos se aplican a cualquier “<EULA.Highlight>Producto con licencia</>” que se vincule con ellos, incluidos: 
+
+•	nuestros juegos (entre ellos Fall Guys, Fortnite y Rocket League) que se vinculan a estos Términos y a contenidos/experiencias asociadas;
+•	Unreal Editor for Fortnite (“<EULA.Highlight>UEFN</>”);
+•	PostParty; 
+•	Cualquier “<EULA.Highlight>Contenido en el juego</>”, como personajes, gestos, atuendos, experiencias (p. ej., islas) y otros bienes y medios digitales, que se le puedan otorgar bajo licencia para su uso en los Productos con licencia.
+•	servicios que prestamos, entre ellos iniciadores, portales (p. ej., el Portal para desarrolladores de Epic), complementos, Cuentas de Epic Games, funciones sociales, pagos, servicios de soporte para jugadores, programas de recompensas y sitios web; y
+•	cualquier otro producto o servicio que se vincule con estos Términos.
+
+Si no acepta o no puede aceptar estos Términos, no puede usar ninguno de estos Productos con licencia.
+
+Estos Términos no se aplican a Unreal Engine, Epic Games Store o los mercados de Epic (p. ej., Fab). Cuando utilice Unreal Engine, Epic Games Store o los mercados de Epic, consulte los términos aplicables.
+
+Si un Producto con licencia está sujeto a términos y condiciones adicionales (p. ej., los Términos complementarios de UEFN), se le presentarán esos términos específicos del producto y debe aceptarlos antes de usar ese Producto con licencia. Además, algunos programas de Epic (p. ej., el programa de creadores de islas de Epic) pueden tener términos y condiciones adicionales que deben aceptarse antes de poder participar. En caso de que en algún momento pueda surgir un conflicto entre estos Términos y los términos para productos o programas específicos, se aplicarán los términos específicos del producto o programa. 
+
+<EULA.Header>2.	Uso de una Cuenta de Epic Games</>
+
+Para usar ciertos Productos con licencia, es posible que deba registrarse para obtener una “<EULA.Highlight>Cuenta de Epic Games</>”. Cuando configura una cuenta de Epic Games, debe proporcionar información precisa sobre usted y actualizar esa información si cambia. Debe cumplir con cualquier requisito de edad asociado con un Producto con licencia antes de usarlo. Si crea una Cuenta de Epic Games utilizando una dirección de correo electrónico con un dominio que es propiedad de su empleador u organización (es decir, un correo electrónico de trabajo), usted acepta que está obligando a su empleador u organización a acatar estos Términos con respecto al uso que usted hace de los Productos con licencia.
+
+Debe mantener la seguridad de su Cuenta de Epic Games y notificar a Epic (a través de la <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Asistencia de Epic Games</>) si descubre o sospecha que alguien accedió a ella sin su permiso. 
+
+No puede compartir las credenciales de su Cuenta de Epic Games con otras personas. Solo puede usar su propia Cuenta de Epic Games registrada para usted. No puede vender, regalar, intercambiar ni usar la Cuenta de Epic Games de otra persona, incluso si ella lo permite. Si es el padre, la madre o el tutor y tiene su propia Cuenta de Epic Games, un menor bajo su cuidado necesita una cuenta de Epic Games separada para su propio uso. Compartir una Cuenta de Epic Games puede dar lugar a la suspensión o rescisión de la Cuenta de Epic Games y a la pérdida de acceso a los Productos con licencia. 
+
+<EULA.Highlight>Usted es responsable de toda la actividad o violaciones en su Cuenta de Epic Games.</>
+
+Al crear una cuenta de Epic Games, se le pedirá que cree un “nombre en pantalla” para su cuenta de Epic Games, el cual estará públicamente disponible. Si elige un nombre en pantalla para usted que es ofensivo o engañoso, que viola nuestro <a id="url" href="https://legal.epicgames.com/epicgames/community-rules" style="EULA.Hyperlink">Reglamento de la comunidad</> o que infringe los derechos de otra persona, tenemos el derecho de cambiar su nombre en pantalla. 
+
+Puede eliminar su Cuenta de Epic Games en cualquier momento. Para obtener información sobre cómo eliminar su cuenta de Epic Games, visite la <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Asistencia de Epic Games</>.
+
+<EULA.Highlight>Para residentes del Reino Unido: Cualquier eliminación o rescisión de la Cuenta de Epic Games se realizará de acuerdo con las leyes de protección del consumidor aplicables y demás leyes de su jurisdicción de residencia.</>
+
+<EULA.Header>3.	Términos de la licencia y uso de los Productos con licencia</>
+
+<EULA.Highlight>Los Productos con licencia (y el Contenido en el juego) que usted utiliza le son otorgados en licencia, no se venden.</> Esto significa que usted no es el propietario de ningún Producto con licencia o Contenido en el juego que se pone a su disposición, pero se le otorga permiso para usarlo bajo la forma de una licencia. Epic, sus filiales y licenciantes (como desarrolladores independientes) son propietarios de la totalidad del título, los derechos de propiedad y los derechos de propiedad intelectual, lo que incluye, entre otros, todos los derechos de autor, derechos de marca comercial y derechos de patente, en todos los elementos de los Productos con licencia puestos a su disposición.
+
+Al aceptar estos Términos, Epic le otorga una licencia para los Productos con licencia que es:
+
+•	<EULA.Highlight>Limitada</> (solo puede usar los Productos con licencia como se indica expresamente en estos Términos);
+•	<EULA.Highlight>Personal e intransferible</> (nuestra licencia es solo para usted, no para alguien más, por lo que no puede compartir, transferir ni vender su licencia para nuestros Productos con licencia);
+•	<EULA.Highlight>Revocable</> (podemos quitársela);
+•	<EULA.Highlight>No exclusiva</> (podemos permitir que otras personas, además de usted, usen los Productos con licencia); y
+•	<EULA.Highlight>No susceptible de ser concedida en sublicencia</> (usted no puede otorgar sus derechos en virtud de estos Términos a otra persona ni permitir que otros ejerzan sus derechos en virtud de estos Términos).
+
+En la Sección 18 se identifica a la entidad Epic que le otorga una licencia para un Producto con licencia en virtud de estos Términos. La entidad específica depende de varios factores, incluida su ubicación. 
+
+En virtud de esta licencia, usted <EULA.Highlight>no puede</>:
+
+•	<EULA.Highlight>Usar los Productos con licencia comercialmente</> (p. ej., para publicitar o ganar dinero a través de alquiler o arrendamiento) o para un propósito promocional, <EULA.Highlight>a menos que</> estos Términos u otros acuerdos con Epic lo permitan. 
+•	<EULA.Highlight>Copiar, mostrar, ejecutar o utilizar</> los Productos con licencia de una manera no indicada específicamente como un uso permitido en estos Términos, o que vaya más allá del alcance de su uso previsto.
+•	<EULA.Highlight>Realizar ingeniería inversa, modificar, descompilar, desmontar o realizar trabajos derivados</> de los Productos con licencia.
+•	<EULA.Highlight>Usar los Productos con licencia de una manera que haga que Epic incurra en honorarios por dicho uso o que infrinja o viole los derechos de otra persona</>, incluidos los derechos de propiedad intelectual, publicidad o privacidad.
+•	<EULA.Highlight>Retirar, eliminar, ocultar o alterar</> cualquier aviso de derechos que se muestre en o en relación con los Productos con licencia, como los avisos de derechos de autor o marcas comerciales. 
+•	<EULA.Highlight>Publicar videos y/o imágenes de juegos de Productos con licencia haciendo afirmaciones u ofertas engañosas que podrían aumentar el compromiso con el Contenido realizado por el desarrollador</> (p. ej., crear videos del juego que den a entender falsamente que algún contenido creado por desarrolladores otorga una cantidad inusualmente alta de XP).
+•	<EULA.Highlight>Utilizar el código o el contenido extraído de los Productos con licencia como datos de capacitación para cualquier Programa de IA generativa o como entrada basada en instrucciones donde el Programa de IA generativa se capacita con los datos de entrada. “Programa de IA generativa”</> se refiere a inteligencia artificial, aprendizaje automático, aprendizaje profundo, redes neuronales o tecnologías similares diseñadas para automatizar la generación o ayudar en la creación de contenidos nuevos, lo que incluye, entre otros, contenido de audio, visual o basado en texto. Los programas no cumplen con esta definición de Programas de IA generativa en los casos en los que, aunque no a modo de ejemplo limitativo, (a) operan únicamente en el contenido original (como la ampliación de imágenes); (b) generan etiquetas para clasificar el contenido de entrada visual; o (c) generan instrucciones para organizar el contenido existente, sin crear contenido nuevo.
+•	<EULA.Highlight>Violar las </><a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Reglas del ecosistema</>.
+•	<EULA.Highlight>Usar los Productos con licencia para violar cualquier ley o reglamentación aplicable.</>
+
+Epic se reserva para sí y para sus licenciantes todos los derechos en y con respecto a los Productos con licencia y el Contenido en el juego que no se otorguen específicamente en estos Términos, y usted solo puede usar los Productos con licencia según se establece en estos Términos. No se crean licencias ni otros derechos a través de estos Términos por implicancia, impedimento o de otro modo.
+
+<EULA.Header>4.	Integridad del juego</>
+
+Los Productos con licencia están destinados a ser una experiencia agradable para todos, y esperamos que todos jueguen justo y sigan las reglas del juego. En consecuencia, usted se compromete a no:
+
+•	Usar o alentar el uso de Trampas, incluido el software, las herramientas y el hardware de trampas;
+•	Participar o alentar a otros a participar en Fraude;
+•	Desarrollar, comercializar, distribuir o apoyar cualquier Trampa;
+•	Tener software, herramientas o hardware de trampa presentes o conectados a su dispositivo;
+•	Intentar manipular, modificar, deshabilitar, alterar o eludir las Herramientas de integridad del juego o los Productos con licencia, o alentar a otros a hacerlo; 
+•	Usar software o servicios de bots para automatizar el uso de los Productos con licencia;
+•	Abusar de los recursos de la Asistencia para jugadores.
+
+¿Encontró un error? <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct" style="EULA.Hyperlink">Avísenos.</> 
+
+No use ni distribuya software o contenido falsificado asociado con los Productos con licencia, incluido el Contenido en el juego. 
+
+Para mantener los juegos justos y divertidos, Epic utiliza “<EULA.Highlight>Herramientas de integridad del juego</>”. Estas herramientas ayudan a encontrar y detener programas o acciones que causan problemas, tales como: (i) piratería, robo de cuentas de Epic Games u otra actividad ilegal o no autorizada (el “<EULA.Highlight>Fraude</>”); o (ii) trampas que dan ventajas injustas, como bots, hacks, complementos, malware, scripts o modificaciones no aprobadas por Epic (las “<EULA.Highlight>Trampas</>”). Algunas de estas herramientas están integradas en los Productos con licencia y, en ocasiones, es posible que deba instalarlas al descargar o actualizar un producto. Estas herramientas pueden recopilar y enviar información sobre su cuenta de Epic Games, el juego y cualquier programa no autorizado que se ejecute en su dispositivo. 
+
+Si encontramos evidencia de que ha participado en Fraudes o Trampas, podemos tomar medidas contra usted o su cuenta de Epic Games (incluida la suspensión o rescisión) sin previo aviso. Usted puede apelar una medida que Epic tome en su contra. Para obtener más información sobre las apelaciones, consulte la Sección 8.b a continuación. Sin embargo, no será una defensa decir que aún no ha usado los dispositivos o las herramientas o que solo usó o pretendió usar esos dispositivos o herramientas en el producto de otra persona. El simple hecho de tener Trampas presentes en el dispositivo que utiliza para acceder a los Productos con licencia puede hacer que su Cuenta de Epic Games sea suspendida o cancelada.
+
+Usted comprende y reconoce que Epic no necesita y no le revelará cómo funcionan sus Herramientas de integridad del juego o qué dispositivos o herramientas específicos detectó Epic, porque revelar esta información podría ayudar a los promotores de dichos dispositivos o herramientas a evadir la detección. Usted acepta que, en el caso de una disputa con respecto a una acción que Epic haya tomado en su contra, Epic puede proporcionar evidencia de su violación a un árbitro o tribunal de manera privada (a lo que en el mundo del derecho se conoce como “en cámara”), sin compartir esa evidencia con usted o su representante legal.
+
+<EULA.Header>5.	Cambios en estos Términos o en nuestras ofertas </>
+
+Nosotros podemos actualizar estos Términos en el futuro. Si hacemos cambios sustanciales:
+
+•	Le enviaremos los nuevos Términos (por correo electrónico, en el juego o por escrito);
+•	Le informaremos cuándo entrarán en vigencia los nuevos Términos; y
+•	Le notificaremos con una antelación razonable los nuevos Términos que entrarán en vigencia, ya sea mediante una notificación en la aplicación/en la plataforma o por correo electrónico.
+
+Su uso continuo de los Productos con licencia después de que actualicemos estos Términos (y, para cambios sustanciales, después del período de notificación anticipada) significa que usted acepta y está de acuerdo con los cambios, en el grado máximo permitido por la ley aplicable. 
+
+Si nos ha proporcionado una dirección de correo electrónico, podemos usarla para comunicarnos con usted con respecto a estos Términos y otra información legal importante. Usted acepta que los correos electrónicos y las notificaciones en el juego que le enviamos cumplen con cualquier requisito legal de que las comunicaciones se realicen por escrito.
+
+Nosotros podemos suspender, interrumpir, reemplazar o limitar el acceso a los Productos con licencia. Esto puede ser necesario por diversos motivos, entre ellos hacer que el Producto con licencia respectivo siga siendo emocionante y atractivo para los jugadores existentes o los nuevos, abordar limitaciones técnicas o por motivos legales. Además, los Productos con licencia o partes de los Productos con licencia pueden estar o pasar a no estar disponibles en ciertas regiones o en ciertos dispositivos. Si una actualización o un cambio en nuestras ofertas deriva en que pierde acceso a los Productos con licencia (o a alguna de sus características materiales) por el cual usted ha pagado dinero, es posible que tenga derecho a un reembolso de la totalidad o una parte de las sumas que ha pagado; puede comunicarse con el servicio de <a id="url" href="https://www.epicgames.com/customer-service" style="EULA.Hyperlink">Asistencia de Epic Games</> para analizarlo. Sin embargo, en el grado máximo permitido por la ley aplicable, usted no tendrá derecho a un reembolso si suspendemos o cancelamos su cuenta debido a su incumplimiento de estos Términos (como Fraude o Estafas). La aceptación de estos Términos no le otorga ningún derecho legal para acceder o usar los Productos con licencia. 
+
+Epic no tiene ninguna obligación de mantenimiento o soporte con respecto a las licencias de software que usted compra, pero Epic podrá actualizar los Productos con licencia ocasionalmente, y usted necesitará esas actualizaciones para seguir jugando. Podríamos hacerlo automáticamente. Usted reconoce que usar los Productos con licencia no le otorga ninguna propiedad ni ningún interés monetario o de otro tipo en ningún aspecto o característica de los Productos con licencia, incluidas las recompensas, los logros o los niveles de personajes dentro del juego. A menos que la ley aplicable exija lo contrario, también reconoce que cualquier dato de personajes, progreso en el juego, personalización del juego u otros datos relacionados con su uso de los Productos con licencia pueden dejar de estar disponibles para usted en cualquier momento y sin previo aviso de Epic, incluso después de que Epic aplique un parche, actualización o mejora. 
+
+<EULA.Header>6.	Facturación y pago</>
+
+<EULA.Highlight>TENGA EN CUENTA LO SIGUIENTE</>: Para completar transacciones usando dinero real con Epic y sus filiales, usted debe ser un Adulto que esté autorizado para usar el método de pago proporcionado o que un Adulto complete el proceso de pago. 
+
+<EULA.Highlight>Recuerde que los Productos con licencia y el Contenido en el juego se le otorgan en licencia, no se venden.</>
+
+<EULA.Header>a.	Compras</>
+
+Cuando alguien ingresa un método de pago para realizar compras en los Productos con licencia, requerimos la confirmación de que la persona que ingresa el método de pago es un adulto, es un usuario autorizado del método de pago y acepta los términos relevantes, incluido el<a id="url" href="https://legal.epicgames.com/store/eula" style="EULA.Hyperlink"> Acuerdo de licencia de usuario final de Epic Games Store</>. La persona que ingresa un método de pago también confirma que Epic y sus filiales están autorizadas para imputar el monto de la compra al método de pago, incluidos los impuestos y cargos aplicables.
+
+El comerciante registrado identificado como responsable del cobro de su compra a través de su método de pago puede ser una entidad de Epic diferente u otro tercero, según su ubicación y la compra. 
+
+Si recibimos información actualizada sobre su método de pago de su banco o red de pago, usted nos autoriza a usarla para cualquier compra que realice. Los cambios realizados en su cuenta de facturación no afectarán los cargos presentados antes de que podamos actuar razonablemente con respecto a sus cambios. 
+
+Cuando usted realiza una compra, nosotros podemos cobrarle en el momento en que se inicia la compra o poco después. Si compra una suscripción recurrente, le cobraremos de forma recurrente, según se explica en el momento de la suscripción, y si se trata de una suscripción recurrente. 
+
+<EULA.Header>b.	Cargos </>
+
+Si realiza transacciones directamente con Epic, usted será responsable de pagar todos los cargos e impuestos aplicables. Los precios dentro de los Productos con licencia están sujetos a cambios, pero dichos cambios en los precios no afectarán ninguna compra anterior. Si no recibimos un pago completo y oportuno de su parte, o si debemos emitir un reembolso debido al uso no autorizado de un método de pago de su Cuenta de Epic Games, en ese caso podemos suspender o eliminar su acceso a cualquier Producto con licencia no pagado y limitar su capacidad para realizar compras en el futuro. 
+
+Si compra algo en la tienda de un tercero (como PlayStation® Store), esa compra se realiza entre usted y ellos, no con Epic, y deberá seguir sus reglas para las compras. Como recordatorio, estos Términos se aplican a los Productos con licencia y a cualquier Contenido en el juego, independientemente de la plataforma en la que los utilice. 
+
+<EULA.Highlight>Para residentes del Reino Unido: Cualquier cambio en el precio se realizará de acuerdo con las leyes de protección del consumidor aplicables y demás leyes de su jurisdicción de residencia.</>
+
+<EULA.Header>7.	Política de devolución</>
+
+Si compra licencias al Contenido en el juego o Productos con licencia de Epic, se aplica nuestra <a id="url" href="https://legal.epicgames.com/store/refund-policy" style="EULA.Hyperlink">Política de devolución</>. A menos que una compra de Epic esté etiquetada como reembolsable, o a menos que una ley aplicable le dé derecho a un reembolso (por ejemplo, si algo que le hemos proporcionado es defectuoso o está mal descrito), debe suponer que todas las compras de Epic no son reembolsables.
+
+Si compra Contenido en el juego o Productos con licencia de un tercero o a través de la plataforma de un tercero (como PlayStation® Store), su transacción es con ese tercero y se aplican sus políticas de devolución. Comuníquese con el tercero al cual le realizó la compra para obtener información sobre el reembolso.
+
+<EULA.Header>8.	Reglas del ecosistema</>
+
+Queremos que nuestra comunidad sea un lugar seguro y divertido para que juegue, se comunique con otras personas y comparta sus creaciones. Esperamos que todos cumplan con la ley y con nuestras reglas y normas. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Nuestras Reglas</> se aplican a toda aquella persona que utilice los Productos con licencia y están destinadas a servir de guía para el comportamiento que esperamos de cualquier persona que utilice los Productos con licencia. Estas “<EULA.Highlight>Reglas del ecosistema</>” incluyen nuestros <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Reglamentos de la comunidad</> aplicables a todos los Usuarios finales, nuestras <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Normas de contenido</> para quienes realizan y comparten creaciones dentro de los Productos con licencia, y las reglas para Productos con licencia particulares (p. ej., <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
+
+<EULA.Header>a.	Denuncias</>
+
+Si se encuentra con alguien que está infringiendo nuestras Reglas del ecosistema o la ley, puede denunciarlo a través de denuncias en el juego o en nuestro formulario de <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct/submit-report" style="EULA.Hyperlink">Denuncia de contenido</>. Además, algunos Productos con licencia también pueden permitirle bloquear o silenciar a los jugadores con los que ya no desea interactuar. Puede encontrar información adicional en nuestro <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct" style="EULA.Hyperlink">Centro de seguridad y protección</>. 
+
+Si utiliza nuestras funciones de chat de texto y voz y la función de denuncias está habilitada en un canal de chat, la parte capturada de su chat (incluidos datos de audio del chat de voz) se almacenarán en su dispositivo y en los dispositivos de los participantes en el canal de voz. Si se informa una posible violación de nuestro <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Reglamento de la comunidad</>, estos fragmentos pueden ser transmitidos a Epic y revisados. Además de la revisión humana, Epic puede analizar sus comunicaciones (incluido el chat de texto y voz) con tecnologías de aprendizaje automático para ayudar a identificar el comportamiento que viola las reglas. Para obtener más información, puede visitar <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">Preguntas frecuentes: Denuncia de voz y texto en Fortnite</>.
+
+<EULA.Header>b.	Consecuencias</>
+
+Cuando tomamos conocimiento de una violación de nuestras Reglas del ecosistema o de la ley, determinaremos las medidas adecuadas que tomaremos en su contra o en contra de sus Cuentas de Epic Games. Analizaremos la gravedad de la infracción y si es un infractor reincidente, además de otros factores. Las medidas que tomemos podrán ser temporales o permanentes, y le informaremos la duración y el tipo de consecuencia que ha recibido. Las consecuencias pueden incluir un mensaje de advertencia (para los delitos menos graves), una prohibición (temporal o permanente) con respecto a ciertas características, productos o servicios de Epic, una suspensión de su Cuenta de Epic Games (que puede durar un año o más) o la rescisión permanente de estos Términos en cuanto a usted (para delitos repetidos o graves), lo que significaría que nunca más podrá usar los Productos con licencia en ninguna Cuenta de Epic Games o en un dispositivo. Si Epic ha rescindido estos Términos para usted, prohibiéndole el uso de los Productos con licencia de manera permanente, usted no podrá tratar de evadir la prohibición que le fue impuesta creando una nueva Cuenta de Epic Games. Si desea impugnar una acción que hemos tomado en su contra por una violación, puede presentar una apelación <a id="url" href="https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals" style="EULA.Hyperlink">aquí</>. Puede encontrar más información sobre las consecuencias de violar estas reglas, así como nuestro mecanismo de apelación, en la página de <a id="url" href="https://safety.epicgames.com/sanctions-and-appeals" style="EULA.Hyperlink">Sanciones y apelaciones</> del <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Centro de seguridad y protección de Epic Games</>.
+
+Para protegerse y para proteger a sus jugadores, en casos extremos Epic también puede buscar otros recursos legales para las violaciones de sus Reglas del ecosistema o de la ley, o proporcionar información y evidencia a las autoridades del orden público pertinentes.
+
+<EULA.Header>9.	Sistemas de recomendación </>
+
+Algunos Productos con licencia utilizan sistemas de recomendación para recomendar cierta información a los usuarios. Para obtener más información, consulte las <a id="url" href="http://legal.epicgames.com/epicgames/recommendations" style="EULA.Hyperlink">Recomendaciones y clasificación en Fortnite y Fall Guys</>.
+
+<EULA.Header>10.	Contenido en el juego </>
+
+Algunos Productos con licencia ofrecen “<EULA.Highlight>Contenido en el juego</>”, como personajes, gestos, atuendos, experiencias (p. ej., islas) y otros bienes y medios digitales, que se le pueden otorgar en licencia para su uso en los Productos con licencia en los que los haya adquirido. El término “Productos con licencia” incluye Contenido en el juego.
+
+Puede obtener licencias para el Contenido en el juego de diferentes maneras. Todos los Usuarios finales pueden acceder automáticamente a algunos Contenidos en el juego (p. ej., Batalla campal). Las licencias para otros Contenidos en el juego pueden obtenerse a través de actividades dentro del juego, compradas con dinero real o canjeadas por “<EULA.Highlight>Créditos</>” (p. ej., monedas V, créditos de Rocket League). Los créditos son un tipo de Contenido en el juego. Puede ganar Créditos a través del juego u obtener licencias para ellos con dinero real. Las licencias para Créditos y otros Contenidos en el Juego pueden obtenerse dentro de un Producto con licencia, en Epic Games Store o en una plataforma de terceros. Tenga en cuenta lo siguiente: El Contenido en el juego no es necesariamente compatible en todas las experiencias. La compatibilidad puede estar limitada debido a las calificaciones o el diseño de la experiencia.
+
+<EULA.Highlight>LOS CRÉDITOS NO EQUIVALEN A DINERO EN EFECTIVO, TARJETAS DE REGALO O CUENTAS BANCARIAS Y NO PUEDEN CAMBIARSE POR MONEDA REAL U OTROS ARTÍCULOS FUERA DEL ECOSISTEMA DE EPIC. </>
+
+Las características, los precios, la disponibilidad y la funcionalidad de los Créditos y otros Contenidos en el juego pueden cambiar en cualquier momento y sin previo aviso, en el grado máximo autorizado por ley. Epic no garantiza el acceso continuo a un Contenido en el juego específico y no es responsable de la modificación, eliminación o falta de disponibilidad. El Contenido en el juego puede estar sujeto a restricciones de la plataforma (p. ej., acceso específico de la consola). 
+
+<EULA.Header>a.	Reglas para el Contenido en el juego</>
+
+Los Créditos solo pueden canjearse por otro Contenido en el juego, incluido el Contenido realizado por el desarrollador que Epic pone a disposición en nombre del Desarrollador, y una vez que dichos Créditos se canjean, usted no tiene ninguna obligación de pago adicional. Usted tiene prohibido convertir Créditos u otro Contenido en el juego en una unidad de valor fuera del Producto con licencia donde los adquirió, como moneda real o bienes reales. Usted reconoce y acepta que Epic puede tomar medidas que afecten el valor percibido o el precio de compra de cualquier Crédito u otro Contenido en el juego en cualquier momento, excepto según lo prohíba la ley aplicable. 
+
+Epic puede ofrecer descuentos o promociones en la compra de Créditos u otro Contenido en el juego, y Epic podrá modificar o discontinuar dichos descuentos y promociones en cualquier momento, sin previo aviso. 
+
+Epic puede establecer un monto máximo que usted puede gastar para comprar Créditos por transacción y/o por día, y esto puede variar según el Producto con licencia asociado o del acceso al Producto con licencia, así como según el saldo máximo de Créditos que pueda tener en su Cuenta de Epic Games. Epic puede imponer límites adicionales a las compras o al uso de los Créditos. 
+
+Si hay un error en su saldo de crédito, o si tenemos motivos para sospechar que hay Fraude, tenemos derecho a corregir los saldos de crédito o revocar el acceso a su Cuenta de Epic Games.
+
+<EULA.Highlight>Para residentes en Japón: el contenido dentro del juego comprado con créditos constituye la provisión de bienes o servicios al momento de la adquisición y no califica como un método de pago prepago.</>
+
+<EULA.Header>b.	Tarjetas físicas y virtuales para Créditos y Contenido en el juego</>
+
+Epic puede ofrecer tarjetas físicas o virtuales (en adelante, las “<EULA.Highlight>Tarjetas</>”) que pueden utilizarse para agregar Créditos a una Cuenta de Epic Games. Al comprar o canjear una Tarjeta, usted acepta estos Términos, y también acepta los términos y condiciones específicos de la Tarjeta aplicables que complementan estos Términos. Algunos ejemplos de términos complementarios incluyen los <a id="url" href="https://www.fortnite.com/vbuckscardterms" style="EULA.Hyperlink">Términos y condiciones de las tarjetas de monedas V de Fortnite</> y los <a id="url" href="https://www.epicgames.com/site/en-US/gift-card-terms" style="EULA.Hyperlink">Términos y condiciones de la tarjeta de regalo de Fortnite</>. <EULA.Highlight>DEBE SUPONER QUE LA COMPRA QUE HAGA DE UNA TARJETA NO ES REEMBOLSABLE. NO COMPRE UNA TARJETA A MENOS QUE USTED O EL DESTINATARIO PREVISTO YA TENGAN UNA CUENTA DE EPIC CONFIGURADA PARA JUGAR EL JUEGO CORRESPONDIENTE. USTED ES RESPONSABLE DE GARANTIZAR QUE USTED O EL DESTINATARIO PREVISTO DE LA TARJETA TENGAN UNA CUENTA DE EPIC Y UN DISPOSITIVO PARA JUGAR QUE CUMPLA CON TODOS LOS REQUISITOS MÍNIMOS DEL SISTEMA. </>Todo uso de Tarjetas debe cumplir con las leyes aplicables. Las compras de Tarjetas a minoristas externos se rigen por las políticas del minorista. Las compras directas de Tarjetas de Epic están sujetas a la Política de reembolso de Epic. 
+
+Las Tarjetas hechas para su distribución en un país solo pueden canjearse en Cuentas de Epic Games registradas en ese país. Usted acepta usar las Tarjetas de conformidad con todas las leyes aplicables, incluidas todas las restricciones y reglamentaciones relacionadas con exportaciones aplicables a su país de residencia.
+
+En caso de surgir algún problema mientras busca canjear una Tarjeta y/o acceder al Contenido en el juego en una Cuenta de Epic Games, comuníquese con <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Asistencia de Epic Games</>. 
+
+SIN LIMITAR LAS EXENCIONES DE RESPONSABILIDAD Y LAS LIMITACIONES DE LA RESPONSABILIDAD ESTABLECIDAS EN OTRA PARTE DE ESTOS TÉRMINOS, EN EL GRADO MÁXIMO AUTORIZADO POR LA LEY APLICABLE, LA RESPONSABILIDAD TOTAL DE EPIC ANTE USTED EN LO QUE RESPECTA A TODOS LOS DAÑOS Y PERJUICIOS QUE SURGIESEN O SE RELACIONASEN CON SU USO O SU IMPOSIBILIDAD DE USO DE UNA TARJETA NO SUPERARÁ EL MONTO TOTAL QUE PAGÓ POR LA TARJETA. ESTE PÁRRAFO NO PRETENDE LIMITAR LA RESPONSABILIDAD DE EPIC EN LO QUE RESPECTA A LA CONDUCTA INDEBIDA INTENCIONAL O NEGLIGENCIA GRAVE DE EPIC.
+
+<EULA.Highlight>Para residentes del Reino Unido: Es posible que las exenciones de la responsabilidad no sean exigibles en su contra.</>
+
+<EULA.Header>11.	Contenido de aficionados externos</>
+
+Epic desea apoyar el interés que muestran nuestros aficionados en nuestros juegos y negocios, por lo que creamos nuestra <a id="url" href="https://legal.epicgames.com/epicgames/fan-art-policy" style="EULA.Hyperlink">Política de contenido de aficionados</> con el fin de permitir cierto contenido generado por los aficionados basado en los Productos con licencia que se muestra fuera de los Productos con licencia. “<EULA.Highlight>Contenido de aficionados externos</>” incluye cosas tales como (i) grabaciones o transmisiones en vivo del juego de los Productos con licencia; (ii) trabajos artísticos (como obras de arte, fotografías, videos y otros materiales) que se base en los Productos con licencia; y (iii) sitios web y aplicaciones que son gratuitos, accesibles para el público y están relacionados con las Propiedades de Epic. Usted puede crear Contenido de aficionados externos únicamente y en tanto cumpla con estos Términos. 
+
+<EULA.Header>12.	Contenido realizado por el desarrollador</>
+
+UEFN es una herramienta de creación que permite que las personas creen, desarrollen, modifiquen o contribuyan contenido en Fortnite, y carguen, publiquen o pongan dicho contenido a disposición de otros usuarios de los Productos con licencia. Antes de usar UEFN, los desarrolladores también deben aceptar los <a id="url" href="https://legal.epicgames.com/fortnite/eula/uefn" style="EULA.Hyperlink">Términos complementarios de UEFN</>. Al igual que con los <a id="url" href="https://legal.epicgames.com/fortnite/eula/uefn" style="EULA.Hyperlink">Términos complementarios de UEFN</>, a una persona que utiliza UEFN para crear contenido de UEFN se la denomina “<EULA.Highlight>Desarrollador</>”, y todo el Contenido del juego creado, ofrecido, mostrado, puesto a disposición u organizado por los Desarrolladores se denomina “<EULA.Highlight>Contenido realizado por el desarrollador</>”. Las islas realizadas por el desarrollador son un ejemplo de Contenido realizado por el desarrollador.
+
+Los créditos pueden canjearse por licencias para artículos digitales u otro Contenido realizado por el desarrollador (“<EULA.Highlight>Contenido canjeable realizado por el desarrollador</>”, un tipo de Contenido realizado por el desarrollador). Estos Términos también se aplican al Contenido canjeable realizado por el desarrollador, que se establece en detalle en el Anexo 1.
+
+<EULA.Header>13.	Comentarios</>
+
+En ocasiones, usted puede comunicarse con nosotros si tiene preguntas, comentarios, sugerencias, ideas, modificaciones, mejoras, promociones u otra información sobre Epic o los Productos con licencia. Los llamamos “<EULA.Highlight>Comentarios</>”. Si elige enviarnos Comentarios, no estamos obligados a hacer nada con ellos. Si decidimos usarlos, no tenemos que darle el crédito ni pagarle por ese uso. No envíe grabaciones no solicitadas, transmisiones en vivo, obras de arte u otro contenido creado por aficionados o ideas de juegos a Epic; se eliminarán sin revisión. Para mayor claridad, los Comentarios son algo distinto del Contenido de aficionados externos y del Contenido realizado por el desarrollador.
+
+<EULA.Header>14.	Rescisión de estos Términos</>
+
+<EULA.Header>a.	Rescisión de su parte</>
+
+Usted es libre de poner fin a estos Términos en cualquier momento eliminando su Cuenta de Epic Games, y por lo tanto pone fin a estos Términos con respecto a todos los Productos con licencia. Si desea eliminar su cuenta de Epic Games, comuníquese con <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Asistencia de Epic Games</>. Para ver qué servicios puede tener vinculados a su Cuenta de Epic Games antes de eliminar su Cuenta de Epic Games, visite su página <a id="url" href=" https://www.epicgames.com/account/connections" style="EULA.Hyperlink">Cuentas vinculadas</>.
+
+Si tiene varias Cuentas de Epic Games, su eliminación de una Cuenta de Epic Games específica es solo para esa Cuenta de Epic Games; estos Términos seguirán aplicándose a sus Cuentas de Epic Games restantes.
+
+Si accede a un Producto con licencia que no requiere una Cuenta de Epic Games, puede rescindir estos Términos al cesar su uso del Producto con licencia (p. ej., dejar de usar un sitio web de Epic). Sin embargo, tenga en cuenta que las disposiciones de estos Términos seguirán aplicándose después de la rescisión, como se describe a continuación en la Sección 14.c.
+
+<EULA.Header>b.	Rescisión de parte de Epic</>
+
+Como habrá visto en varias ocasiones, si viola estos Términos, Epic puede rescindir estos Términos, ya sea para un producto específico o para todos los Productos con licencia. La rescisión puede tomar la forma de una suspensión de su uso de uno o más Productos con licencia o revocar su derecho a usar cualquier Producto con licencia. En los casos en los que sea razonablemente posible, nos comunicaremos con usted para explicarle por qué tomamos esta medida y qué (si es que puede hacer algo) puede hacer como resultado.
+
+Si tiene varias Cuentas de Epic Games, podemos tomar medidas contra todas sus Cuentas de Epic Games. No puede intentar evadir la prohibición al crear una nueva Cuenta de Epic Games.
+
+Es posible que Epic también necesite poner fin a estos Términos incluso si no ha habido una violación de su parte si:
+
+•	Detenemos las operaciones del Producto con licencia correspondiente (p. ej., ya no es financieramente viable o las operaciones continuas no son prácticas por motivos técnicos, operativos o comerciales);
+•	Dejamos de operar un Producto con licencia en una plataforma específica;
+•	La ley o una orden vinculante de una autoridad gubernamental así lo exigen;
+•	Un Producto con licencia depende de un proveedor o plataforma externos que dejan de ofrecer soporte técnico; o
+•	Pasamos por una fusión, adquisición o reestructuración que afecta a un Producto con licencia.
+
+En estos casos, siempre que sea comercialmente factible hacerlo, Epic enviará una notificación con treinta (30) días de anticipación publicando una notificación en nuestros sitios web en relación con el o los Productos con licencia pertinentes. En tales casos, no tendremos más obligaciones o responsabilidades frente a usted en el futuro.
+
+<EULA.Header>c.	Efecto de la rescisión</>
+
+Si Epic rescinde estos Términos con usted, o si usted mismo rescinde estos Términos, perderá todos los derechos sobre la totalidad de los Productos con licencia, incluidos los juegos, Créditos y otros Contenidos en el juego, u otros artículos que pueda haber ganado o comprado antes de la prohibición. Tras la rescisión de estos Términos con respecto a cualquier Producto con licencia, todas las licencias que le hayamos otorgado al o a los Productos con licencia pertinentes se extinguirán automáticamente, y usted debe desinstalar y eliminar todas las copias del o de los Productos con licencia correspondientes en sus dispositivos. Ya no podrá ejercer, con respecto a dicho o dichos Productos con licencia, ninguno de los derechos que se le otorgan en estos Términos.
+
+Si Epic detecta Fraudes o Trampas en su Cuenta de Epic Games, puede perder el acceso a cualquier clasificación, trofeo, Contenido en el juego y otra información vinculada a su Cuenta de Epic Games. Epic también puede impedirle el uso o limitar seriamente el uso que haga de cualquier producto que dependa de los servicios en línea de Epic vinculados a su Cuenta de Epic Games. También puede perder el acceso a los servicios que ha vinculado a su Cuenta de Epic Games o a los que accede con su Cuenta de Epic Games. 
+
+A menos que la ley lo exija, usted no tendrá derecho a ningún reembolso como resultado de la rescisión de estos Términos. Esto significa que, si suspendemos, limitamos o ponemos fin a su capacidad de acceder a uno o más Productos con licencia, por motivos de Fraude, Trampas o cualquier otro aspecto de estos Términos, no le proporcionaremos un reembolso por cualquier compra previa en el juego que haya realizado o por cualquier Contenido en el juego no utilizado en su Cuenta de Epic Games asociada con ese o esos Productos con licencia.
+
+Incluso después de la rescisión, las Secciones 4, 8, 10, 15-18 y 20 y el Anexo 1 de estos Términos se mantendrán en vigor.
+
+<EULA.Header>15.	Exenciones de la responsabilidad, limitación de la responsabilidad e indemnización</>
+
+<EULA.Header>a.	Las disposiciones de esta Sección 15.a se aplican a los Usuarios finales residentes en los Estados Unidos y se aplican en el grado máximo autorizado por la ley del lugar en el que usted reside. Si usted es un Usuario final residente en el Reino Unido, consulte también la Sección 15.b a continuación.</>
+
+Las disposiciones de esta Sección se aplican en el grado máximo autorizado por la ley del lugar en el que usted reside.
+
+LOS PRODUCTOS CON LICENCIA, INCLUIDO EL CONTENIDO EN EL JUEGO, SE PROPORCIONAN “COMO ESTÁN” Y “SEGÚN ESTÁN DISPONIBLES”. EPIC, SUS FILIALES, LICENCIANTES (QUE NO SEAN USTED) Y PROVEEDORES DE SERVICIOS, AL IGUAL QUE SUS EMPLEADOS, DIRECTORES, AGENTES Y CESIONARIOS (LAS “PARTES EPIC”), NO FORMULAN DECLARACIONES NI GARANTÍAS DE NINGÚN TIPO, TANTO EXPRESAS COMO IMPLÍCITAS, CON RESPECTO A LOS PRODUCTOS CON LICENCIA, Y RENUNCIAN A TODAS LAS GARANTÍAS, TANTO EXPRESAS COMO IMPLÍCITAS, INCLUIDAS LAS GARANTÍAS IMPLÍCITAS O ESTATUTARIAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR, TÍTULO O NO INFRACCIÓN, O QUE LOS PRODUCTOS CON LICENCIA ESTÁN LIBRES DE VIRUS U OTROS COMPONENTES DAÑINOS. USTED ASUME EXCLUSIVAMENTE EL RIESGO POR EL USO QUE HAGA DE LOS PRODUCTOS CON LICENCIA. 
+
+LAS PARTES EPIC NO SERÁN RESPONSABLES FRENTE A USTED O UN TERCERO EN LO QUE RESPECTA A TODOS AQUELLOS DAÑOS Y PERJUICIOS, OBLIGACIONES O PÉRDIDAS QUE SE CONSIDERE O SE ALEGUE QUE HAN SURGIDO O SE RELACIONAN CON LOS PRODUCTOS CON LICENCIA O SU CONTENIDO (INCLUIDO EL CONTENIDO EN EL JUEGO), LO QUE INCLUYE LOS QUE SURJAN O SE RELACIONEN DE ALGUNA MANERA CON LO SIGUIENTE: (I) PÉRDIDAS QUE USTED Y NOSOTROS NO PODÍAMOS PREVER EN EL MOMENTO EN QUE USTED ACEPTÓ POR PRIMERA VEZ LOS TÉRMINOS; (II) (SI UTILIZA LOS PRODUCTOS CON LICENCIA PARA ALGÚN PROPÓSITO NO PERSONAL/COMERCIAL, QUE NO TIENE PERMITIDO) NINGUNA PÉRDIDA COMERCIAL Y/O PÉRDIDA PARA QUIENES NO SON CONSUMIDORES (POR EJEMPLO, PÉRDIDA DE NEGOCIOS, PÉRDIDA DE INFORMACIÓN COMERCIAL, INTERRUPCIÓN DEL NEGOCIO Y PÉRDIDA DE GANANCIAS O INGRESOS); (III) CUALQUIER USO O INCAPACIDAD DE USO DE LOS PRODUCTOS CON LICENCIA (INCLUIDO CUALQUIER CONTENIDO EN EL JUEGO); (IV) CUALQUIER DAÑO EN SUS EQUIPOS O CUALQUIER PÉRDIDA O CORRUPCIÓN DE DATOS QUE SEA PRODUCTO DE SU USO DE LOS PRODUCTOS CON LICENCIA, LO QUE INCLUYE CUALQUIER CONTENIDO EN EL JUEGO, EXCEPTO QUE ALGÚN CONTENIDO DIGITAL DEFECTUOSO QUE LE HAYAMOS PROPORCIONADO DAÑE UN DISPOSITIVO O CONTENIDO DIGITAL QUE LE PERTENECE Y ESTO HAYA SIDO CAUSADO POR NUESTRA FALTA DE CUIDADO Y HABILIDADES RAZONABLES, EN CUYO CASO REPARAREMOS EL DAÑO O LE PAGAREMOS UNA COMPENSACIÓN; (V) CUALQUIER ERROR O MAL FUNCIONAMIENTO EN LOS PRODUCTOS CON LICENCIA O, SI POR ALGÚN MOTIVO LOS PRODUCTOS CON LICENCIA (O UNA PARTE DE ELLOS) NO ESTÁN DISPONIBLES EN ALGÚN MOMENTO O DURANTE ALGÚN PERÍODO; (VI) CUALQUIER MEDIDA TOMADA POR EPIC DE ACUERDO CON ESTOS TÉRMINOS; (VII) CUALQUIER INCUMPLIMIENTO DE ESTOS TÉRMINOS DE SU PARTE; Y (VIII) CUALQUIER RETRASO EN EL CUMPLIMIENTO O UN INCUMPLIMIENTO DE NUESTRAS OBLIGACIONES SI DICHA DEMORA O FALLA ES CONSECUENCIA DE EVENTOS, CIRCUNSTANCIAS O CAUSAS QUE ESTÁN FUERA DE NUESTRO CONTROL RAZONABLE.
+
+LAS PARTES EPIC NO SERÁN RESPONSABLES POR EL LUCRO CESANTE NI POR LOS DAÑOS Y PERJUICIOS INDIRECTOS, INCIDENTALES, PUNITIVOS, ESPECIALES O CONSECUENTES QUE SURJAN O ESTÉN RELACIONADOS CON ESTOS TÉRMINOS O CON LOS PRODUCTOS CON LICENCIA. LA RESPONSABILIDAD TOTAL DE LAS PARTES EPIC QUE SE ORIGINE O SE RELACIONE CON ESTOS TÉRMINOS O CON LOS PRODUCTOS CON LICENCIA SE LIMITA AL MONTO QUE USTED HAYA PAGADO A EPIC EN VIRTUD DE ESTOS TÉRMINOS EN EL PERÍODO DE DOCE (12) MESES INMEDIATAMENTE PREVIOS AL MOMENTO EN QUE SUFRIÓ DAÑOS Y PERJUICIOS, INCLUSO SI ESE RECURSO NO PROPORCIONA UNA COMPENSACIÓN ADECUADA.
+
+Tal como se lo utiliza en la exclusión de ciertas garantías y limitaciones de la responsabilidad anterior, el término “<EULA.Highlight>Partes Epic</>” abarca al desarrollador de un software que le fue concedido en licencia en virtud de estos Términos, a menos que usted haya aceptado los Términos específicos del software para ese software o servicio que incluyen una exención de la responsabilidad de las garantías del desarrollador y una limitación de la responsabilidad del desarrollador.
+
+Usted indemnizará, pagará los costos de defensa y eximirá de responsabilidad a las Partes Epic de y contra todo reclamo, demanda, acción judicial, obligación, daños y perjuicios, sentencia, asignación, pérdida, costo, gasto u honorario (incluidos los honorarios razonables de abogados y peritos) que se origine o guarde relación con (a) cualquier reclamo que, de ser cierto, constituiría su incumplimiento de estos Términos de su parte o su negligencia, (b) cualquier acto u omisión de su parte al usar los Productos con licencia, o (c) su Contenido de aficionados externos, el Contenido realizado por el Desarrollador o sus Comentarios. Usted rembolsará a las Partes Epic, cuando estas lo soliciten, cualquier costo de defensa que hayan asumido las Partes Epic y cualquier pago realizado o pérdida sufrida por las Partes de Epic, ya sea en una sentencia judicial o conciliación basada en cualquier asunto cubierto por esta Sección. Si la ley del lugar en el que vive no le permite aceptar esta indemnización, en ese caso usted asume toda la responsabilidad por reclamos, demandas, acciones, pérdidas, obligaciones y gastos (incluidos los honorarios de abogados, costos y honorarios de peritos) que habrían sido cubiertos por la indemnización. Esta obligación de indemnización incluye reclamos hechos por usted o hechos en su contra. 
+
+Algunas características de los Productos con licencia pueden requerir una conexión a Internet, que usted debe proporcionar asumiendo el costo. Usted es responsable de todos los costos y cargos que le cobre su proveedor de servicios de Internet en relación con el uso de los Productos con licencia.
+
+<EULA.Header>b.	Las disposiciones de esta Sección 15.b se aplican a los Usuarios finales residentes en el Reino Unido.</>
+
+<EULA.Highlight>Nada de lo establecido en el Párrafo 15.a excluye o limita la responsabilidad de Epic en lo que concierne a: (i) muerte o lesiones personales causadas por nuestra negligencia; (ii) fraude o tergiversación fraudulenta; (iii) incumplimiento de nuestras obligaciones legales o sus derechos legales como consumidor, incluidos los términos implícitos con respecto al contenido digital; o (iv) cualquier otra responsabilidad que no pueda excluirse o limitarse en virtud de la ley aplicable.</>
+
+Por pedido, usted se compromete a compensar a Epic por cualquier reclamo, demanda, acción, obligación, daños y perjuicios, sentencia, laudo, pérdida, costo, gasto u honorario (incluidos los honorarios razonables de abogados externos y peritos) en los que Epic haya incurrido o que esta haya sufrido y que surja o se relacione con (a) todo reclamo que, en caso de ser verdadero, constituiría un incumplimiento de estos Términos de su parte o por su negligencia, (b) todo aquel acto u omisión de su parte al usar los Productos con licencia, o (c) su Contenido de aficionados externos, Contenido realizado por el Desarrollador o sus Comentarios. 
+
+<EULA.Header>16.	Ley y competencia aplicables para cualquier disputa no arbitrable </>
+
+Las leyes y reglamentaciones del lugar en el que vive pueden brindar protección a los consumidores. Estos Términos no pretenden excluir, limitar o restringir ninguno de esos derechos legales y, en los casos en los que fuese posible, los Términos deben interpretarse de una manera que no entre en conflicto con las leyes que le brindan esas protecciones importantes. Si no hay manera de conciliar una disposición de estos Términos con una ley de protección al consumidor aplicable a usted, la que prevalecerá será la ley aplicable.
+
+Excepto conforme la ley aplicable exija lo contrario, cualquier disputa, reclamo o controversia entre usted y Epic que se relacione con algún Producto con licencia o los Productos con licencia en general, su uso o intento de uso de un Producto con licencia, o estos Términos se decidirán en virtud de la ley de Carolina del Norte (donde Epic Games tiene su sede central), excluyéndose sus normas de elección de leyes. En lo que respecta a cualquier disputa, reclamo o controversia que no esté sujeta a arbitraje (comentado a continuación en la Sección 17), usted y Epic aceptan someterse a la jurisdicción exclusiva del Tribunal Superior del Condado de Wake, Carolina del Norte, o, si existiese la jurisdicción de un tribunal federal, el Tribunal de Distrito de los Estados Unidos para el Distrito Este de Carolina del Norte. Excepto que la ley aplicable lo prohíba, usted y Epic aceptan renunciar a cualquier objeción a la jurisdicción, competencia o foro no conveniente de dichos tribunales (sin que ello tenga incidencia en los derechos de cualquiera de las partes a remitir un caso a un tribunal federal si así se lo permite), así a como cualquier derecho a un juicio por jurado. No se aplicará la Convención sobre los Contratos para la Compraventa Internacional de Mercaderías. Toda ley o reglamentación que disponga que el texto de un contrato debe interpretarse contra la parte que lo redactó no se aplicará a estos Términos. Este párrafo se interpretará con la máxima amplitud que permita el derecho aplicable.
+
+<EULA.Header>17.	Arbitraje individual vinculante; prohibición de demandas colectivas </>
+
+La mayoría de las disputas podrán resolverse de forma rápida y amistosa contactando al servicio de asistencia al jugador de Epic en <a id="url" href="https://www.epicgames.com/customer-service" style="EULA.Hyperlink">Asistencia de Epic Games</>. En el caso de disputas que no puedan resolverse fácilmente, en los casos en los que necesitemos un tercero neutral para decidirlas, esta Sección explica las normas mediante las cuales usted y Epic resolverán esas disputas, reclamos o controversias, incluido (cuando corresponda) el Arbitraje individual vinculante. 
+
+<EULA.Highlight>LEA ATENTAMENTE ESTA SECCIÓN. ESTO AFECTA SUS DERECHOS, INCLUIDO SU DERECHO A PRESENTAR UNA DEMANDA ANTE UN TRIBUNAL. NO HAY JUEZ NI JURADO EN EL ARBITRAJE, Y LOS PROCEDIMIENTOS DE PRODUCCIÓN DE PRUEBAS Y LOS DERECHOS DE APELACIÓN SON MÁS LIMITADOS QUE EN UN TRIBUNAL.</> <EULA.Highlight>LOS TÉRMINOS DEL ARBITRAJE DE ESTA SECCIÓN 17 NO SE APLICARÁN EN LA MEDIDA EN QUE SU INCLUSIÓN PUDIERAN ANULAR ESTOS TÉRMINOS.</>
+
+Esta sección 17 se interpretará de la forma más amplia permitida por la ley aplicable. 
+
+<EULA.Highlight>Para residentes del Reino Unido: No podrán aplicarse estas disposiciones en su contra.</>
+
+<EULA.Header>a.	Su derecho de exclusión de 30 días</>
+
+Usted puede excluirse del requisito de Arbitraje individual vinculante, pero no de la renuncia a la demanda colectiva establecida a continuación en el inciso 16.f, enviando una notificación por escrito a Epic Games dentro de los treinta (30) días de haberse inscrito por primera vez en los Productos con licencia. 
+
+Una vez que haya expirado el período de 30 días, solo puede optar por excluirse de futuros cambios sustanciales en el Arbitraje individual vinculante enviando una notificación por escrito dentro de los treinta (30) días posteriores a la fecha en la que Epic Games notifique esos cambios (a menos que la ley aplicable exija un período más prolongado). Como se explica a continuación, usted seguirá estando obligado por el acuerdo de arbitraje que aceptó sin excluirse de él.
+
+Para excluirse, debe enviar una notificación por escrito con el título “Notificación de exclusión del arbitraje” a la siguiente dirección: Epic Games, Inc., Legal Department, ATTN: ARBITRATION OPT-OUT, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Para que tenga validez, la notificación de exclusión debe ser enviada a Epic Games por el Usuario final que desea excluirse (o el padre o tutor de ese Usuario final) e incluir (a) el nombre completo del Usuario final, la Cuenta de Epic Games, y la dirección de correo electrónico, (b) una declaración clara que indique que el Usuario final desea excluirse del Arbitraje individual vinculante o desea excluirse de un cambio sustancial en el Arbitraje individual vinculante, según corresponda, y (c) la firma del Usuario final (o la firma del padre, la madre o el tutor del Usuario final, si el Usuario final fuese menor de edad). Si opta por excluirse de un cambio sustancial, la notificación también debe identificar el cambio sustancial específico del que desea excluirse. Una notificación de exclusión se aplica solo al Arbitraje individual vinculante; todas las demás partes de estos Términos seguirán aplicándose al Usuario final y a Epic Games, incluida la renuncia a la demanda colectiva establecida a continuación en el inciso 17.f, en el grado máximo permitido por la ley aplicable. Además, una notificación de exclusión es solo hipotética y no revoca ni afecta de otro modo ningún acuerdo previo con respecto al requisito de Arbitraje individual vinculante. Al excluirse de un cambio sustancial al Arbitraje individual vinculante, usted acepta arbitrar cualquier Disputa que haya surgido antes de la exclusión, de conformidad con el texto de la última versión del Arbitraje individual vinculante que usted aceptó.
+
+<EULA.Header>b.	Disputas que deben ser arbitradas</>
+
+La resolución informal y los requisitos de Arbitraje individual vinculante de esta Sección se aplican a todas las Disputas entre usted y Epic. “<EULA.Highlight>Disputa</>” significa cualquier disputa, reclamo o controversia (excluidas las excepciones enumeradas a continuación), ya sea que se basen en contrato, responsabilidad extracontractual, estatuto, fraude, tergiversación o cualquier otra teoría legal, que se relacione con cualquier Producto con licencia o con los Productos con licencia en general, su uso o intento de uso de un Producto con licencia, o estos Términos, incluida la validez, exigibilidad o alcance de este acuerdo de arbitraje o cualquier parte de él. En las Disputas que involucran a menores, las Disputas que afirmen el o los menores y/o su padre, madre o tutor están sujetas a este acuerdo de arbitraje, y el uso del término “usted” en esta Sección se refiere tanto al Adulto como al o a los menores. 
+
+Las únicas excepciones a este requisito de arbitraje son: (i) reclamos que se presenten adecuadamente como acciones individuales en un tribunal de reclamos menores en el condado en el que usted reside o en el condado de Wake, Carolina del Norte; (ii) la búsqueda de acciones de aplicación autorizadas a través de una agencia gubernamental; (iii) una acción para obligar o sostener cualquier decisión de arbitraje previa; (iv) su derecho o el derecho de Epic de solicitar medidas cautelares en un tribunal de justicia para preservar el status quo mientras se lleva adelante el arbitraje; (v) reclamos por violación de la propiedad intelectual (incluidos los reclamos por piratería; o creación, distribución, o promoción de Trampas); o uso, creación, distribución, o promoción de cualquier tecnología, producto, servicio, dispositivo, componente o parte de estos que se utilice para eludir las Herramientas de integridad del juego y/o los reclamos relacionados con la ingeniería social; o la adquisición no autorizada de la Cuenta de Epic Games de un tercero, o la transferencia o venta de Cuentas de Epic Games y/o los reclamos relacionados con la ingeniería social; o la adquisición no autorizada de la Cuenta de Epic Games de un tercero, o la transferencia o venta de Cuentas de Epic Games; (vi) reclamos que constituyen el objeto de una conciliación en una demanda colectiva en la que usted optó por excluirse del grupo de la conciliación; y (vii) la exigibilidad del requisito de que los arbitrajes deben realizarse en forma individual en lugar de hacerlo en forma colectiva. Si usted es parte en otros acuerdos con Epic, además de este, y ese otro acuerdo no exige el arbitraje de las Disputas, un árbitro, no un tribunal, decidirá qué Disputas entre usted y Epic están sujetas a arbitraje y cuáles (si las hubiera) pueden ser escuchadas en un tribunal.
+
+Esta Sección solo se aplica a las Disputas y no impide que ninguna de las partes tome medidas unilaterales a las que pueda tener derecho en virtud de estos Términos o de cualquier otra ley aplicable. Esto significa, por ejemplo, que puede poner fin a su Cuenta de Epic Games sin seguir este proceso de resolución de disputas. Del mismo modo, Epic puede suspender o poner fin a una Cuenta de Epic Games (es decir, después de la detección de Fraude o Trampa), a su entera discreción, sin seguir este proceso de resolución de disputas (pero puede utilizar el proceso de resolución de disputas para solicitar una revocación de esa decisión). Esta libertad de actuar unilateralmente de acuerdo con estos Términos es importante para que no tenga que seguir utilizando los Productos con licencia y para que Epic pueda garantizar una experiencia positiva y justa para los jugadores que acceden a los Productos con licencia al tomar medidas inmediatas contra los jugadores que participan en trampas, piratería (venta o comercialización de Cuentas de Epic Games) o violación de los derechos de otros. 
+
+<EULA.Header>c.	Resolución informal</>
+
+Usted y nosotros acordamos intentar resolver una Disputa informalmente antes de que se presente un arbitraje. Usted y Epic harán un esfuerzo de buena fe para negociar la resolución de cualquier Disputa durante al menos treinta (30) días a partir del día en que usted reciba, o Epic reciba una notificación por escrito de una disputa de la otra parte (una “<EULA.Highlight>Notificación de disputa</>”) que cumpla con los términos de este inciso c. A esto se lo denominará período de “<EULA.Highlight>Resolución informal</>” y ese período puede extenderse más allá de los treinta (30) días si usted y nosotros acordamos hacerlo.
+
+Para que tenga validez, una Notificación de disputa debe incluir el nombre del remitente, la dirección postal, la dirección de correo electrónico, el número de teléfono y la información de la Cuenta de Epic Games (nombre de pantalla y, si está disponible, el número de Cuenta de Epic Games), junto con una descripción de la Disputa y qué resolución se pretende para la Disputa, incluido un cálculo individualizado de cualquier tipo de daños y perjuicios que se afirme. Se considerará que todas las leyes de prescripción quedarán suspendidas a partir del día en que se envía una Notificación de disputa que cumpla con los requisitos. Usted enviará su Notificación de disputa a Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Epic enviará toda Notificación de disputa a su correo electrónico registrado y a aquella dirección de facturación que nos haya proporcionado. 
+
+Usted o Epic no pueden proceder con el arbitraje sin primero enviar una Notificación de disputa que cumpla con los requisitos y participar en la Resolución informal durante el período requerido. Si usted o Epic proceden con el arbitraje sin enviar una Notificación de disputa que cumpla con los requisitos o antes de finalizado el período de Resolución informal, un tribunal puede prohibir la presentación y ordenar a la parte que no ha seguido este proceso de Resolución informal que reembolse a la otra parte cualquier honorario y costo de arbitraje en el ya pudiera haberse incurrido. Si usted y Epic discuten si una Notificación de disputa cumplió con este inciso c., esa disputa en particular referida al cumplimiento será resuelta por un tribunal, no un árbitro, sin perjuicio de la disposición en contrario que delegue al árbitro las Disputas referidas a la validez, exigibilidad o alcance de este acuerdo de Arbitraje.
+
+<EULA.Header>d.	Juzgado para casos de menor cuantía</>
+
+Usted y Epic acuerdan que, como alternativa al arbitraje, las Disputas que califican para un tribunal de reclamos menores en el condado en el que vive o en el condado de Wake, Carolina del Norte, pueden presentarse como acciones individuales en dichos tribunales de reclamos menores. Esperamos que primero pruebe con la Resolución informal, pero no tiene que hacerlo antes de demandar en un tribunal de reclamos menores si su reclamo cumple con los requisitos jurisdiccionales para ese tribunal.
+
+<EULA.Header>e.	Arbitraje individual vinculante</>
+
+LOS PROCEDIMIENTOS DE ARBITRAJE DE ESTA SECCIÓN SE LLEVARÁN A CABO ÚNICAMENTE EN FORMA INDIVIDUAL. Epic no da su consentimiento, bajo ninguna circunstancia, para que las Disputas sean arbitradas recurriendo a procedimientos de arbitraje colectivo. Estos Términos afectan el comercio interestatal, y todas las cuestiones que surjan en virtud de esta Sección se regirán sustantiva y procesalmente por la Ley Federal de Arbitraje, Título 9, Código de los Estados Unidos (U.S.C.), art. 1 y siguientes (la “FAA”), y por la ley federal de arbitraje de los Estados Unidos en el grado máximo permitido por la ley aplicable.
+
+Si la Resolución informal no resuelve todas las Disputas entre nosotros, Usted y Epic acuerdan que las Disputas no resueltas se resolverán mediante <EULA.Highlight>Arbitraje individual vinculante</> llevado a cabo por National Arbitration and Mediation (“<EULA.Highlight>NAM</>”), <a id="url" href="https://namadr.com/" style="EULA.Hyperlink">https://namadr.com</>, de acuerdo con las Normas y Procedimientos Integrales para la Resolución de Disputas de NAM vigentes en el momento en que surja la Disputa (las “<EULA.Highlight>Normas</>”), conforme lo modifiquen estos Términos. Si usted reside en una jurisdicción en la que NAM no está disponible para el arbitraje, el arbitraje será llevado a cabo por la Asociación Estadounidense de Arbitraje (American Arbitration Association, “<EULA.Highlight>AAA</>”), <a id="url" href="https://www.adr.org/" style="EULA.Hyperlink">https://www.adr.org</>. Para las Disputas que deban ser arbitradas por la AAA: si usted es un “<EULA.Highlight>Consumidor</>”, lo que significa que solo utiliza los Productos con licencia para fines personales, familiares o domésticos, regirán las <a id="url" href="https://www.adr.org/sites/default/files/Consumer-Rules-Web.pdf" style="EULA.Hyperlink">Normas de Arbitraje del Consumidor</> de la AAA, según puedan ser modificadas por estos Términos. De lo contrario, regirán las Normas de Arbitraje Comercial y los Procedimientos de Mediación de la AAA, conforme lo modifiquen estos Términos. 
+
+“<EULA.Highlight>Arbitraje</>” significa que las Disputas que usted tenga con Epic y las Disputas que Epic tenga con usted serán resueltas por un árbitro neutral en lugar de hacerlo en un tribunal ante un juez o por jurado. 
+
+“<EULA.Highlight>Individuo</>” significa que el árbitro puede otorgarle a usted o a Epic los mismos recursos que un tribunal podría otorgar, pero solo para satisfacer sus reclamos individuales o los de Epic. En el grado máximo permitido por la ley aplicable, es posible que el árbitro no adjudique dinero u otra reparación en beneficio de una persona que no sea usted o Epic como parte de la resolución de cualquier Disputa.
+
+“<EULA.Highlight>Vinculante</>” significa que tanto usted como Epic tendrán que aceptar y acatar la decisión del árbitro, excepto en la medida limitada en que se permitan apelaciones ante un tribunal en virtud de la FAA. El árbitro tendrá autoridad exclusiva para tomar todas las decisiones procesales y sustantivas con respecto a cualquier Disputa y para otorgar cualquier recurso que, de otro modo, podría estar disponible en el tribunal, incluida la facultad para determinar la cuestión de la arbitrabilidad, excepto en la medida en que la autoridad del árbitro esté limitada por la FAA, estos Términos y/o las Normas aplicables al arbitraje. El árbitro tendrá la autoridad para otorgar medidas cautelares temporales, provisionales o permanentes o medidas que establezcan el cumplimiento específico de estos Términos, pero (según lo dispuesto antes) el árbitro puede hacerlo solo en la medida en que fuese necesario para otorgar el recurso a una parte en el arbitraje que esté garantizado por el reclamo individual ante el árbitro. El laudo que expida el árbitro podrá ser confirmado y aplicado en cualquier tribunal con jurisdicción.
+
+<EULA.Header>f.	Procedimiento y lugar del arbitraje</>
+
+Usted o Epic pueden iniciar el arbitraje de cualquier Disputa no resuelta por Resolución informal presentando una Demanda de arbitraje ante el proveedor de arbitraje. Las instrucciones para presentar una Demanda de arbitraje ante NAM están disponibles en el sitio web de NAM o enviando un correo electrónico a NAM a commercial@namadr.com. Las instrucciones para presentar una Demanda de arbitraje ante la AAA, que puede hacer solo si reside en una jurisdicción en la que NAM no está disponible para el arbitraje, están disponibles en el sitio web de la AAA o llamando a la AAA al 800-778-7879. Usted enviará una copia de cualquier Demanda de arbitraje a Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Epic enviará cualquier Demanda de arbitraje a la dirección de correo electrónico y cualquier dirección de facturación que usted nos haya proporcionado.
+
+Un único árbitro con experiencia en la resolución de Disputas similares llevará adelante el arbitraje. Tanto usted como Epic acuerdan que el arbitraje se llevará a cabo en idioma inglés y que, a menos que el árbitro ordene lo contrario por motivos de dificultades financieras, cualquier traducción que usted pueda solicitar correrá por su cuenta y gasto. El árbitro aplicará esta Sección y todos los demás términos contractuales aplicables como lo haría un tribunal, y adjudicará cualquier Disputa de acuerdo con la ley aplicable y basándose en los hechos solo en función de las actuaciones que se presenten al árbitro.
+
+Para las Disputas en las que el reclamante solicite menos de USD 10 000, el árbitro decidirá la cuestión basándose únicamente en las presentaciones escritas, sin una audiencia formal, a menos que el árbitro decida, con causa justificada, que se requiere una audiencia formal. Para las cuestiones en las que el reclamante solicite USD 10 000 o más, o para las cuestiones menores respecto de las cuales el árbitro determine que se requiere una audiencia, las audiencias se llevarán a cabo por video o telefónicamente, a menos que el árbitro determine que se requiere una audiencia en persona, siempre que se demuestre la existencia de causa justificada. Si se requiere una audiencia en persona y usted reside en los Estados Unidos, la audiencia se llevará a cabo en el condado de Wake, Carolina del Norte, a menos que el árbitro determine que esto podría presentar una dificultad para usted, en cuyo caso la audiencia en persona podrá llevarse a cabo en su estado y condado de residencia. Si reside fuera de los Estados Unidos, el sitio de cualquier audiencia en persona se determinará en función de las Normas aplicables. A menos que usted y Epic acuerden lo contrario, la decisión o el laudo de un árbitro incluirá una declaración escrita en la que se indicará la resolución de cada reclamo y el fundamento del laudo, incluidas las conclusiones y hallazgos legales y fácticos esenciales del árbitro. 
+
+En el grado máximo permitido por la ley aplicable, el árbitro solo podrá otorgar los recursos de reparación legales o equitativos que sean individuales para usted o para Epic a los efectos de satisfacer uno de nuestros reclamos individuales que, conforme lo determine el árbitro, están respaldados por pruebas relevantes y creíbles. 
+
+Un laudo arbitral, y cualquier sentencia que lo confirme, se aplican solo a ese caso específico; no pueden utilizarse ni ofrecerse como precedentes en ningún otro caso, excepto para hacer cumplir el laudo propiamente dicho.
+
+Cualquier tribunal con jurisdicción competente podrá exigir el cumplimiento de cualquier decisión o laudo como una sentencia en firme o, si corresponde, podrá presentarse una solicitud ante dicho tribunal para la confirmación judicial de cualquier laudo y para una orden que exija su cumplimiento.
+
+<EULA.Header>g.	Honorarios del Arbitraje del consumidor</>
+
+Los términos de esta Sección de Honorarios del arbitraje del consumidor solo se aplican a usted si usted es un “Consumidor” dentro del significado de las normas del proveedor del árbitro. Si usted no es un Consumidor, los honorarios y costos del arbitraje se dividirán entre usted y Epic, según se establece en las Normas del proveedor del arbitraje. Cualquier disputa referida a su condición como Consumidor será resuelta por el árbitro.
+
+Si usted es un Consumidor e inicia un arbitraje contra Epic, pagará el cargo de presentación requerido para arbitrajes del consumidor. Pero si su Demanda establece que su Disputa implica un reclamo total por daños y perjuicios de USD 10 000 o menos, incluidos los honorarios de abogados y cualquier otra reparación que pretenda obtener, Epic le reembolsará el cargo de presentación que pagó para iniciar el caso en arbitraje. Aun cuando la Disputa comprenda un reclamo por daños y perjuicios en una suma de más de USD 10 000, si completó la Resolución informal y demuestra que los costos de arbitraje le serían prohibitivos en comparación con los costos de un litigio, Epic pagará la parte de sus costos de presentación que el árbitro determine como necesarios para impedir que el arbitraje tenga un costo prohibitivo (en comparación con el costo de un litigio). A los fines de calcular los daños y perjuicios en virtud de este párrafo, se sumarán los reclamos similares que inicien múltiples reclamantes representados por el mismo abogado o por un abogado en forma coordinada. En otras palabras, si 20 personas representadas por el mismo abogado o por un abogado en coordinación pretenden USD 1000 cada una, esto se tratará, a los fines de esta Sección, como un reclamo que pretende USD 20 000.
+
+Si Epic inicia un arbitraje en su contra, Epic pagará todos los honorarios y costos de presentación, incluidos los honorarios que, de otro modo, se le habría exigido pagar.
+
+Si usted elige ser representado por un abogado, pagará los honorarios y costos de sus abogados, a menos que la ley aplicable disponga lo contrario.
+
+<EULA.Header>h.	Notificación y presentación</>
+
+En el grado máximo permitido por la ley aplicable, usted o Epic deben iniciar el arbitraje de una Disputa dentro de los dos (2) años posteriores a la fecha en la que surgió la Disputa por primera vez. Si la ley aplicable exige que usted o Epic presenten un reclamo por una Disputa antes de transcurridos dos (2) años del momento en que surgió la Disputa por primera vez, se aplica el plazo más corto. No iniciar el arbitraje con respecto a una Disputa dentro de los plazos descritos antes en esta Sección puede proscribir la Disputa (si la ley aplicable lo permite), lo que significa que usted y Epic no tendrán derecho a hacer valer la Disputa.
+
+<EULA.Header>i.	Presentaciones coordinadas</>
+
+Si se envían 25 o más Notificaciones de Disputa que plantean reclamos similares y tienen el mismo abogado o un abogado en coordinación, se los considerará “<EULA.Highlight>Casos coordinados</>” y se tratarán como presentaciones masivas o presentaciones de múltiples casos de acuerdo con las Normas, si y en la medida en que se pretenda presentar Casos coordinados en arbitraje, según se establece en estos Términos. Epic o usted pueden informarse entre sí su creencia de que los casos son Casos coordinados, y el proveedor del arbitraje decidirá si las Disputas con respecto a si uno o más casos cumplen con la definición contractual de “Casos coordinados” como una cuestión administrativa (o esta tarea recaerá en un Árbitro del proceso si el proveedor del arbitraje así lo requiere). <EULA.Highlight>Las demandas de arbitraje en Casos coordinados solo se presentarán ante el proveedor del arbitraje según lo permita el juicio de prueba que se establece a continuación.</> Epic pagará solo su parte de los honorarios de arbitraje para los Casos coordinados; los reclamantes serán responsables de su parte de esos honorarios. <EULA.Highlight>Las leyes de prescripción quedarán suspendidas para los reclamos afirmados en un Caso coordinado desde el momento en que se envía la Notificación de Disputa que cumpla con los requisitos para ese reclamante hasta que, de acuerdo con los términos de estos Términos, el Caso coordinado del reclamante pueda ser presentado en arbitraje o ante un tribunal.</>
+
+Una vez que el abogado de los Casos coordinados haya informado a Epic que se han enviado todas o sustancialmente todas las Notificaciones de Disputa, el abogado de las partes consultará de buena fe sobre la cantidad de casos que deben avanzar en el arbitraje como casos de prueba (casos de bellwether). La cantidad de casos elegidos debe ser suficiente para permitir que cada parte pruebe el mérito de sus argumentos. Si las partes no llegan a un acuerdo con respecto a la cantidad de partes representativas (bellwethers), el proveedor de arbitraje elegirá un número par como cuestión administrativa (o lo hará un Árbitro del proceso si el proveedor de arbitraje así lo requiere). Los factores que pueden considerarse al tomar esta decisión incluyen la complejidad de la disputa y las diferencias en los hechos o las leyes aplicables entre los diversos casos. Una vez fijado el número de partes representativas (bellwethers), cada parte seleccionará la mitad de esa cifra entre los reclamantes que hayan enviado Notificaciones de Disputa conformes con las normas, y <EULA.Highlight>solo</> los casos elegidos podrán presentarse ante el proveedor de arbitraje. El proveedor de arbitraje no puede cobrar honorarios a Epic por ninguna Demanda que no haya sido presentada. Las partes reconocen que la resolución de algunos Casos coordinados se retrasará por este juicio de prueba.
+
+A menos que las partes convengan lo contrario, cada juicio de prueba debe ser asignado a un árbitro diferente. 
+
+Una vez que hayan concluido todos los juicios de prueba (o antes si el abogado de los reclamantes y Epic están de acuerdo), Epic y los reclamantes en los Casos coordinados deben participar en una única mediación de todos los Casos coordinados restantes, y cada parte debe pagar la mitad del honorario de mediación correspondiente. Epic y los reclamantes deben llegar a un acuerdo con respecto a un mediador dentro de los treinta (30) días posteriores a la fecha en la que concluye el último juicio de prueba, y si no lo hacen, el proveedor de arbitraje nombrará expeditivamente a un mediador como cuestión administrativa. Epic y los reclamantes cooperarán con el fin de garantizar que la mediación se programe lo más rápidamente posible después de que se designa al mediador.
+
+Si la mediación no genera una resolución global, este requisito de arbitraje ya no se aplicará a las Disputas que constituyen el objeto de los Casos coordinados restantes para los cuales la otra parte recibió una Notificación de Disputa de la otra parte que cumple con los requisitos. Dichas Disputas pueden presentarse únicamente en los tribunales estatales del Condado de Wake, Carolina del Norte, o si existe jurisdicción federal, en el Tribunal de Distrito de los Estados Unidos para el Distrito Este de Carolina del Norte, y usted da su consentimiento, como parte de estos Términos, a la competencia exclusiva de estos tribunales para tales casos. Nada de lo dispuesto en este párrafo se interpretará como una prohibición para usted o Epic de retirar un caso de un tribunal estatal y elevarlo a un tribunal federal si la ley aplicable permite tal remoción. En la medida en que usted haga valer los mismos reclamos que tienen otras personas y esté representado por un abogado común o en forma coordinada, usted acepta renunciar a cualquier objeción de que la unión de todas esas personas es impracticable. Si se presenta una Disputa previamente arbitrable ante un tribunal, los reclamantes cuyos reclamos formaban parte de los Casos coordinados pueden solicitar tratamiento colectivo, pero en el grado máximo permitido por la ley aplicable, los grupos solicitados pueden comprender solo a los reclamantes en los Casos coordinados que enviaron Notificaciones de disputa conformes con las normas, y cualquier parte puede impugnar la certificación del grupo en cualquier etapa del litigio y en función de cualquier fundamento disponible. Esta es una excepción limitada a la renuncia a la demanda colectiva que, de otro modo, se aplica a todas las Disputas entre nosotros.
+
+Un tribunal tendrá la autoridad para hacer cumplir este proceso para la resolución de los Casos coordinados y podrá prohibir la presentación de demandas o demandas de arbitraje que no se realicen de acuerdo con él.
+
+<EULA.Header>j.	Continuidad de la vigencia</>
+
+El proceso de resolución de disputas establecido en esta Sección seguirá subsistiendo tras la rescisión de estos Términos o la provisión de Productos con licencia por parte de Epic, independientemente de la forma de la rescisión.
+
+<EULA.Header>k.	Cambios en los Términos en el futuro</>
+
+Aunque Epic puede revisar estos Términos según su exclusivo criterio, no tiene el derecho de alterar estos Términos para arbitrar o las normas especificadas en el presente con respecto a cualquier Disputa una vez que surja dicha Disputa, si dicho cambio pudiera hacer que los procedimientos de arbitraje fuesen menos favorables para el reclamante. Que los procedimientos modificados sean menos favorables para el reclamante es un asunto que debe decidir el árbitro, y si varios reclamantes avanzan en Casos coordinados, la aplicabilidad de los términos revisados a los Casos coordinados quedará sujeta a la decisión del proveedor del arbitraje como cuestión de proceso (o por un Árbitro del proceso, si el proveedor de arbitraje así lo requiere).
+
+<EULA.Header>l.	Renuncia a la demanda colectiva</>
+
+En el grado máximo permitido por la ley aplicable, para cualquier caso no sujeto al requisito de arbitraje (excepto en la medida limitada analizada antes para los Casos coordinados), incluso si usted opta por excluirse del requisito de arbitraje de las Disputas, usted y Epic solo entablarán Disputas entre usted y Epic que se relacionen con cualquier Producto con licencia o con los Productos con licencia en general, su uso o intento de uso de un Producto con licencia o estos Términos en forma individual y no:
+
+•	solicitará la presentación, ni se unirá o participará en una demanda colectiva o representativa, arbitraje colectivo o grupal, o cualquier otra acción en la que otra persona o entidad actúe en calidad representativa (p. ej., demandas generales presentadas por abogados privados); o
+•	consolidará o combinará procedimientos individuales ni permitirá que otro lo haga sin el consentimiento expreso de todas las partes.
+
+<EULA.Highlight>Para residentes del Reino Unido: Usted puede participar en dichos procedimientos en la medida en que las leyes aplicables lo permitan. Si las leyes de su jurisdicción no permiten las renuncias a la demanda colectiva, esta disposición no se aplicará a usted.</>
+
+<EULA.Header>m.	Divisibilidad</>
+
+Si se determina que la totalidad o una parte de esta Sección 17 es inválida, inexigible o ilegal, en ese caso usted y Epic aceptan que la disposición será retirada, y que el resto de este Acuerdo se mantendrá vigente y deberá ser interpretado como si no se hubiera incluido ninguna disposición retirada. La única excepción es que, si se determina que la prohibición de arbitrajes colectivos es inválida, inexigible o ilegal, usted y Epic aceptan que la totalidad de esta Sección 17 será nula e inexigible y que se resolverá cualquier disputa en un tribunal, sujeto a las cláusulas sobre elección de leyes y competencia especificadas en estos Términos. Para evitar dudas, si no se aplica el requisito de arbitrar a una disputa, la renuncia a la demanda colectiva seguirá aplicándose a menos que se determine que esa disposición no es aplicable por separado e independientemente.
+
+<EULA.Header>18.	Reclamos por infracción</>
+
+De acuerdo con la Ley de Derechos de Autor del Milenio Digital (Digital Millennium Copyright Act, “<EULA.Highlight>DMCA”</>) y otras leyes aplicables, hemos adoptado una política de rescisión de las Cuentas de Epic Games, en las circunstancias apropiadas, que correspondan a aquellos jugadores que infringen reiteradamente los derechos de propiedad intelectual de otros. Si cree que su propiedad intelectual u otros derechos están siendo infringidos por un tercero en un Producto con licencia, notifíquenos a través de los canales que se indican <a id="url" href="https://www.epicgames.com/site/infringement" style="EULA.Hyperlink">aquí</>.
+
+Si presenta una notificación de la DMCA, consulte la Sección 512(c)(3) de la DMCA para conocer los requisitos de una notificación adecuada. Si no cumple con todos los requisitos de la Sección 512(c)(3) de la DMCA, es posible que su notificación no sea efectiva. En virtud de la Sección 512(f) de la DMCA, si usted tergiversa intencionalmente que el material o la actividad incurren en infracción, puede ser responsable de los daños y perjuicios, incluidos los costos y honorarios de abogados, en los que tanto nosotros como los titulares de nuestras Cuentas de Epic Games podamos incurrir. Si no está seguro de si el material o la actividad que está informando incurre en infracción, es posible que desee comunicarse con un abogado antes de enviarnos una notificación.
+
+<EULA.Header>19.	Entidad licenciante</>
+
+La entidad de Epic que le otorga una licencia para usar los Productos con licencia depende del lugar en el que usted viva y qué Productos con licencia use. La licencia en la Sección 3 para los siguientes Productos con licencia (y sus Servicios Epic asociados) es otorgada a usted por la entidad que se describe a continuación:
+
+<EULA.Highlight>Fall Guys (excepto la versión móvil para Android y Apple iOS en la UE)</>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Si está jugando en la plataforma Steam, EGFG LLC, que opera comercialmente como Epic Games
+&nbsp;&nbsp;&nbsp;&nbsp;•	Si está jugando en cualquier otra plataforma, Epic Games, Inc.
+<EULA.Highlight>Fall Guys (versión móvil para Android y Apple iOS en la UE):</> EGFG LLC, que opera como Epic Games
+<EULA.Highlight>Fortnite (excepto la versión móvil para Apple iOS) o UEFN:</>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Si reside en los Estados Unidos de América, Epic Games, Inc.
+&nbsp;&nbsp;&nbsp;&nbsp;•	Si reside fuera de los Estados Unidos de América, Epic Games Entertainment International GmbH
+<EULA.Highlight>Fortnite (versión móvil para Apple iOS):</>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Si reside en los Estados Unidos de América, Epic Games, Inc.
+&nbsp;&nbsp;&nbsp;&nbsp;•	Si reside fuera de los Estados Unidos de América, Epic Games Sweden, AB
+<EULA.Highlight>Postparty:</> Life on Air Inc.
+<EULA.Highlight>Rocket League o Rocket League Sideswipe:</> Psyonix LLC
+<EULA.Highlight>Sitios web:</> Epic Games, Inc.
+<EULA.Highlight>Todos los demás Productos con licencia:</> Consulte los términos específicos del producto o programa relevantes
+
+<EULA.Header>20.	Otros</>
+
+<EULA.Header>a.	Renuncia y divisibilidad</>
+
+Si Epic renuncia a alguna parte de estos Términos, se trata de una renuncia por única vez y específica para el caso, a menos que le informemos por escrito que no lo es. El hecho de que no afirmemos un derecho o disposición de estos Términos no significa que renunciemos a él. Si un tribunal con jurisdicción o un árbitro determinan que alguna parte de estos Términos es inválida, ilegal o inexigible, usted y Epic (excepto según lo establecido en la Sección 17.m) considerarán que esa parte ha sido retirada o limitada lo menos posible para que el resto de estos Términos sigan teniendo vigencia.
+
+<EULA.Header>b.	Cesión</>
+
+Usted no puede ceder sus derechos u obligaciones en virtud de estos Términos. Nosotros podemos ceder estos Términos, en forma total o parcial, con o sin aviso previo a usted. 
+
+<EULA.Header>c.	Advertencia de fotosensibilidad</>
+
+Algunas personas experimentan convulsiones epilépticas o desmayos cuando ven ciertas imágenes o patrones, como luces intermitentes. La exposición a dichas imágenes o patrones en una pantalla, como mientras se juegan videojuegos, puede causar convulsiones epilépticas o desmayos en estas personas. Estas reacciones pueden reducirse al:
+
+•	jugar en una habitación bien iluminada;
+•	evitar jugar mientras se está somnoliento;
+•	ver el juego a distancia o en una pantalla más pequeña; y 
+•	limitar la duración de su sesión de juego. 
+
+Si usted o alguien que estará cerca tiene una afección epiléptica, convulsiones o síntomas de convulsiones, esa persona debe consultar a un médico antes de exponerse a los Productos con licencia. Si usted o las personas que están cerca experimentan alguno de los siguientes mientras usan los Productos con licencia, deténgase inmediatamente y consulte con un médico antes de continuar: 
+
+•	Mareos
+•	Alteración de la visión
+•	Contracciones oculares o musculares
+•	Espasmos o temblores en brazos o piernas
+•	Pérdida de consciencia
+•	Desorientación
+•	Confusión
+•	Movimiento involuntario
+•	Convulsiones
+
+<EULA.Header>d.	Controles a la exportación y sanciones</>
+
+Usted comprende y acepta que no usará ni accederá, descargará, exportará, reexportará o transferirá los Productos con licencia y que no es elegible para celebrar estos Términos si hacerlo podría violar las leyes y reglamentaciones sobre control de exportaciones, sanciones e importación de los EE. UU. o de otros lugares, como las Reglamentaciones de la Administración de Exportaciones de los EE. UU. y las reglamentaciones de la Oficina de Control de Activos Extranjeros del Departamento del Tesoro los EE. UU.
+
+<EULA.Header>21.	Términos específicos de la plataforma</>
+
+<EULA.Header>a.	Usuarios finales de Sony PlayStation®</>
+
+Los siguientes términos y condiciones adicionales se aplican con respecto a los Productos con licencia disponibles para su uso en dispositivos PlayStation® que usted posee o controla:
+
+Tenga en cuenta que Epic recibirá la información de la cuenta de Sony Entertainment Network (la “<EULA.Highlight>Cuenta de SEN</>”), incluida su dirección de correo electrónico e Identificación en línea, como se explica en la Política de privacidad de Epic. Epic puede permitir que sus Usuarios finales busquen otras Cuentas de Epic Games por su Cuenta de SEN, y otros Usuarios finales pueden enviarle solicitudes de amistad. La configuración de privacidad de su Cuenta de SEN no se aplicará a su Cuenta de Epic Games. 
+
+Si está utilizando nuestros Productos con licencia en una Plataforma PlayStation®, la licencia que se le otorga en la Sección 3 de los Términos anteriores se limita al uso de nuestros Productos con licencia solo en una Plataforma PlayStation® que usted posea o controle o en otro sistema al que la Red PlayStation® entregue nuestros Productos con licencia. Si accede a nuestros Productos con licencia utilizando un sistema PlayStation® 4 (“<EULA.Highlight>PS4</>”) y nuestros Productos con licencia le permiten utilizar el botón “Compartir” de PS4, le otorgamos una licencia personal, limitada, intransferible, revocable y no exclusiva para utilizar el botón “Compartir” para replicar o transmitir la salida de audio y video de esos Productos con licencia a servicios de terceros soportados por el sistema PS4, sujeto a su cumplimiento de estos Términos.
+
+Tiene expresamente prohibido participar en ventas o intercambios fuera de la plataforma de dicho Contenido en el juego, como en eBay u otros sitios de subastas.
+
+<EULA.Highlight>Para los usuarios finales de SIEA</>: La compra y el uso de los artículos están sujetos a los Términos de servicio y al Acuerdo del usuario final de PlayStation® Network, disponibles en PlayStation® Store. Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”) le ha otorgado a usted la sublicencia de este servicio en línea.
+
+<EULA.Highlight>Para los usuarios finales de SIEE</>: Cualquier contenido adquirido en una tienda dentro del juego se comprará a Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) y está sujeto a los Términos de servicio y al Acuerdo de usuario final de PlayStation® Network, que están disponibles en PlayStation® Store. Verifique los derechos de uso para cada compra, ya que estos pueden diferir de un artículo a otro. A menos que se indique lo contrario, el contenido disponible en cualquier tienda dentro del juego tiene la misma clasificación de edad que el juego.
+
+<EULA.Header>b.	Usuarios finales de Microsoft Xbox</>
+
+Los siguientes términos y condiciones adicionales se aplican con respecto a los Productos con licencia disponibles para su uso en dispositivos Xbox Live que usted posee o controla:
+
+Ni Microsoft Corporation ni ninguna de sus filiales (en su conjunto, “<EULA.Highlight>Microsoft</>”) tienen obligaciones de mantenimiento o soporte para los Productos con licencia.
+
+Nada de lo dispuesto en estos Términos, incluidos estos Términos específicos de la Plataforma, regirá o cambiará de ninguna manera su relación con Microsoft en virtud de cualquier contrato existente entre usted y Microsoft, incluidos los términos de uso de Xbox Live.
+
+Además, en el grado máximo permitido por la ley aplicable, la responsabilidad total de las Partes Epic (que no sea Microsoft) que surja o se relacione con estos Términos o con los Productos con licencia (incluido cualquier Contenido en el juego) no superará los montos totales que usted haya pagado (si los hubiera) a Epic por los Productos con licencia (incluido cualquier Contenido en el juego) durante los doce (12) meses inmediatamente anteriores a los eventos que den lugar a dicha responsabilidad, y Microsoft no tendrá ninguna responsabilidad frente a usted que se origine de estos Términos o de los Productos con licencia (incluido cualquier Contenido dentro del juego) o en relación con estos. Estas limitaciones y exclusiones con respecto a los daños y perjuicios se aplican aunque cualquier otro recurso jurídico no proporcione una compensación adecuada. Este párrafo no pretende limitar la responsabilidad de Epic en lo que respecta a la conducta indebida intencional o la negligencia grave de Epic.
+
+<EULA.Highlight>Para residentes del Reino Unido: Es posible que las exenciones de la responsabilidad no sean exigibles en su contra.</>
+
+<EULA.Header>c.	Usuarios finales de Apple iOS</>
+
+Los siguientes términos y condiciones adicionales se aplican con respecto a los Productos con licencia disponibles para su uso en cualquier dispositivo iPhone o iPad de Apple, Inc. (“<EULA.Highlight>Apple</>”) que usted posee o controla:
+
+Usted reconoce que su acuerdo no es con Apple. Epic, no Apple, es el único responsable de los Productos con licencia y su contenido.
+
+Su uso de los Productos con licencia estará sujeto a estos Términos, incluidos estos Términos específicos de la Plataforma, y según lo permitan las Normas de uso establecidas en los Términos y condiciones de la App Store en la fecha en la que descarga o usa por primera vez los Productos con licencia (que usted reconoce que ha tenido la oportunidad de revisar).
+
+Usted acepta que Apple no tiene obligaciones de mantenimiento o soporte con respecto a los Productos con licencia.
+
+Usted reconoce y acepta que Apple no es responsable de ninguna garantía de producto para los Productos con licencia, tanto expresa como implícita por ley. Si goza del derecho legal a una garantía en su país o en otra jurisdicción, si los Productos con licencia no cumplen con la garantía requerida, puede notificar a Apple, y Apple reembolsará el precio de compra, si lo hubiera. En el grado máximo permitido por la ley aplicable, Apple no tendrá ningún tipo de obligación de garantía con respecto a los Productos con licencia, y cualquier otro reclamo, pérdida, obligación, daños y perjuicios, costos o gastos atribuibles a un incumplimiento de dicha garantía requerida será responsabilidad exclusiva de Epic. Sin embargo, usted comprende y acepta que, de acuerdo con estos Términos, Epic ha renunciado a todas las garantías, sin importar su índole o naturaleza, con respecto a los Productos con licencia y, por lo tanto, no hay garantías aplicables a los Productos con licencia, excepto las requeridas por ley.
+
+Epic, no Apple, es responsable de abordar sus reclamos o los de cualquier tercero en relación con los Productos con licencia o con su posesión y/o uso de los Productos con licencia, lo que incluye: (i) reclamos de responsabilidad por el producto; (ii) cualquier reclamo de que los Productos con licencia no cumplen con algún requisito legal o regulatorio aplicable; y (iii) reclamos que surjan en virtud de la legislación de protección del consumidor u otra legislación similar. En el caso de un reclamo que afirme que los Productos con licencia infringen los derechos de propiedad intelectual de un tercero, Epic, no Apple, será el único responsable de la investigación, defensa, conciliación y exención de cualquier reclamo de infracción de la propiedad intelectual (si y en la medida en que así lo exijan estos Términos).
+
+Usted acepta que estos Términos no confieren ningún derecho o recurso a ninguna persona que no sean las partes que intervienen en estos Términos, excepto conforme se indique expresamente en estos Términos o en la ley aplicable. Sin perjuicio de lo anterior, Apple y las subsidiarias de Apple son terceros beneficiarios de estos Términos, y al aceptar estos Términos, Apple tendrá el derecho (y se considerará que ha aceptado el derecho) de hacer cumplir estos Términos en su contra como tercero beneficiario de ellos.
+
+Cualquier pregunta, queja o reclamo del usuario final con respecto a los Productos con licencia debe presentarse a la <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Asistencia de Epic Games</>.
+
+<EULA.Highlight>Para residentes del Reino Unido: Es posible que las exenciones de la responsabilidad no sean exigibles en su contra.</>
+
+<EULA.Header>d.	Usuarios finales de Samsung GALAXY</>
+
+Los siguientes términos y condiciones adicionales se aplican con respecto a los Productos con licencia disponibles para su uso en los dispositivos Samsung GALAXY que usted posee o controla:
+
+Los Productos con licencia pueden proporcionarle la capacidad de realizar pagos a través de las API de compra en la aplicación de Samsung (In-App-Purchase). En caso de que realice un pago utilizando la Compra en la aplicación de Samsung, los Términos y condiciones de las aplicaciones Samsung GALAXY que celebró con Samsung Electronics Co., Ltd. (o sus filiales) con respecto al uso de la Compra en la aplicación de Samsung y sus términos equivalentes se aplicarán al pago y a cualquier reembolso relacionado con dicho pago.
+
+<EULA.Header>ANEXO 1: CONTENIDO REALIZADO POR EL DESARROLLADOR</>
+
+1.1 Unreal Editor para Fortnite (“UEFN”) es una herramienta de creación que permite que los desarrolladores creen, desarrollen, modifiquen o contribuyan contenido en Fortnite, y carguen, publiquen o pongan dicho contenido a disposición de otros usuarios de los Productos con licencia. Antes de utilizar UEFN, los desarrolladores deben aceptar este acuerdo y los Términos complementarios de UEFN, que establecen que una persona que utiliza UEFN para crear contenido de UEFN es un “Desarrollador”. Todo el Contenido en el juego creado, ofrecido, mostrado, puesto a disposición u organizado por los Desarrolladores es “Contenido realizado por el Desarrollador”, que no tiene un valor equivalente en el mundo real, se ofrece solo con fines de entretenimiento y no establece ningún derecho de propiedad exigible, excepto para los Desarrolladores según se describe en la sección aplicable de los Términos complementarios de UEFN. Las islas hechas por el Desarrollador y los artículos digitales ganados dentro de ellas son ejemplos de Contenido realizado por el Desarrollador. Los créditos (según se define en la Sección 10 de los Términos de servicio de Epic Games) pueden canjearse por licencias para artículos digitales u otro Contenido realizado por el Desarrollador (“Contenido canjeable realizado por el Desarrollador”, un tipo de Contenido realizado por el Desarrollador). 
+
+Cuando obtiene licencias para el Contenido canjeable realizado por el Desarrollador, estas se limitan a la experiencia en la que se obtienen, a menos que se describa lo contrario.
+
+1.2 Al adquirir el derecho de usar Contenido canjeable realizado por el Desarrollador con Créditos de conformidad con una licencia del Desarrollador, la transacción y la relación contractual son entre Usted y el Desarrollador, no con Epic. Epic solo facilita el acceso al Contenido canjeable realizado por el Desarrollador. 
+
+1.2.1: Sin perjuicio de la Sección 1.2 anterior, si adquiere Contenido canjeable realizado por el Desarrollador con Créditos y se encuentra en el Reino Unido, la Unión Europea o el Espacio Económico Europeo, no existe ningún contrato de venta o licencia entre usted y el Desarrollador, en lo que respecta al Contenido canjeable realizado por el Desarrollador. La relación contractual será entre Usted y Epic. El Desarrollador concede licencias a Epic sobre el Contenido canjeable realizado por el Desarrollador con Créditos, que Epic le sublicencia a usted. A menos que se indique expresamente lo contrario, la sublicencia otorgada a usted por Epic se encuentra en los mismos términos que la licencia para usar los Productos con licencia según se establece en la Sección 3 de los Términos de servicio de Epic Games (según corresponda en el Reino Unido, la UE y el Espacio Económico Europeo). Sin limitar la Sección 15(b) de los Términos de servicio de Epic, Epic es responsable de la validez de la sublicencia que le otorga con respecto a su capacidad de usar Contenido canjeable realizado por el Desarrollador con Créditos de la misma manera y en la misma medida que es responsable de la validez de la licencia que le otorga con respecto al uso que usted hace de los Productos con licencia. Usted no adeuda ningún pago al Desarrollador para adquirir o utilizar Contenido canjeable realizado por el Desarrollador con Créditos.
+
+1.2.2: Sin perjuicio de la Sección 1.2 anterior, cualquier derecho que adquiera para usar el Contenido canjeable realizado por el Desarrollador con Créditos emitidos en Japón, así como las transacciones y relaciones contractuales para adquirir dichos derechos, son entre usted y Epic. No está comprando al Desarrollador ni a ningún otro tercero ningún Contenido realizado por el Desarrollador o Contenido redimible realizado por el Desarrollador con Créditos emitidos en Japón. Como condiciones para recibir los servicios de Epic como se describió anteriormente, además de estos Términos, es posible que se le solicite que acepte y cumpla con los términos y condiciones adicionales proporcionados por el Desarrollador que creó, desarrolló y/o puso a disposición el Contenido realizado por el Desarrollador. Estos términos y condiciones adicionales se acuerdan y celebran entre Epic y usted, y a menos que se indique lo contrario, no se crea ninguna relación contractual entre usted y cualquier Desarrollador.
+
+1.3 Sujeto a las Secciones 1.2.1 y 1.2.2 anteriores y a las leyes locales aplicables, el Desarrollador es el único responsable de la oferta, el contenido y cualquier garantía relacionada con el Contenido realizado por el Desarrollador, así como de cualquier reclamación que usted pueda tener relacionada con el Contenido realizado por el Desarrollador. Si tiene un problema con cualquier Contenido realizado por el Desarrollador, Epic puede facilitar la comunicación entre usted y el Desarrollador y proponer una solución no vinculante. 
+
+1.4 Para evitar dudas, cualquier disputa relacionada con el Contenido realizado por el Desarrollador debe resolverse como una “Disputa”, según se define ese término en la Sección 17(b) de los Términos de servicio de Epic Games, y debe resolverse siguiendo los procedimientos establecidos en las Secciones 16 y 17 de esos Términos. El Desarrollador de ese Contenido realizado por el Desarrollador es un tercero beneficiario previsto de los Términos y puede obligar a un conflicto a arbitraje en la misma medida que Epic.

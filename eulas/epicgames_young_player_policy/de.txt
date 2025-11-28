@@ -1,0 +1,89 @@
+Zuletzt aktualisiert: 28. November 2025
+
+<EULA.Highlight>Wer ist Epic Games?</>
+
+Hallo! Wir sind Epic Games, und wir machen tolle Spiele wie Fortnite Battle Royale, LEGO Fortnite Odyssey, Fortnite Festival, Fall Guys, Rocket League, Rocket Racing und mehr! Wir stellen auch coole Tools her, mit denen Leute ihre eigenen Videospiele entwickeln können, und führen den Epic Games Store. 
+
+<EULA.Highlight>Worum geht es auf dieser Seite?</>
+
+Wenn du Videospiele spielst und Websites besuchst, werden ein paar Infos über dich gesammelt. Auf dieser Seite geht es darum, welche Infos wir sammeln, warum wir sie sammeln und wie wir sie für die Spiele, die du spielst, die Websites, die du besuchst, und alle anderen Online-Dienste, die du von Epic Games nutzt, verwenden. 
+
+Wenn du alle Details haben möchtest, bitte deine Eltern/Erziehungsberechtigten, dir dabei zu helfen, die vollständige <a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink">Datenschutzrichtlinie von Epic Games</a> zu lesen.
+
+<EULA.Highlight>Welche Informationen erfassen wir?</>
+
+Wir erfassen verschiedene Arten von Informationen, je nachdem, welche Spiele, Websites oder Online-Dienste du nutzt und wie du sie nutzt. 
+
+<EULA.Highlight>Wir erhalten deine Informationen, wenn du sie mit uns teilst</>, z. B. wenn du:
+
+• dich für ein Epic-Konto anmeldest (wie z. B. das Hinzufügen deiner E-Mail und deines Geburtstags),
+• den Spieler-Support kontaktierst und
+• einen Sprach- oder Textchat-Bericht sendest, während du unsere Spiele spielst.
+
+<EULA.Highlight>Wir erfassen automatisch einige deiner Informationen mit speziellen Tools</>, wie z. B.:
+
+• welches Gerät du verwendest (Telefon, Konsole oder Computer), 
+• welche unserer Spiele du spielst und 
+• Informationen, die uns helfen, Spieler zu erwischen, die gegen unsere Regeln verstoßen. 
+
+<EULA.Highlight>Manchmal erhalten wir deine Informationen von anderen Unternehmen</>,<EULA.Highlight> </>z. B. PlayStation®, Microsoft Xbox oder Nintendo Switch, wenn du unsere Spiele mit diesen Spielkonsolen spielst.
+
+<EULA.Highlight>Wie verwenden wir deine Informationen?</>
+
+Wir verwenden deine Informationen, um:
+
+• unsere Spiele, Websites und Online-Dienste reibungslos funktionieren zu lassen, 
+• unsere Spiele, Websites und Online-Dienste zu verbessern und alles unterhaltsamer zu machen,
+• dein Erlebnis zu personalisieren oder dich über Veranstaltungen, Nachrichten oder andere Epic-Spiele zu informieren, die dir gefallen könnten (sofern du alt genug bist oder die Erlaubnis dafür hast), und 
+• Betrugsversuche zu erkennen und Personen zu schützen.
+
+<EULA.Highlight>Beispiel</>: In Fortnite ist die <a id="url" href="https://www.fortnite.com/news/introducing-voice-reporting-in-fortnite" style="EULA.Hyperlink">Sprachmeldung</a> immer aktiviert, wenn du unter 18 bist. Das heißt, wenn du den Chat verwendest und jemand gegen <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">unsere Regeln</a> verstößt (z. B. wenn du Mobbing oder toxische Spieler siehst), kannst du uns <a id="url" href="https://www.epicgames.com/help/fortnite-c5719335176219/player-behavior-c19319279166491/how-to-report-bad-player-behavior-in-fortnite-a5720300102171" style="EULA.Hyperlink">im Spiel eine Meldung</a> schicken, damit wir deinen Voice-Chat überprüfen und sehen können, was passiert ist. 
+
+<EULA.Highlight>Wann geben wir deine Informationen weiter?</>
+
+Wir könnten deine Informationen weitergeben an:
+
+• andere Epic-Unternehmen und Unternehmen, die für uns arbeiten, um uns bei der Ausführung unserer Spiele, Websites und anderer Online-Dienste zu unterstützen (wie z. B. deine Benutzer-ID oder IP-Adresse), 
+• Spielkonsolenunternehmen wie PlayStation®, Microsoft Xbox oder Nintendo Switch, wenn du unsere Spiele auf diesen Konsolen spielst,
+• Spieleentwickler, wenn du ihr Spiel aus dem Epic Games Store herunterlädst, damit du es spielen kannst, 
+• Online-Plattformen oder -Stores, wenn du dein Epic-Konto mit deren Konto verknüpfen möchtest (sofern du alt genug bist oder die Erlaubnis dafür hast), und 
+• die Polizei oder andere Strafverfolgungsbehörden, um dich und andere Personen wie unsere Mitarbeiter und Spieler zu schützen.
+
+<EULA.Highlight>Welche Wahlmöglichkeiten hast du bezüglich deiner Informationen?</>
+
+Du kannst uns bitten:
+
+• deine Informationen zu korrigieren oder zu ändern, 
+• eine Kopie deiner Informationen zu erhalten und 
+• dein Konto zu löschen.
+
+Deine Eltern/Erziehungsberechtigten können diese Dinge auch für dich erledigen (je nachdem, wie alt du bist).
+
+Um uns eine Anfrage zu senden, folge den Anweisungen unten auf dieser Seite oder schau dir die vollständige <a id="url" href="https://www.epicgames.com/privacypolicy" style="EULA.Hyperlink">Datenschutzrichtlinie von Epic Games</a> an. In Abschnitt 12 (Wie kannst du uns kontaktieren?) findest du unsere Kontaktinformationen.
+
+<EULA.Highlight>Was sind Standardeinstellungen und elterliche Kontrollen?</>
+
+Wenn du unter 18 Jahre alt bist, beginnt dein Epic-Konto mit hohen Datenschutzeinstellungen. Das bedeutet:
+
+• Funktionen wie Chat, Profile und personalisierte Empfehlungen sind eingeschränkt oder deaktiviert und 
+• einige Einstellungen kannst du ändern, wenn du älter bist. 
+
+Einige Funktionen benötigen zuerst die Erlaubnis deiner Eltern/Erziehungsberechtigten. Deine Eltern/Erziehungsberechtigten können über unser <a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">Kontoportal</a> <a id="url" href="https://www.epicgames.com/account/parental-controls" style="EULA.Hyperlink">elterliche Kontrollen</a> einrichten. 
+
+<EULA.Highlight>Wie kannst du online sicher bleiben?</>
+
+Damit du die bestmögliche Erfahrung machst, hier ein paar Tipps, wie du online sicher bleibst:
+
+• Wenn du einen Anzeigenamen wählen kannst, such dir einen lustigen aus und benutze nicht deinen echten Namen.
+• Gib niemals Sachen wie deinen echten Namen, deine Telefonnummer, Adresse oder andere private Infos an andere weiter. 
+• Sei vorsichtig im Chat und gib keine persönlichen Sachen weiter, auch nicht an Freunde, die du online kennengelernt hast. Du kannst die sozialen Funktionen in deinen Einstellungen verwalten. 
+• Verwende ein starkes Passwort, das niemand erraten kann, und halte es geheim. 
+• Wenn du glaubst, dass jemand Zugriff auf dein Konto hat, sag uns bitte sofort Bescheid.
+
+In unserem <a id="url" href="http://safety.epicgames.com/" style="EULA.Hyperlink">Sicherheitscenter</a> findest du weitere hilfreiche Tipps, wie du dich online schützen kannst. 
+
+<EULA.Highlight>Wie kannst du uns kontaktieren? </>
+
+• Antworten auf häufige Fragen findest du in unserem <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Support Center</a>. 
+• Bei Fragen kannst du uns auch eine E-Mail an privacy@support.epicgames.com senden.
+• Deine Eltern/Erziehungsberechtigten können uns Fragen über eine <a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">Anfrage für Eltern oder Erziehungsberechtigte</a> senden.

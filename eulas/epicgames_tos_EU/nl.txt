@@ -1,0 +1,427 @@
+Laatst bijgewerkt: 20 oktober 2025
+Van kracht: 28 november 2025 
+
+Hallo! Dit zijn de regels en verantwoordelijkheden in verband met het gebruik van onze games en diensten. 
+
+Maar eerst een bericht voor jonge spelers. <EULA.HIGHLIGHT>ALS U GEEN VOLWASSENE BENT (18+ IN DE MEESTE RECHTSGEBIEDEN), VRAAG DAN UW OUDER OF VOOGD OM DIT MET U DOOR TE LEZEN</>. 
+
+<EULA.Highlight>Door deze Voorwaarden te accepteren, gaat u (en uw ouder/voogd) akkoord met deze regels, inclusief beperkingen op de aansprakelijkheid van Epic jegens u, regels voor Content binnen de game, arbitrage van geschillen en het recht van Epic om deze Voorwaarden te wijzigen en accounts van Epic Games te beëindigen. Zie hieronder voor meer voorwaarden en details. </>
+
+De Servicevoorwaarden van Epic Games, inclusief alle documenten waarnaar wordt verwezen en gekoppeld (waarnaar we gezamenlijk verwijzen als deze “<EULA.Highlight>Voorwaarden</>”), vormen een wettelijke overeenkomst tussen u en Epic Games. Deze Voorwaarden leggen de regels en verantwoordelijkheden uit waarmee u akkoord gaat bij het gebruik van de websites, producten en diensten van Epic. Door die te gebruiken, gaat u ermee akkoord gebonden te zijn aan deze Voorwaarden. <EULA.Highlight>Het is belangrijk dat u deze Voorwaarden zorgvuldig leest. </>
+
+<EULA.Highlight>Voor ouders of voogden die dit lezen: Als u deze Voorwaarden accepteert namens een minderjarige voor wie u zorgt voor een Epic Games-account, gaat u ermee akkoord namens uzelf en namens de minderjarige. </>U gaat ermee akkoord dat u verantwoordelijk bent voor elk gebruik van de Gelicentieerde Producten (hieronder gedefinieerd) door u of de minderjarige. U bent verantwoordelijk voor alle niet-frauduleuze aankopen die zijn gedaan via de Epic Games-account, inclusief aankopen die zijn gedaan door de minderjarige. Bovendien is het uw verantwoordelijkheid om de uitgaven van de minderjarige te controleren. Voor uw bescherming dient u uw e-mail en wachtwoord voldoende te beveiligen, zodat niemand ongeoorloofde aankopen doet op het account. We raden u aan om vertrouwd te raken met uw lokale spel- en contentbeoordelingssystemen. Als hulp bieden we ouderlijk toezicht om de ervaring van de minderjarige aan te passen. Voor meer informatie over de manieren waarop we werken om een veilige en leuke plek te creëren voor spelers van alle leeftijden, ga naar het <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Epic Games Safety and Security Center</> (Centrum voor veiligheid en beveiliging van Epic Games).
+
+Zoals hieronder uitgelegd, mag u uw Epic Games-account met niemand delen. Als u dat toch doet, in strijd met deze Voorwaarden, zijn deze Voorwaarden van toepassing op en binden ze iedereen aan wie u toegang geeft tot uw Epic Games-account. Wanneer we zeggen: “<EULA.Highlight>u</>”, “<EULA.Highlight>uw</>” of “<EULA.Highlight>uzelf</>”, bedoelen we u als individu en elke gebruiker van uw Epic Games-account. U wordt beschouwd als “<EULA.Highlight>Eindgebruiker</>” in de zin van deze Voorwaarden. Voor minderjarigen verwijst “u”, “uw” of “uzelf” gezamenlijk naar de ouder of voogd en de minderjarige. 
+
+Wanneer we zeggen: “<EULA.Highlight>Epic Games</>”, “<EULA.Highlight>Epic</>”, “<EULA.Highlight>wij</>” of “<EULA.Highlight>ons</>”, bedoelen we de entiteit van Epic Games die verantwoordelijk is voor het leveren van het Gelicentieerde Product dat u gebruikt. Voor meer informatie over de entiteiten van Epic die verantwoordelijk zijn voor het leveren van Gelicentieerde Producten in uw regio, zie sectie 18. Wanneer we zeggen “omvatten”, “omvat” en “inclusief”, moet dat worden gelezen alsof er “zonder beperking” achter staat (bijv. “omvat [zonder beperking]”). 
+
+Wanneer we zeggen: “<EULA.Highlight>Volwassene</>”, betekent dit dat u de wettelijke meerderjarigheid hebt bereikt waar u woont (d.w.z. 18 in de meeste lidstaten van de Europese Unie (“EU”), maar dit kan variëren op basis van de lokale wetgeving).  
+
+Als deze Voorwaarden beschikbaar zijn in een officiële taal van het land waar u woont (bijv. Deutsch als u inwoner van Duitsland bent), is dat de toepasselijke taal voor deze Voorwaarden. Anders is de toepasselijke taal het Engels.
+
+<EULA.Header>1.	Producten die onder deze Voorwaarden vallen</>
+
+Deze Voorwaarden zijn van toepassing op elk “<EULA.Highlight>Gelicentieerd Product</>” dat naar dit document verwijst, waaronder: 
+
+•	onze games (inclusief Fall Guys, Fortnite en Rocket League) die koppelen naar deze Voorwaarden en bijbehorende content/ervaringen;
+•	Unreal Editor for Fortnite (“<EULA.Highlight>UEFN</>”);
+•	PostParty; 
+•	alle “<EULA.Highlight>Content binnen de game</>”, zoals personages, emotes, outfits, ervaringen (bijv. eilanden) en andere digitale goederen en media, die aan u beschikbaar kunnen worden gesteld voor uw gebruik in de Gelicentieerde Producten.
+•	diensten die we leveren, inclusief launchers, portalen (bijv. Epic Developer Portal), invoegtoepassingen, accounts bij Epic Games, sociale functies, betaling, ondersteuningsdiensten voor spelers, beloningsprogramma’s en websites; en
+•	alle andere producten of diensten die naar deze Voorwaarden doorkoppelen.
+
+Als u niet akkoord gaat of kunt gaan met deze Voorwaarden, mag u geen van deze Gelicentieerde Producten gebruiken.
+
+Deze Voorwaarden zijn niet van toepassing op Unreal Engine, de winkel van Epic Games of de marktplaatsen van Epic (bijv. Fab). Wanneer u Unreal Engine, de winkel van Epic Games of de marktplaatsen van Epic gebruikt, raadpleeg dan de toepasselijke Voorwaarden.
+
+Als een Gelicentieerd Product onderworpen is aan aanvullende algemene voorwaarden (bijv. de Aanvullende voorwaarden van de UEFN), krijgt u die productspecifieke Voorwaarden te zien en moet u ermee akkoord gaan voordat u dat Gelicentieerd Product gebruikt. Ook kunnen sommige programma’s van Epic (bijv. Epics programma voor de makers van een eiland (Epic’s Island Creator Program)) aanvullende algemene voorwaarden hebben die moeten worden geaccepteerd voordat u kunt deelnemen. Als er ooit een conflict bestaat tussen deze Voorwaarden en de voorwaarden voor specifieke producten of programma’s, zijn de product- of programmaspecifieke voorwaarden van toepassing. 
+
+<EULA.Header>2.	Een Epic Games-account gebruiken</>
+
+Om sommige Gelicentieerde Producten te gebruiken, moet u zich misschien registreren voor een “<EULA.Highlight>Epic Games-account</>”. Wanneer u een Epic Games-account aanmaakt, moet u nauwkeurige informatie over uzelf verstrekken en die informatie bijwerken als die verandert. U moet voldoen aan alle leeftijdsvereisten in verband met een Gelicentieerd Product voordat u het gebruikt. Als u een Epic Games-account aanmaakt met behulp van een e-mailadres met een domein dat eigendom is van uw werkgever of organisatie (d.w.z. een werk-e-mail), stemt u ermee in dat u uw werkgever of organisatie aan deze Voorwaarden bindt met betrekking tot uw gebruik van Gelicentieerde Producten.
+
+U moet de beveiliging van uw Epic Games-account handhaven en Epic (via <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-support</>) (ondersteuning van Epic Games) op de hoogte stellen als u ontdekt of vermoedt dat iemand er zonder uw toestemming toegang toe heeft gekregen. 
+
+U mag de inloggegevens van uw Epic Games-account niet met anderen delen. U kunt alleen uw eigen Epic Games-account gebruiken die bij u staat geregistreerd. U mag het account niet verkopen, weggeven, verhandelen of het Epic Games-account van iemand anders gebruiken, zelfs als diegene u dat laat doen. Het samen delen van uw Epic Games-account of toegang tot die van iemand anders kan leiden tot opschorting of beëindiging van het Epic Games-account en uw verlies van toegang tot Gelicentieerde Producten. 
+
+<EULA.Highlight>U bent verantwoordelijk voor alle activiteiten of schendingen op uw Epic Games-account die worden veroorzaakt door het niet goed beveiligen van uw account of het ongepast verlenen van toegang aan een ander.</>
+
+Bij het aanmaken van eenEpic Games-account wordt u gevraagd om een “weergavenaam” aan te maken voor uw Epic Games-account die openbaar beschikbaar wordt. Als u een weergavenaam voor uzelf kiest die beledigend of misleidend is, onze <a id="url" href="https://legal.epicgames.com/epicgames/community-rules" style="EULA.Hyperlink">Gemeenschapsregels</> schendt of die inbreuk maakt op de rechten van iemand anders, hebben wij het recht om uw weergavenaam te wijzigen. 
+
+U kunt uw Epic Games-account op elk moment verwijderen, wat dan wordt beschouwd als uw wens om uw instemming met deze Voorwaarden te beëindigen. Ga voor informatie over het verwijderen van uw Epic Games-account <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">hier</> naar onze website voor Technische ondersteuning en klantenservice. Omdat uw Epic Games-account een Gelicentieerd Product is, betekent dat ook dat u de toegang verliest tot alle informatie die is gekoppeld aan uw Epic Games-account. Dat kan bijvoorbeeld ook uw gebruik van producten die afhankelijk zijn van online diensten van Epic gekoppeld aan uw Epic Games-account beletten of uw gebruik daarvan ernstig beperken. Voor meer informatie over het effect van beëindiging van uw Epic Games-account, zie sectie 14.c hieronder.
+
+<EULA.Header>3.	Licentievoorwaarden en gebruik van Gelicentieerde Producten</>
+
+<EULA.Highlight>De Gelicentieerde Producten (en Content binnen de game) die u gebruikt, worden aan u in licentie gegeven, niet verkocht.</> Dat betekent dat u geen Gelicentieerde Producten of Content binnen de game bezit die aan u beschikbaar zijn gesteld, maar u krijgt toestemming om die te gebruiken in de vorm van een licentie. Epic, zijn gelieerde ondernemingen en licentiegevers (zoals onafhankelijke ontwikkelaars) bezitten alle aanspraken, eigendomsrechten en intellectuele eigendomsrechten, inclusief maar niet beperkt tot alle auteursrechten, handelsmerkrechten en octrooirechten, op alle elementen van de Gelicentieerde Producten die aan u beschikbaar worden gesteld.
+
+Door akkoord te gaan met deze Voorwaarden, verleent Epic u een licentie voor Gelicentieerde Producten die het volgende is:
+
+•	<EULA.Highlight>beperkt</> (u mag Gelicentieerde Producten alleen gebruiken zoals uitdrukkelijk vermeld in deze Voorwaarden);
+•	<EULA.Highlight>persoonlijk en niet-overdraagbaar</> (onze licentie is alleen voor u, niet voor iemand anders, dus u kunt uw licentie voor onze Gelicentieerde Producten niet samen delen, overdragen of verkopen);
+•	<EULA.Highlight>herroepbaar</> (we kunnen de licentie wegnemen);
+•	<EULA.Highlight>niet-exclusief</> (we kunnen andere mensen behalve u de Gelicentieerde Producten laten gebruiken); en
+•	<EULA.Highlight>niet-sublicentieerbaar</> (u kunt uw rechten op grond van deze Voorwaarden niet aan iemand anders geven of anderen uw rechten op grond van deze Voorwaarden laten uitoefenen).
+
+De entiteit van Epic die u een licentie verleent voor een Gelicentieerd Product op grond van deze Voorwaarden wordt vermeld in sectie 18. De specifieke entiteit is afhankelijk van verschillende factoren, waaronder uw locatie. 
+
+Volgens deze licentie <EULA.Highlight>mag u het volgende niet doen</>:
+
+•	<EULA.Highlight>Gelicentieerde Producten commercieel gebruiken</> (bijv. om te adverteren of geld te verdienen door middel van verhuur of leasing) of voor een promotioneel doel, <EULA.Highlight>tenzij</> deze Voorwaarden van of andere overeenkomsten met Epic dit toestaan. 
+•	<EULA.Highlight>Gelicentieerde Producten kopiëren, weergeven, uitvoeren of gebruiken</> op een manier die in deze Voorwaarden niet specifiek wordt vermeld als toegestaan gebruik, of buiten het bereik van het beoogde gebruik.
+•	Gelicentieerde Producten <EULA.Highlight>reverse-engineeren, wijzigen, decompileren, demonteren of er afgeleide werken van maken.</>
+•	<EULA.Highlight>Gelicentieerde Producten gebruiken op een manier die veroorzaakt dat Epic kosten maakt voor dergelijk gebruik of inbreuk maakt op de rechten van iemand anders</>, inclusief intellectuele eigendoms-, publiciteits- of privacyrechten.
+•	Kennisgevingen van rechten die worden weergegeven op of in verband met Gelicentieerde Producten, zoals kennisgevingen van auteursrechten of handelsmerken<EULA.Highlight> verwijderen, wissen, verbergen of wijzigen</>.
+•	<EULA.Highlight>Video's en/of afbeeldingen van gameplay van Gelicentieerde Producten plaatsen die misleidende beweringen of bedrieglijke aanbiedingen doen die de betrokkenheid bij door een ontwikkelaar gemaakte inhoud kunnen vergroten</> (bijv. het maken van gameplayvideo's die ten onrechte impliceren dat sommige door de ontwikkelaar gemaakte inhoud ongebruikelijk hoge XP oplevert).
+•	<EULA.Highlight>Code of content die is geëxtraheerd uit de Gelicentieerde Producten gebruiken als trainingsinvoer voor een programma voor generatieve AI of als op prompts gebaseerde invoer waarbij het programma voor generatieve AI wordt getraind op invoergegevens. “Programma voor generatieve AI”</> betekent kunstmatige intelligentie, machinaal leren, diep leren, neurale netwerken of soortgelijke technologieën die zijn ontworpen om het genereren van of helpen bij het creëren van nieuwe content te automatiseren, inclusief maar niet beperkt tot audio-, visuele of op tekst gebaseerde content. Programma’s voldoen niet aan deze definitie van programma’s voor generatieve AI wanneer ze, per niet-limiterend voorbeeld, (a) uitsluitend werken op de oorspronkelijke content (zoals het verbeteren van afbeeldingen); (b) tags genereren om visuele invoercontent te classificeren; of (c) instructies genereren om bestaande content te rangschikken, zonder nieuwe content te creëren.
+•	<EULA.Highlight>De regels van het </><a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">ecosysteem overtreden</>.
+•	<EULA.Highlight>Gelicentieerde Producten gebruiken om de toepasselijke wet- of regelgeving te overtreden.</>
+
+Alle rechten in en op Gelicentieerde Producten en Content binnen de game die niet specifiek in deze Voorwaarden worden verleend, zijn voorbehouden aan Epic en zijn licentiegevers en u mag de Gelicentieerde Producten alleen gebruiken zoals vermeld in deze Voorwaarden. Via deze Voorwaarden worden er geen licentie- of andere rechten gecreëerd door implicatie, uitsluiting of anderszins.
+
+<EULA.Header>4.	Integriteit van gameplay</>
+
+Gelicentieerde Producten zijn bedoeld als een plezierige ervaring voor iedereen en we verwachten dat iedereen eerlijk speelt en de spelregels volgt. U gaat er dan ook mee akkoord om niet:
+
+•	het gebruik van Cheats, inclusief software, hulpmiddelen en apparatuur voor valsspelen te gebruiken of aan te moedigen;
+•	anderen te betrekken bij of aan te moedigen om deel te nemen aan Fraude;
+•	Cheats te ontwikkelen, op de markt te brengen, te distribueren of te ondersteunen;
+•	software, hulpmiddelen of apparatuur voor valsspelen aanwezig te hebben op of verbonden te hebben met uw apparaat;
+•	te proberen te knoeien met hulpmiddelen voor de integriteit van gameplay (Gameplay Integrity Tools) of Gelicentieerde Producten of deze te wijzigen, uit te schakelen, te verstoren of te omzeilen, of anderen aan te moedigen om dat te doen; 
+•	botsoftware of -diensten te gebruiken om uw gebruik van Gelicentieerde Producten te automatiseren;
+•	hulpmiddelen voor ondersteuning van spelers te misbruiken.
+
+Een exploit gevonden? <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct" style="EULA.Hyperlink">Meld het</>. 
+
+Gebruik of distribueer geen namaaksoftware of content die verband houdt met Gelicentieerde Producten, inclusief Content binnen de game. 
+
+Om games eerlijk en leuk te houden, gebruikt Epic “<EULA.Highlight>Hulpmiddelen voor de integriteit van gameplay (Gameplay Integrity Tools)</>.” Deze hulpmiddelen helpen bij het vinden en stoppen van programma’s of acties die problemen veroorzaken, zoals: (i) hacken, stelen van accounts van Epic Games of andere illegale of ongeoorloofde activiteiten (“<EULA.Highlight>Fraude</>”); of (ii) Cheats die oneerlijke voordelen bieden, zoals bots, hacks, add-ons, malware, scripts of mods die niet zijn goedgekeurd door Epic (“<EULA.Highlight>Cheats</>”). Sommige van deze hulpmiddelen zijn ingebouwd in Gelicentieerde Producten en soms moet u ze installeren wanneer u een product downloadt of bijwerkt. Deze hulpmiddelen kunnen informatie verzamelen en verzenden over uw Epic Games-account, gameplay en eventuele ongeautoriseerde programma’s die op uw apparaat worden uitgevoerd. 
+
+Als we bewijs vinden dat u zich schuldig hebt gemaakt aan Fraude of Cheats, kunnen we actie ondernemen tegen u of uw Epic Games-account (inclusief het opschorten of beëindigen ervan) zonder voorafgaande kennisgeving. U kunt in beroep gaan tegen een actie die Epic tegen u onderneemt. Zie sectie 8.b hieronder voor meer informatie over in beroep gaan. Het geldt echter niet als verdediging om te zeggen dat u de apparaten of hulpmiddelen nog niet hebt gebruikt of alleen die apparaten of hulpmiddelen hebt gebruikt op het product van iemand anders, of alleen de bedoeling had om dat te doen. 
+
+U begrijpt en erkent dat Epic niet hoeft te onthullen, en dat ook niet zal doen, hoe zijn hulpmiddelen voor de integriteit van gameplay werken of welke specifieke apparaten of hulpmiddelen Epic heeft ontdekt, omdat het onthullen van deze informatie promotors van dergelijke apparaten of hulpmiddelen kan helpen bij het omzeilen van opsporing. 
+
+<EULA.Header>5.	Wijzigingen van deze Voorwaarden of ons aanbod </>
+
+We kunnen deze Voorwaarden in de toekomst bijwerken en u vragen ze opnieuw te accepteren voordat u doorgaat met het gebruik van Gelicentieerde Producten. We kunnen deze Voorwaarden ook eenzijdig bijwerken als de wetgeving verandert, ook als de rechtbank dit vereist, of als we dingen moeten verduidelijken. Als we belangrijke wijzigingen aanbrengen:
+
+•	sturen we u de nieuwe Voorwaarden (per e-mail, binnen het spel of via een ander schrijven);
+•	vertellen we u wanneer de nieuwe Voorwaarden van kracht worden; en
+•	stellen we u ten minste 30 dagen van tevoren op de hoogte van de inwerkingtreding van de nieuwe Voorwaarden.
+
+Voordat de nieuwe Voorwaarden van kracht worden, hebt u het recht om nee te zeggen tegen de wijzigingen. In dat geval zijn de nieuwe Voorwaarden niet op u van toepassing, maar dan kunt u de Gelicentieerde Producten ook niet gebruiken, tenzij of totdat u in de toekomst akkoord gaat. Als u de nieuwe Voorwaarden niet duidelijk weigert voordat ze van kracht worden, betekent dat dat u akkoord gaat met de nieuwe Voorwaarden (tenzij de wijzigingen zo belangrijk zijn dat u redelijkerwijs niet kunt aannemen dat het dezelfde overeenkomst is).
+
+Veel van de Gelicentieerde Producten zijn live diensten. Dat betekent dat het voortdurend evoluerende softwaretoepassingen zijn die afhankelijk zijn van internetverbinding en in de loop van de tijd kunnen worden bijgewerkt, verbeterd of gewijzigd. We kunnen in de loop van de tijd functies, inhoud en hardwarevereisten toevoegen, verwijderen of wijzigen. Net als bij elke online dienst kunnen ze af en toe te maken krijgen met onderbrekingen, bijvoorbeeld:
+
+•	programmafouten of technische problemen
+•	geplande of ongeplande uitvaltijd (bijvoorbeeld het implementeren van herzieningen of verbeteringen)
+•	tijdelijke vertragingen of storing veroorzaakt door externe dienstverleners, netwerkomstandigheden of aanpassingen om Gelicentieerde Producten soepel te laten werken op een breed scala aan apparaten, waaronder apparatuur met lagere prestaties.
+
+Epic streeft ernaar om deze verstoringen te minimaliseren en werkt hard om uw toegang betrouwbaar, beveiligd en plezierig te houden. 
+
+Gelicentieerde Producten zijn ook ontworpen om veelzijdig en boeiend te zijn en we proberen ze altijd nog beter te maken! Dit betekent ook dat onze Gelicentieerde Producten van tijd tot tijd updates of wijzigingen kunnen ontvangen (bijv. seizoensgebonden updates, tijdelijke evenementen, gameplay-updates en saldowijzigingen). Zie hoofdstuk 15 voor uw consumentenrechten in de EU.
+
+Er kan bijvoorbeeld nieuwe content worden toegevoegd aan een winkel binnen het spel (bijv. de artikelenwinkel van Fortnite), terwijl andere aanbiedingen kunnen worden verwijderd, bijv. als een licentiecontract eindigt en we niet langer het recht hebben om dit product te distribueren. Eveneens kan er nieuwe content aan onze software worden toegevoegd. Bepaalde delen van deze nieuwe content, zoals seizoenspassen, zijn eventueel slechts een beperkte periode beschikbaar. Maar maakt u zich geen zorgen! We zetten ons in om u regelmatig van nieuwe en spannende content te voorzien. Om alles soepel te laten werken, moet u de nieuwste versie van onze producten gebruiken, waaronder eventueel patches, herzieningen of verbeteringen. Epic kan Gelicentieerde Producten op afstand bijwerken zonder u hiervan op de hoogte te stellen. 
+
+Als u ons een e-mailadres hebt verstrekt, kunnen we dit gebruiken om met u te communiceren over deze Voorwaarden en andere belangrijke juridische informatie. U gaat ermee akkoord dat e-mails en meldingen binnen het spel die we u sturen, voldoen aan elke wettelijke vereiste dat communicatie schriftelijk is.
+
+We kunnen ook onze Gelicentieerde Producten wijzigen, met inbegrip van schorsing, stopzetting, vervanging, of beperking van uw toegang tot aspecten van het betreffende Gelicentieerd Product om verschillende redenen, waaronder: (i) om het respectieve Gelicentieerd Product interessant en boeiend te houden voor bestaande of nieuwe spelers, (ii) technische beperkingen, (iii) wettelijke, contractuele of licentieverplichtingen, (iv) als we dergelijke wijzigingen moeten uitvoeren in het geldige belang van Epic Games (bijv. om reputatieschade te voorkomen), of (v) om te voldoen aan uw wettelijke garantierechten. We voeren dergelijke wijzigingen gratis uit.
+
+Als we bijvoorbeeld stoppen met het leveren van een van onze Gelicentieerde Producten aan u, omdat het niet langer financieel haalbaar is om het Gelicentieerd Product aan te bieden, zullen we deze Voorwaarden met betrekking tot dit specifieke Gelicentieerd Product gedeeltelijk beëindigen. Dat betekent dat hoewel de Voorwaarden niet langer van toepassing zijn op het stopgezette Gelicentieerd Product, ze nog steeds van kracht blijven voor alle andere Gelicentieerde Producten of diensten die u blijft gebruiken. Bovendien kan het zijn dat Gelicentieerde Producten of delen van de Gelicentieerde Producten in bepaalde regio’s of op bepaalde apparaten niet beschikbaar zijn of beschikbaar komen. 
+
+U erkent dat uw gebruik van de Gelicentieerde Producten u geen eigendoms- of ander belang verleent voor enig aspect of functie van de Gelicentieerde Producten, inclusief beloningen, prestaties en personageniveaus binnen het spel. U erkent ook dat alle personagegegevens, spelvoortgang, spelaanpassing of andere gegevens met betrekking tot uw gebruik van Gelicentieerde Producten op elk moment niet langer beschikbaar voor u kunnen zijn, bijvoorbeeld als we het spel in evenwicht brengen of de voortgang opnieuw instellen om de algehele gamerervaring te verbeteren. 
+
+<EULA.Header>6.	Facturering en betaling</>
+
+<EULA.Highlight>LET OP:</> Om transacties met echt geld te voltooien met Epic en zijn dochterondernemingen, moet u een Volwassene zijn die gemachtigd is om de opgegeven betaalmethode te gebruiken of moet u een Volwassene het betalingsproces laten voltooien. 
+
+<EULA.Highlight>Vergeet niet dat Gelicentieerde Producten en Content binnen de game aan u in licentie worden gegeven, niet verkocht.</>
+
+<EULA.Header>a.	Aankopen doen</>
+
+Wanneer iemand een betaalmethode invoert om aankopen te doen bij Gelicentieerde Producten, hebben we bevestiging nodig dat de persoon die de betaalmethode invoert een volwassene is, een geautoriseerde gebruiker is van de betaalmethode en akkoord gaat met de relevante voorwaarden, waaronder de<a id="url" href="https://legal.epicgames.com/store/eula" style="EULA.Hyperlink"> Licentieovereenkomst voor Eindgebruikers van de winkel van Epic Games</>. De persoon die een betaalmethode invoert, bevestigt ook dat Epic en zijn gelieerde ondernemingen bevoegd zijn om het aankoopbedrag in rekening te brengen via de betaalmethode, inclusief eventuele toepasselijke belastingen en kosten.
+
+De geregistreerde handelaar die uw betaalmethode in rekening brengt voor uw aankoop kan een andere entiteit van Epic of een andere derde partij zijn, afhankelijk van uw locatie en de aankoop. 
+
+Als we bijgewerkte informatie over uw betaalmethode ontvangen van uw bank of betalingsnetwerk, machtigt u ons om die te gebruiken voor alle aankopen die u doet. Wijzigingen in uw factureringsaccount hebben geen invloed op kosten die zijn ingediend voordat we redelijkerwijs op uw wijzigingen konden reageren. 
+
+Wanneer u een aankoop doet, kunnen we u kosten in rekening brengen op het moment dat er wordt begonnen met de aankoop of kort daarna. Als u een terugkerend abonnement koopt, brengen we u dat op terugkerende basis in rekening zoals uitgelegd op het moment van abonneren en of het een abonnement op terugkerende basis is. 
+
+<EULA.Header>b.	Kosten </>
+
+Als u rechtstreeks met Epic zaken doet, bent u verantwoordelijk voor het betalen van alle kosten en toepasselijke belastingen. De prijzen binnen de Gelicentieerde Producten kunnen worden gewijzigd, maar dergelijke prijswijzigingen hebben geen invloed op eerdere aankopen. Als we geen volledige, tijdige betaling van u ontvangen, of als we restitutie moeten geven als gevolg van ongeoorloofd gebruik van een betaalmethode van uw Epic Games-account, dan kunnen we uw toegang tot niet-betaalde of gerestitueerde Gelicentieerde Producten opschorten of verwijderen en uw vermogen om toekomstige aankopen te doen beperken. 
+
+Als u iets koopt bij een externe winkel (zoals de PlayStation®-winkel), is die aankoop tussen u en die derde partij, niet Epic, en moet u de regels voor aankopen van die derde partij volgen. Ter herinnering, deze Voorwaarden zijn van toepassing op Gelicentieerde Producten en alle Content binnen de game, ongeacht op welk platform u ze gebruikt. 
+
+<EULA.Header>7.	Restitutiebeleid; herroepingsrecht</>
+
+Als u Gelicentieerde Producten koopt van Epic, is ons <a id="url" href="https://legal.epicgames.com/store/refund-policy" style="EULA.Hyperlink">Restitutiebeleid</> van toepassing. Tenzij een aankoop bij Epic is aangeduid als restitueerbaar, of tenzij een toepasselijke wet u recht geeft op een terugbetaling, moet u ervan uitgaan dat alle aankopen bij Epic niet-restitueerbaar zijn. <EULA.Highlight>Niets in ons Restitutiebeleid is bedoeld om uw wettelijke rechten te beperken, zoals uw wettelijke garantierechten of uw herroepingsrecht. U kunt echter worden gevraagd om uitdrukkelijk afstand te doen van uw herroepingsrecht voordat u een aankoop voltooit om toegang te krijgen tot de relevante Gelicentieerde Producten. Voor meer informatie over uw wettelijke herroepingsrecht, raadpleeg dan onze </><a id="url" href="https://legal.epicgames.com/epicgames/right-of-withdrawal" style="EULA.Hyperlink">Informatie over het herroepingsrecht voor gebruikers gevestigd in de Europese Unie, de Europese Economische Ruimte of het Verenigd Koninkrijk</>. 
+
+Als u Content binnen de game of Gelicentieerde Producten koopt van een derde partij of via een platform van een derde partij (zoals de PlayStation®-winkel), is uw transactie met die derde partij en is het Restitutiebeleid van die partij van toepassing. Neem contact op met de derde partij waar u uw aankoop hebt gedaan voor informatie over restitutie.
+
+<EULA.Header>8.	Regels voor het ecosysteem</>
+
+We willen dat onze gemeenschap een veilige en leuke plek voor u is om de games te spelen, met anderen te communiceren en u creaties door te geven. We verwachten dat iedereen de wet en onze regels en richtlijnen volgt. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Onze regels</> zijn van toepassing op iedereen die Gelicentieerde Producten gebruikt en ze zijn bedoeld als leidraad voor het gedrag dat we verwachten van iedereen die Gelicentieerde Producten gebruikt. Deze “<EULA.Highlight>Regels voor het ecosysteem</>” omvatten ook onze <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Communityregels</> die van toepassing zijn op alle Eindgebruikers, onze <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Richtlijnen voor Content</> voor degenen die creaties maken en doorgeven binnen Gelicentieerde Producten en regels voor bepaalde Gelicentieerde Producten (bijv. <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
+
+<EULA.Header>a.	Melding</>
+
+Als u iemand ontdekt die onze Ecosysteemregels overtreedt of de wet, kunt u die persoon melden via melding binnen het spel of ons <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct/submit-report" style="EULA.Hyperlink">formulier voor Content rapporteren</>.. Bovendien kunt u in sommige Gelicentieerde Producten spelers blokkeren of dempen met wie u niet langer wilt communiceren. Meer informatie vindt u in ons <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct" style="EULA.Hyperlink">Centrum voor veiligheid en beveiliging (Safety and Security Center)</>. 
+
+Als u gebruikmaakt van onze functie voor geschreven en gesproken chats en melding is ingeschakeld in een chatkanaal, wordt het opgenomen deel van uw chat (waaronder audiogegevens van de gesproken chat) opgeslagen op uw apparaat en de apparaten van deelnemers in het chatkanaal. Als er een mogelijke schending van onze <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">gemeenschapsregels</> wordt gemeld, kunnen deze fragmenten worden verzonden naar Epic en worden beoordeeld. Behalve via menselijke beoordeling kan Epic uw communicatie (inclusief schriftelijke en gesproken chat) analyseren met technologieën voor machinaal leren om gedrag te helpen identificeren dat de regels schendt. Voor meer informatie kunt u naar <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">Veelgestelde vragen - melding via tekst en spraak in Fortnite (FAQ’s - Voice and Text Reporting in Fortnite</>.
+
+<EULA.Header>b.	Gevolgen</>
+
+Wanneer we op de hoogte komen van een schending van onze Ecosysteemregels of de wet, nemen we passende maatregelen tegen u of uw accounts van Epic Games. We kijken naar de ernst van de overtreding, of u een herhaalde overtreder bent en andere relevante factoren. Acties die we ondernemen kunnen tijdelijk of permanent zijn en we informeren u over de duur en het soort gevolgen dat u hebt gekregen. Gevolgen kunnen zijn: een waarschuwingsbericht (voor minder ernstige overtredingen), een verbod (tijdelijk of permanent) met betrekking tot bepaalde functies, producten of diensten van Epic, opschorting van uw Epic Games-account (wat een jaar of langer kan duren) of permanente beëindiging van deze Voorwaarden met betrekking tot u (voor herhaalde of ernstige overtredingen), wat zou betekenen dat u Gelicentieerde Producten nooit meer mag gebruiken binnen een Epic Games-account of op enig apparaat. Als Epic deze Voorwaarden voor u heeft beëindigd en u permanent verbiedt om Gelicentieerde Producten te gebruiken, mag u niet proberen het aan u opgelegde verbod te omzeilen door een nieuwe Epic Games-account aan te maken. Als u bezwaar wilt maken tegen een actie die we tegen u hebben ondernomen voor een overtreding, kunt u <a id="url" href="https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals" style="EULA.Hyperlink">hier</> bezwaar maken. Meer informatie over de gevolgen van het overtreden van deze regels, evenals ons mechanisme voor beroep, vindt u op de pagina <a id="url" href="https://safety.epicgames.com/sanctions-and-appeals" style="EULA.Hyperlink">Sancties en bezwaar</> van het <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Centrum voor veiligheid en beveiliging van Epic Games</>.
+
+Om zichzelf en zijn spelers te beschermen, kan Epic in extreme gevallen ook andere rechtsmiddelen gebruiken voor schendingen van haar Ecosysteemregels of de wet of informatie en bewijs verstrekken aan relevante wetshandhavingsinstanties.
+
+<EULA.Header>9.	Aanbevelingssystemen </>
+
+Sommige Gelicentieerde Producten gebruiken aanbevelingssystemen om bepaalde informatie aan gebruikers aan te bevelen. Raadpleeg voor meer informatie <a id="url" href="http://legal.epicgames.com/epicgames/recommendations" style="EULA.Hyperlink">Aanbevelingen en rangschikking in Fortnite en Fall Guys</>. 
+
+<EULA.Header>10.	Content binnen de game </>
+
+Sommige Gelicentieerde Producten bieden “<EULA.Highlight>Content binnen de game,</>” zoals personages, emotes, outfits, ervaringen (bijv. eilanden) en andere digitale goederen en media, die aan u in licentie kunnen worden gegeven voor uw gebruik binnen de Gelicentieerde Producten waarin u ze hebt gekocht. De term “Gelicentieerde Producten” omvat Content binnen de game.
+
+U kunt op verschillende manieren licenties voor Content binnen de game verkrijgen. Bepaalde Content binnen de game is automatisch toegankelijk voor alle Eindgebruikers (bijv. Battle Royale). Licenties voor andere Content binnen de game kunnen worden verdiend via activiteiten binnen het spel, gekocht met echt geld of ingewisseld tegen “<EULA.Highlight>credits</>” (bijv. credits voor V-Bucks, Rocket League). Credits zijn een soort Content binnen de game. U kunt credits verdienen via gameplay of er licenties voor verkrijgen met echt geld. Licenties voor credits en andere Content binnen de game kunnen worden verkregen binnen een Gelicentieerd Product, de winkel van Epic Games of een platform van derden. Let op: Content binnen de game is niet noodzakelijkerwijs compatibel met alle ervaringen. Compatibiliteit kan beperkt zijn vanwege beoordelingen of ervaringsontwerp.
+
+<EULA.Highlight>CREDITS ZIJN NIET HETZELFDE ALS CONTANT GELD, CADEAUBONNEN OF BANKREKENINGEN EN KUNNEN NIET WORDEN INGEWISSELD TEGEN ECHTE VALUTA OF ANDERE ARTIKELEN BUITEN HET ECOSYSTEEM VAN EPIC. HET VOORGAANDE IS OOK VAN TOEPASSING INDIEN WE EEN PRIJS IN ECHTE VALUTA WEERGEVEN NAAST CREDITS OF ANDERE INHOUD BINNEN DE GAME EN EEN DERGELIJKE WEERGAVE DIENT OM U EEN GESCHATTE INDICATIE TE GEVEN VAN HET BEDRAG IN ECHTE VALUTA DAT U MISSCHIEN MOET UITGEVEN VOOR HET VERKRIJGEN VAN DE CREDITS OF ANDERE CONTENT BINNEN DE GAME. </>
+
+De functies, prijzen, beschikbaarheid en functionaliteit van credits en andere Content binnen de game kunnen veranderen, bijvoorbeeld als gevolg van een dagelijkse herziening van de artikelen die in een winkel binnen het spel worden aangeboden. Epic garandeert geen voortdurende toegang tot specifieke Content binnen de game die u niet hebt verkregen en is niet aansprakelijk voor wijziging, verwijdering of onbeschikbaarheid van dergelijke Content binnen de game. Als u Content binnen de game hebt verkregen, is uw toegang tot de Content binnen de game gekoppeld aan het respectieve Gelicentieerde Product waarvoor die is bedoeld. Als u de toegang tot dit Gelicentieerd Product verliest, bijvoorbeeld door de beëindiging van uw Epic Games-account, kunt u niet verwachten dat u de Content binnen de game buiten het Gelicentieerd Product kunt gebruiken. Content binnen de game kan onderhevig zijn aan platformbeperkingen (bijv. console-specifieke toegang). 
+
+<EULA.Header>a.	Regels voor Content binnen de game</>
+
+Credits kunnen alleen worden ingewisseld voor andere Content binnen de game, inclusief door een ontwikkelaar gemaakte Content die door Epic namens de ontwikkelaar beschikbaar wordt gesteld, en zodra dergelijke credits zijn ingewisseld, hebt u geen verdere betalingsverplichting. Het is u verboden om credits of andere Content binnen de game om te zetten in een waarde-eenheid buiten het Gelicentieerd Product waar die werd verkregen, zoals werkelijke valuta of werkelijke goederen. U erkent en gaat ermee akkoord dat Epic te allen tijde actie kan ondernemen die van invloed is op de vermeende waarde of aankoopprijs van credits of andere Content binnen de game, behalve als dat door de toepasselijke wetgeving is verboden. 
+
+De licentie die uit hoofde van deze Voorwaarden wordt verleend aan Content binnen de game wordt beëindigd in overeenstemming met deze Voorwaarden wanneer Epic stopt met het leveren van het Gelicentieerd Product of toegang te verlenen tot het Gelicentieerde Product waarin u die hebt verkregen, of wanneer deze Voorwaarden anderszins worden beëindigd. Zie sectie 14.c hieronder voor meer informatie over de gevolgen van beëindiging van deze Voorwaarden. 
+
+Epic kan een maximumbedrag vaststellen dat u kunt uitgeven om credits per transactie en/of per dag te kopen, wat kan variëren afhankelijk van het bijbehorende Gelicentieerd Product, evenals het maximale saldo aan credits dat u eventueel hebt op uw Epic Games-account. Epic kan aanvullende beperkingen opleggen voor de aankoop van of de manier waarop u credits gebruikt.. 
+
+Als er een fout in uw creditsaldo zit, of als we redenen hebben om fraude te vermoeden, hebben we het recht om een creditsaldo te corrigeren of de toegang tot uw Epic Games-account in te trekken. 
+
+<EULA.Header>b.	Fysieke en virtuele Bonnen voor credits en Content binnen de game</>
+
+Epic kan fysieke of virtuele Bonnen (hierna “<EULA.Highlight>Bonnen</>”) aanbieden die kunnen worden gebruikt om credits toe te voegen aan een Epic Games-account. Door een Bon te kopen of in te wisselen, gaat u akkoord met deze Voorwaarden en ook met de toepasselijke Kaartspecifieke algemene voorwaarden, die deze Voorwaarden aanvullen. Voorbeelden van aanvullende voorwaarden zijn de <a id="url" href="https://www.fortnite.com/vbuckscardterms" style="EULA.Hyperlink">Algemene voorwaarden van de Fortnite V-Bucks-kaart</> en de <a id="url" href="https://www.epicgames.com/site/gift-card-terms" style="EULA.Hyperlink">Algemene voorwaarden van de Fortnite-Cadeaubon</>. <EULA.Highlight>KOOP GEEN BON TENZIJ U OF DE BEOOGDE ONTVANGER AL EEN EPIC ACCOUNT HEEFT INGESTELD OM HET TOEPASSELIJKE SPEL TE SPELEN. ZORG DAT U OF DE BEOOGDE ONTVANGER VAN DE BON EEN EPIC-ACCOUNT EN EEN APPARAAT HEEFT OM TE SPELEN DAT VOLDOET AAN ALLE MINIMALE SYSTEEMVEREISTEN, OMDAT DE AANKOOP VAN EEN BON MISSCHIEN NIET-RESTITUEERBAAR IS. </>Elk gebruik van Bonnen moet voldoen aan de toepasselijke wetgeving. Aankopen van Bonnen van externe detailhandelaren vallen onder de beleidslijnen van de detailhandelaar. Rechtstreekse aankopen van Bonnen van Epic zijn onderworpen aan het Restitutiebeleid van Epic. 
+
+Bonnen die zijn gemaakt voor distributie in één land kunnen misschien alleen worden ingewisseld voor accounts van Epic Games die in dat land zijn geregistreerd. U stemt ermee in om Bonnen te gebruiken in overeenstemming met alle toepasselijke wetten, inclusief alle aan export gerelateerde beperkingen en voorschriften die van toepassing zijn op het land waar u woont.
+
+Als er zich problemen voordoen terwijl u een Bon wilt inwisselen en/of toegang wilt krijgen tot de Content binnen de game in een Epic Games-account, neem dan contact op met <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-support</>. 
+
+<EULA.Header>11.	Externe fancontent</>
+
+Epic wil de interesse van onze fans in onze games en activiteiten ondersteunen, dus hebben we ons <a id="url" href="https://legal.epicgames.com/epicgames/fan-art-policy" style="EULA.Hyperlink">Beleid inzake fancontent</> opgesteld om bepaalde door fans gegenereerde content toe te staan die is gebaseerd op Gelicentieerde Producten en die buiten de Gelicentieerde Producten wordt weergegeven. “<EULA.Highlight>Externe fancontent</>” omvat zaken zoals (i) opnames of rechtstreeks afspelen van gameplay van Gelicentieerde Producten; (ii) fankunst (zoals kunstwerken, foto’s, video’s en andere materialen) die is gebaseerd op Gelicentieerde Producten; en (iii) websites en apps die gratis zijn, toegankelijk voor het publiek en gerelateerd aan de eigendommen van Epic. U mag Externe fancontent alleen aanmaken zolang u voldoet aan deze Voorwaarden. 
+
+<EULA.Header>12.	Inhoud gemaakt door een Ontwikkelaar</>
+
+UEFN is een creatiemiddel waarmee een ontwikkelaar content in Fortnite kan creëren, ontwikkelen, wijzigen of bijdragen en dergelijke content kan uploaden, publiceren of anderszins beschikbaar stellen aan andere gebruikers van Gelicentieerde Producten. Alvorens UEFN te gebruiken, moeten ontwikkelaars ook akkoord gaan met de <a id="url" href="https://legal.epicgames.com/fortnite/eula/uefn" style="EULA.Hyperlink">Aanvullende voorwaarden van UEFN</>. Net als in de <a id="url" href="https://legal.epicgames.com/fortnite/eula/uefn" style="EULA.Hyperlink">Aanvullende voorwaarden van UEFN</> wordt een persoon die UEFN gebruikt om UEFN-content te creëren, aangeduid als een “<EULA.Highlight>Ontwikkelaar</>” en alle Content binnen het spel die wordt gemaakt, aangeboden, weergegeven, beschikbaar gesteld of gerangschikt door Ontwikkelaars wordt aangeduid als “<EULA.Highlight>Door een ontwikkelaar gemaakte content</>.” Door ontwikkelaars gemaakte eilanden zijn een voorbeeld van door een Ontwikkelaar gemaakte content.
+
+Credits kunnen worden ingewisseld voor licenties op digitale items of andere door ontwikkelaars gemaakte content (“<EULA.Highlight>Door ontwikkelaars gemaakte content die kan worden ingewisseld</>”, een soort door ontwikkelaars gemaakte content). Deze Voorwaarden zijn ook van toepassing op Door ontwikkelaars gemaakte content die kan worden ingewisseld, die in detail worden uiteengezet in Addendum 1.
+
+<EULA.Header>13.	Commentaar</>
+
+Soms kunt u contact met ons opnemen met vragen, opmerkingen, suggesties, ideeën, wijzigingen, verbeteringen, promoties of andere informatie over Epic of de Gelicentieerde Producten. We noemen deze betrokkenheid “<EULA.Highlight>Feedback</>”. U bent niet verplicht om Feedback te geven; alle Feedback die u via beschikbare kanalen verstrekt is vrijwillig. Als u Feedback verstrekt aan Epic, verleent u Epic hierbij een niet-exclusieve, wereldwijde, eeuwigdurende, onherroepelijke, en voor zover nodig sublicentieerbare, overdraagbare en toewijsbare licentie voor het gebruiken, kopiëren, reproduceren, distribueren, wijzigen, aanpassen, voorbereiden van afgeleide werken op basis van, publiceren, openbaar uitvoeren, openbaar weergeven, vertalen, maken, hebben gemaakt, gebruiken, en anderszins exploiteren van alle Feedback voor zaken zoals het verbeteren van de Gelicentieerde Producten. Epic is niet verplicht om u te crediteren of te compenseren voor uw bijdrage. 
+
+U begrijpt dat als u Feedback verstrekt aan Epic, dit een vrijwillige uitdrukking van uw mening is over hoe u het beste plezier kunt hebben van de Gelicentieerde Producten, die niet door Epic worden gevraagd en waarvoor u geen royalty's kunt verwachten. U verklaart en waarborgt dat u voldoende rechten hebt op alle Feedback die u aan Epic verstrekt om Epic en andere betrokken partijen de hierboven beschreven rechten te verlenen. Dit omvat, maar is niet beperkt tot, intellectuele eigendomsrechten en andere eigendomsrechten of persoonlijke rechten. U erkent dat wij Feedback als niet-vertrouwelijk kunnen behandelen. Stuur geen ongevraagde opnamen, rechtstreekse streamingsessies, illustraties of andere door fans gemaakte content of game-ideeën naar Epic; ze worden zonder beoordeling verwijderd. Voor de duidelijkheid, Feedback is anders dan Externe fancontent en door een Ontwikkelaar gemaakte content.
+
+<EULA.Header>14.	Beëindiging van deze Voorwaarden</>
+
+<EULA.Header>a.	Beëindiging door u</>
+
+Het staat u vrij om deze Voorwaarden op elk moment te beëindigen door uw Epic Games-account te verwijderen, waardoor deze Voorwaarden met betrekking tot alle Gelicentieerde Producten worden beëindigd. Als u uw Epic Games-account wilt verwijderen, neem dan contact op met <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-support</>. Om te zien welke diensten u eventueel aan uw Epic Games-account hebt gekoppeld voordat u uw Epic Games-account verwijdert, gaat u naar uw pagina <a id="url" href="https://www.epicgames.com/account/connections" style="EULA.Hyperlink">Gekoppelde accounts (Linked Accounts)</>.
+
+Als u meerdere Epic Games-accounts hebt, geldt uw verwijdering van een specifieke Epic Games-account alleen voor dat Epic Games-account; deze Voorwaarden blijven van toepassing op uw resterende Epic Games-accounts.
+
+Als u toegang hebt tot een Gelicentieerd Product waarvoor geen Epic Games-account vereist is, kunt u deze Voorwaarden beëindigen door uw gebruik van het Gelicentieerd Product te stoppen (bijv. door te stoppen met het gebruik van een website van Epic). Houd er echter rekening mee dat de bepalingen van deze Voorwaarden na beëindiging nog steeds van toepassing zijn, zoals hieronder beschreven in sectie 14.c.
+
+<EULA.Header>b.	Beëindiging door Epic</>
+
+Zoals meerdere keren vermeld in deze Voorwaarden, kunnen acties die u onderneemt leiden tot schending van deze Voorwaarden of de wet. In dergelijke gevallen kan Epic uw recht op het gebruik van een of meer Gelicentieerde Producten opschorten of deze Voorwaarden beëindigen (ook wel “permanent verbod” genoemd), hetzij op productspecifieke basis of voor alle Gelicentieerde Producten. Wanneer redelijkerwijs mogelijk stuurt Epic u van tevoren een waarschuwing voordat deze Voorwaarden worden beëindigd. Epic is niet verplicht om u van tevoren een waarschuwing te geven in geval van een ernstige schending of in geval van herhaalde schendingen. 
+
+In beide gevallen nemen we, wanneer redelijkerwijs mogelijk, contact met u op om uit te leggen waarom we actie hebben ondernomen en wat (indien van toepassing) u als gevolg daarvan kunt doen. 
+
+Als u meerdere accounts van Epic Games hebt, kunnen we actie ondernemen tegen al uw Epic Games-accounts. U mag het verbod niet proberen te omzeilen door een nieuwEpic Games-account aan te maken.
+
+Het kan ook zijn dat Epic deze Voorwaarden moet beëindigen zelfs als er geen sprake is van een schending door u als:
+
+•	we stoppen met het laten functioneren van het respectieve Gelicentieerd Product (bijv. het is niet langer financieel levensvatbaar, of voortgezette activiteiten zijn onpraktisch om technische, operationele of zakelijke redenen);
+•	we stoppen met het laten functioneren van een respectievelijk Gelicentieerd Product op een specifiek platform;
+•	dat wordt vereist door de wet of een bindend bevel van een overheidsinstantie;
+•	een Gelicentieerd Product afhankelijk is van een extern(e) leverancier of platform die het product niet langer ondersteunt; of als
+•	we een fusie, overname of herstructurering ondergaan die van invloed is op een Gelicentieerd Product.
+
+In deze gevallen stelt Epic u dertig (30) dagen van tevoren op de hoogte door een kennisgeving te plaatsen op onze websites met betrekking tot het/de respectieve Gelicentieerde Product(en).
+
+<EULA.Header>c.	Gevolgen van beëindiging</>
+
+Als Epic deze Voorwaarden met betrekking tot u beëindigt, of als u deze Voorwaarden zelf beëindigt, verliest u alle rechten op alle Gelicentieerde Producten, inclusief games, credits en andere Content binnen de game, accountsaldi voor Epic Games of andere artikelen die u misschien hebt verdiend of gekocht voorafgaand aan de beëindiging. Na beëindiging van deze Voorwaarden met betrekking tot een of meer Gelicentieerde Producten, worden alle licenties die we u hebben verleend voor het/de betreffende Gelicentieerde Product(en) automatisch beëindigd en moet u alle kopieën van het/de betreffende Gelicentieerde Product(en) op uw apparaten verwijderen. U zult niet langer in staat zijn om, met betrekking tot dergelijke Gelicentieerde Product(en), de rechten die u in deze Voorwaarden zijn verleend nog langer uit te oefenen.
+
+Als Epic Fraude of Cheats ontdekt in uw Epic Games-account, kunt u de toegang verliezen tot ranglijsten, trofeeën, Content binnen de game en andere informatie die is gekoppeld aan uw Epic Games-account. Dat kan bijvoorbeeld ook uw gebruik van producten die afhankelijk zijn van online diensten van Epic gekoppeld aan uw Epic Games-account beletten of uw gebruik daarvan ernstig beperken.
+
+Tenzij wettelijk vereist, hebt u geen recht op restitutie als gevolg van de beëindiging van deze Voorwaarden. Dat betekent dat als we uw toegang tot een of meer Gelicentieerde Producten opschorten, beperken of beëindigen, om redenen van Fraude, Cheats of enig ander aspect van deze Voorwaarden, we u geen restitutie verstrekken voor eerdere aankopen binnen het spel die u hebt gedaan of voor ongebruikte Content binnen de game in uw Epic Games-account die is gekoppeld aan dat/die Gelicentieerde Product(en).
+
+Zelfs na beëindiging blijven secties 4, 8, 10, 16, 17 en 19 en Addendum 1 van deze voorwaarden van kracht.
+
+<EULA.Header>15.	Afwijzingen, beperking van aansprakelijkheid en vrijwaring</>
+
+De bepalingen in deze sectie zijn van toepassing voor zover toegestaan door de wet waar u woont.
+
+Als consument in de EU hebt u misschien wettelijke garantierechten voor digitale content en diensten op grond van Richtlijn (EU) 2019/770 en de respectieve nationale implementatiewetten in uw thuisland. Dat houdt in dat we ons best doen om te zorgen dat u een soepele ervaring hebt met onze Gelicentieerde Producten: 
+
+<EULA.Highlight>Krijgen waar u voor hebt betaald</>: Als u een spel of app koopt, moet dat/die precies werken zoals het hoort. Als dat niet het geval is, hebt u het recht om het te laten herstellen of uw geld terug te krijgen (in overeenstemming met de toepasselijke wetgeving).
+
+<EULA.Highlight>Herzieningen en herstel</>: Soms hebben digitale zaken een herziening nodig om goed te blijven werken. U moet deze herzieningen gratis ontvangen, zodat uw spel of app leuk en veilig blijft om te gebruiken.
+
+<EULA.Highlight>Hulp wanneer er iets fout gaat</>: Als er iets fout gaat met uw digitale content, als die bijvoorbeeld niet meer werkt of als u er geen toegang toe hebt, zijn wij er om u te helpen dit te herstellen. U kunt onder andere contact opnemen met ons <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Centrum voor hulp en ondersteuning (Help en Support Center</>.
+
+Niets in deze Voorwaarden is gericht op het beperken van wettelijke garantierechten die u eventueel hebt. 
+
+De wettelijke aansprakelijkheid van Epic voor opzet en grove nalatigheid en voor schadevergoeding als gevolg van letsel aan leven, lichaam of gezondheid blijft onaangetast door deze Voorwaarden. Epic is alleen aansprakelijk voor haar nalatige handelingen of nalatigheden wanneer dat resulteert in een schending van een essentiële contractuele verplichting. Een “essentiële contractuele verplichting” in de zin van deze clausule is een verplichting waarvan de nakoming in de eerste plaats de uitvoering van de overeenkomst mogelijk maakt en waarop de contractuele partner zich daarom regelmatig mag baseren. Deze aansprakelijkheid van Epic voor schending van een essentiële contractuele verplichting is beperkt tot de schadevergoeding die te voorzien is op het moment van het sluiten van de overeenkomst, waarvan het optreden doorgaans moet worden verwacht. De beperkingen van aansprakelijkheid in deze clausule zijn van toepassing ten gunste van de werknemers, vertegenwoordigers en plaatsvervangend vertegenwoordigers van Epic. Elke aansprakelijkheid van Epic voor commerciële garanties die Epic eventueel heeft verstrekt, vorderingen op basis van verplichte productaansprakelijkheidswetgeving of schendingen van gegevensbescherming blijft onverminderd van kracht.
+
+Zoals gebruikt bij de bovenstaande uitsluiting van bepaalde garanties en beperking van aansprakelijkheid, omvat de term “<EULA.Highlight>Epic-partijen</>” de Ontwikkelaar van software die aan u in licentie is gegeven uit hoofde van deze Voorwaarden, tenzij u akkoord bent gegaan met softwarespecifieke voorwaarden voor die software of dienst die een afwijzing van de garanties van de Ontwikkelaar en een beperking van de aansprakelijkheid van de Ontwikkelaar omvatten.
+
+U moet de Epic-partijen vrijwaren van, de verdedigingskosten betalen van en schadeloos stellen voor vorderingen, eisen, procedures, aansprakelijkheden, schadevergoeding, vonnissen, uitspraken, verliezen, kosten, uitgaven of vergoedingen (inclusief redelijke advocaathonoraria en kosten voor getuige–deskundigen) die voortvloeien uit of verband houden met opzettelijke of nalatige schending van deze Voorwaarden door u. 
+
+Voor sommige functies van de Gelicentieerde Producten is eventueel een internetverbinding vereist, die u op uw kosten moet verstrekken. U bent verantwoordelijk voor alle kosten en vergoedingen die door uw internetaanbieder in rekening worden gebracht met betrekking tot het gebruik van Gelicentieerde Producten.
+
+<EULA.Header>16.	Toepasselijk recht </>
+
+Elk(e) vordering of geschil dat voortvloeit uit of verband houdt met deze Voorwaarden of de dienst wordt beheerst door de wetten van het land waar u woont. Het Verdrag inzake internationale koopovereenkomsten betreffende roerende zaken is niet van toepassing. 
+
+<EULA.Header>17.	Vorderingen wegens inbreuk</>
+
+We hebben een beleid aangenomen om, in passende omstandigheden, de accounts van spelers te beëindigen die herhaaldelijk inbreuk maken op de intellectuele eigendomsrechten van anderen. Als u van mening bent dat uw intellectuele eigendoms- of andere rechten worden geschonden door een derde partij bij een Gelicentieerd Product, laat het ons dan <a id="url" href="https://www.epicgames.com/site/infringement" style="EULA.Hyperlink">hier</> weten. 
+
+<EULA.Header>18.	Licentieverlenende entiteit</>
+
+De entiteit van Epic die u een licentie verleent om Gelicentieerde Producten te gebruiken, hangt af van waar u woont en welke Gelicentieerde Producten u gebruikt. De licentie in sectie 3 voor de volgende Gelicentieerde Producten (en de bijbehorende Diensten van Epic) wordt aan u verleend door de hieronder beschreven entiteit:
+
+<EULA.Highlight>Fall Guys (behalve mobiele versie voor Android en Apple iOS in de EU):</>
+
+•	Als u speelt op het Steam-platform, EGFG LLC, handelend als Epic Games
+•	Als u op een ander platform speelt, Epic Games, Inc.
+
+<EULA.Highlight>Fall Guys (mobiele versie voor Android en Apple iOS in de EU):</> EGFG LLC, handelend als Epic Games.
+
+<EULA.Highlight>Fortnite (behalve mobiele versie voor Apple iOS) of UEFN:</>
+
+•	Als u in de Verenigde Staten van Amerika woont, Epic Games, Inc.
+•	Als u buiten de Verenigde Staten woont, Epic Games Entertainment International GmbH
+
+<EULA.Highlight>Fortnite (mobiele versie voor Apple iOS): </>
+
+•	Als u in de Verenigde Staten van Amerika woont, Epic Games, Inc.
+•	Als u buiten de Verenigde Staten woont, Epic Games Sweden, AB
+
+<EULA.Highlight>Postparty:</> Life on Air, Inc.
+
+<EULA.Highlight>Rocket League of Rocket League Sideswipe:</> Psyonix LLC
+
+<EULA.Highlight>Websites:</> Epic Games, Inc.
+
+<EULA.Highlight>Alle andere Gelicentieerde Producten:</> Zie relevante product- of programmaspecifieke voorwaarden
+
+<EULA.Header>19.	Overig</>
+
+<EULA.Header>a.	Verklaring van afstand en scheidbaarheid</>
+
+Als Epic afstand doet van een deel van deze Voorwaarden, moet u die verklaring van afstand beschouwen als een eenmalige, zaakspecifieke afstandsverklaring, tenzij we u schriftelijk vertellen dat dit niet het geval is. Evenzo betekent het feit dat we een recht op of bepaling van deze Voorwaarden niet doen gelden niet dat we er afstand van doen. Als een deel van deze Voorwaarden door een rechtbank ongeldig, onwettig of niet-afdwingbaar wordt bevonden, blijven de rest van deze Voorwaarden van kracht. 
+
+We zijn niet bereid of verplicht om deel te nemen aan geschillenbeslechtingsprocedures voor een consumentenarbitragecommissie.
+
+<EULA.Header>b.	Waarschuwing voor lichtgevoeligheid</>
+
+Sommige mensen ervaren een epileptische aanval of vallen flauw wanneer ze bepaalde beelden of patronen zien, zoals knipperende lichten. Blootstelling aan dergelijke beelden of patronen op een scherm, zoals tijdens het spelen van videogames, kan een epileptische aanval of flauwvallen veroorzaken bij deze mensen. Deze reacties kunnen worden verminderd door:
+
+•	te spelen in een goed verlichte ruimte;
+•	het vermijden van spelen terwijl u slaperig bent;
+•	het spel op afstand of op een kleiner scherm te bekijken; en 
+•	de duur van uw speelsessie te beperken. 
+
+Als u of iemand in de buurt een epileptische aandoening, epileptische aanvallen of epileptische symptomen heeft, moet die persoon contact opnemen met een arts voordat hij/zij wordt blootgesteld aan de Gelicentieerde Producten. Als u of iemand in de buurt een van de volgende situaties ervaart tijdens het gebruik van de Gelicentieerde Producten, stop dan onmiddellijk en neem contact op met een arts voordat u doorgaat: 
+
+•	duizeligheid;
+•	gewijzigd zicht;
+•	oog- of spiertrekkingen;
+•	beven of schudden van armen of benen;
+•	verlies van bewustzijn;
+•	desoriëntatie;
+•	verwarring;
+•	onvrijwillige bewegingen; of
+•	stuiptrekkingen.
+
+<EULA.Header>c.	Exportcontroles en sancties</>
+
+U begrijpt en stemt ermee in dat u de Gelicentieerde Producten niet zult gebruiken, openen, downloaden, exporteren, herexporteren of overdragen en dat u niet in aanmerking komt om deze Voorwaarden aan te gaan als dat Amerikaanse of andere toepasselijke exportcontroles, -sancties of importwetgeving en -voorschriften, zoals de Amerikaanse Export Administration Regulations en de voorschriften van het Office of Foreign Assets Control van het Amerikaanse Ministerie van Financiën zou schenden.
+
+<EULA.Header>20.	Informatie met betrekking tot de Digital Services Act</>
+
+Om te voldoen aan artikel 13 van de Digital Services Act (wet inzake digitale diensten) is Epic Games Sweden, AB door Epic aangewezen als haar wettelijke vertegenwoordiger in de Europese Unie. De bevoegde autoriteiten van de Europese Unie kunnen contact opnemen met Epic Games Sweden, AB op:
+
+Epic Games Sweden, AB
+Västgötagatan 2, Floor 6
+118 28 Stockholm, Zweden
++46 46 590 22 06
+DSA-Legal-Representative@epicgames.com
+
+<EULA.Header>21.	Platformspecifieke voorwaarden</>
+
+<EULA.Header>a.	Eindgebruikers van Sony PlayStation</>
+
+De volgende aanvullende algemene voorwaarden zijn van toepassing met betrekking tot Gelicentieerde Producten beschikbaar voor gebruik op PlayStation®-apparaten die u bezit of beheert:
+
+Houd er rekening mee dat Epic informatie over een account van Sony Entertainment Network (<EULA.Highlight>account van SEN</>) ontvangt, inclusief uw e-mailadres en online ID, zoals uitgelegd in het Privacybeleid van Epic. Epic kan zijn Eindgebruikers toestaan om te zoeken naar andere Accounts van Epic Games via hun SEN-account en andere Eindgebruikers kunnen u een vriendschapsverzoek sturen. De privacyinstellingen van uw SEN-account zijn niet van toepassing op uw Epic Games-account. 
+
+Als u onze Gelicentieerde Producten gebruikt op een PlayStation®-platform, is de licentie die aan u wordt verleend in sectie 3 van de bovenstaande Voorwaarden beperkt tot het gebruik van onze Gelicentieerde Producten alleen op een PlayStation®-platform dat u bezit of beheert of een ander dergelijk systeem waaraan onze Gelicentieerde Producten worden geleverd door het netwerk van PlayStation®. Als u toegang krijgt tot onze Gelicentieerde Producten met behulp van een PlayStation®-4-systeem (“<EULA.Highlight>PS4</>”) en onze Gelicentieerde Producten u in staat stellen om de PS4-knop “samen delen” te gebruiken, verlenen we u een persoonlijke, beperkte, niet-overdraagbare, herroepbare en niet-exclusieve licentie om de knop “samen delen” te gebruiken om de audio- en video-uitvoer van die Gelicentieerde Producten te repliceren of te streamen naar diensten van derden die worden ondersteund door het PS4-systeem, onder voorbehoud van uw naleving van deze Voorwaarden.
+
+Het is u uitdrukkelijk verboden om deel te nemen aan verkoop buiten het platform of uitwisseling van dergelijke Content binnen de game, bijvoorbeeld op eBay of andere veilingwebsites.
+
+<EULA.Highlight>Voor Eindgebruikers van SIEA:</> De aankoop en het gebruik van artikelen vallen onder de Servicevoorwaarden en gebruikersovereenkomst van het netwerk van PlayStation®, beschikbaar in de PlayStation®-winkel. Deze online dienst is aan u in sublicentie gegeven door Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
+
+<EULA.Highlight>Voor Eindgebruikers van SIEE</>: Alle content die in een winkel binnen het spel wordt gekocht, wordt gekocht bij Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) en is onderworpen aan de Servicevoorwaarden van het PlayStation®-netwerk en de eindgebruikersovereenkomst, die beschikbaar is in de winkel van PlayStation®. Controleer de gebruiksrechten voor elke aankoop, aangezien die per artikel kunnen verschillen. Tenzij anderszins weergegeven, heeft content die beschikbaar is in een spelwinkel dezelfde leeftijdsclassificatie als het spel.
+
+<EULA.Header>b.	Eindgebruikers van Microsoft Xbox</>
+
+De volgende aanvullende algemene voorwaarden zijn van toepassing op Gelicentieerde Producten die beschikbaar zijn voor gebruik op Xbox Live-apparaten die u bezit of beheert:
+
+Noch Microsoft Corporation, noch een van haar gelieerde ondernemingen (gezamenlijk “<EULA.Highlight>Microsoft</>”) heeft onderhouds- of ondersteuningsverplichtingen met betrekking tot Gelicentieerde Producten.
+
+Niets in deze Voorwaarden, met inbegrip van deze platformspecifieke Voorwaarden, is op enigerlei wijze van toepassing op of wijzigt uw relatie met Microsoft in het kader van overeenkomsten tussen u en Microsoft, met inbegrip van de gebruiksvoorwaarden voor Xbox Live.
+
+Verder, voor zover maximaal toegestaan door de toepasselijke wetgeving, is de totale aansprakelijkheid van de Epic-partijen (behalve Microsoft) die voortvloeit uit of verband houdt met deze Voorwaarden of de Gelicentieerde Producten (inclusief Content binnen de game) niet hoger dan de totale bedragen die u (indien van toepassing) aan Epic hebt betaald voor de Gelicentieerde Producten (inclusief Content binnen de game) gedurende de twaalf (12) maanden onmiddellijk voorafgaand aan de gebeurtenissen die aanleiding hebben gegeven tot dergelijke aansprakelijkheid, en Microsoft heeft geen aansprakelijkheid jegens u die voortvloeit uit of verband houdt met deze Voorwaarden of de Gelicentieerde Producten (inclusief Content binnen de game). Deze beperkingen en uitsluitingen met betrekking tot schadevergoeding zijn zelfs van toepassing als er geen rechtsmiddel voorhanden is dat adequate compensatie biedt.
+
+<EULA.Header>c.	Eindgebruikers van Apple iOS</>
+
+De volgende aanvullende algemene voorwaarden zijn van toepassing op de Gelicentieerde Producten die beschikbaar zijn voor gebruik op een iPhone of iPad van Apple, Inc. (“<EULA.Highlight>Apple</>”) die u bezit of beheert:
+
+U erkent dat uw overeenkomst niet met Apple is. Epic, niet Apple, is als enige verantwoordelijk voor de Gelicentieerde Producten en de content ervan.
+
+Uw gebruik van de Gelicentieerde Producten is onderworpen aan deze Voorwaarden, met inbegrip van deze platformspecifieke Voorwaarden en zoals toegestaan door de gebruiksregels uiteengezet in de algemene voorwaarden van de app-winkel vanaf de datum waarop u de Gelicentieerde Producten downloadt of voor het eerst gebruikt (en u erkent dat u de gelegenheid hebt gehad die door te nemen).
+
+U gaat ermee akkoord dat Apple geen onderhouds- of ondersteuningsverplichtingen heeft met betrekking tot de Gelicentieerde Producten.
+
+U erkent en gaat ermee akkoord dat Apple niet verantwoordelijk is voor enige productgarantie voor Gelicentieerde Producten, hetzij uitdrukkelijk, hetzij op grond van de wet. Als u wettelijk recht hebt op een garantie in uw land of ander rechtsgebied, en de Gelicentieerde Producten voldoen niet aan de vereiste garantie, kunt u Apple op de hoogte stellen en dan betaalt Apple de aankoopprijs terug, indien van toepassing. Voor zover maximaal toegestaan door de toepasselijke wetgeving, heeft Apple geen enkele andere garantieverplichting met betrekking tot de Gelicentieerde Producten en alle andere vorderingen, verliezen, aansprakelijkheden, schadevergoeding, kosten of uitgaven die kunnen worden toegeschreven aan het niet voldoen aan een dergelijke vereiste garantie vallen uitsluitend onder de verantwoordelijkheid van Epic. 
+
+Epic, niet Apple, is verantwoordelijk voor de afhandeling van uw vorderingen of vorderingen van een derde partij met betrekking tot de Gelicentieerde Producten of uw bezit en/of gebruik van de Gelicentieerde Producten, met inbegrip van: (i) productaansprakelijkheidsvorderingen; (ii) beweringen dat de Gelicentieerde Producten niet voldoen aan toepasselijke wettelijke of regelgevende vereisten; en (iii) vorderingen die voortvloeien uit consumentenbeschermings- of soortgelijke wetgeving. In geval van een claim dat de Gelicentieerde Producten inbreuk maken op de intellectuele eigendomsrechten van een derde partij, is uitsluitend Epic, en niet Apple, verantwoordelijk voor het onderzoek, de verdediging, schikking en afhandeling van een dergelijke claim inzake inbreuk op intellectuele eigendomsrechten (indien en voor zover vereist uit hoofde van de Voorwaarden).
+
+U stemt ermee in dat deze Voorwaarden geen rechten of rechtsmiddelen toekennen aan andere personen behalve de partijen bij deze Voorwaarden, behalve wanneer uitdrukkelijk vermeld in deze Voorwaarden of de toepasselijke wetgeving. Niettegenstaande het voorgaande zijn Apple en de dochterondernemingen van Apple derde-begunstigden van deze Voorwaarden en na uw aanvaarding van deze Voorwaarden heeft Apple het recht (en wordt geacht het recht te hebben aanvaard) om deze Voorwaarden jegens u als externe begunstigde daarvan af te dwingen.
+
+Vragen, klachten of claims van Eindgebruikers met betrekking tot de Gelicentieerde Producten moeten worden ingediend bij <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-support</>.
+
+<EULA.Header>d.	Eindgebruikers van Samsung GALAXY</>
+
+De volgende aanvullende algemene voorwaarden zijn van toepassing op de Gelicentieerde Producten beschikbaar voor gebruik op apparaten van Samsung GALAXY die u bezit of beheert:
+
+De Gelicentieerde Producten kunnen u de mogelijkheid bieden om betalingen te doen via de API’s van Samsung voor aankopen binnen de app (In-App-Purchase). Indien u een betaling doet met behulp van de aankoop binnen de app van Samsung, zijn de algemene voorwaarden van de apps van Samsung GALAXY die u bent aangegaan met Samsung Electronics Co., Ltd. (of haar gelieerde ondernemingen) met betrekking tot het gebruik van aankoop binnen de app van Samsung en de gelijkwaardige voorwaarden van toepassing op de betaling en eventuele restitutie met betrekking tot een dergelijke betaling.
+
+<EULA.Header>ADDENDUM 1 - DOOR ONTWIKKELAARS GEMAAKTE CONTENT</>
+
+1.1 Unreal Editor for Fortnite (“UEFN”) is een creatiemiddel waarmee mensen content in Fortnite kunnen creëren, ontwikkelen, wijzigen of bijdragen en dergelijke content kunnen uploaden, publiceren of anderszins beschikbaar stellen aan andere gebruikers van Gelicentieerde Producten. Alvorens UEFN te gebruiken, moeten ontwikkelaars akkoord gaan met deze overeenkomst en de Aanvullende Voorwaarden van UEFN, die bepalen dat een persoon die UEFN gebruikt om UEFN-content te maken een “Ontwikkelaar” is. Alle Content binnen de game die door Ontwikkelaars wordt gecreëerd, aangeboden, weergegeven, beschikbaar gesteld of gerangschikt is “Door een ontwikkelaar gemaakte content”, die geen reële equivalente waarde heeft, uitsluitend voor entertainmentdoeleinden wordt aangeboden en geen afdwingbare eigendomsrechten schept, behalve voor Ontwikkelaars zoals beschreven in het toepasselijke gedeelte van de Aanvullende Voorwaarden van UEFN. Door ontwikkelaars gemaakte eilanden en verdiende digitale items daarin zijn voorbeelden van Door een ontwikkelaar gemaakte content. Credits (zoals gedefinieerd door Artikel 10 in de Servicevoorwaarden van Epic Games) kunnen worden ingewisseld voor licenties voor digitale items of andere Door een ontwikkelaar gemaakte content (“Door ontwikkelaars gemaakte content die kan worden ingewisseld”, een soort Door ontwikkelaars gemaakte content). 
+
+Wanneer u licenties verkrijgt voor Door ontwikkelaars gemaakte content die kan worden ingewisseld, zijn deze beperkt tot de ervaring waarin ze zijn verkregen, tenzij anders beschreven.
+
+1.2 Bij het verwerven van het recht om Door ontwikkelaars gemaakte content die kan worden ingewisseld met credits te gebruiken op grond van een licentie van de Ontwikkelaar, is de transactie en contractuele relatie tussen U en de Ontwikkelaar, niet met Epic. Epic faciliteert alleen het verlenen van toegang tot de Door ontwikkelaars gemaakte content die kan worden ingewisseld. 
+
+1.2.1: Niettegenstaande Sectie 1.2 hierboven, als u Door ontwikkelaars gemaakte content die kan worden ingewisseld met credits verkrijgt en u zich in het Verenigd Koninkrijk, de Europese Unie of de Europese Economische Ruimte bevindt, bestaat er geen contract voor enige verkoop of licentie tussen u en de Ontwikkelaar, met betrekking tot de Door ontwikkelaars gemaakte content die kan worden ingewisseld. De contractuele relatie is tussen U en Epic. De Ontwikkelaar verleent Epic een licentie voor Door ontwikkelaars gemaakte content die kan worden ingewisseld met credits, die Epic in sublicentie aan u geeft. Tenzij uitdrukkelijk anders vermeld, is de sublicentie die door Epic aan u wordt verleend onder dezelfde voorwaarden als de licentie voor het gebruik van Gelicentieerde Producten zoals uiteengezet in Artikel 3 van de Servicevoorwaarden van Epic Games (zoals van toepassing in het Verenigd Koninkrijk, de EU en de Europese Economische Ruimte). Zonder beperking van Artikel 15(b) van de Servicevoorwaarden van Epic, is Epic aansprakelijk voor de geldigheid van de sublicentie die zij u verleent met betrekking tot uw vermogen om Door ontwikkelaars gemaakte content die kan worden ingewisseld met credits te gebruiken op dezelfde manier en in dezelfde mate als zij aansprakelijk is voor de geldigheid van de licentie die zij u verleent met betrekking tot uw gebruik van Gelicentieerde Producten. U bent geen enkele betaling verschuldigd aan de Ontwikkelaar om Door ontwikkelaars gemaakte content die kan worden ingewisseld met credits te verkrijgen of te gebruiken.
+
+1.2.2: Niettegenstaande Artikel 1.2 hierboven, zijn alle rechten die u verkrijgt om Door ontwikkelaars gemaakte content die kan worden ingewisseld met credits te gebruiken die is uitgegeven in Japan, evenals de transacties en contractuele relaties voor het verkrijgen van dergelijke rechten, tussen u en Epic. U koopt van de Ontwikkelaar of een andere derde geen Door ontwikkelaars gemaakte content of Door ontwikkelaars gemaakte content die kan worden ingewisseld met credits die is uitgegeven in Japan. Als voorwaarden voor het ontvangen van de diensten van Epic zoals hierboven beschreven, kan het zijn dat u naast deze Voorwaarden ook moet instemmen met en voldoen aan aanvullende voorwaarden die worden verstrekt door de Ontwikkelaar die de Door ontwikkelaars gemaakte content heeft gecreëerd, ontwikkeld en/of beschikbaar heeft gesteld. Deze aanvullende algemene voorwaarden worden overeengekomen en aangegaan tussen Epic en u, en tenzij anders vermeld, wordt er geen contractuele relatie tot stand gebracht tussen u en een Ontwikkelaar.
+
+1.3 Behoudens de bovenstaande paragrafen 1.2.1 en 1.2.2 en de lokale toepasselijke wetgeving, is de Ontwikkelaar als enige verantwoordelijk voor het aanbod, de inhoud en eventuele garanties met betrekking tot de Door ontwikkelaars gemaakte content, evenals voor eventuele claims die u hebt met betrekking tot de Door ontwikkelaars gemaakte content. Als u een probleem hebt met Door ontwikkelaars gemaakte content, kan Epic de communicatie tussen u en de Ontwikkelaar faciliteren en een niet-bindende oplossing voorstellen.

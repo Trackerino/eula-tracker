@@ -1,0 +1,89 @@
+最近更新日期：2025 年 11 月 28 日
+
+<EULA.Highlight>什麼是 Epic Games？</>
+
+嗨，你好：我們是 Epic Games，我們製作了很棒的遊戲，例如 Fortnite《大逃殺》、《LEGO Fortnite Odyssey》、《Fortnite Festival》、《糖豆人》、《Rocket League》、《Rocket Racing》等等！我們也製作了很酷的工具，它們幫助人們建立自己的電子遊戲，而且我們經營 Epic Games Store。
+
+<EULA.Highlight>這個頁面是關於什麼的？</>
+
+玩電子遊戲和瀏覽網站時，我們會收集一些關於你的資訊。這個頁面講述了我們收集哪些資訊，我們為什麼收集這些資訊，以及我們如何使用這些資訊來提供你正在玩的遊戲、你瀏覽的網站以及你使用的任何其他 Epic Games 線上服務。
+
+如想了解所有細節，請讓你的父母/監護人幫你閱讀完整的 Epic Games<a id="url" href="https://www.epicgames.com/site/privacypolicy" style="EULA.Hyperlink"> 隱私權政策</a>。
+
+<EULA.Highlight>我們會收集什麼資訊？</>
+
+根據你使用的遊戲、網站或線上服務及使用方法，我們收集不同種類的資訊。
+
+<EULA.Highlight>當你與我們分享資訊時，我們會獲得你的資訊</>，例如，當你：
+
+• 註冊一個 Epic 帳號（例如，新增你的電子郵件和生日），
+• 聯絡玩家支援，以及
+• 在玩我們的遊戲時發送語音或文字聊天報告。
+
+<EULA.Highlight>我們使用特殊工具自動收集你的部分資訊</>，例如：
+
+• 你使用的設備（手機、遊戲機或電腦），
+• 你在玩我們的哪款遊戲，以及 
+• 幫助我們抓住違反規則的玩家的資訊。
+
+<EULA.Highlight>有時我們從其他公司獲取你的資訊</>，<EULA.Highlight> </>例如，當你使用 PlayStation®、Microsoft Xbox 或 Nintendo Switch 這些遊戲機玩我們的遊戲時。
+
+<EULA.Highlight>我們如何使用你的資訊？</>
+
+我們使用你的資訊來：
+
+• 使我們的遊戲、網站、和線上服務能運作， 
+• 改進我們的遊戲、網站和線上服務，讓一切更有趣，
+• 個性化你的體驗，或讓你了解活動、新聞或其他你可能喜歡的 Epic 遊戲（如果你年齡足夠大或有許可），以及 
+• 協助偵測例如作弊等行為，並保護使用者安全。
+
+<EULA.Highlight>例子</>：在 Fortnite 中，如果你未滿 18 歲，<a id="url" href="https://www.fortnite.com/news/introducing-voice-reporting-in-fortnite" style="EULA.Hyperlink">語音舉報</a>始終開啟。這意味著如果你正在使用聊天功能，而有人違反了<a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">我們的規則</a>（例如，如果你看到霸凌或惡意的玩家），你可以在遊戲中給我們<a id="url" href="https://www.epicgames.com/help/fortnite-c5719335176219/player-behavior-c19319279166491/how-to-report-bad-player-behavior-in-fortnite-a5720300102171" style="EULA.Hyperlink">發送報告</a>，以便我們可以審查你的語音聊天來檢查發生了什麼事。
+
+<EULA.Highlight>我們何時會分享你的資訊？</>
+
+我們可能會與以下對象分享你的資訊：
+
+• 其他 Epic 公司和為我們工作的公司，以幫助我們運行遊戲、網站和其他線上服務（例如，你的用戶 ID 或 IP 地址），
+• 遊戲主機公司，例如，PlayStation®、Microsoft Xbox 或 Nintendo Switch，如果你在這些主機上玩我們的遊戲，
+• 如果你從 Epic Games Store 下載遊戲玩，則與遊戲創作者分享，
+• 如果你選擇將你的 Epic 帳號與其他線上平台或商店連結（如果你年齡足夠大或有許可），以及 
+• 警察或其他執法機構，以幫助保護你和其他人（例如，我們的員工和玩家）的安全。
+
+<EULA.Highlight>你對你的資訊有什麼選擇？</>
+
+你可以要求我們：
+
+• 修正或更改你的資訊，
+• 提供你的資訊副本，並且 
+• 刪除你的帳號
+
+你的父母/監護人也可為你做這些事情（取決於你的年齡）。
+
+要向我們發送請求，請按本頁底部的說明進行操作，或查看完整的 <a id="url" href="https://www.epicgames.com/privacypolicy" style="EULA.Hyperlink">Epic Games 隱私權政策</a>第 12 節（如何聯絡我們？），獲取我們的聯絡資訊。
+
+<EULA.Highlight>什麼是默認設定和家長控制？</>
+
+如果你未滿 18 歲，你的 Epic 帳號將以高隱私設定開始。這意味著：
+
+• 聊天、個人資料和個性化推薦等功能受到限制或關閉，並且 
+• 當你年齡較大時，可以自己更改某些設定。
+
+某些功能需要你父母/監護人的許可。你的父母/監護人可以使用<a id="url" href="https://www.epicgames.com/account/parental-controls" style="EULA.Hyperlink">帳號入口網站</a>設定<a id="url" href="https://safety.epicgames.com/parental-controls" style="EULA.Hyperlink">家長控制</a>。
+
+<EULA.Highlight>如何在網上保持安全？</>
+
+為了幫助你獲得最佳體驗，以下是一些如何在網上保持安全的提示：
+
+• 如果你可以選擇顯示名稱，請選擇一個有趣的名稱，不要使用你的真實姓名。
+• 永遠不要分享你的真實姓名、電話號碼、地址或任何私密的資訊等給他人。
+• 在聊天時要小心，即使是線上上認識的朋友也不要分享個人資訊。你可以在設定中控制社交功能。
+• 使用一個沒有人能猜到的強密碼並保密。
+• 如果你認為有人進入了你的帳號，請立即告訴我們。
+
+查看我們的<a id="url" href="http://safety.epicgames.com/" style="EULA.Hyperlink">資訊安全中心</a>，獲取更多有關如何保持線上安全的有用提示。
+
+<EULA.Highlight>我們的聯絡方式</>
+
+• 你可以造訪我們的<a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">支援中心</a>獲得常見問題的答案。 
+• 如果你有問題，也可以發送電子郵件至 privacy@support.epicgames.com。
+• 你的父母/監護人可用<a id="url" href="https://www.epicgames.com/help/contact-us-parent" style="EULA.Hyperlink">家長或監護人請求</a>向我們發送問題。

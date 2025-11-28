@@ -1,0 +1,150 @@
+<EULA.Header>2024 年 9 月 12 日更新</>
+
+<EULA.Header>EPIC GAMES 社群規則</>
+
+我們希望 Epic Games 能成為一個安全愉快的空間，供您獨自或與好友一同享受遊戲。我們需要您的協助才能做到這件事。
+
+Epic 服務條款與其他協議內含使用 Epic 服務的適用規則，因此其中一部分內容可能看起來備感熟悉。但 Epic 提供許多方式（遊戲、服務與環境）讓玩家和他人互動，因此詳盡解釋社群準則會大有助益。
+
+本社群規則適用於 Epic 遊戲、服務與環境的所有使用者。這些準則會引導您在 Epic Games 生態系統的互動方法。我們在下方提供了具體範例；有些例子並未明確列出，但這並不表示就能恣意行事。
+
+遵守這些規則並非難事。若違反這些規則，我們可能會對您的帳號採取行動，最嚴重會導致帳號遭永久封鎖。
+
+________________________________________
+
+<EULA.Header>社群規則</>
+
+<EULA.Header>個人資訊</>
+
+除了顯示名稱，不得流傳他人的個人資訊，我們也強烈建議不要揭露您自己的個人資訊。不得洩漏或威脅洩漏他人的其他帳號名稱、現實世界位置、本名等資訊。
+
+
+<EULA.Header>缺乏包容性或歧視行為</>
+
+Epic 不容許任何形式的仇恨或歧視行為。
+
+Epic 生態系歡迎多元群體，不分種族、族群、膚色、宗教、性別認同、性傾向、身心障礙、國籍，以及任何其他群體。不得羞辱、排擠、發表仇恨言論，或輕視其他使用者或團體。
+
+
+<EULA.Header>霸凌與騷擾行為</>
+
+無論是聊天、玩遊戲或創作，都請尊重他人。若以剝削、威脅、恐嚇、羞辱、貶低、侵犯隱私或虐待方式與他人互動，皆視為違反規則。
+
+踐踏他人讓自己有優越感是低級的行為——和其他玩家共享遊戲體驗才更輕鬆，也更有趣！
+
+
+<EULA.Header>假冒行為</>
+
+不得假冒其他玩家、直播主、名人、政府官員、Epic 員工或任何人。也不得利用其他玩家或實體的創作收取好處。冒充他人行騙是不可接受的行為。
+
+
+<EULA.Header>作弊與網路白目行為</>
+
+請公平遊戲，並遵守遊戲規則。不得作弊、要求、或集體合作利用錯誤與故障。不得推廣或宣傳已知作弊技巧、程式錯誤或機制濫用。您發現有人有濫用遊戲機制或錯誤的行為嗎？<a id="url" href="https://www.epicgames.com/help/en-US/epic-games-store-c73" style="EULA.Hyperlink">請通報。
+</a>
+
+<EULA.Header>危險或非法活動</>
+
+不得參加，也不得在社群內鼓勵非法或危險活動，包括賭博、濫用非法藥物、網路釣魚、販賣人口、賣淫、洩漏他人個資、假報案，或散佈美化或煽動暴力的內容。威脅傷害自身或他人視為嚴重違規，切勿有此類行為，更不得以此類行為開玩笑。若發現他人將其他玩家置於險境，請在遊戲內通報（<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink">《Fortnite》</a>、<a id="url" href="https://support.rocketleague.com/hc/en-us/articles/360015606894-How-Do-I-Report-a-Player-" style="EULA.Hyperlink">《Rocket League》</a>）或<a id="url" href="https://www.epicgames.com/help/en-US/" style="EULA.Hyperlink">告知我們的玩家支援團隊</a>。
+
+
+<EULA.Header>詐騙及欺騙行為</>
+
+不得佔其他玩家便宜。禁止詐騙和欺騙，包括詢問帳號資訊，以及購買或販售帳號或個人資訊。
+
+
+<EULA.Header>不當內容</>
+
+Epic 生態系中的內容、通訊和活動，均不得妨礙他人享有積極正面的體驗。所有內容均須遵守<a id="url" href="https://www.epicgames.com/site/content-guidelines" style="EULA.Hyperlink">內容指南</a>。
+
+
+<EULA.Header>危及兒童安全</>
+
+<EULA.Highlight>兒童性剝削或虐待</>
+
+Epic 禁止其服務中出現任何兒童性剝削或虐待 (CSEA) 的內容或行為。 
+
+「兒童性剝削或虐待」意指任何透過性剝削、人口販賣、勒索、誘姦或虐待等方式傷害兒童，或使兒童遭遇傷害威脅的內容或行為。 兒童的定義是未滿 18 歲（或法定成年年齡）的個人。
+
+受禁止行為包括創作、要求或分享內含符合以下描述的內容：
+
+●	<EULA.Highlight>兒童性虐待製品 (CSAM)</>，即兒童色情。兒童色情指任何以視覺方式描寫涉及未成年人的性剝削行為的內容，包括自製的 CSAM 以及極度真實的數位或以 AI 產生的內容。
+
+●	<EULA.Highlight>性化未成年人</>，這種內容將兒童性化，藉此提倡或鼓勵兒童性剝削。此類性化包括描寫兒童從事以激發性慾為目的的行為，或呈現具有性暗示的姿態（例如刻意強調胸部等有衣著的身體私密部位，吸引人注意這些部位）。
+
+●	<EULA.Highlight>兒童販賣</>，意指以進行商業性交易為目的而廣告或兜售兒童。商業性交易指一個人給予或接受有價物品（例如金錢、食物、藥品、住宿處），用以交換性活動。
+
+這也包括對兒童的掠奪行為，例如：
+
+●	<EULA.Highlight>兒童誘姦</>，意指與兒童接觸、交談或做朋友，目的是要索求或提供性接觸，或為達性目的而分享內容。
+
+●	<EULA.Highlight>性勒索</>，宣稱能夠取得或散佈兒童之裸照或性影像，以此恐嚇或威脅該名兒童。
+
+發現包含兒童性剝削及虐待的內容時，Epic 會向美國國家失蹤兒童及童工保護中心 (National Center for Missing and Exploited Children, NCMEC) 通報。 
+
+
+<EULA.Highlight>兒童安全 </>
+
+Epic 不允許可能致使未成年人承受受傷害風險的內容或行為。 
+
+其中包括要求、指示或提倡以下項目的內容或行為： 
+
+●	<EULA.Highlight>飲食失調及負面身體意象</>，包括具有危險性的減重或體重管理行為，或因兒童的體型而予以貶抑。若體重管理行為可能造成明顯、立即或長期的健康風險（例如厭食症和暴食症），即視之為具有危險性。
+
+●	<EULA.Highlight>具有危險性的活動及挑戰</>，包括描述現實世界中會造成或可能造成明顯嚴重生理傷害的活動，或是模仿後可能導致嚴重生理傷害的活動。
+
+●	<EULA.Highlight>藥物及酒精</>，包括所有非法藥物、處方及無處方藥物、酒精、煙草產品、合成尼古丁產品（例如霧化煙和電子煙），以及其他不適合兒童攝取的受管制物質。
+
+●	<EULA.Highlight>性產品及服務</>，包括性產品（例如性輔助產品或指導）及性服務（例如與性有關的娛樂及伴遊服務）。
+
+●	<EULA.Highlight>自殺及自殘</>，包括分享或提倡身體自殘的計畫。
+
+●	<EULA.Highlight>以兒童為目標、會危及其生理安全的互動</>，例如計畫與兒童見面，或引誘兒童在平台以外的場合聊天，以致兒童有受傷的可能。
+
+________________________________________
+
+<EULA.Header>後果</>
+
+針對違反上述規則的具體違規行為，將根據個案情況採取不同類型的行動。我們會檢視嚴重程度或是否為慣犯等因素。懲處包含各種可能，較輕微的違規可能只會收到警告，然而隨著情節嚴重程度，亦有可能無法使用如語音聊天及新增好友等社交功能，最嚴重者可能遭到永久封鎖帳號。
+
+若帳號遭到永久封鎖，則您可能失去對於遊戲、虛擬物品、帳號餘額，或其他已領取或購買物品的所有權利。若您擁有多個帳號，則我們可能會對所有帳號都採取行動。
+
+如需瞭解更多關於我們內容管理措施的資訊，請訪問我們的<a id="url" href="https://safety.epicgames.com/en-US" style="EULA.Hyperlink">資訊安全中心</a>。
+
+________________________________________
+
+<EULA.Header>檢舉玩家</>
+
+身為這個社群的一份子，我們有責任讓這個空間維持友善、愉快，並遠離負面行為。
+
+若遇到不遵守社群規則、<a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">內容指南</a>，或不尊重其他玩家的人士，您可以透過<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink">遊戲內檢舉功能</a>提出舉發。
+
+若遇到不欣賞但沒有違反社群規則的人士，您可以<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-manage-my-party-and-voice-chat-options-from-the-fortnite-lobby-a3477" style="EULA.Hyperlink">封鎖對方</a>。
+
+
+________________________________________
+
+<EULA.Header>資訊安全</>
+
+確保帳號資訊的安全與隱私。讓他人擁有帳號存取權會使您面臨風險。若有事讓您起疑，或好得令人難以置信，則請務必謹慎處理。天下沒有白拿的 V-Buck。不要揭露您自己的帳號資訊，或流傳他人的帳號資訊。
+
+當涉及 Epic 生態系統的安全性與保障性時，我們認為有必要提供您所有的必須工具。您可以前往<a id="url" href="https://www.epicgames.com/store/news/epic-games-account-security" style="EULA.Hyperlink">常見問題集</a>，找到一系列關於如何加強保護帳號，以及我們目前實施辦法的完整資訊。
+
+若您想瞭解<a id="url" href="https://www.epicgames.com/fortnite/parental-controls" style="EULA.Hyperlink">家長控制</a>和如何調整孩子的遊玩時間，或者想知道與 Epic Games 的互動方法，請前往帳號管理中的家長控制中心。
+
+
+________________________________________
+
+
+Epic 社群規則還不完善，而且可能隨時間變更，因此請定期返回查看，並瞭解最新內容。「但是，我不知道啊……」可不是一個好藉口。我們來到這裡是為了娛樂、創造並享受優質遊戲！
+
+除了我們的社群規則，也請參閱其他資源：
+
+●	<a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">Epic Games 內容指南</a>
+
+●	<a id="url" href="https://www.epicgames.com/fortnite/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink">《堡壘之夜》Creative 模式——創作者內容規則與準則</a>
+
+●	<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">《Rocket League》行為準則</a>
+
+
+感謝您成為 Epic 社群的一份子，並為所有人貢獻力量維護安全的娛樂空間。

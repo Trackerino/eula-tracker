@@ -1,0 +1,150 @@
+<EULA.Header>2024 年 9 月 12 日更新</>
+
+<EULA.Header>EPIC GAMES - 社区守则</>
+
+我们希望您在 Epic Games 上更加安心地游玩各种游戏，并与朋友一同享受欢乐时光。而我们需要您的帮助来实现这个愿望。
+
+Epic 的《服务条款》以及其他协议中包含了在您使用 Epic 服务时需遵守的各种规则，所以其中某些规则可能看起来似曾相识。但 Epic 通过其游戏、服务和环境提供了多种与其他人互动的方式，这也正说明了我们的社区守则行之有效。
+
+我们的社区守则适用于所有使用 Epic 游戏、服务及环境的用户。这些守则将成为您在 Epic Games 生态系统内部的行为指南。我们在下方列出了一些特定示例，但请注意，未在示例中列出的行为并不意味着一定合规。
+
+要遵守这些规则并不算非常困难。但如果您违反了这些规则，将导致您的账户被采取各种类型的措施，直至永久封禁。
+
+________________________________________
+
+<EULA.Header>社区守则</>
+
+<EULA.Header>个人信息</>
+
+您绝不可以将其他人除显示名之外的任何个人信息对外共享，并且我们强烈建议您不要共享自己的个人信息。共享或声称要共享某人的备用账户名、真实地址、真名等，均属于违规行为。
+
+
+<EULA.Header>偏狭和歧视</>
+
+Epic 对所有仇恨和歧视思想采取零容忍态度。
+
+Epic 生态系统欢迎种族、民族、肤色、宗教、性别认同、性取向、残疾、国籍以及其他群体的多样性。禁止侮辱、边缘化、使用仇恨的语言来反对或贬低其他用户或群体。
+
+
+<EULA.Header>霸凌与骚扰</>
+
+在聊天、游戏或创作时，请尊重其他人。以欺压、威胁、恐吓、侮辱、贬损、侵犯隐私或辱骂的方式与他人互动均属于违规行为。
+
+不要把自己的快乐建立在别人的痛苦上——共同享受在 Epic Games 社区中的体验，会更容易也更有趣！
+
+
+<EULA.Header>冒名顶替</>
+
+请勿仿冒其他玩家、主播、名人、政府机构人员或 Epic 工作人员等。也不要将其他人的创作成果归为己有。伪装成其他人进行欺诈属于违规行为。
+
+
+<EULA.Header>作弊与恶意破坏</>
+
+请在游戏中遵守规则，公平竞争。请勿作弊、恶意破坏、恶意组队或利用游戏中的漏洞和错误。请勿宣传或推广您知道的作弊方式、漏洞或可从中获利的游戏错误。发现漏洞？<a id="url" href="https://www.epicgames.com/help/en-US/epic-games-store-c73" style="EULA.Hyperlink">请向我们举报。
+</a>
+
+<EULA.Header>危险或非法活动</>
+
+请勿参与或煽动社区内的非法或危险活动，包括赌博、非法使用毒品、网络钓鱼、贩卖人口、卖淫、恶意散布信息、谎报警情或分享美化/煽动暴力的内容。公开声称要对自己或他人造成伤害会产生严重的后果——绝对不要这样做，也绝对不要开这种玩笑。如果您目击到某些对其他玩家造成威胁的举动或言语，请利用游戏内的举报功能进行举报（<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink">《Fortnite》</a>或<a id="url" href="https://support.rocketleague.com/hc/en-us/articles/360015606894-How-Do-I-Report-a-Player-" style="EULA.Hyperlink">《Rocket League》</a>），也可以第一时间<a id="url" href="https://www.epicgames.com/help/en-US/" style="EULA.Hyperlink">告知我们的玩家支持团队</a>。
+
+
+<EULA.Header>诈骗或欺骗行为</>
+
+请勿利用其他玩家达成一己私欲。禁止诈骗或欺骗行为，包括搜索他人的账户信息、买卖账户或个人信息。
+
+
+<EULA.Header>不当内容</>
+
+Epic 生态系统中的内容、交流以及行为，不应阻止其他人获得积极的体验。所有内容必须遵守<a id="url" href="https://www.epicgames.com/site/content-guidelines" style="EULA.Hyperlink">内容准则</a>。
+
+
+<EULA.Header>危害儿童</>
+
+<EULA.Highlight>儿童性剥夺和虐待</>
+
+Epic 禁止在其服务中出现任何儿童性剥夺和虐待的内容或活动。 
+
+儿童性剥夺和虐待指任何通过性剥削、贩卖、勒索、诱导或虐待对儿童造成或威胁造成伤害的内容或活动。 儿童的定义是未满 18 周岁（或法定成年年龄）的人士。
+
+禁止创建、请求或贡献以下内容：
+
+●	<EULA.Highlight>儿童性虐待材料</>，即儿童色情制品。儿童色情制品指涉及未成年人露骨性行为的影像描述，包括自我生成的、以及高度逼真的数字或 AI 生成的儿童性虐待内容。
+
+●	<EULA.Highlight>未成年性侵犯</>，即宣扬或鼓励对儿童进行性剥削的性相关内容。性相关内容包括描述意在引起性兴奋，或具有性暗示的儿童行为。例如，有意强调衣服遮挡的隐私部位（如胸部），引起对这些部位的关注。
+
+●	<EULA.Highlight>儿童贩卖</>，即宣传或引诱儿童从事商业性行为。商业性行为指通过提供或接受有价物品（如金钱、食物、毒品、住处）换取性行为。
+
+也包括对儿童的掠夺行为，比如：
+
+●	<EULA.Highlight>儿童诱导</>，即联系、交谈或结交儿童，意图要求性接触或分享性目的内容。
+
+●	<EULA.Highlight>性勒索</>，即威胁或敲诈儿童，使其有可能接触或分享儿童的裸体或性爱图片。
+
+一旦发现含有儿童性剥削和性虐待的内容，Epic 会将其报告给美国国家失踪与被剥削儿童中心（National Center for Missing and Exploited Children, NCMEC）。 
+
+
+<EULA.Highlight>儿童安全 </>
+
+Epic 不允许针对未成年人的、可能使其面临伤害风险的内容或行为。 
+
+包括有如下要求、引导或宣传的内容或行为： 
+
+●	<EULA.Highlight>饮食失调或负面身体形象，</>其中包括危险的减肥或体重管理行为，或者因为儿童的体型而进行贬低。如果体重管理行为有可能造成重大、直接或长期的健康风险（如厌食症、暴食症），则被视为危险行为。
+
+●	<EULA.Highlight>危险活动和挑战，</>包括描述现实世界中可能导致明显或潜在的严重身体伤害的活动，或可能造成严重身体伤害的模仿行为。
+
+●	<EULA.Highlight>毒品和酒精，</>包括非法药物、处方药和非处方药、究竟、烟草产品、合成尼古丁产品（比如电子烟），以及其他不适合儿童使用的受管制产品。
+
+●	<EULA.Highlight>性产品及服务</>，包括性产品（如性辅助工具或指南）和性服务内容（如与性有关的娱乐或陪护服务）。
+
+●	<EULA.Highlight>自杀和自残，</>包括分享或宣传身体自残计划。
+
+●	<EULA.Highlight>针对儿童的危及人身安全的互动</>，比如计划与儿童见面，或引诱儿童到平台之外聊天，以对其造成伤害。
+
+________________________________________
+
+<EULA.Header>后果</>
+
+我们将针对每次违反这些规则的具体情况，逐案决定采取的行动类型。我们会考量事件的严重程度、是否累犯以及其他因素。执行力度将从对轻微违规行为提出的警告，限制使用诸如语音聊天以及添加好友在内的社交功能，直至最严重的永久性账户封禁。
+
+如果您的账户被永久封禁，您将失去对所有游戏、虚拟物品、账户余额或其他您所获得/购买的物品之任何权利。如果您拥有多个账户，我们将保留对您所有账户采取同样措施的可能性。
+
+欲知有关我们对内容管理方面的做法，请访问我们的<a id="url" href="https://safety.epicgames.com/en-US" style="EULA.Hyperlink">安全中心</a>。
+
+________________________________________
+
+<EULA.Header>玩家举报</>
+
+我们每个人都是社区的一分子，而我们有责任让社区变得友好、欢乐，积极向上。
+
+如果您遇到了不尊重社区守则、<a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">内容准则</a>和其他玩家的人，请通过<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276" style="EULA.Hyperlink">游戏内举报</a>功能向我们举报。
+
+如果您遇到了您不喜欢的人，但此人并未违反社区守则，那么您可以<a id="url" href="https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-manage-my-party-and-voice-chat-options-from-the-fortnite-lobby-a3477" style="EULA.Hyperlink">屏蔽此人</a>。
+。
+
+________________________________________
+
+<EULA.Header>安全与保障</>
+
+请确保自身账户信息的安全性与私密性。与他人共享您的账户，将使您处于风险之中。如果某些信息看起来太过可疑或是听上去好到不像真的，那就一定不是真的。像什么“免费赠送 V-Bucks”这种事情是绝对不可能的。请勿对外共享您自己的账户或其他人的账户。
+
+我们会为您提供所有必要的工具，以确保您在 Epic 生态系统内的安全性和安全保障。您可以在<a id="url" href="https://www.epicgames.com/store/news/epic-games-account-security" style="EULA.Hyperlink">常见问题</a>中了解到所有能够更好地保护自身的方法，以及我们为了确保您的安全所执行的措施。
+
+如果您有兴趣了解<a id="url" href="https://www.epicgames.com/fortnite/parental-controls" style="EULA.Hyperlink">家长控制</a>功能，以及管理孩子在 Epic Games 中的游戏时间或互动权限的方法，请在“账户管理”页面中访问“家长控制”中心
+。
+
+________________________________________
+
+
+Epic 社区守则目前并非最终版本，并将随时间推移而随时更改。所以请务必定期浏览，以便随时了解最新详情。“我之前也不知道啊……”在违反规定时，这并不是个好借口。我们希望所有人能在这里发现乐趣，创造并享受美好时光！
+
+在我们的社区守则之外，您还可以参照以下额外资源：
+
+●	<a id="url" href="https://www.epicgames.com/site/en-US/content-guidelines" style="EULA.Hyperlink">Epic Games - 内容准则</a>
+
+●	<a id="url" href="https://www.epicgames.com/fortnite/news/fortnite-creative-creator-content-rules-and-guidelines" style="EULA.Hyperlink">《堡垒之夜》Creative 模式 - 创作者内容规定指南</a>
+
+●	<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">《Rocket League》行为准则</a>
+
+
+感谢您成为 Epic 社区的一分子，并为维护这个能让所有人感到安全与充满乐趣的空间尽到自己的力量。

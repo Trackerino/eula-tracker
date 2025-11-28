@@ -1,0 +1,417 @@
+Zuletzt aktualisiert: 20. Oktober 2025
+Gültig ab: 28. November 2025 
+
+Hallo! Diese Regeln und Pflichten gelten für die Nutzung unserer Spiele und Dienste. 
+
+Aber zuerst eine Anmerkung für junge Spieler. <EULA.HIGHLIGHT>WENN SIE NICHT VOLLJÄHRIG SIND (18 JAHRE ODER ÄLTER IN DEN MEISTEN GERICHTSBARKEITEN), BITTEN SIE IHRE ELTERN ODER ERZIEHUNGSBERECHTIGTEN, DIES GEMEINSAM MIT IHNEN ZU LESEN</>. 
+
+<EULA.Highlight>Mit der Annahme dieser Bedingungen erklären Sie (und Ihre Eltern/Erziehungsberechtigten) sich damit einverstanden, diese Regeln einzuhalten, einschließlich der Haftungsbeschränkungen von Epic gegenüber Ihnen, der Regelungen zu In-Game-Inhalten, der Schlichtung von Streitigkeiten sowie des Rechts von Epic, diese Bedingungen zu ändern und Epic-Games-Konten zu kündigen. Siehe unten für weitere Bedingungen und Details. </>
+
+Die Nutzungsbedingungen von Epic Games, einschließlich aller referenzierten und verlinkten Dokumente (die wir zusammenfassend als „<EULA.Highlight>Bedingungen</>“ erfassen), stellen einen rechtlichen Vertrag zwischen Ihnen und Epic Games dar. Diese Bedingungen erläutern die Regeln und Verpflichtungen, denen Sie beim Nutzen der Websites, Produkte und Dienste von Epic zustimmen. Durch die Nutzung erklären Sie sich damit einverstanden, an diese Bedingungen gebunden zu sein. <EULA.Highlight>Es ist wichtig, dass Sie diese Bedingungen sorgfältig lesen. </>
+
+<EULA.Highlight>Für alle Eltern oder Erziehungsberechtigten, die dies lesen: Wenn Sie diese Bedingungen im Namen eines minderjährigen Kindes in Ihrer Obhut für ein Epic-Games-Konto akzeptieren, stimmen Sie den Bedingungen sowohl in Ihrem eigenen Namen als auch im Namen des Minderjährigen zu. </>Sie erklären sich damit einverstanden, dass Sie für jede Nutzung der lizenzierten Produkte (siehe Definition unten) durch Sie oder den Minderjährigen verantwortlich sind. Sie haften für alle nicht betrügerischen Käufe, die über das Epic-Games-Konto getätigt werden, einschließlich der Käufe durch den Minderjährigen. Darüber hinaus sind Sie dafür verantwortlich, die Ausgaben des Minderjährigen zu überwachen. Zu Ihrem eigenen Schutz stellen Sie bitte sicher, dass Ihre E-Mail-Adresse und Ihr Passwort ausreichend gesichert sind, sodass keine unbefugten Käufe über das Konto getätigt werden können. Wir empfehlen Ihnen, sich mit den lokalen Altersbeschränkungen für Spiele und Inhalte vertraut zu machen. Um Sie dabei zu unterstützen, bieten wir Kindersicherungseinstellungen an, mit denen Sie die Nutzung durch den Minderjährigen individuell anpassen können. Weitere Informationen darüber, wie wir daran arbeiten, einen sicheren und unterhaltsamen Raum für Spieler jeden Alters zu schaffen, finden Sie im <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Epic Games Safety and Security Center</>.
+
+Wie nachfolgend erläutert, sollten Sie Ihr Epic-Games-Konto mit niemandem teilen. Wenn Sie dies dennoch tun und damit gegen diese Bedingungen verstoßen, gelten diese Bedingungen auch für jede Person, der Sie Zugriff auf Ihr Epic-Games-Konto gewähren, und sind für diese verbindlich. Wenn wir „<EULA.Highlight>Sie</>“, „<EULA.Highlight>Ihr</>“ oder „<EULA.Highlight>Ihnen</>“ sagen, meinen wir Sie als Einzelperson sowie jede Person, die Ihr Epic-Games-Konto nutzt. Sie gelten als „<EULA.Highlight>Endnutzer</>“ im Sinne dieser Bedingungen. Bei Minderjährigen beziehen sich „Sie“, „Ihr“ oder „Ihnen“ gemeinsam auf die Eltern bzw. Erziehungsberechtigten und den Minderjährigen. 
+
+Wenn wir „<EULA.Highlight>Epic Games</>“, „<EULA.Highlight>Epic</>“, „<EULA.Highlight>wir</>“ oder „<EULA.Highlight>uns</>“ sagen, meinen wir das Epic-Games-Unternehmen, das für die Bereitstellung des von Ihnen genutzten lizenzierten Produkts verantwortlich ist. Weitere Informationen zu den Epic-Unternehmen, die in Ihrer Region für die Bereitstellung der lizenzierten Produkte verantwortlich sind, finden Sie in Abschnitt 18. Wenn wir „einschließlich“, „beinhaltet“ oder „einschließen“ sagen, ist dies so zu verstehen, dass am Ende „ohne Einschränkung“ mitgelesen werden soll (z. B. „einschließlich [ohne Einschränkung]“). 
+
+Wenn wir von einem „<EULA.Highlight>Erwachsenen</>“ sprechen, meinen wir damit eine Person, die in ihrem Wohnsitzland die gesetzliche Volljährigkeit erreicht hat (in den meisten Mitgliedstaaten der Europäischen Union (EU) ist dies mit 18 Jahren der Fall, kann jedoch je nach örtlichem Recht variieren).  
+
+Sofern diese Bedingungen in einer Amtssprache Ihres Wohnsitzlandes verfügbar sind (z. B. Deutsch für Personen mit Wohnsitz in Deutschland), ist diese Sprachfassung maßgeblich. Andernfalls ist die englische Sprachfassung maßgeblich.
+
+<EULA.Header>1.	Von diesen Bedingungen abgedeckte Produkte</>
+
+Diese Bedingungen gelten für jedes „<EULA.Highlight>lizenzierte</> <EULA.Highlight>Produkt</>“, das auf sie verweist, einschließlich: 
+
+•	Unsere Spiele (einschließlich Fall Guys, Fortnite und Rocket League), die auf diese Bedingungen verweisen, sowie zugehörige Inhalte/Erlebnisse;
+•	Unreal Editor for Fortnite (“<EULA.Highlight>UEFN</>”);
+•	PostParty; 
+•	Jegliche „<EULA.Highlight>In-Game-Inhalte</>“, wie etwa Charaktere, Emotes, Outfits, Erlebnisse (z. B. Inseln) sowie andere digitale Güter und Medien, die Ihnen zur Nutzung in den lizenzierten Produkten zur Verfügung gestellt werden können.
+•	Von uns bereitgestellte Dienste, einschließlich Launcher, Portale (z. B. Epic Developer Portal), Plugins, Epic-Games-Konten, soziale Funktionen, Zahlungsdienste, Spielersupport, Rewards-Programme und Websites; sowie
+•	Alle anderen Produkte oder Dienste, die auf diese Bedingungen verweisen.
+
+Wenn Sie diesen Bedingungen nicht zustimmen oder nicht zustimmen können, dürfen Sie keines dieser lizenzierten Produkte verwenden.
+
+Diese Bedingungen gelten nicht für die Unreal Engine, den Epic Games Store oder Epics Marktplätze (z. B. Fab). Bei der Nutzung der Unreal Engine, des Epic Games Store oder von Epics Marktplätzen beachten Sie bitte die jeweils geltenden Bedingungen.
+
+Wenn für ein lizenziertes Produkt zusätzliche Geschäftsbedingungen gelten (z. B. die ergänzenden UEFN-Bedingungen), werden Ihnen diese produktspezifischen Bedingungen angezeigt und Sie müssen ihnen zustimmen, bevor Sie das jeweilige lizenzierte Produkt nutzen. Außerdem können bestimmte Programme von Epic (z. B. Epics Island Creator Program) zusätzliche Geschäftsbedingungen enthalten, denen Sie zustimmen müssen, bevor Sie daran teilnehmen können. Sollte es jemals zu einem Widerspruch zwischen diesen Bedingungen und den Bedingungen für bestimmte Produkte oder Programme kommen, gelten die produkt- bzw. programmspezifischen Bedingungen. 
+
+<EULA.Header>2.	Verwendung eines Epic-Games-Kontos</>
+
+Um bestimmte lizenzierte Produkte nutzen zu können, müssen Sie möglicherweise ein „<EULA.Highlight>Epic-Games-Konto</>“ registrieren. Wenn Sie ein Epic-Games-Konto einrichten, müssen Sie korrekte Angaben zu Ihrer Person machen und diese Informationen aktualisieren, falls sich etwas ändert. Sie müssen alle altersbezogenen Anforderungen erfüllen, die mit einem lizenzierten Produkt verbunden sind, bevor Sie es verwenden. Wenn Sie ein Epic-Games-Konto unter Verwendung einer E-Mail-Adresse mit einer Domain erstellen, die Ihrem Arbeitgeber oder Ihrer Organisation gehört (d. h. einer beruflichen E-Mail-Adresse), erklären Sie sich damit einverstanden, dass Sie Ihren Arbeitgeber bzw. Ihre Organisation im Hinblick auf Ihre Nutzung von lizenzierten Produkten an diese Bedingungen binden.
+
+Sie müssen die Sicherheit Ihres Epic-Games-Kontos wahren und Epic (über den <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-Support</>) benachrichtigen, wenn Sie feststellen oder vermuten, dass jemand ohne Ihre Erlaubnis darauf zugegriffen hat. 
+
+Sie dürfen die Zugangsdaten zu Ihrem Epic-Games-Konto nicht mit anderen teilen. Sie dürfen ausschließlich Ihr eigenes Epic-Games-Konto verwenden, das auf Sie registriert ist. Sie dürfen es weder verkaufen, verschenken oder tauschen noch das Epic-Games-Konto einer anderen Person verwenden, selbst dann nicht, wenn diese Person Ihnen die Nutzung gestattet. Das Teilen Ihres Epic-Games-Kontos oder der Zugriff auf das Konto einer anderen Person kann zur Sperrung oder Kündigung des Epic-Games-Kontos sowie zum Verlust des Zugriffs auf lizenzierte Produkte führen. 
+
+<EULA.Highlight>Sie sind für sämtliche Aktivitäten oder Verstöße auf Ihrem Epic-Games-Konto verantwortlich, die durch unzureichende Sicherung Ihres Kontos oder die unzulässige Weitergabe des Zugriffs an Dritte verursacht wurden.</>
+
+Beim Erstellen eines Epic-Games-Kontos werden Sie aufgefordert, einen „Anzeigenamen“ für Ihr Epic-Games-Konto festzulegen, der öffentlich sichtbar ist. Wenn Sie einen Anzeigenamen wählen, der anstößig oder irreführend ist, gegen unsere <a id="url" href="https://legal.epicgames.com/epicgames/community-rules" style="EULA.Hyperlink">Community-Regeln</> verstößt oder die Rechte Dritter verletzt, sind wir berechtigt, Ihren Anzeigenamen zu ändern. 
+
+Sie können Ihr Epic-Games-Konto jederzeit löschen, was als Ihr Wunsch gewertet wird, den Vertrag zu diesen Bedingungen zu kündigen. Informationen zur Löschung Ihres Epic-Games-Kontos finden Sie auf unserer Seite für technischen Support und Kundenservice <a id="url" href="https://www.epicgames.com/help/" style="EULA.Hyperlink">hier</>. Da Ihr Epic-Games-Konto ein lizenziertes Produkt ist, verlieren Sie damit auch den Zugriff auf alle Informationen, die mit Ihrem Konto verknüpft sind. Dies kann beispielsweise auch bedeuten, dass Sie bestimmte Produkte, die auf die Online-Dienste von Epic angewiesen sind, nicht mehr nutzen können oder nur noch eingeschränkt darauf zugreifen können, sofern sie mit Ihrem Epic-Games-Konto verknüpft sind. Weitere Informationen zu den Auswirkungen der Kündigung Ihres Epic-Games-Kontos finden Sie in Abschnitt 14.c unten.
+
+<EULA.Header>3.	Lizenzbedingungen und Nutzung von lizenzierten Produkten</>
+
+<EULA.Highlight>Die von Ihnen genutzten lizenzierten Produkte (sowie In-Game-Inhalte) werden Ihnen lizenziert, nicht verkauft.</> Das bedeutet, dass Sie keine Eigentumsrechte an den Ihnen zur Verfügung gestellten lizenzierten Produkten oder In-Game-Inhalten erwerben, sondern lediglich eine Nutzungserlaubnis in Form einer Lizenz erhalten. Epic, seine verbundenen Unternehmen und Lizenzgeber (wie etwa unabhängige Entwickler) besitzen sämtliche Titel, Eigentumsrechte und Rechte an geistigem Eigentum, einschließlich, aber nicht beschränkt auf Urheberrechte, Markenrechte und Patentrechte, an allen Bestandteilen der Ihnen zur Verfügung gestellten lizenzierten Produkte.
+
+Durch Ihre Zustimmung zu diesen Bedingungen gewährt Ihnen Epic eine Lizenz für lizenzierte Produkte, die wie folgt beschaffen ist:
+
+•	<EULA.Highlight>Begrenzt</> ist (Sie dürfen lizenzierte Produkte nur in der ausdrücklich in diesen Bedingungen beschriebenen Weise nutzen);
+•	<EULA.Highlight>Persönlich und nicht übertragbar ist</> (unsere Lizenz gilt nur für Sie und nicht für andere, Sie dürfen Ihre Lizenz für unsere lizenzierten Produkte also weder weitergeben, übertragen noch verkaufen);
+•	<EULA.Highlight>Widerruflich</> ist (wir können sie entziehen);
+•	<EULA.Highlight>Nicht-exklusiv</> ist (wir können auch anderen Personen die Nutzung der lizenzierten Produkte gestatten); und
+•	<EULA.Highlight>Nicht unterlizenzierbar</> ist (Sie dürfen die Ihnen gemäß diesen Bedingungen eingeräumten Rechte nicht an Dritte weitergeben oder anderen die Ausübung dieser Rechte gestatten).
+
+Die Epic-Gesellschaft, die Ihnen gemäß diesen Bedingungen eine Lizenz für ein lizenziertes Produkt erteilt, ist in Abschnitt 18 aufgeführt. Die zuständige juristische Einheit hängt von verschiedenen Faktoren ab, einschließlich Ihres Standorts. 
+
+Im Rahmen dieser Lizenz <EULA.Highlight>dürfen Sie Folgendes nicht tun</>:
+
+•	<EULA.Highlight>Lizenzierte Produkte kommerziell nutzen</> (z. B. für Werbung oder zur Gewinnerzielung durch Vermietung oder Verleih) oder zu Werbezwecken einsetzen, <EULA.Highlight>es sei denn</>, dass diese Bedingungen oder andere Vereinbarungen mit Epic dies gestatten. 
+•	<EULA.Highlight>Lizenzierte Produkte kopieren, darstellen, aufführen oder in einer Weise nutzen</>, die nicht ausdrücklich in diesen Bedingungen als zulässige Nutzung aufgeführt ist oder die über den vorgesehenen Nutzungszweck hinausgeht.
+•	<EULA.Highlight>Lizenzierte Produkte rückentwickeln (Reverse Engineering), modifizieren, dekompilieren, zerlegen oder abgeleitete Werke davon erstellen.</>
+•	<EULA.Highlight>Lizenzierte Produkte in einer Weise nutzen, die für Epic Gebühren verursacht oder die Rechte Dritter verletzt</>, einschließlich geistiger Eigentumsrechte, Persönlichkeitsrechte oder Datenschutzrechte.
+•	<EULA.Highlight>Hinweise auf Rechte, die auf oder im Zusammenhang mit lizenzierten Produkten angezeigt werden, wie Urheberrechts- oder Markenhinweise, entfernen, löschen, verbergen oder verändern.</>
+•	<EULA.Highlight>Gameplay-Videos und/oder Bilder von lizenzierten Produkten veröffentlichen, die irreführende Behauptungen oder Angebote enthalten, die das Engagement für vom Entwickler erstellte Inhalte erhöhen könnten</> (z. B. Gameplay-Videos erstellen, die fälschlicherweise suggerieren, dass bestimmte Entwickler-Inhalte ungewöhnlich viele XP gewähren).
+•	<EULA.Highlight>Code oder Inhalte, die aus lizenzierten Produkten extrahiert wurden, als Trainingsdaten für ein generatives KI-Programm verwenden oder als promptbasierten Input nutzen, wenn das generative KI-Programm anhand dieser Eingabedaten trainiert. „Generatives KI-Programm“</> bezeichnet künstliche Intelligenz, maschinelles Lernen, Deep Learning, neuronale Netze oder ähnliche Technologien, die entwickelt wurden, um die Generierung neuer Inhalte zu automatisieren oder bei der Erstellung neuer Inhalte zu helfen, einschließlich, aber nicht beschränkt auf Audio-, visuelle oder textbasierte Inhalte. Programme erfüllen diese Definition von generativen KI-Programmen nicht, wenn sie beispielsweise (a) ausschließlich mit dem ursprünglichen Inhalt arbeiten (wie z. B. Bild-Upscaling); (b) Tags erzeugen, um visuellen Eingabeinhalt zu klassifizieren; oder (c) Anweisungen zum Anordnen vorhandener Inhalte erzeugen, ohne neue Inhalte zu erstellen.
+•	<EULA.Highlight>Gegen die </><a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Ökosystemregeln</> verstoßen.
+•	<EULA.Highlight>Lizenzierte Produkte nutzen, um gegen geltende Gesetze oder Vorschriften zu verstoßen.</>
+
+Alle Rechte an und im Zusammenhang mit lizenzierten Produkten und In-Game-Inhalten, die in diesen Bedingungen nicht ausdrücklich gewährt werden, bleiben Epic und seinen Lizenzgebern vorbehalten. Sie dürfen die lizenzierten Produkte ausschließlich gemäß diesen Bedingungen nutzen. Durch diese Bedingungen werden weder stillschweigend noch durch Verwirkung oder auf andere Weise Lizenzen oder sonstige Rechte eingeräumt.
+
+<EULA.Header>4.	Integrität des Gameplays</>
+
+Lizenzierte Produkte sollen für alle eine angenehme Erfahrung sein, und wir erwarten, dass alle fair spielen und die Spielregeln einhalten. Dementsprechend erklären Sie sich damit einverstanden, Folgendes zu unterlassen:
+
+•	Die Verwendung oder Förderung der Verwendung von Cheats, einschließlich Cheat-Software, -Tools und -Hardware;
+•	die Beteiligung an Betrug oder die Ermutigung anderer zum Betrug;
+•	Cheats zu entwickeln, zu vermarkten, zu verbreiten oder zu unterstützen;
+•	Cheat-Software, -Tools oder -Hardware auf Ihrem Gerät zu betreiben oder mit diesem zu verbinden;
+•	Zu versuchen, Gameplay-Integritätsfunktionen oder lizenzierte Produkte zu manipulieren, zu verändern, zu deaktivieren, zu stören oder zu umgehen, oder andere dazu anzustiften; 
+•	Bot-Software oder -Dienste zu verwenden, um Ihre Nutzung von lizenzierten Produkten zu automatisieren;
+•	Ressourcen des Spielersupports zu missbrauchen.
+
+Fehler oder Exploits gefunden? <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct" style="EULA.Hyperlink">Melden Sie es</>. 
+
+Verwenden oder verbreiten Sie keine gefälschte Software oder gefälschte Inhalte im Zusammenhang mit lizenzierten Produkten, einschließlich In-Game-Inhalten. 
+
+Um Spiele fair und unterhaltsam zu gestalten, setzt Epic sogenannte „<EULA.Highlight>Gameplay-Integritätstools</>“ ein. Diese Tools helfen dabei, Programme oder Handlungen zu erkennen und zu unterbinden, die Probleme verursachen, wie etwa: (i) Hacking, das Stehlen von Epic-Games-Konten oder andere illegale oder unautorisierte Aktivitäten („<EULA.Highlight>Betrug</>“); oder (ii) Cheats, die unfaire Vorteile verschaffen, wie Bots, Hacks, Add-ons, Malware, Skripte oder Mods, die nicht von Epic genehmigt wurden („<EULA.Highlight>Cheats</>“). Einige dieser Funktionen sind in Epic-Produkte integriert, und gelegentlich kann es erforderlich sein, dass Sie sie beim Herunterladen oder Aktualisieren eines Produkts installieren. Diese Tools können Informationen über Ihr Epic-Games-Konto, Ihr Gameplay und alle nicht autorisierten Programme, die auf Ihrem Gerät ausgeführt werden, erfassen und übermitteln. 
+
+Wenn wir Hinweise darauf finden, dass Sie sich an Betrug oder der Nutzung von Cheats beteiligt haben, können wir Maßnahmen gegen Sie oder Ihr Epic-Games-Konto ergreifen (einschließlich der Sperrung oder Kündigung desselben), ohne Sie vorher darüber zu benachrichtigen. Sie können gegen eine Maßnahme, die Epic gegen Sie ergriffen hat, Widerspruch einlegen. Weitere Informationen zum Einspruchsverfahren finden Sie unten in Abschnitt 8.b. Es stellt jedoch keine Verteidigung dar, zu behaupten, dass Sie die Geräte oder Tools noch nicht verwendet haben oder diese nur bei einem Produkt eines Dritten verwendet oder verwenden wollten. 
+
+Sie verstehen und erkennen an, dass Epic nicht verpflichtet ist und es auch nicht tun wird, Ihnen offenzulegen, wie die Gameplay Integrity Tools funktionieren oder welche spezifischen Geräte oder Tools Epic erkannt hat, da die Offenlegung dieser Informationen Entwicklern oder Anbietern solcher Geräte oder Tools helfen könnte, eine Erkennung zu umgehen. 
+
+<EULA.Header>5.	Änderungen dieser Nutzungsbedingungen oder unserer Angebote </>
+
+Wir können diese Bedingungen in Zukunft aktualisieren und Sie auffordern, ihnen erneut zuzustimmen, bevor Sie die lizenzierten Produkte weiterhin nutzen. Wir können diese Bedingungen auch einseitig aktualisieren, wenn sich Gesetze ändern, beispielsweise wenn Gerichte dies verlangen, oder wenn wir Klarstellungen vornehmen müssen. Falls wir wesentliche Änderungen vornehmen:
+
+•	Wir senden Ihnen die neuen Bedingungen (per E-Mail, im Spiel oder in anderer schriftlicher Form);
+•	Wir werden Ihnen mitteilen, wann die neuen Nutzungsbedingungen in Kraft treten; und
+•	Wir werden Sie mindestens 30 Tage im Voraus über das Inkrafttreten der neuen Bedingungen informieren.
+
+Bevor die neuen Bedingungen in Kraft treten, haben Sie das Recht, diesen Änderungen zu widersprechen. In diesem Fall gelten die neuen Bedingungen nicht für Sie, allerdings können Sie die lizenzierten Produkte dann auch nicht nutzen, es sei denn, dass Sie den Bedingungen zu einem späteren Zeitpunkt zustimmen. Wenn Sie den neuen Bedingungen nicht eindeutig widersprechen, bevor sie in Kraft treten, gilt dies als Zustimmung zu den neuen Bedingungen (es sei denn, die Änderungen sind so erheblich, dass Sie vernünftigerweise nicht davon ausgehen konnten, dass es sich noch um denselben Vertrag handelt).
+
+Viele der lizenzierten Produkte sind Live-Dienste. Das bedeutet, dass es sich um ständig weiterentwickelte Softwareanwendungen handelt, die auf eine Internetverbindung angewiesen sind und im Laufe der Zeit aktualisiert, verbessert oder verändert werden können. Wir können im Laufe der Zeit Funktionen, Inhalte und Hardwareanforderungen hinzufügen, entfernen und ändern. Wie bei jedem Online-Dienst kann es gelegentlich zu Unterbrechungen kommen, zum Beispiel:
+
+•	Fehler oder technische Probleme
+•	Geplante oder ungeplante Ausfallzeiten (z. B. zur Durchführung von Updates oder Verbesserungen)
+•	Vorübergehende Verlangsamungen oder Ausfälle, die durch Drittanbieter, Netzwerkkonditionen oder Anpassungen verursacht werden, um einen reibungslosen Betrieb der lizenzierten Produkte auf einer Vielzahl von Geräten, einschließlich leistungsschwächerer Hardware, sicherzustellen.
+
+Epic bemüht sich, diese Unterbrechungen zu minimieren, und arbeitet intensiv daran, Ihnen einen zuverlässigen, sicheren und angenehmen Zugang zu ermöglichen. 
+
+Lizenzierte Produkte sind auch darauf ausgelegt, vielseitig und spannend zu sein, und wir versuchen stets, sie noch besser zu machen! Dies bedeutet auch, dass unsere lizenzierten Produkte von Zeit zu Zeit Aktualisierungen oder Änderungen erhalten können (z. B. saisonale Aktualisierungen, zeitlich begrenzte Veranstaltungen, Gameplay-Aktualisierungen und Änderungen der Spielbalance). Ihre Verbraucherrechte in der EU finden Sie in Abschnitt 15.
+
+Beispielsweise kann in einem In-Game-Shop (z. B. dem Fortnite-Item-Shop) neuer Inhalt hinzugefügt werden, während andere Angebote entfernt werden können, z. B. wenn ein Lizenzvertrag endet und wir nicht mehr das Recht haben, dieses Produkt zu vertreiben. Ebenso kann neuer Inhalt in unsere Software aufgenommen werden. Einige dieser neuen Inhalte, wie etwa Season-Pässe, sind möglicherweise nur für einen begrenzten Zeitraum verfügbar. Aber keine Sorge! Wir verpflichten uns, Ihnen regelmäßig neue und spannende Inhalte bereitzustellen. Damit alles reibungslos funktioniert, müssen Sie die jeweils neueste Version unserer Produkte verwenden, einschließlich etwaiger Patches, Updates oder Upgrades. Epic kann lizenzierte Produkte aus der Ferne aktualisieren, ohne Sie vorher darüber zu informieren. 
+
+Wenn Sie uns eine E Mail-Adresse zur Verfügung gestellt haben, können wir diese verwenden, um mit Ihnen über diese Nutzungsbedingungen und andere wichtige rechtliche Informationen zu kommunizieren. Sie stimmen zu, dass E-Mails und Benachrichtigungen im Spiel, die wir Ihnen senden, jegliche gesetzliche Anforderung an die Schriftform erfüllen.
+
+Wir können unsere lizenzierten Produkte ebenfalls ändern, was die Aussetzung, Einstellung, den Ersatz oder die Einschränkung Ihres Zugriffs auf bestimmte Aspekte des jeweiligen lizenzierten Produkts einschließen kann, und zwar aus verschiedenen Gründen, unter anderem: (i) um das jeweilige lizenzierte Produkt für bestehende oder neue Spieler spannend und interessant zu halten, (ii) aufgrund technischer Einschränkungen, (iii) aufgrund gesetzlicher, vertraglicher oder lizenzrechtlicher Verpflichtungen, (iv) wenn wir solche Änderungen im berechtigten Interesse von Epic Games vornehmen müssen (z. B. zur Vermeidung eines Reputationsschadens), oder (v) zur Einhaltung Ihrer gesetzlichen Gewährleistungsrechte. Wir nehmen solche Änderungen unentgeltlich vor.
+
+Sollten wir eines unserer lizenzierten Produkte nicht mehr bereitstellen, beispielsweise weil es wirtschaftlich nicht mehr tragbar ist, das lizenzierte Produkt weiter anzubieten, kündigen wir diese Bedingungen teilweise in Bezug auf dieses spezifische lizenzierte Produkt. Das bedeutet, dass die Bedingungen für das eingestellte lizenzierte Produkt nicht mehr gelten, jedoch weiterhin für alle anderen lizenzierten Produkte oder Dienste, die Sie weiterhin nutzen. Darüber hinaus können die lizenzierten Produkte oder Teile von lizenzierten Produkten in bestimmten Regionen oder auf bestimmten Geräten nicht verfügbar sein oder werden. 
+
+Sie erkennen an, dass Ihre Nutzung der lizenzierten Produkte Ihnen keinerlei Eigentumsrechte oder sonstige Rechte an Aspekten oder Funktionen der lizenzierten Produkte verschafft, einschließlich spielinterner Belohnungen, Erfolge und Charakterstufen. Sie erkennen außerdem an, dass sämtliche Charakterdaten, Spielfortschritte, Spielanpassungen oder andere Daten im Zusammenhang mit Ihrer Nutzung der lizenzierten Produkte Ihnen jederzeit nicht mehr zur Verfügung stehen können, beispielsweise, wenn wir das Spiel ausbalancieren oder Fortschritte zurücksetzen, um das Gesamterlebnis für alle Spieler zu verbessern. 
+
+<EULA.Header>6.	Abrechnung und Zahlung</>
+
+<EULA.Highlight>HINWEIS:</> Um Transaktionen mit echtem Geld mit Epic und seinen verbundenen Unternehmen abzuschließen, müssen Sie ein Erwachsener sein, der zur Nutzung der angegebenen Zahlungsmethode berechtigt ist, oder ein Erwachsener muss den Zahlungsvorgang für Sie abschließen. 
+
+<EULA.Highlight>Denken Sie daran, dass Ihnen lizenzierte Produkte und In-Game-Inhalte lizenziert werden, sie werden nicht verkauft.</>
+
+<EULA.Header>a.	Käufe tätigen</>
+
+Wenn jemand eine Zahlungsmethode eingibt, um Käufe in lizenzierten Produkten zu tätigen, verlangen wir die Bestätigung, dass die Person, die die Zahlungsmethode eingibt, ein Erwachsener ist, ein autorisierter Nutzer der Zahlungsmethode ist und den entsprechenden Bedingungen zustimmt, einschließlich der <a id="url" href="https://legal.epicgames.com/store/eula" style="EULA.Hyperlink">Endbenutzer-Lizenzvereinbarung des Epic Games Store</>. Die Person, die eine Zahlungsmethode eingibt, bestätigt außerdem, dass Epic und seine verbundenen Unternehmen berechtigt sind, den Kaufbetrag einschließlich aller anfallenden Steuern und Gebühren über die Zahlungsmethode abzurechnen.
+
+Der Händler, der für die Belastung Ihrer Zahlungsmethode für Ihren Kauf verantwortlich ist, kann je nach Ihrem Standort und dem Kauf ein anderes Unternehmen von Epic oder ein anderer Dritter sein. 
+
+Wenn wir von Ihrer Bank oder Ihrem Zahlungsnetzwerk aktualisierte Informationen zu Ihrer Zahlungsmethode erhalten, ermächtigen Sie uns, diese für alle von Ihnen getätigten Käufe zu verwenden. Änderungen an Ihrem Abrechnungskonto wirken sich nicht auf Belastungen aus, die eingereicht wurden, bevor wir angemessen auf Ihre Änderungen reagieren konnten. 
+
+Wenn Sie einen Kauf tätigen, können wir Ihnen den Betrag zum Zeitpunkt der Einleitung des Kaufs oder kurz danach in Rechnung stellen. Wenn Sie ein wiederkehrendes Abonnement erwerben, stellen wir Ihnen die Gebühren regelmäßig in Rechnung, wie zum Zeitpunkt des Abonnements erläutert, und zwar, wenn es sich um ein wiederkehrendes Abonnement handelt. 
+
+<EULA.Header>b.	Gebühren </>
+
+Wenn Sie Transaktionen direkt mit Epic durchführen, sind Sie für die Zahlung aller Gebühren und anfallenden Steuern verantwortlich. Die Preise innerhalb der lizenzierten Produkte können sich ändern, jedoch wirken sich solche Preisänderungen nicht auf bereits getätigte Käufe aus. Wenn wir keine vollständige und fristgerechte Zahlung von Ihnen erhalten oder eine Rückerstattung vornehmen müssen, weil eine Zahlungsmethode in Ihrem Epic-Games-Konto unbefugt verwendet wurde, können wir Ihren Zugang zu nicht bezahlten oder erstatteten lizenzierten Produkten aussetzen oder entziehen und Ihre Möglichkeit, zukünftige Käufe zu tätigen, einschränken. 
+
+Wenn Sie etwas in einem Shop eines Drittanbieters (wie dem PlayStation® Store) kaufen, erfolgt dieser Kauf zwischen Ihnen und dem Drittanbieter, nicht mit Epic, und Sie müssen dessen Regelungen für Käufe einhalten. Zur Erinnerung: Diese Nutzungsbedingungen gelten für lizenzierte Produkte und sämtliche In-Game-Inhalte, unabhängig davon, auf welcher Plattform Sie diese nutzen. 
+
+<EULA.Header>7.	Rückerstattungsrichtlinie; Widerrufsrecht</>
+
+Wenn Sie lizenzierte Produkte direkt von Epic erwerben, gilt unsere <a id="url" href="https://legal.epicgames.com/store/refund-policy" style="EULA.Hyperlink">Rückerstattungsrichtlinie</>. Sofern ein Kauf bei Epic nicht ausdrücklich als erstattungsfähig gekennzeichnet ist oder Sie nicht aufgrund geltenden Rechts Anspruch auf eine Rückerstattung haben, sollten Sie davon ausgehen, dass alle Käufe bei Epic nicht erstattungsfähig sind. <EULA.Highlight>Nichts in unserer Rückerstattungsrichtlinie soll Ihre gesetzlichen Rechte einschränken, wie etwa Ihre gesetzlichen Gewährleistungsrechte oder Ihr Widerrufsrecht. Möglicherweise werden Sie jedoch vor Abschluss eines Kaufs ausdrücklich aufgefordert, auf Ihr Widerrufsrecht zu verzichten, um Zugang zu den jeweiligen lizenzierten Produkten zu erhalten. Weitere Informationen zu Ihrem gesetzlichen Widerrufsrecht finden Sie in unserer </><a id="url" href="https://legal.epicgames.com/epicgames/right-of-withdrawal" style="EULA.Hyperlink">Information zum Widerrufsrecht für Verbraucher mit Wohnsitz in der Europäischen Union, dem Europäischen Wirtschaftsraum oder dem Vereinigten Königreich</>.
+
+Wenn Sie In-Game-Inhalte oder lizenzierte Produkte von einem Dritten oder über eine Drittplattform (wie den PlayStation® Store) erwerben, erfolgt Ihre Transaktion mit diesem Dritten, und es gelten dessen Rückerstattungsrichtlinien. Bitte wenden Sie sich an den Drittanbieter, bei dem Sie den Kauf getätigt haben, um Informationen zur Rückerstattung zu erhalten.
+
+<EULA.Header>8.	Ökosystemregeln</>
+
+Wir möchten, dass unsere Community ein sicherer und angenehmer Ort für Sie ist, an dem Sie Spiele spielen, mit anderen kommunizieren und Ihre Kreationen teilen können. Wir erwarten von allen, dass sie das Gesetz sowie unsere Regeln und Richtlinien einhalten. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Unsere Regeln</> gelten für alle, die lizenzierte Produkte verwenden, und dienen als Leitfaden für das Verhalten, das wir von allen Nutzern der lizenzierten Produkte erwarten. Diese „<EULA.Highlight>Ökosystemregeln</>“ umfassen auch unsere <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Community-Regeln</>, die für alle Endnutzer gelten, unsere <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Inhaltsrichtlinien</> für diejenigen, die innerhalb der lizenzierten Produkte Inhalte erstellen und teilen, sowie Regeln für bestimmte lizenzierte Produkte (z. B. <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
+
+<EULA.Header>a.	Ich melde</>
+
+Sollten Sie auf jemanden stoßen, der gegen unsere Ökosystemregeln oder das Gesetz verstößt, können Sie dies über die Meldefunktion im Spiel oder über unser Formular zum <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct/submit-report" style="EULA.Hyperlink">Melden von Inhalten</> melden. Darüber hinaus ermöglichen einige lizenzierte Produkte auch, Spieler zu blockieren oder stummzuschalten, mit denen Sie nicht mehr interagieren möchten. Weitere Informationen finden Sie in unserem <a id="url" href="https://safety.epicgames.com/policies/reporting-misconduct" style="EULA.Hyperlink">Safety and Security Center</>. 
+
+Wenn Sie unsere Text- und Sprachchatfunktionen verwenden und das Melden in einem Chatkanal aktiviert ist, wird der erfasste Teil Ihres Chats (einschließlich Sprachchataudiodaten) auf Ihrem Gerät und den Geräten der Teilnehmer im Chatkanal gespeichert. Wenn ein möglicher Verstoß gegen unsere <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Community-Regeln</> gemeldet wird, können diese Ausschnitte an Epic übermittelt und überprüft werden. Zusätzlich zur menschlichen Überprüfung kann Epic Ihre Kommunikation (einschließlich Text- und Sprachchats) mithilfe von Technologien des maschinellen Lernens analysieren, um Verhaltensweisen zu erkennen, die gegen die Regeln verstoßen. Weitere Informationen finden Sie unter <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">FAQs – Sprach- und Textmeldungen in Fortnite</>.
+
+<EULA.Header>b.	Konsequenzen</>
+
+Wenn wir von einem Verstoß gegen unsere Ökosystemregeln oder gegen das Gesetz erfahren, werden wir geeignete Maßnahmen gegen Sie oder Ihre Epic Games-Konten prüfen und ergreifen. Wir berücksichtigen dabei die Schwere des Verstoßes, ob Sie Wiederholungstäter sind, sowie weitere relevante Faktoren. Die von uns ergriffenen Maßnahmen können vorübergehend oder dauerhaft sein, und wir informieren Sie über die Dauer und Art der Konsequenz, die Sie erhalten haben. Konsequenzen können eine Warnmeldung (bei weniger schwerwiegenden Verstößen), ein Bann (vorübergehend oder dauerhaft) in Bezug auf bestimmte Epic-Funktionen, -Produkte oder -Dienste, eine Sperrung Ihres Epic-Games-Kontos (die ein Jahr oder länger dauern kann) oder eine dauerhafte Kündigung dieser Bedingungen in Bezug auf Sie (bei wiederholten oder schwerwiegenden Verstößen) umfassen, was bedeutet, dass Sie lizenzierte Produkte in keinem Epic-Games-Konto und auf keinem Gerät mehr nutzen dürfen. Wenn Epic diese Bedingungen mit Ihnen beendet hat und Sie dauerhaft von der Nutzung von lizenzierten Produkten ausgeschlossen sind, dürfen Sie nicht versuchen, diesen Bann zu umgehen, indem Sie ein neues Epic-Games-Konto erstellen. Wenn Sie eine Maßnahme, die wir gegen Sie wegen eines Verstoßes ergriffen haben, anfechten möchten, können Sie <a id="url" href="https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals" style="EULA.Hyperlink">hier</> eine Beschwerde einreichen. Weitere Informationen zu den Konsequenzen bei Regelverstößen sowie zu unserem Beschwerdemechanismus finden Sie auf der Seite <a id="url" href="https://safety.epicgames.com/sanctions-and-appeals" style="EULA.Hyperlink">Sanktionen und Beschwerden</> im <a id="url" href="https://safety.epicgames.com/" style="EULA.Hyperlink">Epic Games Safety and Security Center</>.
+
+Um sich selbst und seine Spieler zu schützen, kann Epic in extremen Fällen auch andere rechtliche Schritte wegen Verstößen gegen seine Ökosystemregeln oder gegen geltendes Recht einleiten oder Informationen und Beweise an die zuständigen Strafverfolgungsbehörden weitergeben.
+
+<EULA.Header>9.	Empfehlungssysteme </>
+
+Einige lizenzierte Produkte verwenden Empfehlungssysteme, um den Nutzern bestimmte Informationen vorzuschlagen. Weitere Informationen finden Sie unter <a id="url" href="http://legal.epicgames.com/epicgames/recommendations" style="EULA.Hyperlink">Empfehlungen und Ranking in Fortnite und Fall Guys</>. 
+
+<EULA.Header>10.	In-Game-Inhalte </>
+
+Manche lizenzierten Produkte bieten „<EULA.Highlight>In-Game-Inhalte</>“, wie etwa Charaktere, Emotes, Outfits, Erlebnisse (z. B. Inseln) sowie andere digitale Güter und Medien, die Ihnen zur Nutzung in den lizenzierten Produkten, in denen Sie sie erworben haben, lizenziert werden können. Der Begriff „lizenzierte Produkte“ umfasst auch In-Game-Inhalte.
+
+Sie können Lizenzen für In-Game-Inhalte auf unterschiedliche Weise erwerben. Einige In-Game-Inhalte sind automatisch für alle Endnutzer verfügbar (z. B. Battle Royale). Lizenzen für andere In-Game-Inhalte können durch Aktivitäten im Spiel verdient, mit echtem Geld gekauft oder mit “<EULA.Highlight>Credits</>” (z. B. V-Bucks, Rocket League-Credits) eingelöst werden. Credits sind eine Art von In-Game-Inhalten. Sie können Credits durch das Spielen verdienen oder eine Lizenz für sie mit echtem Geld erwerben. Lizenzen für Credits und andere In-Game-Inhalte können innerhalb eines lizenzierten Produkts, im Epic Games Store oder über eine Drittanbieterplattform erworben werden. Hinweis: In-Game-Inhalte sind nicht unbedingt mit allen Erlebnissen kompatibel. Die Kompatibilität kann durch Altersfreigaben oder das Design des jeweiligen Erlebnisses eingeschränkt sein.
+
+<EULA.Highlight>CREDITS SIND NICHT MIT BARGELD, GESCHENKKARTEN ODER BANKKONTEN GLEICHZUSETZEN UND KÖNNEN NICHT GEGEN ECHTE WÄHRUNG ODER ANDERE GEGENSTÄNDE AUSSERHALB DES EPIC-ÖKOSYSTEMS EINGETAUSCHT WERDEN. DAS GLEICHE GILT, WENN WIR EINEN PREIS IN ECHTER WÄHRUNG NEBEN CREDITS ODER ANDEREN IN-GAME-INHALTEN ANZEIGEN; EINE SOLCHE ANZEIGE DIENT AUSSCHLIESSLICH DER UNGEFÄHREN ORIENTIERUNG DARÜBER, WELCHEN BETRAG IN ECHTER WÄHRUNG SIE FÜR DEN ERWERB DIESER CREDITS ODER ANDERER IN-GAME-INHALTE AUFWENDEN MÜSSTEN.</>
+
+Die Merkmale, Preise, Verfügbarkeit und Funktionalität von Credits und anderen In-Game-Inhalten können sich ändern, zum Beispiel aufgrund eines täglichen Updates der im In-Game-Shop angebotenen Artikel. Epic garantiert keinen fortlaufenden Zugriff auf bestimmte In-Game-Inhalte, die Sie nicht erworben haben, und haftet nicht für Änderungen, Löschungen oder die Nichtverfügbarkeit solcher In-Game-Inhalte. Wenn Sie In-Game-Inhalte erworben haben, ist Ihr Zugriff auf diese Inhalte an das jeweilige lizenzierte Produkt gebunden, für das sie bestimmt sind. Wenn Sie den Zugriff auf dieses lizenzierte Produkt verlieren, etwa durch die Kündigung Ihres Epic-Games-Kontos, können Sie nicht erwarten, die In-Game-Inhalte außerhalb dieses lizenzierten Produkts zu nutzen. In-Game-Inhalte können plattformspezifischen Beschränkungen unterliegen (z. B. nur auf bestimmten Konsolen zugänglich).
+
+<EULA.Header>a.	Regeln für In-Game-Inhalte</>
+
+Credits können nur für andere In-Game-Inhalte eingelöst werden, einschließlich Entwickler-Inhalte, die von Epic im Auftrag des Entwicklers zur Verfügung gestellt werden. Sobald diese Credits eingelöst wurden, besteht für Sie keine weitere Zahlungsverpflichtung mehr. Es ist untersagt, Credits oder andere In-Game-Inhalte in einen außerhalb des lizenzierten Produkts, in dem sie erworben wurden, geltenden Wert umzuwandeln, wie etwa in tatsächliche Währung oder reale Waren. Sie erkennen an und stimmen zu, dass Epic Maßnahmen ergreifen kann, die sich auf den wahrgenommenen Wert oder den Kaufpreis von Credits oder anderen In-Game-Inhalten auswirken, sofern dies nicht durch geltendes Recht untersagt ist. 
+
+Die hierunter gewährte Lizenz für In-Game-Inhalte endet gemäß diesen Bedingungen, wenn Epic die Bereitstellung des lizenzierten Produkts oder den Zugang zum lizenzierten Produkt einstellt, in dem Sie diese Inhalte erworben haben, oder wenn diese Bedingungen anderweitig beendet werden. Weitere Informationen zur Wirkung der Kündigung dieser Bedingungen finden Sie in Abschnitt 14.c. 
+
+Epic kann einen Höchstbetrag festlegen, den Sie pro Transaktion und/oder pro Tag für den Kauf von Credits ausgeben dürfen, was je nach zugehörigem lizenziertem Produkt variieren kann, sowie ein maximales Guthaben an Credits, das Sie auf Ihrem Epic-Games-Konto haben dürfen. Epic kann zusätzliche Beschränkungen für Käufe oder die Verwendung von Credits auferlegen. 
+
+Wenn ein Fehler in Ihrem Credit-Guthaben vorliegt oder wir Grund zur Annahme von Betrug haben, sind wir berechtigt, Credit-Guthaben zu korrigieren oder den Zugriff auf Ihr Epic-Games-Konto zu entziehen.
+
+<EULA.Header>b.	Physische und virtuelle Karten für Credits und In-Game-Inhalte</>
+
+Epic kann physische oder virtuelle Karten anbieten (nachfolgend „<EULA.Highlight>Karten</>“), mit denen Credits zu einem Epic-Games-Konto hinzugefügt werden können. Durch den Kauf oder die Einlösung einer Karte stimmen Sie diesen Bedingungen sowie den jeweils geltenden, kartenspezifischen Zusatzbedingungen zu, die diese Bedingungen ergänzen. Beispiele für ergänzende Bedingungen sind die <a id="url" href="https://www.fortnite.com/vbuckscardterms" style="EULA.Hyperlink">Allgemeinen Geschäftsbedingungen für Fortnite V-Bucks-Karten</> und die <a id="url" href="https://www.epicgames.com/site/gift-card-terms" style="EULA.Hyperlink">Allgemeinen Geschäftsbedingungen für Fortnite-Geschenkkarten</>. <EULA.Highlight>KAUFEN SIE KEINE KARTE, ES SEI DENN, DASS SIE ODER DER VORGESEHENE EMPFÄNGER BEREITS ÜBER EIN EPIC-KONTO VERFÜGEN, UM DAS ENTSPRECHENDE SPIEL ZU SPIELEN.</> STELLEN SIE BITTE SICHER, DASS SIE ODER DIE VORGESEHENE EMPFÄNGERPERSON EIN EPIC-KONTO UND EIN SPIELGERÄT BESITZEN, DAS ALLE MINDESTANFORDERUNGEN AN DAS SYSTEM ERFÜLLT, DA DER KAUF EINER KARTE GGF. NICHT ERSTATTET WERDEN KANN.Die Nutzung von Karten muss sämtlichen geltenden Gesetzen entsprechen. Käufe von Karten bei Drittanbietern unterliegen den jeweiligen Richtlinien des Händlers. Direktkäufe von Karten bei Epic unterliegen der Erstattungsrichtlinie von Epic. 
+
+Karten, die für den Vertrieb in einem bestimmten Land vorgesehen sind, dürfen nur für Epic Games-Konten eingelöst werden, die in diesem Land registriert sind. Sie erklären sich damit einverstanden, Karten in Übereinstimmung mit allen geltenden Gesetzen zu verwenden, einschließlich aller ausfuhrrechtlichen Beschränkungen und Vorschriften, die in Ihrem Wohnsitzland gelten.
+
+Wenn beim Einlösen einer Karte und/oder beim Zugriff auf In-Game-Inhalte in einem Epic-Games-Konto Probleme auftreten, wenden Sie sich bitte an den <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink"> Epic Games-Support</>. 
+
+<EULA.Header>11.	Externe Fan-Inhalte</>
+
+Epic möchte das Interesse unterstützen, das unsere Fans an unseren Spielen und unserem Unternehmen zeigen. Daher haben wir unsere <a id="url" href="https://legal.epicgames.com/epicgames/fan-art-policy" style="EULA.Hyperlink">Richtlinie für Fan-Inhalte</> erstellt, um bestimmte von Fans erstellte Inhalte zuzulassen, die auf lizenzierten Produkten basieren und außerhalb der lizenzierten Produkte angezeigt werden. „<EULA.Highlight>Externe Fan-Inhalte</>“ umfassen unter anderem: (i) Aufzeichnungen oder Livestreams des Gameplays von lizenzierten Produkten; (ii) Fan-Kunst (z. B. Kunstwerke, Fotos, Videos und andere Materialien), die auf lizenzierten Produkten basieren; und (iii) Websites und Apps, die kostenlos, öffentlich zugänglich und auf die Epic-Angebote bezogen sind. Sie dürfen externe Fan-Inhalte nur erstellen, solange Sie diese Bedingungen einhalten. 
+
+<EULA.Header>12.	Entwickler-Inhalte</>
+
+UEFN ist ein Kreativtool, mit dem Entwickler Inhalte in Fortnite erstellen, entwickeln, ändern oder zu ihnen beitragen und solche Inhalte für andere Nutzer von lizenzierten Produkten hochladen, veröffentlichen oder anderweitig verfügbar machen können. Bevor Entwickler UEFN verwenden, müssen sie auch den <a id="url" href="https://legal.epicgames.com/fortnite/eula/uefn" style="EULA.Hyperlink">Ergänzenden UEFN-Bedingungen</> zustimmen. Gemäß <a id="url" href="https://legal.epicgames.com/fortnite/eula/uefn" style="EULA.Hyperlink">UEFN-Zusatzbedingungen</> wird eine Person, die UEFN zur Erstellung von UEFN-Inhalten nutzt, als „<EULA.Highlight>Entwickler</>“ bezeichnet, und alle von Entwicklern erstellten, angebotenen, angezeigten, zur Verfügung gestellten oder arrangierten In-Game-Inhalte werden als „<EULA.Highlight>Entwickler-Inhalte</>“ bezeichnet. Von Entwicklern erstellte „Inseln“ sind ein Beispiel für von Entwicklern erstellte Inhalte.
+
+Credits können gegen Lizenzen für digitale Artikel oder andere Entwickler-Inhalte („<EULA.Highlight>einlösbare Entwickler-Inhalte</>“, eine Art von Entwickler-Inhalten) eingetauscht werden. Diese Bedingungen gelten auch für einlösbare Entwickler-Inhalte, die in Anhang 1 genauer dargelegt sind.
+
+<EULA.Header>13.	Feedback</>
+
+Manchmal wenden Sie sich mit Fragen, Kommentaren, Vorschlägen, Ideen, Änderungen, Verbesserungen, Aktionen oder anderen Informationen zu Epic oder den lizenzierten Produkten an uns. Wir bezeichnen diese Kontaktaufnahme als „<EULA.Highlight>Feedback</>“. Sie sind nicht verpflichtet, Feedback zu geben; jegliches Feedback, das Sie über die verfügbaren Kanäle geben, erfolgt freiwillig. Wenn Sie Epic Feedback zur Verfügung stellen, gewähren Sie Epic hiermit eine nicht-exklusive, weltweite, unbefristete, unwiderrufliche und im erforderlichen Umfang unterlizenzierbare, übertragbare und abtretbare Lizenz zur Nutzung, Vervielfältigung, Reproduktion, Verbreitung, Änderung, Anpassung, Erstellung abgeleiteter Werke, Veröffentlichung, öffentlichen Aufführung, öffentlichen Darstellung, Übersetzung, Herstellung, Anfertigung, Verwendung und anderweitigen Verwertung jeglichen Feedbacks, wie z. B. zur Verbesserung der lizenzierten Produkte. Epic ist nicht verpflichtet, Ihnen Ihren Beitrag gutzuschreiben oder zu vergüten. 
+
+Sie verstehen, dass es sich bei der Abgabe von Feedback an Epic um eine freiwillige Mitteilung Ihrer Ansichten darüber handelt, wie Sie die lizenzierten Produkte am besten nutzen können. Diese erfolgt nicht auf Veranlassung von Epic, und Sie können dafür keine Vergütung erwarten. Sie sichern zu und gewährleisten, dass Sie über ausreichende Rechte an jeglichem Feedback verfügen, das Sie Epic zur Verfügung stellen, um Epic und anderen betroffenen Parteien die oben beschriebenen Rechte zu gewähren. Dies umfasst unter anderem Rechte des geistigen Eigentums und andere Eigentums- oder Persönlichkeitsrechte. Sie erkennen an, dass wir Feedback nicht als vertraulich behandeln dürfen. Bitte senden Sie keine unaufgeforderten Aufnahmen, Livestreams, Kunstwerke oder andere von Fans erstellte Inhalte oder Spielideen an Epic; sie werden ungesehen gelöscht. Zur Klarstellung: Feedback ist von externen Fan-Inhalten und Entwickler-Inhalten zu unterscheiden.
+
+<EULA.Header>14.	Beendigung dieser Bedingungen</>
+
+<EULA.Header>a.	Kündigung durch Sie</>
+
+Sie können diese Bedingungen jederzeit beenden, indem Sie Ihr Epic-Games-Konto löschen; damit beenden Sie diese Bedingungen in Bezug auf alle lizenzierten Produkte. Wenn Sie Ihr Epic Games-Konto löschen möchten, wenden Sie sich bitte an den <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-Support</>. Um zu sehen, welche Dienste möglicherweise mit Ihrem Epic-Games-Konto verknüpft sind, bevor Sie Ihr Epic-Games-Konto löschen, besuchen Sie Ihre Seite <a id="url" href="https://www.epicgames.com/account/connections" style="EULA.Hyperlink">Verknüpfte Konten</>.
+
+Wenn Sie mehrere Epic Games-Konten haben, gilt die Löschung eines bestimmten Epic-Games-Kontos nur für dieses Epic-Games-Konto; diese Bedingungen gelten weiterhin für Ihre übrigen Epic Games-Konten.
+
+Wenn Sie auf ein lizenziertes Produkt zugreifen, das kein Epic-Games-Konto erfordert, können Sie diese Bedingungen beenden, indem Sie die Nutzung des lizenzierten Produkts einstellen (z. B. eine Epic-Website nicht mehr verwenden). Bitte beachten Sie jedoch, dass bestimmte Bestimmungen dieser Bedingungen auch nach der Beendigung weiterhin gelten, wie unten in Abschnitt 14.c beschrieben.
+
+<EULA.Header>b.	Kündigung durch Epic</>
+
+Wie an mehreren Stellen in diesen Bedingungen erläutert, können bestimmte Handlungen Ihrerseits gegen diese Bedingungen oder geltendes Recht verstoßen. In solchen Fällen kann Epic Ihr Recht zur Nutzung eines oder mehrerer lizenzierter Produkte aussetzen oder diese Bedingungen kündigen (auch „dauerhaftes Verbot“ genannt), entweder produktspezifisch oder in Bezug auf alle lizenzierten Produkte. Sofern zumutbar, wird Epic Ihnen vor der Kündigung dieser Bedingungen eine vorherige Warnung senden. Epic ist jedoch nicht verpflichtet, Sie vorab zu warnen, wenn es sich um einen schwerwiegenden Verstoß handelt oder bei wiederholten Verstößen. 
+
+In beiden Fällen wird Epic Sie, soweit zumutbar, kontaktieren, um zu erläutern, warum Maßnahmen ergriffen wurden und was (falls zutreffend) Sie als Folge tun können. 
+
+Wenn Sie mehrere Epic Games-Konten haben, können wir Maßnahmen gegen alle Ihre Epic Games-Konten ergreifen. Sie dürfen das Verbot nicht dadurch umgehen, dass Sie ein neues Epic-Games-Konto erstellen.
+
+Epic kann diese Bedingungen auch dann kündigen, wenn kein Verstoß Ihrerseits vorliegt, wenn:
+
+•	Wir den Betrieb des jeweiligen lizenzierten Produkts einstellen (z. B. weil es wirtschaftlich nicht mehr tragfähig ist oder der fortgesetzte Betrieb aus technischen, betrieblichen oder geschäftlichen Gründen unpraktikabel ist);
+•	Wir den Betrieb eines bestimmten lizenzierten Produkts auf einer bestimmten Plattform einstellen;
+•	Erforderlich durch Gesetz oder eine verbindliche Anordnung einer Regierungsbehörde;
+•	Ein lizenziertes Produkt auf einen Drittanbieter oder eine Plattform angewiesen ist, die den Support dafür einstellt; oder
+•	Wir eine Fusion, Übernahme oder Umstrukturierung durchlaufen, die sich auf ein lizenziertes Produkt auswirkt.
+
+In diesen Fällen wird Epic Ihnen eine dreißigtägige (30) Vorankündigung geben, indem eine Mitteilung auf den betreffenden Websites des/der jeweiligen lizenzierten Produkts/-Produkte veröffentlicht wird.
+
+<EULA.Header>c.	Auswirkungen der Kündigung</>
+
+Wenn Epic diese Bedingungen für Sie beendet oder wenn Sie diese Bedingungen selbst beenden, verlieren Sie sämtliche Rechte an allen lizenzierten Produkten, einschließlich Spielen, Credits und sonstigen In-Game-Inhalten, Epic Games-Kontoguthaben oder anderen Gegenständen, die Sie vor der Beendigung erworben oder verdient haben. Mit der Beendigung dieser Bedingungen in Bezug auf eines oder mehrere lizenzierte Produkte enden automatisch alle Ihnen gewährten Lizenzen für das jeweilige lizenzierte Produkt, und Sie müssen sämtliche Kopien des jeweiligen Epic-Produkts von Ihren Geräten deinstallieren und löschen. Sie sind dann nicht mehr berechtigt, in Bezug auf ein solches lizenziertes Produkt Rechte aus diesen Bedingungen auszuüben.
+
+Wenn Epic Betrug oder Cheats in Ihrem Epic-Games-Konto feststellt, kann Ihnen der Zugang zu jeglichen Platzierungen, Trophäen, In-Game-Inhalten und sonstigen mit Ihrem Epic-Games-Konto verknüpften Informationen entzogen werden. Dies kann beispielsweise auch bedeuten, dass Sie bestimmte Produkte, die auf die Online-Dienste von Epic angewiesen sind, nicht mehr nutzen können oder nur noch eingeschränkt darauf zugreifen können, sofern sie mit Ihrem Epic-Games-Konto verknüpft sind. 
+
+Sofern gesetzlich nicht anders vorgeschrieben, haben Sie im Falle der Beendigung dieser Bedingungen keinen Anspruch auf eine Rückerstattung. Das bedeutet, dass wir Ihnen keine Rückerstattung für frühere In-Game-Käufe oder ungenutzte In-Game-Inhalte in Ihrem Epic-Games-Konto gewähren, wenn wir Ihren Zugriff auf eines oder mehrere lizenzierte Produkte aufgrund von Betrug, Cheats oder anderen Verstößen gegen diese Bedingungen sperren, einschränken oder beenden.
+
+Auch nach Beendigung bleiben die Abschnitte 4, 8, 10, 16, 17 und 19 sowie Anhang 1 dieser Bedingungen in Kraft.
+
+<EULA.Header>15.	Haftungsausschlüsse, Haftungsbeschränkung und Freistellung</>
+
+Die Bestimmungen in diesem Abschnitt gelten im maximal zulässigen Umfang gemäß dem Recht Ihres Wohnsitzlandes.
+
+Als Verbraucher in der EU haben Sie möglicherweise gesetzliche Gewährleistungsrechte für digitale Inhalte und Dienste gemäß der Richtlinie (EU) 2019/770 sowie den entsprechenden nationalen Umsetzungsgesetzen in Ihrem Heimatland. Dazu gehört, dass wir unser Bestes geben, um Ihnen eine reibungslose Nutzung unserer lizenzierten Produkte zu ermöglichen: 
+
+<EULA.Highlight>Das erhalten, wofür Sie bezahlt haben</>: Wenn Sie ein Spiel oder eine App kaufen, sollte diese wie vorgesehen funktionieren. Falls dies nicht der Fall ist, haben Sie das Recht, eine Nachbesserung zu verlangen oder Ihr Geld zurückzuerhalten (gemäß den geltenden Gesetzen).
+
+<EULA.Highlight>Updates und Fehlerbehebungen</>: Digitale Produkte benötigen gelegentlich Updates, um weiterhin ordnungsgemäß zu funktionieren. Sie sollten diese Updates kostenlos erhalten, damit Ihr Spiel oder Ihre App weiterhin sicher und unterhaltsam bleibt.
+
+<EULA.Highlight>Hilfe, wenn etwas schiefläuft</>: Wenn mit Ihren digitalen Inhalten etwas nicht stimmt, zum Beispiel, wenn sie nicht mehr funktionieren oder Sie keinen Zugriff mehr haben, helfen wir Ihnen bei der Behebung. Unter anderem können Sie unseren <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Hilfe- und Supportbereich</> kontaktieren.
+
+Nichts in diesen Bedingungen zielt darauf ab, etwaige gesetzliche Gewährleistungsrechte, die Ihnen zustehen, einzuschränken. 
+
+Die gesetzliche Haftung von Epic für Vorsatz und grobe Fahrlässigkeit sowie für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit bleibt von diesen Bedingungen unberührt. Epic haftet für seine fahrlässigen Handlungen oder Unterlassungen nur, wenn dadurch eine wesentliche Vertragspflicht verletzt wird. Eine „wesentliche Vertragspflicht“ im Sinne dieser Klausel ist eine Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner daher regelmäßig vertrauen darf. Die Haftung von Epic für die Verletzung einer wesentlichen Vertragspflicht ist auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehen typischerweise gerechnet werden muss. Die Haftungsbeschränkungen in dieser Klausel gelten zugunsten der Mitarbeiter, Beauftragten und Erfüllungsgehilfen von Epic. Jegliche Haftung von Epic für von Epic gegebene Garantien, Ansprüche aus zwingend geltendem Produkthaftungsrecht oder Datenschutzverletzungen bleibt unberührt.
+
+Wie im obigen Ausschluss bestimmter Garantien und der Haftungsbeschränkung verwendet, umfasst der Begriff „<EULA.Highlight>Epic-Parteien</>“ auch den Entwickler einer Software, die Ihnen gemäß diesen Bedingungen lizenziert wurde, sofern Sie nicht softwarebezogenen Bedingungen für diese Software oder diesen Dienst zugestimmt haben, die einen Haftungsausschluss der Garantien des Entwicklers sowie eine Haftungsbeschränkung des Entwicklers enthalten.
+
+Sie verpflichten sich, die Epic-Parteien schadlos zu halten, deren Verteidigungskosten zu übernehmen und sie von sämtlichen Ansprüchen, Forderungen, Klagen, Verbindlichkeiten, Schäden, Urteilen, Entscheidungen, Verlusten, Kosten, Auslagen oder Gebühren (einschließlich angemessener Anwalts- und Sachverständigenhonorare) freizustellen, die sich aus oder im Zusammenhang mit einem vorsätzlichen oder fahrlässigen Verstoß gegen diese Bedingungen durch Sie ergeben. 
+
+Einige Funktionen der lizenzierten Produkte können eine Internetverbindung erfordern, die Sie auf eigene Kosten bereitstellen müssen. Sie sind für alle Kosten und Gebühren verantwortlich, die Ihr Internetdienstanbieter im Zusammenhang mit der Nutzung der lizenzierten Produkte erhebt.
+
+<EULA.Header>16.	Anwendbares Recht </>
+
+Alle Ansprüche oder Streitigkeiten, die aus oder im Zusammenhang mit diesen Bedingungen oder dem Dienst erwachsen, unterliegen den Gesetzen Ihres Wohnsitzlandes. Das UN-Kaufrecht findet keine Anwendung. 
+
+<EULA.Header>17.	Ansprüche wegen Rechtsverletzungen</>
+
+Wir haben eine Richtlinie eingeführt, wonach in geeigneten Fällen die Konten von Spielern gekündigt werden, die wiederholt die geistigen Eigentumsrechte Dritter verletzen. Wenn Sie der Ansicht sind, dass Ihre geistigen Eigentumsrechte oder andere Rechte von einem Dritten in einem lizenzierten Produkt verletzt werden, informieren Sie uns bitte <a id="url" href="https://www.epicgames.com/site/infringement" style="EULA.Hyperlink">hier</>: 
+
+<EULA.Header>18.	Lizenzgebende Gesellschaft</>
+
+Welche Epic-Gesellschaft Ihnen eine Lizenz zur Nutzung der lizenzierten Produkte erteilt, hängt davon ab, wo Sie wohnen und welche lizenzierten Produkte Sie verwenden. Die Lizenz in Abschnitt 3 für die folgenden lizenzierten Produkte (und die zugehörigen Epic-Dienste) wird Ihnen von folgendem Unternehmen gewährt:
+
+<EULA.Highlight>Fall Guys (außer Mobilversion für Android und Apple iOS in der EU):</>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie auf der Steam-Plattform spielen: EGFG LLC, firmierend als Epic Games
+&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie auf einer anderen Plattform spielen: Epic Games, Inc.
+<EULA.Highlight>Fall Guys (Mobilversion für Android und Apple iOS in der EU):</> EGFG LLC, firmierend als Epic Games.
+<EULA.Highlight>Fortnite (außer Mobilversion für Apple iOS) oder UEFN:</>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie in den Vereinigten Staaten von Amerika wohnen: Epic Games, Inc.
+&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie außerhalb der Vereinigten Staaten von Amerika wohnen: Epic Games Entertainment International GmbH
+<EULA.Highlight>Fortnite (Mobilversion für Apple iOS): </>
+&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie in den Vereinigten Staaten von Amerika wohnen: Epic Games, Inc.
+&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie außerhalb der Vereinigten Staaten von Amerika wohnen: Epic Games Sweden, AB
+<EULA.Highlight>Postparty:</> Life on Air Inc.
+<EULA.Highlight>Rocket League oder Rocket League Sideswipe:</> Psyonix LLC
+<EULA.Highlight>Websites:</> Epic Games, Inc.
+<EULA.Highlight>Alle anderen lizenzierten Produkte:</> Siehe produktspezifische oder programmspezifische Bedingungen.
+
+<EULA.Header>19.	Sonstiges</>
+
+<EULA.Header>a.	Verzicht und salvatorische Klausel</>
+
+Sollte Epic auf einen Teil dieser Bedingungen verzichten, sollten Sie diesen Verzicht als einmaligen, fallspezifischen Verzicht betrachten, es sei denn, wir teilen Ihnen schriftlich mit, dass dies nicht der Fall ist. Ebenso bedeutet die Tatsache, dass wir ein Recht oder eine Bestimmung dieser Bedingungen nicht geltend machen, nicht, dass wir darauf verzichten. Wenn ein Teil dieser Bedingungen von einem Gericht für ungültig, illegal oder nicht durchsetzbar befunden wird, bleiben die übrigen Bedingungen in Kraft. 
+
+Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+<EULA.Header>b.	Lichtempfindlichkeitswarnung</>
+
+Einige Menschen erleiden epileptische Anfälle oder Ohnmachtsanfälle, wenn sie bestimmte Bilder oder Muster wie blinkende Lichter sehen. Die Darstellung solcher Bilder oder Muster auf einem Bildschirm, etwa beim Spielen von Videospielen, kann bei diesen Personen epileptische Anfälle oder Ohnmachtsanfälle auslösen. Diese Reaktionen können verringert werden durch:
+
+•	Spielen in einem gut beleuchteten Raum;
+•	Vermeidung des Spielens bei Müdigkeit;
+•	Anzeige des Spiels aus größerem Abstand oder auf einem kleineren Bildschirm; und 
+•	Begrenzung der Spieldauer. 
+
+Wenn Sie oder eine Person in Ihrer Umgebung an Epilepsie leiden oder bereits Anfälle oder Anfallssymptome hatten, sollte diese Person vor der Nutzung der lizenzierten Produkte einen Arzt konsultieren. Wenn Sie oder jemand in Ihrer Nähe während der Nutzung der lizenzierten Produkte eines der folgenden Symptome erlebt, beenden Sie die Nutzung sofort und konsultieren Sie vor der Fortsetzung einen Arzt: 
+
+•	Schwindel;
+•	Veränderung der Sehkraft;
+•	Augen- oder Muskelzucken;
+•	Zuckungen oder ruckartige Bewegungen der Arme oder Beine;
+•	Bewusstseinsverlust;
+•	Desorientierung;
+•	Verwirrung;
+•	Unwillkürliche Bewegungen; oder
+•	Krampfanfälle.
+
+<EULA.Header>c.	Ausfuhrkontrollen und Sanktionen</>
+
+Sie verstehen und erklären sich damit einverstanden, dass Sie die lizenzierten Produkte nicht verwenden, auf sie nicht zugreifen, sie nicht herunterladen, exportieren, reexportieren oder übertragen werden und dass Sie nicht berechtigt sind, diese Bedingungen einzugehen, wenn dies gegen US-amerikanische oder andere anwendbare Ausfuhrkontroll-, Sanktions- oder Einfuhrgesetze und -vorschriften verstoßen würde, etwa die Export Administration Regulations der USA oder die Vorschriften des Office of Foreign Assets Control des US-Finanzministeriums.
+
+<EULA.Header>20.	Informationen in Bezug auf das Gesetz über digitale Dienste (Digital Services Act</>
+
+In Erfüllung von Artikel 13 des Gesetzes über digitale Dienste hat Epic das Unternehmen Epic Games Sweden, AB als seinen gesetzlichen Vertreter in der Europäischen Union benannt. Zuständige Behörden der Europäischen Union können Epic Games Sweden, AB unter folgender Adresse kontaktieren:
+
+Epic Games Sweden, AB
+Västgötagatan 2, 6. Etage
+118 28 Stockholm, Schweden
++46 46 590 22 06
+DSA-Legal-Representative@epicgames.com
+
+<EULA.Header>21.	Plattformspezifische Bedingungen</>
+
+<EULA.Header>a.	Endbenutzer von Sony PlayStation</>
+
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf lizenzierte Produkte, die auf PlayStation®-Geräten genutzt werden können, die Sie besitzen oder kontrollieren:
+
+Bitte beachten Sie, dass Epic die Kontoinformationen aus dem Sony Entertainment Network („<EULA.Highlight>SEN-Konto</>“) erhält, einschließlich Ihrer E-Mail-Adresse und Online-ID, wie in den Datenschutzrichtlinien von Epic erläutert. Epic kann es seinen Endnutzern ermöglichen, nach anderen Epic Games-Konten über deren SEN-Konto zu suchen, und andere Endnutzer können Ihnen Freundschaftsanfragen senden. Ihre Datenschutzeinstellungen für das SEN-Konto gelten nicht für Ihr Epic-Games-Konto. 
+
+Wenn Sie unsere lizenzierten Produkte auf einer PlayStation®-Plattform verwenden, ist die Ihnen in Abschnitt 3 der obigen Bedingungen gewährte Lizenz auf die Nutzung unserer lizenzierten Produkte ausschließlich auf einer PlayStation®-Plattform beschränkt, die Sie besitzen, kontrollieren oder auf einem anderen System, auf das unsere lizenzierten Produkte über das PlayStation®-Netzwerk geliefert werden. Wenn Sie auf unsere lizenzierten Produkte über ein PlayStation® 4-System („<EULA.Highlight>PS4</>“) zugreifen und unsere lizenzierten Produkte die Verwendung der PS4-„Share“-Taste zulassen, gewähren wir Ihnen eine persönliche, beschränkte, nicht übertragbare, widerrufliche und nicht-exklusive Lizenz zur Nutzung der „Share“-Taste, um die Audio- und Videoausgabe dieser lizenzierten Produkte auf Drittanbieterdienste zu übertragen oder zu replizieren, die vom PS4-System unterstützt werden, vorbehaltlich Ihrer Einhaltung dieser Bedingungen.
+
+Es ist Ihnen ausdrücklich untersagt, In-Game-Inhalte außerhalb der Plattform zu verkaufen oder zu tauschen, z. B. über eBay oder andere Auktionsseiten.
+
+<EULA.Highlight>Für SIEA-Endnutzer</>: Kauf und Nutzung von Artikeln unterliegen den Nutzungsbedingungen und der Endbenutzervereinbarung des PlayStation®-Netzwerks, die im PlayStation® Store verfügbar sind. Dieser Online-Service wurde von Sony Interactive Entertainment America („<EULA.Highlight>SIEA</>“) an Sie unterlizenziert.
+
+<EULA.Highlight>Für SIEE-Endbenutzer</>: Alle in einem In-Game-Shop gekauften Inhalte werden von Sony Interactive Entertainment Network Europe Limited („<EULA.Highlight>SIEE</>“) gekauft und unterliegen den Nutzungsbedingungen und der Endnutzungsvereinbarung des PlayStation®-Netzwerks, die im PlayStation® Store verfügbar sind. Bitte überprüfen Sie die Nutzungsrechte für jeden Kauf, da diese von Artikel zu Artikel unterschiedlich sein können. Sofern nicht anders angegeben, haben die in einem In-Game-Shop verfügbaren Inhalte die gleiche Altersfreigabe wie das Spiel.
+
+<EULA.Header>b.	Microsoft Xbox-Endbenutzer</>
+
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf lizenzierte Produkte, die für die Verwendung auf Xbox-Live-Geräten verfügbar sind und sich in Ihrem Besitz oder unter Ihrer Kontrolle befinden:
+
+Weder die Microsoft Corporation noch eines ihrer verbundenen Unternehmen (zusammen „<EULA.Highlight>Microsoft</>“) haben Wartungs- oder Supportverpflichtungen in Bezug auf lizenzierte Produkte.
+
+Nichts in diesen Bedingungen, einschließlich dieser plattformspezifischen Bedingungen, regelt oder ändert in irgendeiner Weise Ihre Beziehung zu Microsoft gemäß etwaigen Vereinbarungen zwischen Ihnen und Microsoft, einschließlich der Nutzungsbedingungen von Xbox Live.
+
+Darüber hinaus darf, soweit nach geltendem Recht zulässig, die Gesamthaftung der Epic-Parteien (mit Ausnahme von Microsoft), die sich aus diesen Bedingungen oder den lizenzierten Produkten (einschließlich etwaiger In-Game-Inhalte) ergibt oder damit im Zusammenhang steht, den Gesamtbetrag nicht überschreiten, den Sie (sofern zutreffend) in den zwölf (12) Monaten unmittelbar vor dem haftungsauslösenden Ereignis an Epic für die lizenzierten Produkte (einschließlich etwaiger In-Game-Inhalte) gezahlt haben, und Microsoft haftet Ihnen gegenüber nicht aufgrund oder im Zusammenhang mit diesen Bedingungen oder den lizenzierten Produkten (einschließlich etwaiger In-Game-Inhalte). Diese Beschränkungen und Ausschlüsse bezüglich des Schadenersatzes gelten auch dann, wenn ein Rechtsbehelf keine angemessene Entschädigung leistet.
+
+<EULA.Header>c.	Apple iOS-Endbenutzer</>
+
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf lizenzierte Produkte, die für die Verwendung auf allen Apple, Inc. („<EULA.Highlight>Apple</>“) iPhone- oder iPad-Geräten verfügbar sind und die sich in Ihrem Besitz oder unter Ihrer Kontrolle befinden:
+
+Sie erklären sich damit einverstanden, dass Ihre Vereinbarung nicht mit Apple getroffen wurde. Epic, nicht Apple, ist allein verantwortlich für die lizenzierten Produkte und deren Inhalte.
+
+Ihre Nutzung der lizenzierten Produkte unterliegt diesen Bedingungen, einschließlich dieser plattformspezifischen Bedingungen, sowie den Nutzungsregeln gemäß den App Store-Bedingungen zum Zeitpunkt des Herunterladens oder der ersten Nutzung der lizenzierten Produkte (deren Prüfung Sie bestätigen und zu der Sie Gelegenheit hatten).
+
+Sie stimmen zu, dass Apple keinerlei Wartungs- oder Supportverpflichtungen in Bezug auf die lizenzierten Produkte hat.
+
+Sie erkennen an und stimmen zu, dass Apple nicht für etwaige Produktgarantien der lizenzierten Produkte verantwortlich ist, weder ausdrücklich noch stillschweigend gesetzlich. Wenn Sie in Ihrem Land oder einer anderen Rechtsordnung gesetzlich Anspruch auf eine Garantie haben und die lizenzierten Produkte nicht der erforderlichen Garantie entsprechen, können Sie Apple benachrichtigen, und Apple wird den Kaufpreis, sofern gezahlt, erstatten. Soweit es das geltende Recht zulässt, hat Apple keine andere Gewährleistungsverpflichtung in Bezug auf die lizenzierten Produkte und alle anderen Ansprüche, Verluste, Verbindlichkeiten, Schäden, Kosten oder Ausgaben, die auf eine Nichteinhaltung dieser erforderlichen Gewährleistung zurückzuführen sind, liegen in der alleinigen Verantwortung von Epic. 
+
+Epic, nicht Apple, ist verantwortlich für die Bearbeitung von Ansprüchen Ihrerseits oder Dritter in Bezug auf die lizenzierten Produkte oder Ihren Besitz und/oder Ihre Nutzung der lizenzierten Produkte, einschließlich: (i) Produkthaftungsansprüche; (ii) Ansprüche, dass die lizenzierten Produkte nicht mit geltenden gesetzlichen oder regulatorischen Anforderungen übereinstimmen; und (iii) Ansprüche im Rahmen von Verbraucherschutz- oder ähnlichen Gesetzen. Im Falle eines Anspruchs, dass die lizenzierten Produkte Rechte des geistigen Eigentums Dritter verletzen, ist allein Epic, nicht Apple, verantwortlich für die Untersuchung, Verteidigung, Beilegung und Abwicklung eines solchen Anspruchs wegen Verletzung geistigen Eigentums (sofern und soweit gemäß diesen Bedingungen erforderlich).
+
+Sie stimmen zu, dass diese Bedingungen keinerlei Rechte oder Rechtsmittel für andere Personen als die Vertragsparteien dieser Bedingungen begründen, außer wie ausdrücklich in diesen Bedingungen oder geltendem Recht vorgesehen. Ungeachtet des Vorstehenden sind Apple und die Tochtergesellschaften von Apple Drittbegünstigte dieser Bedingungen, und mit Ihrer Annahme dieser Bedingungen hat Apple das Recht (und gilt als berechtigt, dieses angenommen zu haben), diese Bedingungen Ihnen gegenüber als Drittbegünstigter durchzusetzen.
+
+Alle Endnutzerfragen, Beschwerden oder Ansprüche in Bezug auf die lizenzierten Produkte sollten beim <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-Support</> eingereicht werden.
+
+<EULA.Header>d.	Samsung GALAXY-Endbenutzer</>
+
+Die folgenden zusätzlichen Bedingungen gelten in Bezug auf lizenzierte Produkte, die für die Verwendung auf den Samsung-GALAXY-Geräten, die sich in Ihrem Besitz oder unter Ihrer Kontrolle befinden, verfügbar sind:
+
+Die lizenzierten Produkte können Ihnen die Möglichkeit bieten, Zahlungen über Samsungs In-App-Purchase-APIs zu tätigen. Für den Fall, dass Sie eine Zahlung über Samsungs In-App-Purchase vornehmen, gelten die Samsung GALAXY Apps-Nutzungsbedingungen, die Sie mit Samsung Electronics Co., Ltd. (oder deren verbundenen Unternehmen) in Bezug auf die Nutzung von Samsungs In-App-Purchase abgeschlossen haben, sowie die entsprechenden Bestimmungen für die Zahlung und etwaige Rückerstattungen im Zusammenhang mit dieser Zahlung.
+
+<EULA.Header>ANHANG 1 – ENTWICKLER-INHALTE</>
+
+1.1 Unreal Editor for Fortnite („UEFN“) ist ein Kreativtool, mit dem Entwickler Inhalte in Fortnite erstellen, entwickeln, ändern oder zu ihnen beitragen und solche Inhalte für andere Nutzer von lizenzierten Produkten hochladen, veröffentlichen oder anderweitig verfügbar machen können. Vor der Verwendung von UEFN müssen Entwickler dieser Vereinbarung und den UEFN-Zusatzbedingungen zustimmen, die vorsehen, dass eine Person, die UEFN zur Erstellung von UEFN-Inhalten verwendet, ein „Entwickler“ ist. Alle In-Game-Inhalte, die von Entwicklern erstellt, angeboten, angezeigt, zur Verfügung gestellt oder arrangiert werden, sind „Entwickler-Inhalte“, die keinen realen Gegenwert haben, ausschließlich zu Unterhaltungszwecken angeboten werden und keine durchsetzbaren Eigentumsrechte begründen, mit Ausnahme der Entwickler, wie im entsprechenden Abschnitt der ergänzenden Bestimmungen der UEFN beschrieben. Von Entwicklern erstellte Inseln und darin verdiente digitale Artikel sind Beispiele für Entwickler-Inhalte. Credits (wie in Abschnitt 10 der Nutzungsbedingungen von Epic Games definiert) können gegen Lizenzen für digitale Artikel oder andere Entwickler-Inhalte („einlösbare Entwickler-Inhalte“, eine Art von Entwickler-Inhalten) eingetauscht werden. 
+
+Wenn Sie Lizenzen für einlösbare Entwickler-Inhalte erhalten, sind diese auf das Erlebnis beschränkt, in dem sie erworben werden, sofern nicht anders beschrieben.
+
+1.2 Beim Erwerb des Rechts, einlösbare Entwickler-Inhalte mit Credits gemäß einer Lizenz des Entwicklers zu verwenden, erfolgt die Transaktion und das Vertragsverhältnis zwischen Ihnen und dem Entwickler, nicht mit Epic. Epic erleichtert nur den Zugriff auf die einlösbaren Entwickler-Inhalte. 
+
+1.2.1: Ungeachtet des vorstehenden Abschnitts 1.2 besteht, wenn Sie mit Credits einlösbare Entwickler-Inhalte erwerben und Ihren Sitz im Vereinigten Königreich, in der Europäischen Union oder im Europäischen Wirtschaftsraum haben, kein Vertrag über den Verkauf oder die Lizenzierung zwischen Ihnen und dem Entwickler in Bezug auf die einlösbaren Entwickler-Inhalte. Das Vertragsverhältnis besteht zwischen Ihnen und Epic. Der Entwickler lizenziert Epic einlösbare Entwickler-Inhalte mit Credits, die Epic Ihnen unterlizenziert. Sofern nicht ausdrücklich anders angegeben, erfolgt die Ihnen von Epic gewährte Unterlizenz zu denselben Bedingungen wie die Lizenz zur Nutzung lizenzierter Produkte, wie in Abschnitt 3 der Nutzungsbedingungen von Epic Games dargelegt (wie im Vereinigten Königreich, in der EU und im Europäischen Wirtschaftsraum anwendbar). Ohne Einschränkung von Abschnitt 15(b) der Nutzungsbedingungen von Epic haftet Epic für die Gültigkeit der Unterlizenz, die es Ihnen gewährt, in Bezug auf Ihre Fähigkeit, einlösbare Entwickler-Inhalte mit Credits auf die gleiche Weise und in dem gleichen Umfang zu verwenden, wie es für die Gültigkeit der Lizenz haftet, die es Ihnen in Bezug auf Ihre Nutzung der lizenzierten Produkte gewährt. Sie schulden dem Entwickler keine Zahlung, um einlösbare Entwickler-Inhalte mit Credits zu erwerben oder zu verwenden.
+
+1.2.2: Ungeachtet des vorstehenden Abschnitts 1.2 bestehen alle Rechte, die Sie zur Nutzung von einlösbaren Entwickler-Inhalten mit Credits, die in Japan ausgegeben werden, erwerben, sowie die Transaktionen und Vertragsbeziehungen zum Erwerb dieser Rechte zwischen Ihnen und Epic. Sie erwerben keine Entwickler-Inhalte oder einlösbaren Entwickler-Inhalte mit Credits, die in Japan ausgegeben wurden, vom Entwickler oder einem anderen Dritten. Als Voraussetzung für die Bereitstellung der oben beschriebenen Dienste von Epic müssen Sie möglicherweise zusätzlich zu diesen Bedingungen weiteren Bedingungen zustimmen und diese einhalten, die vom Entwickler, der die Entwickler-Inhalte erstellt, entwickelt und/oder zur Verfügung gestellt hat, festgelegt wurden. Diese Zusatzbedingungen werden zwischen Epic und Ihnen vereinbart und geschlossen. Sofern nicht anders angegeben, entsteht kein Vertragsverhältnis zwischen Ihnen und einem Entwickler.
+
+1.3 Vorbehaltlich der vorstehenden Abschnitte 1.2.1 und 1.2.2 und der lokalen geltenden Gesetze ist der Entwickler allein für das Angebot, den Inhalt und alle Garantien im Zusammenhang mit den Entwickler-Inhalten verantwortlich sowie für alle Ansprüche, die Sie möglicherweise im Zusammenhang mit den Entwickler-Inhalten haben. Wenn Sie ein Problem mit Entwickler-Inhalten haben, kann Epic die Kommunikation zwischen Ihnen und dem Entwickler erleichtern und eine unverbindliche Lösung vorschlagen.
