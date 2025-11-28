@@ -25,9 +25,9 @@ Le contenu de l'affilié sera soumis au droit et à la capacité de la société
 
 A.	Règles.
 •	L'affilié doit (a) avoir une adresse e-mail validée, (b) s'inscrire sous son vrai nom, (c) fournir une liste de canaux de réseaux sociaux affiliés, (d) disposer d'au moins un compte de réseau social lié pour vérifier son identité et (e) activer l'autorisation à deux facteurs sur son compte Epic.
-•	L'affilié doit accepter (a) le code de conduite du portail des affiliés (« Code de conduite »), (b) le contrat de licence utilisateur final Fortnite (« CLUF Fortnite ») et (c) le CLUF Epic Games Store (« CLUF EGS »).
+•	L'affilié doit accepter (a) le code de conduite du portail des affiliés (« Code de conduite »), (b) les Conditions d'utilisation d'Epic Games et (c) l'ALUF Epic Games Store (« ALUF EGS »).
 •	L'affilié doit être approuvé par la société Epic Games et, si tel est le cas, recevra un e-mail l'informant de l'approbation de cette dernière. Une fois approuvé, l’affilié peut récupérer un lien ou une balise d’affiliation sur le portail des affiliés après avoir transmis ses coordonnées PayPal ou bancaires à Epic Games.
-•	Si l'affilié viole les conditions du présent contrat, le code de conduite et/ou le CLUF Fortnite et/ou le CLUF EGS (dans chaque cas déterminé par Epic Games), il se verra banni de l'utilisation du portail des affiliés et perdra tous les fonds futurs générés par ses liens ou balises. 
+•	Si l'affilié viole les conditions du présent contrat, le code de conduite et/ou les Conditions d'utilisation d'Epic Games et/ou l'ALUF EGS (dans chaque cas déterminé par Epic Games), il se verra banni de l'utilisation du portail des affiliés et perdra tous les fonds futurs générés par ses liens ou balises. 
 
 B.	Attribution.
 •	Un utilisateur devient un « Utilisateur attribué » lorsqu'il clique sur un lien d'attribution ou saisit une balise d'affiliation à l'aide du périphérique auquel il s'est connecté muni de son identifiant de compte Epic. L'affilié recevra une rémunération sous la forme d'une commission pour les achats et/ou les échanges effectués par un utilisateur attribué dans le cadre du jeu vidéo ou sur le portail Epic Games s'il est attribué à l'affilié. 

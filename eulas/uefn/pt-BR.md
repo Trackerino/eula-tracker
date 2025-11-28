@@ -1,16 +1,16 @@
-# <EULA.Header>Termos complementares ao EULA do Unreal Editor for Fortnite</>
+# Warunki dodatkowe dotyczące Unreal Editor dla Fortnite do Warunków świadczenia usług Epic Games
 
 | Key | Value |
 | --- | ----- |
-| `id` | `684342265c592c4b3c0fab8b` |
+| `id` | `6929f742b485e07f74a375e9` |
 | `key` | `uefn` |
-| `version` | `11` |
+| `version` | `12` |
 | `revision` | `2` |
-| `title` | `<EULA.Header>Termos complementares ao EULA do Unreal Editor for Fortnite</>` |
+| `title` | `Warunki dodatkowe dotyczące Unreal Editor dla Fortnite do Warunków świadczenia usług Epic Games` |
 | `locale` | `pt-BR` |
-| `createdTimestamp` | `2025-06-06T19:31:50.756Z` |
-| `lastModifiedTimestamp` | `2025-06-06T19:31:50.756Z` |
+| `createdTimestamp` | `2025-11-28T19:25:54.568Z` |
+| `lastModifiedTimestamp` | `2025-11-28T19:25:54.568Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/pt-BR/v11/r2/af3bf847bea50309a525805f7199ba82.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/pt-BR/v12/r2/bae0399619b48e53fb80d04fd311700e.pdf` |
 | `bodyFormat` | `HTML` |

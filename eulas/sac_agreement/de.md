@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6471025810208b28428edb19` |
+| `id` | `692a001e4728124b51247a6a` |
 | `key` | `sac_agreement` |
 | `version` | `2` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `BEDINGUNGEN DES SUPPORT-A-CREATOR-PROGRAMMS` |
 | `locale` | `de` |
-| `createdTimestamp` | `2023-05-26T19:02:48.951Z` |
-| `lastModifiedTimestamp` | `2023-05-26T19:02:48.951Z` |
+| `createdTimestamp` | `2025-11-28T20:03:42.145Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:03:42.145Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/de/v2/r3/dea048b3d95011a5a7a96dcb4046afa8.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/de/v2/r4/f7504e436e3e01bcdd15b4e7c6811d27.pdf` |
 | `bodyFormat` | `HTML` |

@@ -1,16 +1,16 @@
-# <EULA.Header>Дополнительные условия Unreal Editor для Fortnite к ЛСКП</>
+# Дополнительные условия Unreal Editor для Fortnite к Условиям обслуживания Epic Games
 
 | Key | Value |
 | --- | ----- |
-| `id` | `684342105c592c4b3c0fab8a` |
+| `id` | `6929f7631f1ae636720bcf98` |
 | `key` | `uefn` |
-| `version` | `11` |
+| `version` | `12` |
 | `revision` | `2` |
-| `title` | `<EULA.Header>Дополнительные условия Unreal Editor для Fortnite к ЛСКП</>` |
+| `title` | `Дополнительные условия Unreal Editor для Fortnite к Условиям обслуживания Epic Games` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2025-06-06T19:31:28.120Z` |
-| `lastModifiedTimestamp` | `2025-06-06T19:31:28.120Z` |
+| `createdTimestamp` | `2025-11-28T19:26:27.663Z` |
+| `lastModifiedTimestamp` | `2025-11-28T19:26:27.663Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ru/v11/r2/9b7aaacf41e72b8651b6f1e8cfab9de4.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ru/v12/r2/f0c131a80b276b6d35b175dfb705e542.pdf` |
 | `bodyFormat` | `HTML` |

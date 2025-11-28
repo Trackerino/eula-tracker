@@ -1,15 +1,16 @@
-# <EULA.Header>Affiliate Agreement</>
+# EPIC GAMES, INC. アフィリエイト契約および利用規約
 
 | Key | Value |
 | --- | ----- |
-| `id` | `5c7da26f46e0fb000115b8d4` |
+| `id` | `692a01e886544039fcaedc37` |
 | `key` | `affiliate_agreement` |
 | `version` | `3` |
-| `revision` | `2` |
-| `title` | `<EULA.Header>Affiliate Agreement</>` |
+| `revision` | `3` |
+| `title` | `EPIC GAMES, INC. アフィリエイト契約および利用規約` |
 | `locale` | `ja` |
-| `createdTimestamp` | `2019-03-04T22:10:55.504Z` |
-| `lastModifiedTimestamp` | `2019-03-04T22:10:55.504Z` |
+| `createdTimestamp` | `2025-11-28T20:11:20.648Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:11:20.648Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/ja/v3/r2/0e32771efbe962757b33c51eff123a52.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/ja/v3/r3/be60872e83935acb341dee20f2614c32.pdf` |
+| `bodyFormat` | `HTML` |

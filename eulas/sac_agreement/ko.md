@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `64710281452c5938d0bfb73a` |
+| `id` | `692a006fcb7a885394e4bf4b` |
 | `key` | `sac_agreement` |
 | `version` | `2` |
-| `revision` | `4` |
+| `revision` | `5` |
 | `title` | `크리에이터 지원 프로그램 약관` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2023-05-26T19:03:29.020Z` |
-| `lastModifiedTimestamp` | `2023-05-26T19:03:29.020Z` |
+| `createdTimestamp` | `2025-11-28T20:05:03.669Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:05:03.669Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/ko/v2/r4/b6204008e31760e96762e6cafe31fc87.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/ko/v2/r5/d20ac41b800c7041466eff5d8ae6fa61.pdf` |
 | `bodyFormat` | `HTML` |

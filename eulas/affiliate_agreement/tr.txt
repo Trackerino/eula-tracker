@@ -26,9 +26,9 @@ Ortaklık Kuralları, Atıf ve Tazminat.
 
 Kurallar.
 Ortak (a) doğrulanmış bir e-posta adresine sahip olmalıdır, (b) Ortağın gerçek adını kullanarak kaydolmalıdır, (c) bağlantılı sosyal medya kanallarının listesini sunmalıdır, (d) Ortağın kimliğini doğrulamayı sağlayan en az bir bağlantılı sosyal medya hesabına sahip olmalıdır ve (e) Ortağın Epic Hesabında iki faktörlü doğrulamayı etkinleştirmelidir.
-Ortak, (a) Ortaklık Portalı Davranış Kuralları’nı (“Davranış Kuralları”), (b) Fortnite Son Kullanıcı Lisans Sözleşmesi’ni (“Fortnite SKLS”) ve (c) Epic Games Mağaza Son Kullanıcı Lisans Sözleşmesi’ni (“EGM EULA”) kabul etmelidir.
+Ortak, (a) Ortaklık Portalı Davranış Kuralları’nı (“Davranış Kuralları”), (b) Epic Games Hizmet Koşulları’nı ve (c) Epic Games Mağaza Son Kullanıcı Lisans Sözleşmesi’ni (“EGM EULA”) kabul etmelidir.
 Ortak, Epic Games tarafından onaylanmalıdır ve onaylandığı takdirde, Epic Games’in Ortağı onayladığına dair bir e-posta gönderilecektir. Onaylama tamamlandığında, Ortak, kendi PayPal hesabı veya banka hesabı bilgilerini Epic Games’e sunduktan sonra Ortaklık Portalı’ndan bir Ortaklık bağlantısı veya etiketi alabilecektir.
-Ortağın işbu Sözleşme’yi, Davranış Kuralları’nı, Fortnite SKLS’yi ve/veya EGM SKLS’yi (her bir durumda Epic Games tarafından belirlenir) ihlal ettiği ortaya çıkarsa, Ortağın Ortaklık Portalı’nı kullanması yasaklanacaktır ve böyle bir yasaklama durumunda Ortak, bağlantıları veya etiketleri yoluyla oluşturulan her türlü güncel fon veya gelecekteki fonlar üzerinde hiçbir hakkının olmayacağını kabul eder. 
+Ortağın işbu Sözleşme’yi, Davranış Kuralları’nı, Epic Games Hizmet Koşulları’nı ve/veya EGM SKLS’yi (her bir durumda Epic Games tarafından belirlenir) ihlal ettiği ortaya çıkarsa, Ortağın Ortaklık Portalı’nı kullanması yasaklanacaktır ve böyle bir yasaklama durumunda Ortak, bağlantıları veya etiketleri yoluyla oluşturulan her türlü güncel fon veya gelecekteki fonlar üzerinde hiçbir hakkının olmayacağını kabul eder. 
 
 Atıf.
 Bir kullanıcı, kullanıcı Epic Hesap kimliğiyle oturum açtığı herhangi bir cihazı kullanarak bir atıf bağlantısına tıkladığında veya atıf etiketine girdiğinde “Atıfta Bulunulan Kullanıcı” olur. Ortak, Ortağa atfedilmesi durumunda Video  Oyunu veya Epic Games portalında Atıflı Kullanıcı tarafından yapılan alışverişler ve/veya ödemeler için komisyon şeklinde tazminat alır. 

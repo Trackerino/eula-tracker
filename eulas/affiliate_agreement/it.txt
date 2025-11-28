@@ -38,9 +38,9 @@ Regole dell’affiliazione, attribuzione e compenso.
 
 Regole.
 L’Affiliato deve (a) essere in possesso di un indirizzo e-mail convalidato, (b) registrarsi usando il suo vero nome, (c) fornire un elenco di canali social media affiliati, (d) avere almeno un account social media collegato per verificare l’identità dell’Affiliato, e (e) abilitare l’autorizzazione a due fattori sul proprio Account Epic.
-L’Affiliato deve accettare (a) il Codice di condotta del Portale degli affiliati (“Codice di condotta”), (b) il Contratto di licenza per l’utente finale di Fortnite (“Fortnite EULA”) e (c) l’Epic Game Store EULA (“EGS EULA”).
+L’Affiliato deve accettare (a) il Codice di condotta del Portale degli affiliati (“Codice di condotta”), (b) i Termini di servizio di Epic Games e (c) l’Epic Game Store EULA (“EGS EULA”).
 L’Affiliato deve essere approvato da Epic Games e, qualora approvato, riceverà un’e-mail con l’approvazione dell’Affiliato da parte di Epic Games. Una volta approvato, l’Affiliato potrà recuperare un link o tag dell’Affiliato dal Portale dell’affiliato dopo aver fornito a Epic Games i dati PayPal o del conto bancario dell’Affiliato.
-Se l’Affiliato viola il presente Contratto, il Codice di condotta, il Fortnite EULA e/o l’EGS EULA (in ogni caso secondo quanto stabilito da Epic Games), non potrà più utilizzare il Portale degli affiliati e l’Affiliato riconosce che non avrà alcun diritto sui fondi correnti guadagnati o eventuali fondi futuri generati dai link o tag dell’Affiliato. 
+Se l’Affiliato viola il presente Contratto, il Codice di condotta, i Termini di servizio di Epic Games e/o l’EGS EULA (in ogni caso secondo quanto stabilito da Epic Games), non potrà più utilizzare il Portale degli affiliati e l’Affiliato riconosce che non avrà alcun diritto sui fondi correnti guadagnati o eventuali fondi futuri generati dai link o tag dell’Affiliato. 
 
 Attribuzione.
 Un utente diventa “Utente attribuito” quando fa clic su un link di attribuzione o inserisce un tag affiliato utilizzando qualsiasi dispositivo con cui l’utente ha eseguito l’accesso utilizzando l’ID account Epic dell’utente. L’Affiliato riceverà un compenso sotto forma di commissione per acquisti e/o rimborsi eseguiti da un Utente attribuito in un Video Game o sul portale Epic Games, se attribuito a un affiliato. 

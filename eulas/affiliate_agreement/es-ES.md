@@ -1,15 +1,16 @@
-# <EULA.Header>Affiliate Agreement</>
+# EPIC GAMES, INC. ACUERDO DE AFILIADO Y TÉRMINOS Y CONDICIONES
 
 | Key | Value |
 | --- | ----- |
-| `id` | `5c7da34c46e0fb0001cd48f5` |
+| `id` | `692a01b305a73b19ae45732d` |
 | `key` | `affiliate_agreement` |
 | `version` | `3` |
-| `revision` | `2` |
-| `title` | `<EULA.Header>Affiliate Agreement</>` |
+| `revision` | `4` |
+| `title` | `EPIC GAMES, INC. ACUERDO DE AFILIADO Y TÉRMINOS Y CONDICIONES` |
 | `locale` | `es-ES` |
-| `createdTimestamp` | `2019-03-04T22:14:36.700Z` |
-| `lastModifiedTimestamp` | `2019-03-04T22:14:36.700Z` |
+| `createdTimestamp` | `2025-11-28T20:10:27.825Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:10:27.825Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/es-ES/v3/r2/4c34f4efea6874671cc73872e043eac3.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/es-ES/v3/r4/0fa0144a508f650ef1fdd5fa6ff81944.pdf` |
+| `bodyFormat` | `HTML` |

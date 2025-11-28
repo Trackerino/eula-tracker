@@ -1,15 +1,16 @@
-# <EULA.Header>Affiliate Agreement</>
+# EPIC GAMES, INC. — UMOWA O PARTNERSTWIE ORAZ WARUNKI I POSTANOWIENIA
 
 | Key | Value |
 | --- | ----- |
-| `id` | `5c7da2c946e0fb0001511a8b` |
+| `id` | `692a022e684df51938e8e6ef` |
 | `key` | `affiliate_agreement` |
 | `version` | `3` |
-| `revision` | `2` |
-| `title` | `<EULA.Header>Affiliate Agreement</>` |
+| `revision` | `3` |
+| `title` | `EPIC GAMES, INC. — UMOWA O PARTNERSTWIE ORAZ WARUNKI I POSTANOWIENIA` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2019-03-04T22:12:25.834Z` |
-| `lastModifiedTimestamp` | `2019-03-04T22:12:25.834Z` |
+| `createdTimestamp` | `2025-11-28T20:12:30.566Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:12:30.566Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/pl/v3/r2/7db94b26f00348134422e80e21bdb37e.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/pl/v3/r3/e0444fb328f7418cc1fa1eda9d798ec2.pdf` |
+| `bodyFormat` | `HTML` |

@@ -1,15 +1,16 @@
-# <EULA.Header>Affiliate Agreement</>
+# КОМПАНИЯ EPIC GAMES, INC.: СОГЛАШЕНИЕ О ПАРТНЕРСТВЕ, УСЛОВИЯ И ПОЛОЖЕНИЯ
 
 | Key | Value |
 | --- | ----- |
-| `id` | `5c7da2e846e0fb000117d79a` |
+| `id` | `692a024c147dcb6bf3329172` |
 | `key` | `affiliate_agreement` |
 | `version` | `3` |
-| `revision` | `2` |
-| `title` | `<EULA.Header>Affiliate Agreement</>` |
+| `revision` | `3` |
+| `title` | `КОМПАНИЯ EPIC GAMES, INC.: СОГЛАШЕНИЕ О ПАРТНЕРСТВЕ, УСЛОВИЯ И ПОЛОЖЕНИЯ` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2019-03-04T22:12:56.658Z` |
-| `lastModifiedTimestamp` | `2019-03-04T22:12:56.658Z` |
+| `createdTimestamp` | `2025-11-28T20:13:00.955Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:13:00.955Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/ru/v3/r2/380b634707c7c322a28364934019c0c2.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/ru/v3/r3/3038ce86eeee96b393768b3645820c81.pdf` |
+| `bodyFormat` | `HTML` |

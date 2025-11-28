@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6471026fad88fe78bf46075e` |
+| `id` | `692a004e4728124b51247a6e` |
 | `key` | `sac_agreement` |
 | `version` | `2` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `CONDITIONS DU PROGRAMME « SOUTENEZ UN CRÉATEUR »` |
 | `locale` | `fr` |
-| `createdTimestamp` | `2023-05-26T19:03:11.080Z` |
-| `lastModifiedTimestamp` | `2023-05-26T19:03:11.080Z` |
+| `createdTimestamp` | `2025-11-28T20:04:30.194Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:04:30.194Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/fr/v2/r3/a477c58cf8e71fbe9ce140ceadeadb7e.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/fr/v2/r4/665cd2dd7f7feab83ac94215c85f2c35.pdf` |
 | `bodyFormat` | `HTML` |

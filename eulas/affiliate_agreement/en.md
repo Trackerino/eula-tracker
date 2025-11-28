@@ -1,15 +1,16 @@
-# <EULA.Header>Affiliate Agreement</>
+# Affiliate Agreement
 
 | Key | Value |
 | --- | ----- |
-| `id` | `5c7da20046e0fb0001511a89` |
+| `id` | `692a03181f1ae636720bd03e` |
 | `key` | `affiliate_agreement` |
 | `version` | `3` |
-| `revision` | `1` |
-| `title` | `<EULA.Header>Affiliate Agreement</>` |
+| `revision` | `2` |
+| `title` | `Affiliate Agreement` |
 | `locale` | `en` |
-| `createdTimestamp` | `2019-03-04T22:09:04.928Z` |
-| `lastModifiedTimestamp` | `2019-03-04T22:09:04.928Z` |
+| `createdTimestamp` | `2025-11-28T20:16:24.438Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:16:24.438Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/en/v3/r1/58ccd311cad60a2385d8c448c50f98e6.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/affiliate_agreement/en/v3/r2/020bf80117e9b72598695cbb4a424abe.pdf` |
+| `bodyFormat` | `HTML` |

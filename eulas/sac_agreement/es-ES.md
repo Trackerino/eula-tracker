@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `647102688306d37f3141bbeb` |
+| `id` | `692a00304debfa3be9f10eed` |
 | `key` | `sac_agreement` |
 | `version` | `2` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `SUPPORT-A-CREATOR DE EPIC GAMES  ACUERDO Y TÉRMINOS Y CONDICIONES DEL CREADOR` |
 | `locale` | `es-ES` |
-| `createdTimestamp` | `2023-05-26T19:03:04.001Z` |
-| `lastModifiedTimestamp` | `2023-05-26T19:03:04.001Z` |
+| `createdTimestamp` | `2025-11-28T20:04:00.381Z` |
+| `lastModifiedTimestamp` | `2025-11-28T20:04:00.381Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/es-ES/v2/r3/56baf59dcf73da9595f12b1c75978116.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/sac_agreement/es-ES/v2/r4/f90d4cd4d56504c5e70d704654f2184f.pdf` |
 | `bodyFormat` | `HTML` |
