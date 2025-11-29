@@ -10,7 +10,7 @@
 | `locale` | `hi` |
 | `createdTimestamp` | `2025-11-28T17:31:25.192Z` |
 | `lastModifiedTimestamp` | `2025-11-28T17:31:25.192Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/hi/v3/r2/fbfbadc7c3de7e53ab11b592da5475fe.pdf` |
 | `bodyFormat` | `HTML` |

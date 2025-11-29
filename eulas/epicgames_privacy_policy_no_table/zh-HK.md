@@ -10,7 +10,7 @@
 | `locale` | `zh-HK` |
 | `createdTimestamp` | `2025-11-28T17:48:41.638Z` |
 | `lastModifiedTimestamp` | `2025-11-28T17:48:41.638Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_privacy_policy_no_table/zh-HK/v3/r2/88e126a13a0537c3925412f94ac42809.pdf` |
 | `bodyFormat` | `HTML` |
