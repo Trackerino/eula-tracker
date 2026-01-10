@@ -25,7 +25,7 @@ We use the term “<EULA.Highlight>Epic Services</>” to describe any Epic prod
 • our websites and their respective subdomains (e.g., <a id="url" href="http://www.epicgames.com/" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</>, and<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink"> </><a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>); and 
 • live events where this Policy is posted.
 
-Note that your use of the Epic Services is also subject to additional terms and conditions. For example, you must review and accept the <a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">Epic Games Terms of Service</> to play Fortnite, Rocket League, Fall Guys, and Horizon Chase 2. 
+Note that your use of the Epic Services is also subject to additional terms and conditions. For example, you must review and accept the <a id="url" href="https://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">Epic Games Terms of Service</> to play Fortnite, Rocket League, Fall Guys, and Horizon Chase 2. 
 <span id="children"></span>
 <EULA.Header>2. HOW DO WE PROCESS CHILDREN’S INFORMATION?</>
 
