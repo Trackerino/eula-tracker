@@ -1,6 +1,6 @@
 <EULA.Header>FAB DISTRIBUTION AGREEMENT</>
 
-Last updated: June 4, 2025
+Last updated: February 23rd, 2026
 
 This Agreement governs how Epic may act as your agents to offer for sale and distribute your digital content through Epic’s proprietary online marketplace and is a legal agreement between you and Epic. By clicking to indicate your acceptance of this Agreement or otherwise providing content to Epic for distribution through the marketplace, you are agreeing to be bound by the terms of this Agreement. When we say, “<EULA.Highlight>you</>,” “<EULA.Highlight>your</>” or “<EULA.Highlight>yourself</>”, we mean you as an individual or the legal entity exercising rights under this Agreement through you. In these terms “<EULA.Highlight>we</>” or “<EULA.Highlight>us</>” or “<EULA.Highlight>Epic</>” refer to an Epic entity as defined in Section 19.
 
@@ -114,7 +114,7 @@ Capitalized words or phrases used in this Agreement have the meanings defined be
 
 <EULA.Highlight>h.	Content Created with Generative AI Programs</>. You will ensure all Content is appropriately tagged with “CreatedWithAI” where required by Section 18(k). 
 
-<EULA.Highlight>i.	Content for Fortnite</>. If you promote or advertise any Content as being suitable for use in Fortnite, you will ensure the Content can be used in compliance with the then current <a style= "color: deepskyblue" href="https://www.fortnite.com/news/fortnite-creative-creator-content-rules-and-guidelines">Fortnite Creative - Creator Content Rules and Guidelines</a>.
+<EULA.Highlight>i.	Content for Fortnite</>. If you promote or advertise any Content as being suitable for use in Fortnite, you will ensure the Content can be used in compliance with the then current <a style= "color: deepskyblue" href="https://legal.epicgames.com/fortnite/developer-rules ">Fortnite Developer Rules</a>.
 
 <EULA.Highlight>j.	Union Guild</>. Each time you upload Content, you represent and warrant that: (i) the Content was not produced under the jurisdiction of any collective bargaining agreement; (ii) the Content is not subject to any union or guild restrictions or obligations; and (iii) no third party fees to, or permissions from, any guild, union or collective bargaining association, or any performer member thereof, will be required for the exploitation of the rights contemplated hereunder (including any rights you grant to a Customer). You expressly acknowledge that the Marketplace Operators are not signatories to any collective bargaining agreement with any guild or union which may claim jurisdiction over the services Marketplace Operators render pursuant to this Agreement, and no activities to be performed in connection with this Agreement or use of Content will cause Marketplace Operators or a Customer to become subject to the jurisdiction of any union or guild. 
 
