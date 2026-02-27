@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929f6ed68c0057066594e60` |
+| `id` | `69a1dea62b91f0787240d5bc` |
 | `key` | `uefn` |
 | `version` | `12` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Unreal Editor for Fortnite 補足条件 (Epic Games 利用規約への補足)` |
 | `locale` | `ja` |
-| `createdTimestamp` | `2025-11-28T19:24:29.859Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:24:29.859Z` |
+| `createdTimestamp` | `2026-02-27T18:12:54.581Z` |
+| `lastModifiedTimestamp` | `2026-02-27T18:12:54.581Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ja/v12/r2/08d5b6ee34eaef7f2d4cfe0c3e3f3738.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ja/v12/r3/1f8eabd3684167b24560664a7d49b601.pdf` |
 | `bodyFormat` | `HTML` |

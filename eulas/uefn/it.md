@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929f6a8ff92e35ccf58fb6a` |
+| `id` | `69a1de8e9e887f0248b7e84f` |
 | `key` | `uefn` |
 | `version` | `12` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Termini aggiuntivi di Unreal Editor per Fortnite ai Termini di servizio di Epic Games` |
 | `locale` | `it` |
-| `createdTimestamp` | `2025-11-28T19:23:20.371Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:23:20.371Z` |
+| `createdTimestamp` | `2026-02-27T18:12:30.130Z` |
+| `lastModifiedTimestamp` | `2026-02-27T18:12:30.130Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/it/v12/r2/4be1bff40c7e80a887a9f48c412e75d7.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/it/v12/r3/6b8a533a3fa5bf1213563b73830d7d7d.pdf` |
 | `bodyFormat` | `HTML` |

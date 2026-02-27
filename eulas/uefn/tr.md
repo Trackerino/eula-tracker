@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929f7ac68c0057066594e67` |
+| `id` | `69a1e3fe709dce3828f3c26c` |
 | `key` | `uefn` |
 | `version` | `12` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `Epic Games Hizmet Şartları için Fortnite İçin Unreal Editor Ek Şartları` |
 | `locale` | `tr` |
-| `createdTimestamp` | `2025-11-28T19:27:40.896Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:27:40.896Z` |
+| `createdTimestamp` | `2026-02-27T18:35:42.241Z` |
+| `lastModifiedTimestamp` | `2026-02-27T18:35:42.241Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/tr/v12/r3/f792d470267843a0b21b2ce38e681cc2.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/tr/v12/r4/9a4004726f0424bb0021ca659db2d13b.pdf` |
 | `bodyFormat` | `HTML` |

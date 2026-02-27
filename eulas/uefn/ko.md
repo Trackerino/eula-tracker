@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929f708433c424cbb520d22` |
+| `id` | `69a1debd1b4b7014c5a45543` |
 | `key` | `uefn` |
 | `version` | `12` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `포트나이트 언리얼 에디터 추가 약관(에픽게임즈 서비스 약관 부속 약관)` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2025-11-28T19:24:56.957Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:24:56.957Z` |
+| `createdTimestamp` | `2026-02-27T18:13:17.707Z` |
+| `lastModifiedTimestamp` | `2026-02-27T18:13:17.707Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ko/v12/r2/a96fda67f72891db08ad4dd521d1e04a.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ko/v12/r3/e662a910e46000b578b1b7ca33e1c5be.pdf` |
 | `bodyFormat` | `HTML` |
