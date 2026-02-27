@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929f5f70b0e1c07c8af0506` |
+| `id` | `69a0e04f3d2e47638776dc1d` |
 | `key` | `uefn` |
 | `version` | `12` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `شروط تكميلية لأداة Unreal Editor لـ Fortnite ملحقة بشروط خدمة Epic Games` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2025-11-28T19:20:23.004Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:20:23.004Z` |
+| `createdTimestamp` | `2026-02-27T00:07:43.004Z` |
+| `lastModifiedTimestamp` | `2026-02-27T00:07:43.004Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ar/v12/r3/d7a73d328fdfe177f6bdb30afeb6dbd2.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn/ar/v12/r4/e56ae32431e43aee60a9e7fd0d84233d.pdf` |
 | `bodyFormat` | `HTML` |
