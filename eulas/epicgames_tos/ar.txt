@@ -1,4 +1,4 @@
-تاريخ آخر تحديث: 20 أكتوبر 2025
+تاريخ آخر تحديث: 27 فبراير 2026
 تاريخ السريان: 28 نوفمبر 2025
 
 مرحبًا! هذه هي القواعد والمسؤوليات المرتبطة باستخدام ألعابنا وخدماتنا. 
@@ -36,7 +36,7 @@
 
 لا تنطبق هذه الشروط على Unreal Engine أو متجر Epic Games Store أو أسواق Epic (مثل: Fab). عند استخدام Unreal Engine أو متجر Epic Games Store أو أسواق Epic، يُرجى الاطلاع على الشروط المعمول بها.
 
-إذا كان منتج مُرخّص يخضع لشروط وأحكام إضافية (على سبيل المثال، شروط UEFN التكميلية)، فستُقدم لك هذه الشروط الخاصة بالمنتج ويجب أن توافق عليها قبل استخدام هذا المنتج المُرخّص. أيضًا، قد يكون لبعض برامج Epic (مثل، برنامج مبدعي الجزر من Epic) شروط وأحكام إضافية يجب قبولها قبل أن تتمكن من المشاركة. وفي حالة وجود تعارض بين هذه الشروط وشروط منتجات أو برامج مُعيّنة، يسري العمل بالشروط الخاصة بالمنتج أو البرنامج. 
+إذا كان منتج مُرخّص يخضع لشروط وأحكام إضافية (على سبيل المثال، شروط UEFN التكميلية)، فستُقدم لك هذه الشروط الخاصة بالمنتج ويجب أن توافق عليها قبل استخدام هذا المنتج المُرخّص. أيضًا، قد يكون لبعض برامج Epic (مثل، برنامج مطوّري Fortnite من Epic) شروط وأحكام إضافية يجب قبولها قبل أن تتمكن من المشاركة. وفي حالة وجود تعارض بين هذه الشروط وشروط منتجات أو برامج مُعيّنة، يسري العمل بالشروط الخاصة بالمنتج أو البرنامج. 
 
 <EULA.Header>2.	استخدام حساب Epic Games</>
 
@@ -152,7 +152,7 @@
 
 <EULA.Header>8.	قواعد مجموعة الخدمات</>
 
-نريد أن يكون مجتمعنا مكانًا آمنًا وممتعًا لك لممارسة الألعاب والتواصل مع الآخرين ومشاركة إبداعاتك. ونتوقع من الجميع اتباع القانون وقواعدنا وإرشاداتنا. تسري <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">قواعدنا</> على أي شخص يستخدم المنتجات المُرخّصة، ويُقصد منها أن تكون دليلاً للسلوك الذي نتوقعه من أي شخص يستخدم المنتجات المُرخّصة. تشمل "<EULA.Highlight>قواعد مجموعة الخدمات</>" هذه <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">قواعد مجتمعنا</> المطبقة على جميع المستخدمين النهائيين، <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">وإرشادات المحتوى</> الخاصة بنا لأولئك الذين يقومون بإنشاء ومشاركة المنتجات المُرخّصة، وقواعد لمنتجات مُرخّصة مُعيّنة (مثل <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>، و<a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>، و<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
+نريد أن يكون مجتمعنا مكانًا آمنًا وممتعًا لك لممارسة الألعاب والتواصل مع الآخرين ومشاركة إبداعاتك. ونتوقع من الجميع اتباع القانون وقواعدنا وإرشاداتنا. تسري <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">قواعدنا</> على أي شخص يستخدم المنتجات المُرخّصة، ويُقصد منها أن تكون دليلاً للسلوك الذي نتوقعه من أي شخص يستخدم المنتجات المُرخّصة. تشمل "<EULA.Highlight>قواعد مجموعة الخدمات</>" هذه <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">قواعد مجتمعنا</> المطبقة على جميع المستخدمين النهائيين، <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">وإرشادات المحتوى</> الخاصة بنا لأولئك الذين يقومون بإنشاء ومشاركة المنتجات المُرخّصة، وقواعد لمنتجات مُرخّصة مُعيّنة (مثل <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>، و<a id="url" href="https://legal.epicgames.com/fortnite/developer-rules" style="EULA.Hyperlink">Fortnite</>، و<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
 
 <EULA.Header>‌أ.	الإبلاغ</>
 

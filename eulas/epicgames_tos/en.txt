@@ -1,4 +1,4 @@
-Last Updated: October 20, 2025
+Last Updated:      February 27, 2026
 Effective: November 28, 2025 
 
 Hi! These are the rules and responsibilities associated with using our games and services. 
@@ -36,7 +36,7 @@ If you don’t or can’t agree to these Terms, you may not use any of these Lic
 
 These Terms do not apply to Unreal Engine, the Epic Games Store, or Epic’s marketplaces (e.g., Fab). When using Unreal Engine, the Epic Games Store, or Epic’s marketplaces, please see the applicable terms.
 
-If a Licensed Product is subject to additional terms and conditions (e.g., the UEFN Supplemental Terms), you will be presented with those product-specific terms and must agree to them prior to using that Licensed Product. Also, some Epic programs (e.g., Epic’s Island Creator Program) may have additional terms and conditions that must be accepted before you are able to participate. If there’s ever a conflict between these Terms and the terms for specific products or programs, the product- or program-specific terms will apply. 
+If a Licensed Product is subject to additional terms and conditions (e.g., the UEFN Supplemental Terms), you will be presented with those product-specific terms and must agree to them prior to using that Licensed Product. Also, some Epic programs (e.g., Epic’s      Fortnite Developer) may have additional terms and conditions that must be accepted before you are able to participate. If there’s ever a conflict between these Terms and the terms for specific products or programs, the product- or program-specific terms will apply. 
 
 <EULA.Header>2.	Using an Epic Games Account</>
 
@@ -152,7 +152,7 @@ If you purchase In-Game Content or Licensed Products from a third party or throu
 
 <EULA.Header>8.	Ecosystem Rules</>
 
-We want our community to be a safe and fun place for you to play games, communicate with others, and share your creations. We expect everyone to follow the law and our rules and guidelines. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Our Rules</> apply to anyone who uses Licensed Products, and they are intended to be a guide to the behavior we expect for anyone using Licensed Products. These “<EULA.Highlight>Ecosystem Rules</>” also include our <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Community Rules</>, which are applicable to all End Users, our <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Content Guidelines</> for those making and sharing creations within Licensed Products, and rules for particular Licensed Products (e.g., <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
+We want our community to be a safe and fun place for you to play games, communicate with others, and share your creations. We expect everyone to follow the law and our rules and guidelines. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Our Rules</> apply to anyone who uses Licensed Products, and they are intended to be a guide to the behavior we expect for anyone using Licensed Products. These “<EULA.Highlight>Ecosystem Rules</>” also include our <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Community Rules</>, which are applicable to all End Users, our <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Content Guidelines</> for those making and sharing creations within Licensed Products, and rules for particular Licensed Products (e.g., <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://legal.epicgames.com/fortnite/developer-rules     " style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
 
 <EULA.Header>a.	Reporting</>
 
