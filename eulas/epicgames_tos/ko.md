@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929cea2ef9f895b1c50ac0f` |
+| `id` | `69a2321e2b91f0787240d8ef` |
 | `key` | `epicgames_tos` |
 | `version` | `2` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `서비스 이용약관` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2025-11-28T16:32:34.879Z` |
-| `lastModifiedTimestamp` | `2025-11-28T16:32:34.879Z` |
+| `createdTimestamp` | `2026-02-28T00:09:02.543Z` |
+| `lastModifiedTimestamp` | `2026-02-28T00:09:02.543Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/ko/v2/r1/a567567587f8a3a65660d5db52b62c42.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/ko/v2/r2/0318dcfaadef219d230f4f9a370fecff.pdf` |
 | `bodyFormat` | `HTML` |

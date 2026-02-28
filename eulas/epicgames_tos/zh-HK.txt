@@ -1,4 +1,4 @@
-最近更新日期：2025 年 10 月 20 日
+最近更新日期：2026 年 2 月 27 日
 生效日期：2025 年 11 月 28 日
 
 您好：這些是使用本公司遊戲和服務相關的規則和責任。
@@ -36,7 +36,7 @@ Epic Games 服務條款，包括所有參考及連結文件（統稱該等「<EU
 
 本條款不適用於 Unreal Engine、Epic Games Store 或 Epic 市場（例如 Fab）。使用 Unreal Engine、Epic Games Store 或 Epic市場時，請參閱適用條款。
 
-若授權產品受其他條款與細則（例如《UEFN 增補條款》）約束，則您會看到該等產品特定條款，且必須在使用該授權產品前同意該等條款。此外，某些 Epic 計劃（例如 Epic 的島嶼創作者計劃）可能有其他條款與細則，您必須接受這些條款與細則才能參與。若本條款與特定產品或計劃的條款間有所牴觸，則以產品或計劃特定條款為準。
+若授權產品受其他條款與細則（例如《UEFN 增補條款》）約束，則您會看到該等產品特定條款，且必須在使用該授權產品前同意該等條款。此外，某些 Epic 計劃（例如 Epic 的《Fortnite》開發者計劃）可能有其他條款與細則，您必須接受這些條款與細則才能參與。若本條款與特定產品或計劃的條款間有所牴觸，則以產品或計劃特定條款為準。
 
 <EULA.Header>2.	使用 Epic Games 帳號</>
 
@@ -152,7 +152,7 @@ Epic 對您購買的軟體授權不負任何維護或支援義務，但 Epic 可
 
 <EULA.Header>8.	生態系統規則</>
 
-我們希望我們的社群成為一個安全有趣的地方，讓您可以玩遊戲、與他人溝通，並分享您的創作。我們期望每個人都遵守法律以及我們的規則和準則。<a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">我們的規則</>適用於使用授權產品的任何人士，其宗旨為引導所有使用授權產品的人士遵循我們期望的行為規範。這些<EULA.Highlight>「生態系統規則</>」也包括適用於所有終端使用者的<a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">《社群規則》</>、在授權產品內製作和分享創作的<a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">《內容準則》</>，以及特定授權產品的規則（例如，<a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">《糖豆人》</>、<a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">《Fortnite》</>、<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">《Rocket League》</>）。
+我們希望我們的社群成為一個安全有趣的地方，讓您可以玩遊戲、與他人溝通，並分享您的創作。我們期望每個人都遵守法律以及我們的規則和準則。<a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">我們的規則</>適用於使用授權產品的任何人士，其宗旨為引導所有使用授權產品的人士遵循我們期望的行為規範。這些<EULA.Highlight>「生態系統規則</>」也包括適用於所有終端使用者的<a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">《社群規則》</>、在授權產品內製作和分享創作的<a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">《內容準則》</>，以及特定授權產品的規則（例如，<a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">《糖豆人》</>、<a id="url" href="https://legal.epicgames.com/fortnite/developer-rules" style="EULA.Hyperlink">《Fortnite》</>、<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">《Rocket League》</>）。
 
 <EULA.Header>a.	舉報</>
 

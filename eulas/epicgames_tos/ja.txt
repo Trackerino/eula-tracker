@@ -1,5 +1,5 @@
-最終更新：2025年10月20日
-発効日：2025年11月28日
+最終更新：2026年2月27日(米国時間)
+発効日：2025年11月28日(米国時間)
 
 いつもEpic Gamesをご利用いただきありがとうございます。ここには、当社のゲームとサービスの利用に関連する規則と責任について記載されていますまず若いプレイヤーの皆さんに注意していただきたいことがあります。
 
@@ -34,7 +34,7 @@ Epic Gamesサービス利用規約は、参照されてリンクされている�
 
 本規約は、Unreal Engine、Epic Games Store、またはEpicのマーケットプレイス（例：Fab）には適用されません。Unreal Engine、Epic Games Store、またはEpicのマーケットプレイスを使用する場合は、該当する規約を参照してください。
 
-ライセンス製品に追加利用規約（例：UEFN補足条件）が適用される場合、それらの製品固有の規約が提示され、そのライセンス製品を使用する前に同意していただく必要があります。また、一部のEpicプログラム（例：Epicの島クリエイタープログラム）では、参加する前に承諾していただく必要がある追加規約が定められている場合があります。本規約と特定の商品やプログラムに関する規約との間に矛盾がある場合は、商品やプログラム固有の規約が適用されます。
+ライセンス製品に追加利用規約（例：UEFN補足条件）が適用される場合、それらの製品固有の規約が提示され、そのライセンス製品を使用する前に同意していただく必要があります。また、一部のEpicプログラム（例：Epicのフォートナイト デベロッパー）では、参加する前に承諾していただく必要がある追加規約が定められている場合があります。本規約と特定の商品やプログラムに関する規約との間に矛盾がある場合は、商品やプログラム固有の規約が適用されます。
 
 <EULA.Header>2.	Epic Gamesアカウントの使用</>
 
@@ -150,7 +150,7 @@ Epicからゲーム内コンテンツやライセンス製品のライセンス�
 
 <EULA.Header>8.	エコシステムルール</>
 
-私たちは、コミュニティが安心して楽しくゲームをしたり、他の人とコミュニケーションをとったり、作品を共有したりできる場所であることを願っています。私たちは、すべての人が法律と私たちのルールとガイドラインを守ることを期待しています。<a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">当社の規定</>は、ライセンス製品を使用するすべての人に適用され、ライセンス製品を使用するすべての人に期待される行動の指針となることを目的としています。この「<EULA.Highlight>エコシステムルール</>」には、すべてのエンドユーザーに適用される<a id="url" href="https://legal.epicgames.com/epicgames/community-rules" style="EULA.Hyperlink">コミュニティ規定</>、ライセンス製品内で創作物を作成・共有する人のための<a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">コンテンツガイドライン</>、および特定のライセンス製品に関するルール（例：<a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>、<a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">フォートナイト</>、<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>）が含まれます。
+私たちは、コミュニティが安心して楽しくゲームをしたり、他の人とコミュニケーションをとったり、作品を共有したりできる場所であることを願っています。私たちは、すべての人が法律と私たちのルールとガイドラインを守ることを期待しています。<a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">当社の規定</>は、ライセンス製品を使用するすべての人に適用され、ライセンス製品を使用するすべての人に期待される行動の指針となることを目的としています。この「<EULA.Highlight>エコシステムルール</>」には、すべてのエンドユーザーに適用される<a id="url" href="https://legal.epicgames.com/epicgames/community-rules" style="EULA.Hyperlink">コミュニティ規定</>、ライセンス製品内で創作物を作成・共有する人のための<a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">コンテンツガイドライン</>、および特定のライセンス製品に関するルール（例：<a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>、<a id="url" href="https://legal.epicgames.com/fortnite/developer-rules" style="EULA.Hyperlink">フォートナイト</>、<a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>）が含まれます。
 
 <EULA.Header>a.	報告</>
 

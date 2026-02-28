@@ -1,4 +1,4 @@
-최종 업데이트: 2025년 10월 20일
+최종 업데이트: 2026년 2월 27일
 발효일: 2025년 11월 28일
 
 안녕하세요! 다음은 Epic 게임 및 서비스 이용 시 적용되는 규칙과 책임입니다.
@@ -36,7 +36,7 @@ Epic Games 서비스 약관과 참조 및 링크된 모든 문서(이하 “<EUL
 
 본 약관은 Unreal Engine, Epic Games Store 또는 Epic 마켓플레이스(예: Fab)에는 적용되지 않습니다. Unreal Engine, Epic Games Store 또는 Epic 마켓플레이스를 이용하는 경우 해당 약관을 참조하십시오.
 
-라이선스 제품에 추가 약관(예: UEFN 추가 약관)이 적용되는 경우 이용자는 해당 라이선스 제품을 사용하기 전에 제품별 약관에 동의해야 합니다. 또한 일부 Epic 프로그램(예: Epic 섬 크리에이터 프로그램)은 추가 약관 및 조건이 적용될 수 있으며, 참여하기 전에 반드시 동의해야 합니다. 본 약관과 특정 제품 또는 프로그램 약관이 상충하는 경우 해당 제품 또는 프로그램별 약관이 적용됩니다.
+라이선스 제품에 추가 약관(예: UEFN 추가 약관)이 적용되는 경우 이용자는 해당 라이선스 제품을 사용하기 전에 제품별 약관에 동의해야 합니다. 또한 일부 Epic 프로그램(예: Epic 포트나이트 개발자 프로그램)은 추가 약관 및 조건이 적용될 수 있으며, 참여하기 전에 반드시 동의해야 합니다. 본 약관과 특정 제품 또는 프로그램 약관이 상충하는 경우 해당 제품 또는 프로그램별 약관이 적용됩니다.
 
 <EULA.Header>2.	Epic Games 계정 사용</>
 
@@ -152,7 +152,7 @@ Epic에서 라이선스 제품 또는 게임 내 콘텐츠에 대한 라이선�
 
 <EULA.Header>8.	에코시스템 규칙</>
 
-Epic은 커뮤니티가 게임을 즐기고, 다른 이용자와 소통하며, 창작물을 공유할 수 있는 안전하고 즐거운 공간이 되기를 바랍니다. 이에 따라 모든 이용자는 법률과 당사 규칙 및 지침을 준수해야 합니다. 당사 규칙은 라이선스 제품을 사용하는 모든 사람에게 적용되며, 그러한 모든 사용자에게 당사가 기대하는 행동 기준을 제시합니다. 이러한 “<EULA.Highlight>에코시스템 규칙</>”에는 또한 모든 최종 사용자에게 적용되는 <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">커뮤니티 규칙</>, 라이선스 제품 내에서 제작하는 창작물 및 그 공유에 관한 <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">콘텐츠 가이드라인</>, 및 특정 라이선스 제품(예: <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct" style="EULA.Hyperlink">Rocket League</>)에 대한 규칙이 포함됩니다.
+Epic은 커뮤니티가 게임을 즐기고, 다른 이용자와 소통하며, 창작물을 공유할 수 있는 안전하고 즐거운 공간이 되기를 바랍니다. 이에 따라 모든 이용자는 법률과 당사 규칙 및 지침을 준수해야 합니다. 당사 규칙은 라이선스 제품을 사용하는 모든 사람에게 적용되며, 그러한 모든 사용자에게 당사가 기대하는 행동 기준을 제시합니다. 이러한 “<EULA.Highlight>에코시스템 규칙</>”에는 또한 모든 최종 사용자에게 적용되는 <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">커뮤니티 규칙</>, 라이선스 제품 내에서 제작하는 창작물 및 그 공유에 관한 <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">콘텐츠 가이드라인</>, 및 특정 라이선스 제품(예: <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://legal.epicgames.com/fortnite/developer-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct" style="EULA.Hyperlink">Rocket League</>)에 대한 규칙이 포함됩니다.
 
 <EULA.Header>a.	신고하기</>
 

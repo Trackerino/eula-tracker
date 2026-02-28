@@ -1,4 +1,4 @@
-Son Güncelleme: 20 Ekim 2025
+Son Güncelleme: 27 Şubat 2026
 Yürürlük Tarihi: 28 Kasım 2025 
 
 Merhaba! Bunlar, oyun ve hizmetlerimizin kullanılması ile ilişkili kurallar ve sorumluluklardır. 
@@ -36,7 +36,7 @@ Bu Koşulları kabul etmezseniz veya edemezseniz bu Lisanslı Ürünlerin hiçbi
 
 Bu Koşullar Unreal Engine, Epic Games Store veya Epic pazar yerleri (örneğin, Fab) için geçerli değildir. Unreal Engine, Epic Games Store veya Epic pazar yerlerini kullanırken lütfen geçerli koşullara bakın.
 
-Bir Lisanslı Ürün ek hüküm ve koşullara (örneğin, UEFN Ek Hükümleri) tabi ise size bu ürüne özgü hükümler sunulacaktır ve bu Lisanslı Ürünü kullanmadan önce bunları kabul etmeniz gerekir. Ayrıca, bazı Epic programlarının (örneğin, Epic’in Ada Oluşturucu Programı) katılabilmeniz için kabul edilmesi gereken ek hüküm ve koşulları olabilir. Bu Koşullar ile belirli ürün veya programların koşulları arasında bir çelişki olması durumunda ürüne veya programa özgü koşullar geçerli olacaktır. 
+Bir Lisanslı Ürün ek hüküm ve koşullara (örneğin, UEFN Ek Hükümleri) tabi ise size bu ürüne özgü hükümler sunulacaktır ve bu Lisanslı Ürünü kullanmadan önce bunları kabul etmeniz gerekir. Ayrıca, bazı Epic programlarının (örneğin, Epic’in Fortnite Geliştirici Programı) katılabilmeniz için kabul edilmesi gereken ek hüküm ve koşulları olabilir. Bu Koşullar ile belirli ürün veya programların koşulları arasında bir çelişki olması durumunda ürüne veya programa özgü koşullar geçerli olacaktır. 
 
 <EULA.Header>2.	Epic Games Hesabının Kullanılması</>
 
@@ -152,7 +152,7 @@ Oyun İçi İçeriği veya Lisanslı Ürünleri üçüncü bir taraftan veya ü�
 
 <EULA.Header>8.	Ekosistem Kuralları</>
 
-Topluluğumuzun oyun oynamanız, başkalarıyla iletişim kurmanız ve oluşturduklarınızı paylaşmanız için güvenli ve eğlenceli bir yer olmasını isteriz. Herkesin yasaya ve kurallarımıza ve kılavuzlarımıza uymasını bekleriz. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Kurallarımız</> Lisanslı Ürünleri kullanan herkes için geçerlidir ve Lisanslı Ürünleri kullanan herkes için beklediğimiz davranış için bir kılavuz olması amaçlanmıştır. Bu “<EULA.Highlight>Ekosistem Kuralları</>” tüm Son Kullanıcılar için geçerli olan <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Topluluk Kurallarımızı</>, Lisanslı Ürünlerde içerik oluşturan ve paylaşan kişiler için <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">İçerik Yönergelerimizi</> ve bazı Lisanslı Ürünler (örneğin, <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>) için kuralları içerir. 
+Topluluğumuzun oyun oynamanız, başkalarıyla iletişim kurmanız ve oluşturduklarınızı paylaşmanız için güvenli ve eğlenceli bir yer olmasını isteriz. Herkesin yasaya ve kurallarımıza ve kılavuzlarımıza uymasını bekleriz. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Kurallarımız</> Lisanslı Ürünleri kullanan herkes için geçerlidir ve Lisanslı Ürünleri kullanan herkes için beklediğimiz davranış için bir kılavuz olması amaçlanmıştır. Bu “<EULA.Highlight>Ekosistem Kuralları</>” tüm Son Kullanıcılar için geçerli olan <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Topluluk Kurallarımızı</>, Lisanslı Ürünlerde içerik oluşturan ve paylaşan kişiler için <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">İçerik Yönergelerimizi</> ve bazı Lisanslı Ürünler (örneğin, <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://legal.epicgames.com/fortnite/developer-rules " style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>) için kuralları içerir. 
 
 <EULA.Header>a.	Bildirimde bulunulması</>
 
