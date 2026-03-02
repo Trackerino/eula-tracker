@@ -12,7 +12,7 @@
 | `locale` | `ko` |
 | `createdTimestamp` | `2025-10-22T20:39:48.027Z` |
 | `lastModifiedTimestamp` | `2025-10-22T20:39:48.027Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `description` | `PC EULA for the time being until  proper PS4 EULA is delivered` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07669_00/ko/v6/r7/d71fe0fb6c07506fc79ffc9d347eb1b3.pdf` |

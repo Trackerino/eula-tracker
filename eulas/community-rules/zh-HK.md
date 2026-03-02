@@ -10,7 +10,7 @@
 | `locale` | `zh-HK` |
 | `createdTimestamp` | `2025-09-04T19:00:52.782Z` |
 | `lastModifiedTimestamp` | `2025-09-04T19:00:52.782Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/community-rules/zh-HK/v1/r1/0e8270c4c5fd605ae43a3bc91ec403ca.pdf` |
 | `bodyFormat` | `HTML` |

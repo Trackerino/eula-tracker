@@ -10,7 +10,7 @@
 | `locale` | `it` |
 | `createdTimestamp` | `2023-03-21T18:41:35.402Z` |
 | `lastModifiedTimestamp` | `2023-03-21T18:41:35.402Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/emporium/it/v4/r1/b2359f2666b60b778f59a7238936a5cf.pdf` |
 | `bodyFormat` | `HTML` |

@@ -10,7 +10,7 @@
 | `locale` | `es` |
 | `createdTimestamp` | `2025-09-04T19:00:52.727Z` |
 | `lastModifiedTimestamp` | `2025-09-04T19:00:52.727Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/community-rules/es/v1/r1/b901fc88530932c3aa891d0c9efc79c2.pdf` |
 | `bodyFormat` | `HTML` |

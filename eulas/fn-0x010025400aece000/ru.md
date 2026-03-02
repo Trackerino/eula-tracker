@@ -10,7 +10,7 @@
 | `locale` | `ru` |
 | `createdTimestamp` | `2025-08-15T10:53:39.708Z` |
 | `lastModifiedTimestamp` | `2025-08-15T10:53:39.708Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-0x010025400aece000/ru/v5/r5/488d9b79602ddf9fc6a040de82b48d93.pdf` |
 | `bodyFormat` | `HTML` |

@@ -12,7 +12,7 @@
 | `locale` | `en` |
 | `createdTimestamp` | `2023-03-17T23:40:28.403Z` |
 | `lastModifiedTimestamp` | `2023-03-17T23:40:28.403Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `description` | `Epic Content License Agreement` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/emporium/en/v4/r1/2b42ccdae5f8a8b42f1d7e7f869e4c9c.pdf` |

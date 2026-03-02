@@ -10,7 +10,7 @@
 | `locale` | `en` |
 | `createdTimestamp` | `2025-08-15T12:03:21.022Z` |
 | `lastModifiedTimestamp` | `2025-08-15T12:03:21.022Z` |
-| `status` | `ACTIVE` |
+| `status` | `INACTIVE` |
 | `custom` | `false` |
 | `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-033A70A1/en/v4/r6/b9f1e52eb4185362f542e55d7b9d38bd.pdf` |
 | `bodyFormat` | `HTML` |
