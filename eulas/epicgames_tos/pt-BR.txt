@@ -1,4 +1,4 @@
-Última atualização: 20 de outubro de 2025
+Última atualização: 27 de fevereiro de 2026
 Data de entrada em vigor: 28 de novembro de 2025 
 
 Olá! Este documento estabelece as regras e responsabilidades associadas ao uso dos nossos jogos e serviços. 
@@ -36,7 +36,7 @@ Caso você não concorde ou não possa concordar com estes Termos, não poderá 
 
 Estes Termos não se aplicam à Unreal Engine, à Epic Games Store ou aos marketplaces da Epic (p. ex., a Fab). Para usar a Unreal Engine, a Epic Games Store ou os marketplaces da Epic, consulte os termos aplicáveis.
 
-Se um Produto licenciado estiver sujeito a termos e condições adicionais (p. ex., os Termos Complementares do UEFN), estes termos específicos do produto serão apresentados ao usuário e precisarão ser aceitos antes do uso do Produto licenciado em questão. Além disso, alguns programas da Epic (p. ex., o Programa de Criadores de Ilhas da Epic) poderão estar sujeitos a termos e condições adicionais, que precisarão ser aceitos antes de qualquer participação. Em caso de conflito entre estes Termos e os termos específicos de produtos ou programas, prevalecerão os termos específicos aplicáveis. 
+Se um Produto licenciado estiver sujeito a termos e condições adicionais (p. ex., os Termos Complementares do UEFN), estes termos específicos do produto serão apresentados ao usuário e precisarão ser aceitos antes do uso do Produto licenciado em questão. Além disso, alguns programas da Epic (p. ex., o Programa de Desenvolvedores da Epic) poderão estar sujeitos a termos e condições adicionais, que precisarão ser aceitos antes de qualquer participação. Em caso de conflito entre estes Termos e os termos específicos de produtos ou programas, prevalecerão os termos específicos aplicáveis. 
 
 <EULA.Header>2.	Uso da Conta da Epic Games</>
 
@@ -152,7 +152,7 @@ Se você adquirir Conteúdo no Jogo ou Produtos licenciados por meio de terceiro
 
 <EULA.Header>8.	Regras do ecossistema</>
 
-Queremos que a comunidade da Epic seja um ambiente seguro e divertido no qual você possa jogar, se comunicar com outras pessoas e compartilhar suas criações. Esperamos que todos os usuários cumpram a lei e sigam nossas regras e diretrizes. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Nossas regras</> aplicam-se a qualquer pessoa que utilize os Produtos licenciados e servem como um guia de conduta sobre o comportamento esperado de qualquer pessoa que utilize os Produtos licenciados. Estas “<EULA.Highlight>Regras do ecossistema</>” também incluem nossas <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Regras da comunidade</>, que são aplicáveis a todos os Usuários finais, nossas <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Diretrizes de conteúdo</>, destinadas a quem cria ou compartilha criações dentro dos Produtos licenciados, e regras específicas para determinados Produtos licenciados (p. ex., <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.fortnite.com/news/fortnite-island-creator-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
+Queremos que a comunidade da Epic seja um ambiente seguro e divertido no qual você possa jogar, se comunicar com outras pessoas e compartilhar suas criações. Esperamos que todos os usuários cumpram a lei e sigam nossas regras e diretrizes. <a id="url" href="https://safety.epicgames.com/our-rules" style="EULA.Hyperlink">Nossas regras</> aplicam-se a qualquer pessoa que utilize os Produtos licenciados e servem como um guia de conduta sobre o comportamento esperado de qualquer pessoa que utilize os Produtos licenciados. Estas “<EULA.Highlight>Regras do ecossistema</>” também incluem nossas <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Regras da comunidade</>, que são aplicáveis a todos os Usuários finais, nossas <a id="url" href="https://legal.epicgames.com/epicgames/content-guidelines" style="EULA.Hyperlink">Diretrizes de conteúdo</>, destinadas a quem cria ou compartilha criações dentro dos Produtos licenciados, e regras específicas para determinados Produtos licenciados (p. ex., <a id="url" href="https://www.fallguys.com/news/content-rules" style="EULA.Hyperlink">Fall Guys</>, <a id="url" href="https://www.legal.epicgames.com/fortnite/developer-rules" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/news/rocket-league-code-of-conduct/" style="EULA.Hyperlink">Rocket League</>). 
 
 <EULA.Header>a.	Denúncias</>
 
