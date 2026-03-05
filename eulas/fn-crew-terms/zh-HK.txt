@@ -3,7 +3,7 @@ Fortnite Crew 訂閱條款
 
 Fortnite Crew 是以定期付款的訂閱方式提供。當您購買 Fortnite Crew 訂閱（下稱「訂閱」），即表示您同意以下條款（下稱「Fortnite Crew 訂閱條款」）。
 
-您的訂閱構成《Epic Games 服務條款》的一部分，並且以參酌方式把本最終使用者協議納入本條款中。
+您的訂閱構成<a id="url" href="https://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">《Epic Games 服務條款》</>的一部分，並且以參酌方式把本最終使用者協議納入本條款中。
 
 重要事項：《Epic Games 服務條款》含具拘束力的個人仲裁規定及集體訴訟棄權規定。此規定適用於您對訂閱的購買及使用情形。
 

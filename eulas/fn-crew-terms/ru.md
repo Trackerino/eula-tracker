@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929fee252f07d67f67ce36f` |
+| `id` | `69a9c4caf9ab46511fb2bf40` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `7` |
+| `revision` | `8` |
 | `title` | `Условия подписки «Отряд Fortnite»` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2025-11-28T19:58:26.701Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:58:26.701Z` |
+| `createdTimestamp` | `2026-03-05T18:00:42.027Z` |
+| `lastModifiedTimestamp` | `2026-03-05T18:00:42.027Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/ru/v2/r7/7a33b3834d50d946855399b0578ca2ee.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/ru/v2/r8/4ebcfdfc087e1568fa929311de112c21.pdf` |
 | `bodyFormat` | `HTML` |

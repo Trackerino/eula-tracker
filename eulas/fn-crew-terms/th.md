@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929fefe42aaad49563e7e3f` |
+| `id` | `69a9c4fc861bdb52a0c0d6b5` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `4` |
+| `revision` | `5` |
 | `title` | `เงื่อนไขการสมัครสมาชิก FORTNITE CREW` |
 | `locale` | `th` |
-| `createdTimestamp` | `2025-11-28T19:58:54.593Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:58:54.593Z` |
+| `createdTimestamp` | `2026-03-05T18:01:32.682Z` |
+| `lastModifiedTimestamp` | `2026-03-05T18:01:32.682Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/th/v2/r4/c4bd929e3713d9ee8c289b617f8908a0.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/th/v2/r5/b8b6c5287376781c04bda0b0c020a98b.pdf` |
 | `bodyFormat` | `HTML` |
