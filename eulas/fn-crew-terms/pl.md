@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929feb14cca9f3f7875b91c` |
+| `id` | `69a9c472861bdb52a0c0d6ac` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `8` |
+| `revision` | `9` |
 | `title` | `Warunki subskrypcji Ekipa Fortnite` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2025-11-28T19:57:37.225Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:57:37.225Z` |
+| `createdTimestamp` | `2026-03-05T17:59:14.078Z` |
+| `lastModifiedTimestamp` | `2026-03-05T17:59:14.078Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/pl/v2/r8/f90ade6e515e529a2d695551de213a70.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/pl/v2/r9/56b8cc3d26bf0bc4c95b5d8a6cf17060.pdf` |
 | `bodyFormat` | `HTML` |

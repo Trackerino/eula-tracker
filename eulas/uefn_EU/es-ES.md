@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929f47bc731ed5b7a6195e8` |
+| `id` | `69a9ba3bfabb7975e864ddf2` |
 | `key` | `uefn_EU` |
 | `version` | `2` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `Términos complementarios de los Términos de Servicio de Epic Games para Unreal Editor para Fortnite para la UE` |
 | `locale` | `es-ES` |
-| `createdTimestamp` | `2025-11-28T19:14:03.291Z` |
-| `lastModifiedTimestamp` | `2025-11-28T19:14:03.291Z` |
+| `createdTimestamp` | `2026-03-05T17:15:39.592Z` |
+| `lastModifiedTimestamp` | `2026-03-05T17:15:39.592Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn_EU/es-ES/v2/r1/09808db4d7c54e17c65db24dcfb848b1.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/uefn_EU/es-ES/v2/r2/058d900642c28f290b02a2a8e8228778.pdf` |
 | `bodyFormat` | `HTML` |
