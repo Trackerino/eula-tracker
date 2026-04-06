@@ -1,1 +1,46 @@
-Fortnite Crew Subscription Terms
+Fortnite Crew Subscription Terms 
+
+Fortnite Crew is offered on a subscription basis with recurring payments. By purchasing a Fortnite Crew subscription (“Subscription”), you agree to the following terms (“Fortnite Crew Subscription Terms”).
+
+Your Subscription is a part of the <a id="url" href="https://legal.epicgames.com/epicgames/tos " style="EULA.Hyperlink">Epic Games Terms of Service</> (“Terms of Service”), which is incorporated into these terms by reference. 
+
+IMPORTANT: THE TERMS OF SERVICE CONTAIN A BINDING INDIVIDUAL ARBITRATION AND CLASS ACTION WAIVER PROVISION. THIS PROVISION WILL APPLY TO YOUR PURCHASE AND USE OF THE SUBSCRIPTION IF YOU RESIDE IN THE UNITED STATES. IT WILL NOT APPLY IF YOU RESIDE IN THE EU BUT IT MAY APPLY TO YOU IF YOU RESIDE ELSEWHERE.
+
+Additional terms and requirements may apply if you purchase your Subscription through another company’s platform, like Xbox, PlayStation, Nintendo Switch, or through any other platform or reseller (these are called “Third-Party Subscriptions”). Review your platform provider’s terms for more information.
+
+1. Be sure to choose the platform (e.g., Xbox, PlayStation, Nintendo Switch, etc.) you purchase your Subscription on carefully. Your Subscription is associated with the platform on which you purchased it (your “Primary Platform”) until it is canceled and is not transferable across the platforms. You’ll be able to access the items you receive from the Subscription across different platforms, but the V-Bucks you receive may not be redeemable on other platforms. You must log into your Primary Platform each subscription period to access your Subscription Content.
+
+2. Your Subscription has a recurring charge (“Subscription Fee”) and will continue to automatically renew until you cancel it. You can cancel your Subscription at any time through the platform on which you purchased the Subscription. There are three ways to cancel your Subscription purchased from Epic on PC or mobile:
+a. In game, navigate to      the Passes tab, and proceed with canceling your Subscription;
+b. Visit <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>  to cancel via the web, or
+c. Open the Epic Games Store application, click your profile, select account, and navigate to the Subscriptions tab to cancel your Subscription.
+
+If you purchased a subscription through another company’s service (e.g., Xbox, PlayStation, or Nintendo Switch), you can cancel it on that platform or their websites as explained <a id="url" href="https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Billingandpayment/how-can-i-cancel-my-fortnite-crew-subscription-a000085124" style="EULA.Hyperlink">here</>. Epic doesn’t handle billing or cancellations for these platforms.
+
+3. To purchase a Subscription, you must be an adult (the legal age of majority) in your country of residence. To pay for the Subscription, you will be asked to provide account information and payment method information at the time you sign up. By providing Epic with a payment method, you represent that (i) you are an adult who is authorized to use the payment method you provided and (ii) any payment information you provide is true and accurate.
+
+4. When you purchase the Subscription, you agree that you are authorizing recurring payments of the Subscription Fee. Your recurring payment of the Subscription Fee occurs at intervals you agreed to from the day you purchase your Subscription until cancelled. By purchasing the Subscription you grant Epic, a third-party platform, or a designated third-party payment processor permission to automatically charge the Subscription Fee to the provided payment method on a recurring basis until you cancel the Subscription. The Subscription Fee is exclusive of any applicable Federal, state, or municipal taxes or duties, unless otherwise required by applicable law.
+
+Note: if you purchase a Third-Party Subscription, you should review that platform provider’s rules and processes carefully. Additional terms, requirements and cancellation policies may apply if you purchase your Subscription through another company.
+
+5. You must cancel your Subscription before the next billing date to stop being charged Subscription Fees. You can find your next billing date:
+In-game by navigating to the Passes tab;
+On web by visiting <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, or
+By opening the Epic Games Store application, clicking your profile, selecting account, and navigating to the Subscriptions tab.
+
+If you cancel ahead of the next billing date, your Subscription will not renew, and you will not be charged another Subscription Fee.
+
+6. As part of your Subscription, you will receive benefits each month (“Subscription Content”). The Subscription Content will include items that would cost at least as much as the price of the Subscription. The Subscription Content may include cosmetic items among other content. Information about the Subscription Content that is available for your Subscription in the current month can be found at <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</>. You can also check current benefits in the Passes tab in-game. 
+
+Epic may offer different subscription options for the Subscription, each with its own Subscription Fee and Subscription Content. Subscription Fee and Subscription Content will be clearly described at the time of the sign-up.                                        
+
+     
+If you cancel your Subscription, you will keep the Subscription Content you received or earned during your period of Subscription. You will not be eligible for a prorated refund of any portion of the Subscription Fee. This refund policy does not affect any statutory rights that may entitle you to a refund notwithstanding the policy. 
+
+7. We may offer the Subscription together with other subscription services as a bundle. These bundles may include subscriptions to products or services provided by third parties. If you choose a bundled subscription, we will clearly describe what is included in the bundle, including any third-party subscriptions, at the time you sign up.
+
+Third-party products and services included in a bundle are provided by the relevant third party and are subject to that third party’s own terms and conditions. We encourage you to review those terms carefully, as they will govern your use of those third-party services.
+
+8. Subscription requirements and available features may vary across platforms, regions, and over time. We may change the Subscription Fee at any time. If we plan to change the Subscription Fee, we will notify you in advance and request your consent before the change takes effect. If you don’t agree to the new price, your Subscription will remain unchanged. However, Epic may cancel your Subscription by providing at least one month’s prior notice.
+
+9. Epic reserves the right to change the Fortnite Crew Subscription Terms from time to time and will post the most current version of the Fortnite Crew Subscription Terms at <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</>.

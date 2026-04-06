@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69d3e1860c904075d88a6953` |
+| `id` | `69d3fadf0c904075d88a6a58` |
 | `key` | `fn-crew-terms-DE` |
 | `version` | `1` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `Fortnite Crew Subscription Terms` |
 | `locale` | `en` |
-| `createdTimestamp` | `2026-04-06T16:38:30.098Z` |
-| `lastModifiedTimestamp` | `2026-04-06T16:38:30.098Z` |
+| `createdTimestamp` | `2026-04-06T18:26:39.642Z` |
+| `lastModifiedTimestamp` | `2026-04-06T18:26:39.642Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms-DE/en/v1/r1/9e39a45e6f508f9a22f880e965701c11.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms-DE/en/v1/r2/a0ff8e635e2fa9f9619ad54939fbbff7.pdf` |
 | `bodyFormat` | `HTML` |

@@ -2,7 +2,7 @@ Abonnementbedingungen für Fortnite-Crew
 
 Fortnite-Crew wird auf Abonnementbasis mit wiederkehrenden Zahlungen angeboten. Durch den Abschluss eines Abonnements für Fortnite-Crew („Abonnement“) erklären Sie sich mit den folgenden Bedingungen („Abonnementbedingungen für Fortnite Crew“) einverstanden.
 
-Ihr Abonnement unterliegt den <a id="url" href="https://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">Nutzungsbedingungen von Epic Games</> („Nutzungsbedingungen“), die hiermit durch Bezugnahme in diese Bedingungen aufgenommen werden. Diese Abonnementbedingungen für Fortnite Crew enthalten Informationen zu den mit dem Abonnement verbundenen wiederkehrenden Gebühren, Ihrer Zustimmung zu diesen wiederkehrenden Abbuchungen sowie zum Recht von Epic, die Abonnementstufen, Vorteile und Preise zu ändern. BITTE LESEN SIE DIESE BEDINGUNGEN VOR DEM ABSCHLUSS EINES ABONNEMENTS SORGFÄLTIG DURCH.
+Ihr Abonnement unterliegt den <a id="url" href="https://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">Nutzungsbedingungen von Epic Games</>, („Nutzungsbedingungen“), die hiermit durch Bezugnahme in diese Bedingungen aufgenommen werden. 
 
 WICHTIG: DIE NUTZUNGSBEDINGUNGEN ENTHALTEN EINE KLAUSEL ZUR VERBINDLICHEN STREITBEILEGUNG IM EINZELSCHIEDSVERFAHREN UND ZUM VERZICHT AUF SAMMELKLAGEN. DIESE BESTIMMUNG GILT FÜR IHREN KAUF UND IHRE NUTZUNG DES ABONNEMENTS, WENN SIE IN DEN USA WOHNHAFT SIND. WENN SIE IN DER EU WOHNHAFT SIND, GILT DIESE BESTIMMUNG NICHT. SIE KANN JEDOCH FÜR SIE GELTEN, WENN SIE ANDERSWO WOHNHAFT SIND.
 
@@ -11,6 +11,7 @@ Es können zusätzliche Bedingungen und Anforderungen gelten, wenn Sie Ihr Abonn
 1. Stellen Sie sicher, dass Sie die Plattform (z. B. Xbox, PlayStation, Nintendo Switch etc.), auf der Sie Ihr Abonnement erwerben, sorgfältig auswählen. Ihr Abonnement ist bis zur Kündigung mit der Plattform verbunden, auf der Sie es gekauft haben (Ihre „primäre Plattform“) und ist nicht zwischen den Plattformen übertragbar. Sie können zwar über verschiedene Plattformen auf die Artikel zugreifen, die Sie aus dem Abonnement erhalten, aber die V-Bucks, die Sie erhalten, sind ggf. nicht auf anderen Plattformen einlösbar. Sie müssen sich in jeder Abonnementperiode in Ihre primäre Plattform einloggen, um auf Ihren Abonnement-Inhalt zugreifen zu können.
 
 2. Ihr Abonnement hat eine wiederkehrende Gebühr („Abonnementgebühr“) und verlängert sich automatisch, bis Sie es kündigen. Sie können Ihr Abonnement jederzeit über die Plattform kündigen, auf der Sie das Abonnement gekauft haben. Es gibt drei Möglichkeiten, Ihr Abonnement, das Sie von Epic gekauft haben, auf dem PC oder Mobilgerät zu kündigen:
+
 Im Spiel navigieren Sie zur Registerkarte „Pässe“ und kündigen Sie dort Ihr Abonnement.
 Öffnen Sie die Seite <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, um über das Internet zu kündigen.
 Zur Kündigung Ihres Abonnements öffnen Sie die Epic Games Store-Anwendung, klicken Sie auf Ihr Profil, wählen Sie das Konto aus und navigieren Sie zur Registerkarte „Abonnements“.
@@ -41,6 +42,6 @@ Wenn Sie Ihr Abonnement kündigen, behalten Sie den Abonnement-Inhalt, den Sie w
 
 Produkte und Dienstleistungen von Drittanbietern, die in einem Paket enthalten sind, werden von dem jeweiligen Drittanbieter bereitgestellt und unterliegen den Geschäftsbedingungen des jeweiligen Drittanbieters. Wir empfehlen Ihnen, diese Bedingungen sorgfältig zu lesen, da Ihre Nutzung dieser Dienstleistungen von Drittanbietern solchen Bedingungen unterliegt.
 
-8. Abonnementanforderungen und verfügbare Features können zwischen den Plattformen, Regionen und im Laufe der Zeit abweichen. Wir behalten es uns vor, jederzeit die Abonnementgebühr anzupassen. Dabei informieren wir dich mindestens 30 Tage im Voraus. Wenn du einer solchen Preisänderung nicht zustimmst, musst du dein Abonnement kündigen, bevor die Preisänderung greift. Wenn du dein Abonnement fortsetzt, stimmst du der Zahlung der neuen Abonnementgebühr zu.
+8. Die Anforderungen an das Abonnement und die verfügbaren Funktionen können je nach Plattform, Region und im Laufe der Zeit variieren. Wir können die Abonnementgebühr jederzeit ändern. Wenn wir eine Änderung der Abonnementgebühr planen, benachrichtigen wir Sie im Voraus und holen Ihre Zustimmung ein, bevor die Änderung wirksam wird. Wenn Sie dem neuen Preis nicht zustimmen, bleibt Ihr Abonnement unverändert. Epic kann Ihr Abonnement in diesem Fall jedoch unter Einhaltung einer Frist von mindestens einem Monat kündigen.
 
 9. Epic behält sich das Recht vor, die Abonnement-Bedingungen für Fortnite-Crew von Zeit zu Zeit zu ändern, und wird die aktuelle Version der Abonnement-Bedingungen für Fortnite-Crew unter <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</> veröffentlichen.
