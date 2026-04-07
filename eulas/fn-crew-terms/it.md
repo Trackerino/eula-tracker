@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69a9c3dec1609703f4137417` |
+| `id` | `69d4a27220670579ad2bcd82` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `11` |
+| `revision` | `12` |
 | `title` | `Termini di abbonamento Crew di Fortnite` |
 | `locale` | `it` |
-| `createdTimestamp` | `2026-03-05T17:56:46.376Z` |
-| `lastModifiedTimestamp` | `2026-03-05T17:56:46.376Z` |
+| `createdTimestamp` | `2026-04-07T06:21:38.928Z` |
+| `lastModifiedTimestamp` | `2026-04-07T06:21:38.928Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/it/v2/r11/8f1983664ad82cde9e5484b9b2404252.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/it/v2/r12/ed7c04c5d6e4cdbbffd44ab6b57151b0.pdf` |
 | `bodyFormat` | `HTML` |

@@ -1,32 +1,46 @@
-Son Güncelleme: 01/12/2024
-Fortnite Tayfası Abonelik Koşulları
-Fortnite Tayfası yinelenen ödemeli bir aboneliktir. Bir Fortnite Tayfası aboneliği satın alarak ("Abonelik") aşağıdaki koşulları onaylamış olursunuz ("Fortnite Tayfası Abonelik Koşulları").
-Aboneliğiniz <a id="url" href="https://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">Epic Games Hizmet Koşulları</>'na dahildir ve anlaşma, referans olması açısından bu koşullara eklenmiştir.
-ÖNEMLİ: EPIC GAMES HİZMET KOŞULLARI BAĞLAYICI, BİREYSEL TAHKİM VE TOPLU DAVADAN FERAGAT HÜKMÜ İÇERİR. BU HÜKÜM, SATIN ALIMINIZDA VE AMERİKA BİRLEŞİK DEVLETLERİ'NDE YAŞIYORSANIZ ABONELİK KULLANIMINIZDA GEÇERLİ OLACAKTIR. AVRUPA BİRLİĞİ'NDE YAŞIYORSANIZ GEÇERLİ OLMAZ AMA BAŞKA HERHANGİ BİR YERDE GEÇERLİ OLABİLİR.
-Aboneliğinizi Xbox, PlayStation®, Nintendo Switch gibi başka bir firmanın platformundan veya farklı bir platform ya da satıcıdan satın alırsanız (bunlara "Üçüncü Taraf Aboneliği" adı verilir) ek koşullar ve gereksinimler geçerli olabilir. Daha fazla bilgi için platform sağlayıcınızın koşullarını inceleyin.
-1. Aboneliğinizi satın aldığınız platformu (örn. Xbox, PlayStation®, Nintendo Switch vb.) dikkatlice seçtiğinizden emin olun. Aboneliğiniz, iptal edilene kadar onu satın aldığınız platformla ("Ana Platformunuz") ilişkilendirilir ve platformlar arasında aktarılamaz. Abonelikten aldığınız içeriklere farklı platformlarda erişebileceksiniz ancak aldığınız V-Papeller diğer platformlarda kullanılamayabilir. Abonelik içeriğine erişmek için her abonelik döneminde Ana Platformunuzda oturum açmalısınız.
-2. Aboneliğinizin yinelenen bir ücreti vardır ("Abonelik Ücreti") ve iptal edilene kadar otomatik olarak yenilenmeye devam eder. Aboneliğinizi satın aldığınız platformdan istediğiniz zaman iptal edebilirsiniz. Aboneliğinizi PC veya mobilde Epic'ten satın aldıysanız üç farklı yöntemle iptal edebilirsiniz:
-a)        Oyun içinde Biletler sekmesini açın ve aboneliğinizi iptal edin.
-b)        İnternetten iptal etmek için <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> adresini ziyaret edin.
-c)        Epic Games Store uygulamasını açın, profilinize tıklayın, hesabınızı seçin ve Abonelikler sekmesine gidin.
-Başka bir şirketin hizmetleri üzerinden (örn. Xbox, PlayStation®, Nintendo Switch) Abonelik satın aldıysanız, Aboneliği <a id="url" href="https://www.epicgames.com/help/tr/c-Category_Fortnite/c-Fortnite_Billingandpayment/fortnite-tayfasi-aboneligimi-nasil-iptal-ederim-a000085124" style="EULA.Hyperlink">burada</> açıklandığı üzere satın aldığınız platform üzerinden ya da web sitesinden iptal edebilirsiniz. Epic, bu platformların faturalandırma veya iptal süreçlerine dahil olmaz.
-3. Abonelik satın almak için ikamet ettiğiniz ülkede yasal olarak reşit olmuş bir yetişkin olmalısınız. Abonelik ödemesi yapabilmeniz için kaydolurken hesap ve ödeme yöntemi bilgileriniz istenecektir. Epic ile bir ödeme yöntemi paylaşarak hem (i) bahsedilen ödeme yöntemini kullanma yetkisi olan bir yetişkin olduğunuzu hem de (ii) paylaştığınız ödeme bilgilerinin doğruluğunu ve hatasızlığını beyan etmiş olursunuz.
-4. Abonelik satın aldığınızda yinelenen Abonelik Ücreti ödemelerine onay verdiğinizi doğrulamış olursunuz. Yinelenen Abonelik Ücreti ödemeleriniz onayladığınız zaman aralıklarında, satın aldığınız günden Aboneliğinizi iptal ettiğiniz güne kadar devam eder. Abonelik satın alarak Epic'e, bir üçüncü taraf platformuna veya belirli bir üçüncü taraf ödeme aracısına, paylaştığınız ödeme yöntemi üzerinden tekrarlanan ve Abonelik iptal edilene kadar otomatik olarak devam eden bir Abonelik Ücreti alma yetkisi vermiş olursunuz. Geçerli yasalarca aksi gerekmediği takdirde Abonelik Ücretine ilgili Federal, devlet veya belediye vergileri ve ücretleri dahil değildir.
-Not: Üçüncü Taraf Aboneliği satın almadan önce ilgili platform sağlayıcısının kurallarını ve süreçlerini dikkatlice incelemelisiniz. Aboneliğinizi başka bir firmadan satın almanız durumunda ek koşullar, gereksinimler ve iptal politikaları uygulanabilir.
-5. Abonelik Ücretlerini durdurmak için Aboneliğinizi bir sonraki faturalandırma gününden önce iptal etmeniz gerekmektedir. Sonraki faturalandırma gününüzü öğrenmek için:
-a)        Oyun içinde Biletler sekmesine gidin.
-b)        <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> adresini ziyaret edin.
-c)        Epic Games Store uygulamasını açın, profilinize tıklayın, hesabınızı seçin ve Abonelikler sekmesine gidin.
-Aboneliğinizi bir sonraki faturalandırma gününden önce iptal ederseniz aboneliğiniz yenilenmez ve bir Abonelik Ücreti daha ödemezsiniz.
-6. Aboneliğinize dahil olarak ("Tekrar Eden Avantajlar") elde edersiniz:
-(a)        1.000 V-Papel.
-(b)        Fortnite Tayfa Paketi kozmetik eşya seti.
-(c)        Abonelik ve bilet etkinken mevcut Fortnite biletlerindeki premium ödülleri alabilme imkânı.
-(d)        1 Aralık 2024 TSİ 08.00'den önce başlamış etkin bir Aboneliğiniz varsa ve bir Fortnite Sezonu Savaş Bileti devam ederken iptal ettiyseniz o sırada mevcut olan Fortnite Sezonu Savaş Bileti'ndeki premium ödüllerini alabilme imkânınız sezonun sonuna kadar devam eder.
-Etkin bir Aboneliğiniz varsa abonelik tarihinizi ve saatinizi Biletler sekmesinden görebilirsiniz.
-Hesabınıza her ay 1.000 V-Papel aktarılacaktır. Fortnite Tayfa Paketlerinde bulunan eşyalar her ay değişir. Tayfa Paketlerinde bulunan eşyalar Fortnite Tayfası Abonelerine özel olarak verilir.
-Epic zaman zaman Aboneliğinize dahil olan ek avantajlar sunabilir. Bu avantajlar Fortnite veya Epic tarafından yayınlanmış başka oyunlar veya ürünler ile ilgili olabilir ("Bonus Avantajlar"). Bonus Avantajların bir garantisi yoktur. Tüm platformlardaki aboneler için mevcut olmayabilir ve Epic'in tercihleri doğrultusunda aydan aya değişebilir veya kaldırılabilir.
-Tekrar Eden Avantajlar ve Bonus Avantajlar birlikte "Abonelik İçeriği" olarak adlandırılır.
-Aboneliğinizi iptal etmeniz durumunda tüm Fortnite biletlerinden kazandığınız premium ödüller ve abone olduğunuz süre boyunca aldığınız Abonelik İçeriği sizde kalır. Abonelik Ücretinin herhangi bir miktarına eşdeğer bir iade alma hakkına sahip olmayacaksınız. Bu iade politikası, bu politikaya bakılmaksızın, iade konusunda size tanınmış olabilecek hiçbir yasal hakkı etkilemez. 
-7. Abonelik gereksinimleri ve mevcut özellikler platformlara, bölgelere ve geçen süreye bağlı olarak değişebilir. Abonelik Ücretini herhangi bir zamanda değiştirebiliriz. Böyle bir durum olursa sizi 30 gün önceden bilgilendireceğiz. Fiyat değişikliğini onaylamamanız durumunda fiyat değişikliği uygulanmadan önce Aboneliğinizi iptal etmeniz gerekir. Aboneliği kullanmaya devam etmeniz durumunda yeni yenilenen Abonelik Ücretini kabul etmiş olursunuz.
-8. Epic, Fortnite Tayfası Abonelik Koşullarını farklı zamanlarda değiştirebilir ve Fortnite Tayfası Abonelik Koşullarının en güncel halini <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</> adresinde paylaşır.
+Fortnite Tayfası Abonelik Koşulları 
+
+Fortnite Tayfası, yinelenen ödemelerle abonelik esasına göre sunulur. Bir Fortnite Tayfası aboneliği satın almakla (“Abonelik”) aşağıdaki koşulları (“Fortnite Tayfası Abonelik Koşulları”) kabul etmiş olursunuz.
+
+Aboneliğiniz, atıfta bulunularak bu koşullara dâhil edilmiş olan <a id="url" href="https://legal.epicgames.com/epicgames/tos " style="EULA.Hyperlink">Epic Games Hizmet Koşullarının</> (“Hizmet Koşulları”) bir parçasıdır. Bu Fortnite Tayfası Abonelik Koşulları, Abonelikle ilişkili yinelenen ücretler, bu yinelenen ücretler için yetki vermeniz ve Epic’in Abonelik aşamalarını, avantajlarını ve fiyatlandırmasını değiştirme hakkıyla ilgili ayrıntılar içermektedir. LÜTFEN ABONE OLMADAN ÖNCE BU KOŞULLARIN TAMAMINI OKUYUN.
+
+ÖNEMLİ: HİZMET KOŞULLARI BAĞLAYICI BİR BİREYSEL TAHKİM VE TOPLU DAVADAN FERAGAT HÜKMÜNÜ İÇERİR. BİRLEŞİK DEVLETLER’DE İKAMET EDİYORSANIZ BU HÜKÜM ABONELİĞİ SATIN ALMANIZ VE KULLANMANIZ İÇİN GEÇERLİ OLACAKTIR. AB’DE İKAMET EDİYORSANIZ GEÇERLİ OLMAYACAKTIR ANCAK BAŞKA BİR YERDE İKAMET EDİYORSANIZ SİZİN İÇİN GEÇERLİ OLABİLİR.
+
+Aboneliğinizi Xbox, PlayStation, Nintendo Switch gibi bir başka şirketin platformu veya başka bir platform veya bayi üzerinden satın alırsanız (bunlara “Üçüncü Taraf Abonelikleri” adı verilir) ek koşullar ve gereklilikler geçerli olabilir. Daha fazla bilgi için platform sağlayıcının koşullarını inceleyin.
+
+1. Aboneliğinizi satın alacağınız platformu ( Xbox, PlayStation, Nintendo Switch vb.) dikkatle seçin. Aboneliğiniz, iptal edilinceye kadar onu satın aldığınız platformla (“Birincil Platformunuz”) ilişkilidir ve platformlar arasında aktarılamaz. Abonelikten aldığınız ögelere farklı platformlar arasında erişebileceksiniz ancak aldığınız V-Buck’lar diğer platformlarda kullanılabilir olmayabilir. Abonelik İçeriğinize erişmek için her abonelik döneminde Birincil Platformunuzda oturum açmanız gerekir.
+
+2. Aboneliğinizin yinelenen bir ücreti (“Abonelik Ücreti”) vardır ve siz iptal edene kadar otomatik olarak yenilenmeye devam edecektir. Aboneliğinizi, Aboneliği satın aldığınız platform üzerinden herhangi bir zamanda iptal edebilirsiniz. Epic’ten satın aldığınız Aboneliği PC veya mobil üzerinden iptal etmenin üç yolu vardır:
+Oyunda Biletler sekmesine gidin ve Aboneliğinizi iptal etme işlemine geçin;
+Web üzerinden iptal etmek için <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> adresini ziyaret edin veya
+Aboneliğinizi iptal etmek için, Epic Games Store uygulamasını açın, profilinize tıklayın, hesabı seçin ve Abonelikler sekmesine gidin.
+
+Başka bir şirketin hizmeti (ör. Xbox, PlayStation veya Nintendo Switch) üzerinden bir abonelik satın almış olmanız durumunda bunu o platformda veya onların web sitesinde <a id="url" href="https://www.epicgames.com/help/tr/c-Category_Fortnite/c-Fortnite_Billingandpayment/fortnite-tayfasi-aboneligimi-nasil-iptal-ederim-a000085124" style="EULA.Hyperlink">burada</> açıklandığı gibi iptal edebilirsiniz. Epic, bu platformlar için fatura etme veya iptal işlemleri yapmamaktadır.
+
+3. Abonelik satın almak için ikamet ettiğiniz ülkede bir erişkin (yasal reşit olma yaşında) olmanız gerekir. Abonelik için ödeme yapmak için, kaydolduğunuzda hesap bilgileri ve ödeme yöntemi bilgilerini sağlamanız istenecektir. Epic’e bir ödeme yöntemi sağlamakla, (i) sağladığınız ödeme yöntemini kullanma yetkisi olan bir erişkin olduğunuzu ve (ii) sağladığınız tüm ödeme bilgilerinin doğru ve hatasız olduğunu beyan edersiniz.
+
+4. Aboneliği satın aldığınızda, Abonelik Ücretinin yinelenen ödemeleri için yetki verdiğinizi kabul edersiniz. Yineleyen Abonelik Ücreti ödemeniz Aboneliğinizi satın aldığınız günden iptal ettiğiniz güne kadar kabul ettiğiniz aralıklarla gerçekleşir. Aboneliği satın almakla Epic’e, üçüncü taraf platforma veya belirlenen üçüncü taraf ödeme işlemi sağlayıcıya siz Aboneliği iptal edinceye kadar Abonelik Ücretini belirtilen ödeme yöntemiyle yinelenen şekilde otomatik olarak tahsil etme izni verirsiniz. Abonelik Ücretine, geçerli yasalarca aksi belirtilmedikçe, geçerli tüm Federal yönetim, eyalet veya belediye vergileri veya harçları dâhil değildir.
+
+Not: Bir Üçüncü Taraf Aboneliği satın alırsanız o platform sağlayıcısının kurallarını ve süreçlerini dikkatle incelemelisiniz. Aboneliğinizi başka bir şirket üzerinden satın alırsanız ek koşullar, gereklilikler ve iptal politikaları geçerli olabilir.
+
+0,5 Abonelik Ücreti ödemeyi durdurmak için bir sonraki faturalama tarihinden önce Aboneliğinizi iptal etmelisiniz. Bir sonraki fatura tarihinizi şu şekilde bulabilirsiniz:
+Oyun içinde, Biletler sekmesine giderek;
+Web üzerinden <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> adresini ziyaret ederek veya
+Epic Games Store uygulamasını açarak, profilinize tıklayarak, hesabı seçerek ve Abonelikler sekmesine giderek.
+
+Bir sonraki fatura tarihinden önce iptal ederseniz Aboneliğiniz yenilenmeyecek ve sizden başka bir Abonelik Ücreti alınmayacaktır.
+
+6. Aboneliğinizin bir parçası olarak her ay avantajlar (“Abonelik İçeriği”) elde edeceksiniz. Abonelik İçeriği, Abonelik fiyatı kadar veya daha fazla maliyetli olan ögeleri içerecektir. Abonelik İçeriği, diğer içeriğin yanı sıra kozmetik ögeler içerebilir. Mevcut ay içinde Aboneliğiniz için mevcut olan Abonelik İçeriği hakkındaki bilgiler <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</> adresinde bulunabilir. Mevcut avantajları oyun içindeki Biletler sekmesinden de kontrol edebilirsiniz.  
+
+Epic, Abonelik için farklı abonelik seçenekleri sunabilir ve bunların her biri kendi Abonelik Ücretine ve Abonelik İçeriğine sahiptir. Abonelik Ücreti ve Abonelik İçeriği kayıt sırasında açıkça belirtilecektir.
+
+
+Aboneliğinizi iptal ederseniz Abonelik döneminde aldığınız veya kazandığınız Abonelik İçeriği sizde kalır. Abonelik Ücretinin herhangi bir kısmı için orantılı bir geri ödeme alma hakkına sahip olmayacaksınız. Bu para iadesi politikası, bu politikaya bakılmaksızın, para iadesi konusunda size tanınmış olabilecek hiçbir yasal hakkı etkilemez. 
+
+7. Aboneliği, diğer abonelik hizmetleri ile birlikte bir paket hâlinde sunabiliriz. Bu paketler, üçüncü taraflarca sağlanan ürünlere veya hizmetlere abonelikler içerebilir. Bir paket abonelik seçerseniz kayıt sırasında üçüncü taraf abonelikleri de dâhil olmak üzere pakete nelerin dâhil olduğunu açık bir şekilde belirteceğiz.
+
+Bir pakete dâhil olan üçüncü taraf ürünleri ve hizmetleri ilgili üçüncü tarafça sağlanır ve bu üçüncü tarafın kendi hüküm ve koşullarına tabidir. O koşulları dikkatle incelemenizi öneririz çünkü o üçüncü taraf hizmetlerini kullanımınızı düzenleyecektir.
+
+8. Abonelik gereklilikleri ve mevcut özellikler, platformlar ve bölgeler arasında ve zaman içinde farklılık gösterebilir. Abonelik Ücretini herhangi bir zamanda değiştirebiliriz; bunu yaparsak size en az 30 gün önceden bildirimde bulunuruz. Fiyat değişikliğini kabul etmezseniz fiyat değişikliği yürürlüğe girmeden önce Aboneliğinizi iptal etmek zorundasınız. Aboneliği kullanmaya devam etmekle yeni yinelenen Abonelik Ücretini kabul ettiğinizi belirtmiş olursunuz. 
+
+9. Epic, Fortnite Tayfası Abonelik Koşullarını zaman zaman değiştirme hakkını saklı tutmaktadır ve Fortnite Tayfası Abonelik Koşullarının en güncel sürümünü <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</> adresinde yayınlayacaktır.

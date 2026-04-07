@@ -4,16 +4,16 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69a9c5aa0eadbe2d8ae5de87` |
+| `id` | `69d4aadcdc9df86e70b5bcb3` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `8` |
+| `revision` | `9` |
 | `title` | `Fortnite Crew 訂閱條款` |
 | `locale` | `zh-HK` |
-| `createdTimestamp` | `2026-03-05T18:04:26.862Z` |
-| `lastModifiedTimestamp` | `2026-03-05T18:04:26.862Z` |
+| `createdTimestamp` | `2026-04-07T06:57:32.204Z` |
+| `lastModifiedTimestamp` | `2026-04-07T06:57:32.204Z` |
 | `status` | `ACTIVE` |
 | `description` | `Fortnite隊員` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/zh-HK/v2/r8/2c596804e1e53a24680bfd674cd59a0b.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/zh-HK/v2/r9/25d81c2dfb06ff59f33f1ef65752bbe7.pdf` |
 | `bodyFormat` | `HTML` |
