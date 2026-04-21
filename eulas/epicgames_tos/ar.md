@@ -1,16 +1,16 @@
-# EPIC GAMES TERMS OF SERVICE
+# شروط خدمة Epic Games
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69a22fc5199db95caf466a58` |
+| `id` | `69e6b1013213bc144ed8de27` |
 | `key` | `epicgames_tos` |
 | `version` | `2` |
-| `revision` | `2` |
-| `title` | `EPIC GAMES TERMS OF SERVICE` |
+| `revision` | `3` |
+| `title` | `شروط خدمة Epic Games` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2026-02-27T23:59:01.226Z` |
-| `lastModifiedTimestamp` | `2026-02-27T23:59:01.226Z` |
+| `createdTimestamp` | `2026-04-20T23:04:33.092Z` |
+| `lastModifiedTimestamp` | `2026-04-20T23:04:33.092Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/ar/v2/r2/6b85741c68d343d2246e27487f1e3e83.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/ar/v2/r3/4d68d41c3cfc37bc00ca1ac19da254ea.pdf` |
 | `bodyFormat` | `HTML` |
