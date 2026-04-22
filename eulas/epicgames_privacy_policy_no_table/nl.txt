@@ -1,5 +1,3 @@
-<EULA.Highlight>PRIVACYBELEID EPIC GAMES</>
-
 Laatst Bijgewerkt: 22 april 2026
 
 Welkom bij Epic!
@@ -28,13 +26,15 @@ We gebruiken de term “<EULA.Highlight>Diensten van Epic</>” om alle Epic-pro
 
 • onze applicaties (bijv. <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>); 
 
-• onze websites en hun respectievelijke subdomeinen (bijv. <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> en<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>); en 
+• onze websites en hun respectievelijke subdomeinen (bijv. <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> en <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>); en 
 
 • live evenementen waar dit privacybeleid is geplaatst.
 
 Houd er rekening mee dat voor uw gebruik van de diensten van Epic ook aanvullende voorwaarden gelden. U moet bijvoorbeeld de <a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">Servicevoorwaarden van Epic Games</> lezen en aanvaarden om Fortnite, Rocket League, Fall Guys en Horizon Chase 2 te kunnen spelen. 
 
-<EULA.Header><span id="children">2. HOE VERWERKEN WE DE GEGEVENS VAN KINDEREN?</span></>
+<span id="children">
+<EULA.Header>2. HOE VERWERKEN WE DE GEGEVENS VAN KINDEREN?</>
+</span>
 
 We ontwerpen de diensten van Epic zodanig dat gebruikers van alle leeftijden over de hele wereld welkom zijn. Dit betekent dat we de leeftijdsinformatie van gebruikers verzamelen en dat sommige van de diensten van Epic een andere ervaring bieden op basis van wat we weten over de leeftijd van een gebruiker en waar die woont. De onderstaande informatie is bedoeld zodat ouders/voogden onze privacypraktijken kunnen begrijpen met betrekking tot kinderen (jonger dan 13 jaar of de leeftijd van digitale toestemming in de regio van de gebruiker, afhankelijk van wat hoger is).
 
@@ -98,7 +98,7 @@ U kunt ervoor kiezen om ons verschillende soorten gegevens te verstrekken, afhan
 
 • Wanneer u twee-factor-authenticatie inschakelt, kunnen we, afhankelijk van welke verificatiemethode u gebruikt, uw telefoonnummer en e-mailadres verzamelen om uw account te beveiligen.
 
-• Wanneer u sociale functies zoals onze forums of chat gebruikt, kunnen we de gegevens verzamelen die u op of via die functies wilt delen (bijv. de berichten die u op onze forums deelt). Als u onze functie voor spraakchat gebruikt en spraakrapportage is ingeschakeld in een spraakkanaal, worden fragmenten van audiogegevens van de spraakchat opgeslagen op uw apparaat en de apparaten van deelnemers aan het spraakkanaal. Als een schending van onze voorwaarden of beleidsregels (bijv. <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Communityregels</>) wordt gemeld, kunnen deze fragmenten worden doorgestuurd naar Epic om die gemelde schending te beoordelen en onze voorwaarden en beleidsregels te handhaven. Lees onze <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs#text-reporting" style="EULA.Hyperlink">veelgestelde vragen</> voor meer informatie over het bewaren van uw stem- en tekstchat. 
+• Wanneer u sociale functies zoals onze forums of chat gebruikt, kunnen we de gegevens verzamelen die u op of via die functies wilt delen (bijv. de berichten die u op onze forums deelt). Als u onze functie voor spraakchat gebruikt en spraakrapportage is ingeschakeld in een spraakkanaal, worden fragmenten van audiogegevens van de spraakchat opgeslagen op uw apparaat en de apparaten van deelnemers aan het spraakkanaal. Als een schending van onze voorwaarden of beleidsregels (bijv. <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Communityregels</>) wordt gemeld, kunnen deze fragmenten worden doorgestuurd naar Epic om die gemelde schending te beoordelen en onze voorwaarden en beleidsregels te handhaven. Lees onze <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">veelgestelde vragen</> voor meer informatie over het bewaren van uw stem- en tekstchat. 
 
 • Wanneer u AI-functies gebruikt (bijv. Epic Developer Assistant), gebruiken we uw invoer (bijv. gegevens die u indient waarmee u kunt worden geïdentificeerd) om output te genereren (bijv. reacties waarmee u mogelijk kunt worden geïdentificeerd). 
 
@@ -149,7 +149,7 @@ Uw privacy-instellingen op platforms, websites en diensten van derden bepalen do
 <EULA.Header>4. WAAROM VERWERKEN WE GEGEVENS?</>
 
 We verwerken de gegevens die we verzamelen, hetzij individueel of in combinatie met andere gegevens zoals beschreven in dit beleid, voor de hieronder beschreven doeleinden. Als u zich in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland bevindt, worden de relevante rechtsgrondslagen hieronder tussen haakjes beschreven. Voor meer gegevens over rechtsgrondslagen, zie sectie 11 (Aanvullende kennisgeving voor personen gevestigd in de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland). 
-
+<br>
 • <EULA.Highlight>Om de diensten van Epic te leveren en te exploiteren</> (contractuele noodzaak of gerechtvaardigde belangen): Bijvoorbeeld, we kunnen uw gegevens gebruiken om uw Epic-account aan te maken en te onderhouden, u toegang te verlenen tot de diensten van Epic, inclusief het verifiëren van uw identiteit, functies van de diensten van Epic mogelijk te maken, inclusief cross-progressiefuncties die gameplay op verschillende platforms en AI-aangedreven functies mogelijk maken, uw transacties te voltooien en te beheren, uw voorkeuren op te slaan, onze voorwaarden en beleidsregels te handhaven, u op de hoogte te stellen van wijzigingen in onze voorwaarden en beleidsregels, en contact met u op te nemen over uw Epic-account, transacties, en andere servicegerelateerde berichten die nodig zijn voor het functioneren van de diensten van Epic.
 
 • <EULA.Highlight>Om de diensten van Epic te ondersteunen en te controleren</> (gerechtvaardigde belangen of contractuele noodzaak): We kunnen uw gegevens bijvoorbeeld gebruiken om te reageren op ondersteuningsverzoeken en algemene vragen die u ons hebt verzonden, en om crashes op te sporen en te melden.
@@ -427,15 +427,10 @@ Voor meer gegevens over hoe deze rechtsgrondslagen van toepassing zijn op versch
 Als u vragen of zorgen hebt over de diensten van Epic (bijv. problemen met betrekking tot een game, toegang tot uw Epic-account, bugs, betalingen, inhoud of rechten), neem dan contact op met het relevante ondersteuningskanaal via de onderstaande links.
 
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001636" style="EULA.Hyperlink">Fortnite</>
-
 <EULA.Highlight>•</> <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Rocket League</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Fall Guys</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001639" style="EULA.Hyperlink">Epic Games Store</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://dev.epicgames.com/community/fab" style="EULA.Hyperlink">Fab</>
-
 <EULA.Highlight>•</> <a id="url" href="https://www.unrealengine.com/support" style="EULA.Hyperlink">Unreal Engine</> 
 
 <EULA.Highlight>B.</> <EULA.Highlight>Verzoeken inzake privacy</> 
@@ -443,25 +438,15 @@ Als u vragen of zorgen hebt over de diensten van Epic (bijv. problemen met betre
 Als u meer wilt weten over onze privacypraktijken of dit beleid, of uw rechten als betrokkene wilt uitoefenen, stuur dan een e-mail naar privacy@support.epicgames.com of dpo@support.epicgames.com. U kunt ook contact met ons opnemen via e-mail of post (gemarkeerd als “Attn: Legal Department”) met behulp van de onderstaande contactgegevens voor de entiteit die verantwoordelijk is voor het leveren van de toepasselijke diensten van Epic.
 
 <EULA.Highlight>• Fortnite</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Entertainment International GmbH (voor niet-inwoners van de VS)
-
 <EULA.Highlight>• Rocket League</>: Psyonix LLC
-
 <EULA.Highlight>• Fall Guys</>: Epic Games, Inc.
-
 <EULA.Highlight>• Horizon Chase 2</>: Aquiris Games Studio LLC
-
 <EULA.Highlight>• Rock Band</>: Harmonix Music Systems, Inc.
-
 <EULA.Highlight>• Epic Games Store en</> <EULA.Highlight>Fab</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Commerce GmbH (voor niet-inwoners van de VS)
-
 <EULA.Highlight>• Unreal Engine en MetaHuman</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Commerce GmbH (voor niet-inwoners van de VS)
-
 <EULA.Highlight>• Unreal Editor For Fortnite</>: Epic Games, Inc. (voor inwoners van de VS) of Epic Games Entertainment International GmbH (voor niet-inwoners van de VS)
-
 <EULA.Highlight>• Postparty</>: Life on Air, Inc.
-
 <EULA.Highlight>• Onze websites en hun respectievelijke subdomeinen die een link naar dit beleid bevatten</>: Epic Games, Inc. 
-
 <EULA.Highlight>• Andere diensten van Epic</>: Raadpleeg de relevante algemene voorwaarden voor de licentieverlenende entiteit die is vermeld voor uw regio
 
 <EULA.Highlight>Contactinformatie</>

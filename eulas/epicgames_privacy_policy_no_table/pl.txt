@@ -1,12 +1,10 @@
-<EULA.Highlight>POLITYKA PRYWATNOŚCI EPIC GAMES</>
-
 Ostatnia aktualizacja: 22 kwietnia 2026 r.
 
 Witamy w Epic!
 
 Jeśli jesteś dzieckiem, zapoznaj się z <a id="url" href="https://legal.epicgames.com/epicgames/young-player-policy" style="EULA.Hyperlink">naszymi Informacjami o ochronie prywatności dla młodych graczy</>.
 
-Jeśli jesteś rodzicem/opiekunem dziecka, zapoznaj się <a id="url" href="#children" style="EULA.Hyperlink">z punktem 2 (W jaki sposób przetwarzamy dane dzieci?)</>.
+Jeśli jesteś rodzicem/opiekunem dziecka, zapoznaj się z <a id="url" href="#children" style="EULA.Hyperlink">punktem 2 (W jaki sposób przetwarzamy dane dzieci?)</>.
 
 Epic Games, Inc. ma siedzibę w Cary, w Karolinie Północnej. Biura nasze i naszych podmiotów zależnych znajdują się na całym świecie – tak samo jak działalność, którą prowadzimy, aby pomagać tworzyć i dostarczać Użytkownikowi jego ulubione produkty i usługi, w tym gry, takie jak Fortnite i narzędzia rozwojowe, takie jak Unreal Engine.
 
@@ -20,21 +18,23 @@ Termin „<EULA.Highlight>Epic</>” (lub wszelkie podobne terminy takie jak „
 
 Terminem „<EULA.Highlight>Usługi Epic</>” określamy wszelkie produkty lub usługi Epic, które są bezpośrednio związane z niniejszą Polityką, w tym. 
 
-• nasze gry (<a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">np. Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</>, <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</> i <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</>); 
+• nasze gry np. (<a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">Fortnite</>, <a id="url" href="https://www.rocketleague.com/" style="EULA.Hyperlink">Rocket League</>, <a id="url" href="https://fallguys.com/" style="EULA.Hyperlink">Fall Guys</> i <a id="url" href="https://horizonchase2.com/" style="EULA.Hyperlink">Horizon Chase 2</>); 
 
-• nasze rynki (<a id="url" href="https://store.epicgames.com" style="EULA.Hyperlink">np. Epic Games Store</> i <a id="url" href="https://www.fab.com/" style="EULA.Hyperlink">Fab</>);
+• nasze rynki np. (<a id="url" href="https://store.epicgames.com" style="EULA.Hyperlink">Epic Games Store</> i <a id="url" href="https://www.fab.com/" style="EULA.Hyperlink">Fab</>);
 
-• nasze narzędzia programistyczne (np. <a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</>, <a id="url" href="https://www.metahuman.com" style="EULA.Hyperlink">MetaHuman</> i <a id="url" href="https://store.epicgames.com/p/fortnite--uefn" style="EULA.Hyperlink">Unreal Editor dla Fortnite</>); 
+• nasze narzędzia programistyczne np. (<a id="url" href="https://www.unrealengine.com/" style="EULA.Hyperlink">Unreal Engine</>, <a id="url" href="https://www.metahuman.com" style="EULA.Hyperlink">MetaHuman</> i <a id="url" href="https://store.epicgames.com/p/fortnite--uefn" style="EULA.Hyperlink">Unreal Editor dla Fortnite</>); 
 
-• nasze aplikacje (np<a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">. Postparty</>); 
+• nasze aplikacje np. (<a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>); 
 
-• nasze strony internetowe i ich odpowiednie poddomeny (np. <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> i<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>); oraz 
+• nasze strony internetowe i ich odpowiednie poddomeny (np. <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</>, i <a id="url" href="http://www.fallguys.com" style="EULA.Hyperlink">www.fallguys.com</>); oraz 
 
 • wydarzenia na żywo, w których publikowana jest niniejsza polityka prywatności.
 
 Należy pamiętać, że korzystanie przez Użytkownika z Usług Epic może również podlegać dodatkowym warunkom. Na przykład musisz zapoznać się z <a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">Warunkami świadczenia usług Epic Games</> i zaakceptować je, aby grać w Fortnite, Rocket League, Fall Guys i Horizon Chase 2. 
 
-<EULA.Header><span id="children">2. W JAKI SPOSÓB PRZETWARZAMY DANE DZIECI?</span></>
+<span id="children">
+<EULA.Header>2. W JAKI SPOSÓB PRZETWARZAMY DANE DZIECI?</>
+</span>
 
 Projektujemy Usługi Epic tak, aby były przyjazne dla Użytkowników w każdym wieku na całym świecie. Oznacza to, że gromadzimy informacje o wieku od Użytkowników, a niektóre z Usług Epic zapewniają różne doświadczenia w zależności od tego, co wiemy o wieku Użytkownika i jego miejscu zamieszkania. Poniższe informacje są przeznaczone dla rodziców/opiekunów, aby mogli zrozumieć nasze praktyki dotyczące prywatności w odniesieniu do dzieci (poniżej 13. roku życia albo wieku udzielenia cyfrowej zgody w regionie Użytkownika, w zależności od tego, który wiek jest wyższy).
 
@@ -98,7 +98,7 @@ Użytkownik może postanowić podawać nam różnego rodzaju informacje w zależ
 
 • Po włączeniu uwierzytelniania dwuskładnikowego, w zależności od używanej metody uwierzytelniania, możemy gromadzić numer telefonu i adres e-mail Użytkownika, aby zabezpieczyć jego konto.
 
-• Podczas korzystania z funkcji społecznościowych, takich jak nasze fora lub czat, możemy zbierać informacje, które Użytkownik zdecyduje się udostępnić na nich lub za ich pośrednictwem (np. posty, które Użytkownik udostępnia na naszych forach). Jeśli Użytkownik korzysta z naszej funkcji czatu głosowego, a raportowanie głosowe jest włączone w kanale głosowym, fragmenty danych audio z czatu głosowego będą przechowywane na urządzeniu Użytkownika oraz na urządzeniach uczestników kanału głosowego. W przypadku zgłoszenia naruszenia naszych warunków lub zasad (np. <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Zasad społeczności),</> fragmenty te mogą zostać przesłane do Epic w celu weryfikacji zgłoszonego naruszenia i egzekwowania naszych warunków i zasad. Aby uzyskać więcej informacji na temat przechowywania przez nas czatu głosowego i tekstowego Użytkownika, należy zapoznać się z sekcją <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs#text-reporting" style="EULA.Hyperlink">Często zadawane pytania</>. 
+• Podczas korzystania z funkcji społecznościowych, takich jak nasze fora lub czat, możemy zbierać informacje, które Użytkownik zdecyduje się udostępnić na nich lub za ich pośrednictwem (np. posty, które Użytkownik udostępnia na naszych forach). Jeśli Użytkownik korzysta z naszej funkcji czatu głosowego, a raportowanie głosowe jest włączone w kanale głosowym, fragmenty danych audio z czatu głosowego będą przechowywane na urządzeniu Użytkownika oraz na urządzeniach uczestników kanału głosowego. W przypadku zgłoszenia naruszenia naszych warunków lub zasad (np. <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Zasad społeczności),</> fragmenty te mogą zostać przesłane do Epic w celu weryfikacji zgłoszonego naruszenia i egzekwowania naszych warunków i zasad. Aby uzyskać więcej informacji na temat przechowywania przez nas czatu głosowego i tekstowego Użytkownika, należy zapoznać się z sekcją <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">Często zadawane pytania</>. 
 
 • Gdy Użytkownik korzysta z funkcji opartych na sztucznej inteligencji (np. Epic Developer Assistant), wykorzystujemy jego dane wejściowe (np. przesłane przez niego informacje, które mogą umożliwić identyfikację Użytkownika) do generowania wyników (np. odpowiedzi, które mogą identyfikować Użytkownika). 
 
@@ -149,26 +149,26 @@ Ustawienia prywatności Użytkownika na platformach, stronach internetowych i us
 <EULA.Header>4. DLACZEGO PRZETWARZAMY INFORMACJE?</>
 
 Gromadzone przez nas informacje przetwarzamy indywidualnie lub w połączeniu z innymi informacjami opisanymi w niniejszej Polityce w celach opisanych poniżej. Jeśli Użytkownik znajduje się w Europejskim Obszarze Gospodarczym, Wielkiej Brytanii lub Szwajcarii, odpowiednie podstawy prawne są określone w nawiasach poniżej. Więcej informacji na temat podstaw prawnych można znaleźć w punkcie 11 (Dodatkowe powiadomienie dla osób fizycznych zlokalizowanych w Europejskim Obszarze Gospodarczym, Wielkiej Brytanii lub Szwajcarii). 
-
-<EULA.Highlight>• Aby świadczyć i obsługiwać Usługi Epic (</>konieczność wynikająca z umowy lub uzasadnione interesy): Przykładowo: możemy wykorzystywać dane Użytkownika do tworzenia i utrzymywania jego konta Epic, udzielenia dostępu do Usług Epic, w tym weryfikacji jego tożsamości, włączenia funkcji Usług Epic, w tym funkcji progresywnych, które umożliwiają rozgrywkę na różnych platformach i funkcji opartych na sztucznej inteligencji, dokonywania i zarządzania transakcjami, zapisywania jego preferencji, egzekwowania naszych warunków i zasad, powiadamiania o zmianach w naszych warunkach i politykach, i kontaktowania się z Użytkownikiem w sprawie jego konta Epic, transakcji oraz innych wiadomości związanych z usługami, niezbędnych do działania Usług Epic.
+<br>
+• <EULA.Highlight> Aby świadczyć i obsługiwać Usługi Epic</> (konieczność wynikająca z umowy lub uzasadnione interesy): Przykładowo: możemy wykorzystywać dane Użytkownika do tworzenia i utrzymywania jego konta Epic, udzielenia dostępu do Usług Epic, w tym weryfikacji jego tożsamości, włączenia funkcji Usług Epic, w tym funkcji progresywnych, które umożliwiają rozgrywkę na różnych platformach i funkcji opartych na sztucznej inteligencji, dokonywania i zarządzania transakcjami, zapisywania jego preferencji, egzekwowania naszych warunków i zasad, powiadamiania o zmianach w naszych warunkach i politykach, i kontaktowania się z Użytkownikiem w sprawie jego konta Epic, transakcji oraz innych wiadomości związanych z usługami, niezbędnych do działania Usług Epic.
 
 • <EULA.Highlight>Aby wspierać i monitorować Usługi Epic</> (uzasadnione interesy lub konieczność wynikająca z umowy): Przykładowo: możemy wykorzystywać dane Użytkownika do odpowiadania na prośby o wsparcie i ogólne zapytania wysyłane przez niego oraz wykrywania i zgłaszania awarii.
 
 • <EULA.Highlight>Aby zabezpieczyć i chronić Usługi Epic i innych</> (uzasadnione interesy, konieczność wynikająca z umowy lub zobowiązania prawne): Możemy na przykład wykorzystywać dane Użytkownika w celu wykrywania i zapobiegania oszustwom, niezgodnościom, włamaniom, kradzieżom kont, nadużyciom i innym nieautoryzowanym działaniom w Usługach Epic oraz ochrony praw, własności i bezpieczeństwa Epic, naszych Użytkowników i innych osób.
 
-<EULA.Highlight>• Aby moderować Usługi Epic</> (uzasadnione interesy, zobowiązania prawne lub konieczność wynikająca z umowy): Przykładowo: możemy wykorzystywać dane Użytkownika do wykrywania, moderowania i reagowania na zgłoszone nielegalne, szkodliwe, toksyczne i oszukańcze treści i zachowania, które naruszają obowiązujące przepisy prawa lub nasze warunki i polityki.
+• <EULA.Highlight> Aby moderować Usługi Epic</> (uzasadnione interesy, zobowiązania prawne lub konieczność wynikająca z umowy): Przykładowo: możemy wykorzystywać dane Użytkownika do wykrywania, moderowania i reagowania na zgłoszone nielegalne, szkodliwe, toksyczne i oszukańcze treści i zachowania, które naruszają obowiązujące przepisy prawa lub nasze warunki i polityki.
 
-<EULA.Highlight>• Aby rozwijać Usługi Epic</> (uzasadnione interesy): Przykładowo: możemy wykorzystywać dane Użytkownika do zarządzania testami alfa, beta i wczesnym dostępem oraz do zbierania informacji zwrotnych. 
+• <EULA.Highlight> Aby rozwijać Usługi Epic</> (uzasadnione interesy): Przykładowo: możemy wykorzystywać dane Użytkownika do zarządzania testami alfa, beta i wczesnym dostępem oraz do zbierania informacji zwrotnych. 
 
 • <EULA.Highlight>Aby zrozumieć i udoskonalić Usługi Epic</> (uzasadnione interesy): Możemy na przykład wykorzystywać dane Użytkownika do analizowania korzystania przez niego z Usług Epic, wspierania audytów i ulepszania funkcji, technologii i procesów, w tym poprzez szkolenie technologii uczenia maszynowego w celu wykrywania i łagodzenia nielegalnych, szkodliwych, toksycznych i nieuczciwych zachowań i treści naruszających obowiązujące przepisy prawa lub nasze warunki i polityki.
 
 • <EULA.Highlight>Aby spersonalizować Usługi Epic</> (zgoda lub uzasadnione interesy): Możemy na przykład wykorzystywać dane Użytkownika do prezentowania treści, funkcji i rekomendacji dostosowanych do Użytkownika lub wywnioskowanych z jego aktywności, w tym poprzez sugerowanie gier, Wysp, przedmiotów i poziomów gier, a także w celu ulepszenia technologii uczenia maszynowego, które pomagają dostarczać te spersonalizowane rekomendacje. Więcej informacji na temat tych zaleceń można znaleźć <a id="url" href="https://legal.epicgames.com/epicgames/recommendations" style="EULA.Hyperlink">tutaj</>. 
 
-<EULA.Highlight>• Promowanie Usług Epic (</>zgody lub uzasadnione interesy): Na przykład możemy wykorzystywać dane Użytkownika do zarządzania, dostosowywania i mierzenia skuteczności naszych reklam, ofert promocyjnych, ankiet i wydarzeń.
+• <EULA.Highlight> Promowanie Usług Epic (</>zgody lub uzasadnione interesy): Na przykład możemy wykorzystywać dane Użytkownika do zarządzania, dostosowywania i mierzenia skuteczności naszych reklam, ofert promocyjnych, ankiet i wydarzeń.
 
 • <EULA.Highlight>W celu ułatwienia transakcji korporacyjnych</> (uzasadnione interesy): Przykładowo: możemy przekazać dane Użytkownika w ramach naszej grupy korporacyjnej w przypadku restrukturyzacji firmy oraz firmie zewnętrznej w związku ze sprzedażą, fuzją, zbyciem, restrukturyzacją, reorganizacją, rozwiązaniem, upadłością, likwidacją lub innym przeniesieniem niektórych lub wszystkich naszych aktywów lub inną podobną działalnością korporacyjną.
 
-<EULA.Highlight>• W celu ustalenia i obrony roszczeń prawnych</> (uzasadnione interesy lub zobowiązania prawne): Przykładowo: jeśli Użytkownik wniesie przeciwko nam roszczenie prawne, możemy wykorzystać dane Użytkownika do zbadania i odpowiedzi na to roszczenie oraz obrony, a w przypadku wykrycia niewłaściwego korzystania z Usług Epic możemy wykorzystać dane Użytkownika do ustalenia i dochodzenia naszych roszczeń prawnych.
+• <EULA.Highlight> W celu ustalenia i obrony roszczeń prawnych</> (uzasadnione interesy lub zobowiązania prawne): Przykładowo: jeśli Użytkownik wniesie przeciwko nam roszczenie prawne, możemy wykorzystać dane Użytkownika do zbadania i odpowiedzi na to roszczenie oraz obrony, a w przypadku wykrycia niewłaściwego korzystania z Usług Epic możemy wykorzystać dane Użytkownika do ustalenia i dochodzenia naszych roszczeń prawnych.
 
 • <EULA.Highlight>Aby zachować zgodność z obowiązującymi przepisami prawa, regulacjami i procesami prawnymi</> (zobowiązania prawne): Na przykład możemy wykorzystywać dane Użytkownika do odpowiadania na ważne wnioski organów ścigania i organów rządowych, w tym wezwania sądowe, nakazy sądowe i nakazy przeszukania; możemy również wykorzystać datę urodzenia Użytkownika w celu ułatwienia przestrzegania przepisów dotyczących ochrony młodzieży. 
 
@@ -427,15 +427,10 @@ Więcej informacji na temat tego, w jaki sposób te podstawy prawne mają zastos
 W przypadku pytań lub wątpliwości dotyczących Usług Epic (np. problemów związanych z grą, dostępu do konta Epic, błędów, płatności, treści lub uprawnień) należy skontaktować się z odpowiednim kanałem pomocy technicznej za pośrednictwem poniższych łączy.
 
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001636" style="EULA.Hyperlink">Fortnite</>
-
 <EULA.Highlight>•</> <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Rocket League</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Fall Guys</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001639" style="EULA.Hyperlink">Epic Games Store</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://dev.epicgames.com/community/fab" style="EULA.Hyperlink">Fab</>
-
 <EULA.Highlight>•</> <a id="url" href="https://www.unrealengine.com/support" style="EULA.Hyperlink">Unreal Engine</> 
 
 <EULA.Highlight>B.</> <EULA.Highlight>Wnioski dotyczące ochrony prywatności</> 
@@ -443,25 +438,15 @@ W przypadku pytań lub wątpliwości dotyczących Usług Epic (np. problemów zw
 Jeśli chcesz dowiedzieć się więcej o naszych praktykach w zakresie prywatności lub niniejszej Polityce lub skorzystać z praw przysługujących osobom, których dane dotyczą, wyślij wiadomość e-mail na adres privacy@support.epicgames.com lub dpo@support.epicgames.com. Możesz również skontaktować się z nami za pośrednictwem poczty elektronicznej lub pocztowej (oznaczonej „Do wiadomości: Dział prawny”) korzystając z podanych poniżej danych kontaktowych podmiotu odpowiedzialnego za świadczenie odpowiednich Usług Epic.
 
 <EULA.Highlight>• Fortnite</>: Epic Games, Inc. (dla mieszkańców USA) lub Epic Games Entertainment International GmbH (dla mieszkańców spoza USA)
-
 <EULA.Highlight>• Rocket League</>: Psyonix LLC
-
 <EULA.Highlight>• Fall Guys</>: Epic Games, Inc.
-
 <EULA.Highlight>• Horizon Chase 2</>: Aquiris Game Studio LLC
-
 <EULA.Highlight>• Rock Band</>: Harmonix Music Systems, Inc.
-
 <EULA.Highlight>• Epic Games Store i</> <EULA.Highlight>Fab</>: Epic Games, Inc. (dla mieszkańców USA) lub Epic Games Commerce GmbH (dla mieszkańców spoza USA)
-
 <EULA.Highlight>• Silnik Unreal Engine i MetaHuman</>: Epic Games, Inc. (dla mieszkańców USA) lub Epic Games Commerce GmbH (dla mieszkańców spoza USA)
-
 <EULA.Highlight>• Unreal Editor For Fortnite</>: Epic Games, Inc. (dla mieszkańców USA) lub Epic Games Entertainment International GmbH (dla mieszkańców spoza USA)
-
 <EULA.Highlight>• Postparty</>: Life on Air Inc.
-
 <EULA.Highlight>• Nasze strony internetowe i ich odpowiednie poddomeny, które zawierają linki do niniejszej Polityki</>: Epic Games, Inc. 
-
 <EULA.Highlight>• Inne Usługi Epic</>: Zapoznaj się z odpowiednimi warunkami dla podmiotu licencjonującego wymienionego w Twoim regionie
 
 <EULA.Highlight>Dane kontaktowe</>

@@ -31,9 +31,11 @@ Utilizziamo il termine “<EULA.Highlight>Servizi Epic</>” per descrivere qual
 • eventi dal vivo in cui viene pubblicata la presente Informativa.
 
 Si noti che l’utilizzo dei Servizi Epic è anche soggetto a termini e condizioni aggiuntivi. Ad esempio, per giocare a Fortnite, Rocket League, Fall Guys e Horizon Chase 2, è necessario esaminare e accettare i <a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">Termini di servizio di Epic Games</>.
+
 <span id="children">
 <EULA.Header>2. COME TRATTIAMO LE INFORMAZIONI DEI MINORI?</>
 </span>
+
 Progettiamo i Servizi Epic in modo che siano attraenti per gli utenti di tutte le età in tutto il mondo. Ciò significa che raccogliamo informazioni sull’età degli utenti e che alcuni Servizi Epic forniranno un’esperienza diversa in base a ciò che sappiamo sull’età dell’utente e sul luogo in cui vive. Le informazioni che seguono sono destinate a consentire ai genitori e ai tutori di comprendere le nostre pratiche in materia di privacy in relazione ai minori (di età inferiore a 13 anni o all’età del consenso digitale nella regione dell’utente, a seconda di quale sia più elevata).
 
 Quando un utente indica di essere un minore, viene inserito in un “<EULA.Highlight>Account limitato</>” fino a quando non cessa di essere un minore come sopra definito oppure fino a quando il genitore o tutore non fornisce ulteriori autorizzazioni in materia di privacy e abilita i controlli parentali. Gli Account limitati possono utilizzare i giochi di Epic (ad esempio, Fortnite, Rocket League o Fall Guys), ma funzionalità come la chat vocale e gli acquisti con denaro reale sono disabilitate. Epic raccoglie dati personali limitati dagli Account limitati per gestirli, in ogni caso nel rispetto delle normative applicabili in materia di privacy e protezione dei minori:
@@ -147,7 +149,7 @@ Le impostazioni sulla privacy delle piattaforme, dei siti web e dei servizi di t
 <EULA.Header>4. PERCHÉ TRATTIAMO I DATI?</>
 
 Trattiamo le informazioni raccolte, singolarmente o in combinazione con altre come descritto nella presente Informativa, per le finalità di seguito indicate. Se l’utente risiede nello Spazio economico europeo, nel Regno Unito o in Svizzera, le basi giuridiche pertinenti sono indicate tra parentesi di seguito. Per ulteriori informazioni sulle basi giuridiche su cui facciamo affidamento, consultare la Sezione 11 (Informativa aggiuntiva per le persone situate nello Spazio economico europeo, nel Regno Unito o in Svizzera).
-
+<br>
 • <EULA.Highlight>Per fornire e gestire i Servizi Epic</> (necessità contrattuali o interessi legittimi): Ad esempio, possiamo utilizzare le informazioni dell’utente per creare e mantenere il suo account Epic, consentirgli l’accesso ai Servizi Epic, compresa la verifica dell’identità, abilitare funzionalità dei Servizi Epic, comprese le funzionalità di progressione incrociata che consentono di giocare su più piattaforme e le funzionalità basate su IA, completare e gestire le transazioni, salvare le preferenze dell’utente, far rispettare i nostri termini e le nostre policy, notificare eventuali modifiche ai termini e alle policy e contattare l’utente in merito all’account Epic, alle transazioni e ad altri messaggi di servizio necessari per il funzionamento dei Servizi Epic.
 
 • <EULA.Highlight>Per supportare e monitorare i Servizi Epic</> (interessi legittimi o necessità contrattuali): Ad esempio, possiamo utilizzare le informazioni dell’utente per rispondere a richieste di supporto e a domande generali inviate dall’utente, nonché per rilevare e segnalare arresti anomali.

@@ -1,5 +1,3 @@
-<EULA.Highlight>นโยบายความเป็นส่วนตัวของ EPIC GAMES</>
-
 ปรับปรุงครั้งล่าสุด: 22 เมษายน 2026
 
 ยินดีต้อนรับสู่ Epic!
@@ -28,14 +26,15 @@ Epic Games, Inc. มีสำนักงานใหญ่อยู่ที่
 
 • แอปพลิเคชันของเรา (เช่น <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>) 
 
-• เว็บไซต์ของเราและโดเมนย่อยของแต่ละเว็บไซต์ (เช่น <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> และ<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>) และ 
+• เว็บไซต์ของเราและโดเมนย่อยของแต่ละเว็บไซต์ (เช่น <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> และ <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>) และ 
 
 • งานกิจกรรมไลฟ์สดที่มีการประกาศนโยบายฉบับนี้
 
 โปรดทราบว่าการใช้บริการของ Epic ของคุณยังอยู่ภายใต้ข้อกำหนดและเงื่อนไขเพิ่มเติม ตัวอย่างเช่น คุณต้องอ่านและยอมรับ<a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">ข้อกำหนดการให้บริการของ Epic Games</> เพื่อเล่น Fortnite, Rocket League, Fall Guys และ Horizon Chase 2 
 
-<span id="children"></span>
+<span id="children">
 <EULA.Header>2. เราประมวลผลข้อมูลของเด็กอย่างไร</>
+</span>
 
 เราออกแบบบริการของ Epic ให้เป็นมิตรกับผู้ใช้ทุกช่วงอายุทั่วโลก ซึ่งหมายความว่าเราจะเก็บรวบรวมข้อมูลอายุจากผู้ใช้ และบริการบางส่วนของ Epic จะนำเสนอประสบการณ์ที่ต่างกันออกไปตามกลุ่มอายุและตำแหน่งที่อยู่ของผู้ใช้ที่เราทราบ ข้อมูลด้านล่างจะเป็นข้อมูลสำหรับบิดามารดา/ผู้ปกครอง เพื่อให้เข้าใจหลักปฏิบัติด้านความเป็นส่วนตัวของเราเกี่ยวกับเด็ก (อายุต่ำกว่า 13 ปี หรือมีอายุตามเกณฑ์ที่สามารถให้ความยินยอมในรูปแบบดิจิทัลได้ในภูมิภาคของผู้ใช้ ขึ้นอยู่กับว่าอายุใดเกณฑ์ใดสูงกว่ากัน)
 
@@ -99,7 +98,7 @@ Epic Games, Inc. มีสำนักงานใหญ่อยู่ที่
 
 • เมื่อคุณเปิดใช้งานการยืนยันตัวตนแบบสองขั้นตอน เราอาจเก็บรวบรวมหมายเลขโทรศัพท์และที่อยู่อีเมลของคุณเพื่อช่วยรักษาความปลอดภัยให้กับบัญชีของคุณ ทั้งนี้ขึ้นอยู่กับวิธีการยืนยันตัวตนที่คุณใช้ 
 
-• เมื่อคุณใช้คุณลักษณะทางสังคม เช่น ฟอรัมหรือแชทของเรา เราอาจเก็บรวบรวมข้อมูลที่คุณเลือกแบ่งปันผ่านช่องทางเหล่านั้น (เช่น โพสต์ที่คุณแชร์บนฟอรัมของเรา) เมื่อเปิดใช้คุณลักษณะการแชทด้วยเสียงและการรายงานด้วยเสียงในช่องทางการสื่อสารด้วยเสียง ข้อมูลเสียงบางส่วนจะถูกจัดเก็บไว้บนอุปกรณ์ของคุณและอุปกรณ์ของผู้เข้าร่วมในช่องทางการสื่อสารด้วยเสียง หากมีการรายงานว่ามีการละเมิดข้อกำหนดหรือนโยบายของเรา (เช่น <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">กฎเกณฑ์ของชุมชน</>) ข้อมูลเหล่านี้อาจถูกส่งไปยัง Epic เพื่อตรวจสอบการละเมิดตามที่มีการรายงานและบังคับใช้ข้อกำหนดและนโยบายของเรา สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเก็บรักษาแชทด้วยเสียงและข้อความของคุณ โปรดอ่าน<a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs#text-reporting" style="EULA.Hyperlink">คำถามที่พบบ่อย</> 
+• เมื่อคุณใช้คุณลักษณะทางสังคม เช่น ฟอรัมหรือแชทของเรา เราอาจเก็บรวบรวมข้อมูลที่คุณเลือกแบ่งปันผ่านช่องทางเหล่านั้น (เช่น โพสต์ที่คุณแชร์บนฟอรัมของเรา) เมื่อเปิดใช้คุณลักษณะการแชทด้วยเสียงและการรายงานด้วยเสียงในช่องทางการสื่อสารด้วยเสียง ข้อมูลเสียงบางส่วนจะถูกจัดเก็บไว้บนอุปกรณ์ของคุณและอุปกรณ์ของผู้เข้าร่วมในช่องทางการสื่อสารด้วยเสียง หากมีการรายงานว่ามีการละเมิดข้อกำหนดหรือนโยบายของเรา (เช่น <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">กฎเกณฑ์ของชุมชน</>) ข้อมูลเหล่านี้อาจถูกส่งไปยัง Epic เพื่อตรวจสอบการละเมิดตามที่มีการรายงานและบังคับใช้ข้อกำหนดและนโยบายของเรา สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการเก็บรักษาแชทด้วยเสียงและข้อความของคุณ โปรดอ่าน<a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">คำถามที่พบบ่อย</> 
 
 • เมื่อคุณใช้คุณลักษณะที่ขับเคลื่อนด้วย AI (เช่น Epic Developer Assistant) เราจะใช้ข้อมูลที่คุณป้อน (เช่น ข้อมูลที่คุณส่งซึ่งอาจมีข้อมูลที่ระบุตัวตนของคุณได้) เพื่อสร้างผลลัพธ์ (เช่น การตอบกลับที่อาจระบุตัวตนคุณ) 
 
@@ -428,15 +427,10 @@ Epic จะไม่ขายข้อมูลส่วนบุคคลที
 หากคุณมีคำถามหรือข้อกังวลเกี่ยวกับบริการของ Epic (เช่น ปัญหาที่เกี่ยวข้องกับเกม การเข้าถึงบัญชี Epic ของคุณ ข้อบกพร่อง การชำระเงิน เนื้อหา หรือสิทธิการใช้งาน) โปรดติดต่อช่องทางสนับสนุนที่เกี่ยวข้องผ่านลิงก์ที่ให้ไว้ด้านล่าง
 
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001636" style="EULA.Hyperlink">Fortnite</>
-
 <EULA.Highlight>•</> <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Rocket League</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Fall Guys</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001639" style="EULA.Hyperlink">Epic Games Store</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://dev.epicgames.com/community/fab" style="EULA.Hyperlink">Fab</>
-
 <EULA.Highlight>•</> <a id="url" href="https://www.unrealengine.com/support" style="EULA.Hyperlink">Unreal Engine</> 
 
 <EULA.Highlight>ข.</> <EULA.Highlight>คำขอด้านความเป็นส่วนตัว</> 
@@ -444,25 +438,15 @@ Epic จะไม่ขายข้อมูลส่วนบุคคลที
 หากคุณต้องการเรียนรู้เพิ่มเติมเกี่ยวกับแนวทางปฏิบัติเกี่ยวกับความเป็นส่วนตัวของเราหรือเกี่ยวกับนโยบายฉบับนี้ หรือเพื่อใช้สิทธิของคุณในฐานะเจ้าของข้อมูล โปรดส่งอีเมลไปที่ privacy@support.epicgames.com หรือ dpo@support.epicgames.com นอกจากนี้ คุณยังสามารถติดต่อเราผ่านทางอีเมลหรือจดหมายไปรษณีย์ (ระบุว่า “Attn: Legal Department”) โดยใช้ข้อมูลการติดต่อที่ระบุด้านล่างของหน่วยงานที่รับผิดชอบในการให้บริการ Epic ที่เกี่ยวข้อง
 
 <EULA.Highlight>• Fortnite</>: Epic Games, Inc. (สำหรับผู้พำนักอาศัยในสหรัฐอเมริกา) หรือ Epic Games Entertainment International GmbH (สำหรับผู้พำนักอาศัยนอกสหรัฐอเมริกา)
-
 <EULA.Highlight>• Rocket League</>: Psyonix LLC
-
 <EULA.Highlight>• Fall Guys</>: Epic Games, Inc.
-
 <EULA.Highlight>• Horizon Chase 2</>: Aquiris Game Studio LLC
-
 <EULA.Highlight>• Rock Band</>: Harmonix Music Systems, Inc.
-
 <EULA.Highlight>• Epic Games Store and</> <EULA.Highlight>Fab</>: Epic Games, Inc. (สำหรับผู้พำนักอาศัยในสหรัฐอเมริกา) หรือ Epic Games Commerce GmbH (สำหรับผู้พำนักอาศัยนอกสหรัฐอเมริกา)
-
 <EULA.Highlight>• Unreal Engine และ MetaHuman</>: Epic Games, Inc. (สำหรับผู้พำนักอาศัยในสหรัฐอเมริกา) หรือ Epic Games Commerce GmbH (สำหรับผู้พำนักอาศัยนอกสหรัฐอเมริกา)
-
 <EULA.Highlight>• Unreal Editor For Fortnite</>: Epic Games, Inc. (สำหรับผู้พำนักอาศัยในสหรัฐอเมริกา) หรือ Epic Games Entertainment International GmbH (สำหรับผู้พำนักอาศัยนอกสหรัฐอเมริกา)
-
 <EULA.Highlight>• Postparty</>: Life on Air Inc.
-
 <EULA.Highlight>• เว็บไซต์ของเราและซับโดเมนของเว็บไซต์ที่เชื่อมโยงกับนโยบายนี้</>: Epic Games, Inc. 
-
 <EULA.Highlight>• บริการอื่น ๆ ของ Epic</>: โปรดดูข้อกำหนดและเงื่อนไขที่เกี่ยวข้องสำหรับหน่วยงานที่ให้สิทธิใช้งานในภูมิภาคของคุณ
 
 <EULA.Highlight>ข้อมูลการติดต่อ</>

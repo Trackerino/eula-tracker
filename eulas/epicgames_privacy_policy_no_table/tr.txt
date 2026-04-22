@@ -1,5 +1,3 @@
-<EULA.Highlight>EPIC GAMES GİZLİLİK POLİTİKASI</>
-
 Son Güncelleme: Nisan 22, 2026
 
 Epic’e Hoş Geldiniz!
@@ -28,14 +26,15 @@ Bu Politikaya doğrudan bağlantı sağlayan aşağıdakiler dâhil herhangi bir
 
 • uygulamalarımız (ör. <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>); 
 
-• web sitelerimiz ve ilgili alt alanları (ör. <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> ve<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>) ve 
+• web sitelerimiz ve ilgili alt alanları (ör. <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</>, ve <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>) ve 
 
 • bu Politikanın yayınlandığı canlı etkinlikler.
 
 Epic Hizmetlerini kullanmanızın ek hükümlere ve koşullara da tabi olduğunu belirtmek isteriz. Örneğin, Fortnite, Rocket League, Fall Guys ve Horizon Chase 2 oynamak için <a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">Epic Games Hizmet Koşullarını</> incelemek ve kabul etmek zorundasınız. 
 
-<span id="children"></span>
+<span id="children">
 <EULA.Header>2. ÇOCUKLARIN BİLGİLERİNİ NASIL İŞLERİZ?</>
+</span>
 
 Epic Hizmetlerini dünyanın her yerindeki her yaştan kullanıcıyı kucaklayacak şekilde tasarlıyoruz. Bu, kullanıcılardan yaş bilgileri topladığımız anlamına gelmektedir ve bazı Epic Hizmetleri bir kullanıcının yaşı ve nerede yaşadığı hakkında bildiklerimiz temelinde farklı bir deneyim sağlayacaktır. Aşağıdaki bilgiler, ebeveynlerin/vasilerin çocuklarla (13 yaşının veya kullanıcının bölgesinde dijital izin yaşının altında, hangisi daha yüksekse) ilgili gizlilik uygulamalarımızı anlamaları içindir.
 
@@ -99,7 +98,7 @@ Epic Hizmetlerini nasıl kullandığınıza bağlı olarak bize üç değişik t
 
 • İki faktörlü kimlik doğrulamayı etkinleştirdiğiniz zaman kullandığınız kimlik doğrulama yöntemine bağlı olarak hesabınızın güvenliğini sağlamak için telefon numaranızı ve e-posta adresinizi toplayabiliriz.
 
-• Forumlarımız veya sohbetimiz gibi sosyal özellikleri kullandığınız zaman bunlarda veya bunlar üzerinden paylaşmayı seçtiğiniz bilgileri toplayabiliriz (ör. forumlarımızda paylaştığınız paylaşımlar). Sesli sohbet özelliğimizi kullandığınız zaman ve bir ses kanalında ses raporlama etkin ise cihazınızda ve ses kanalındaki katılımcıların cihazlarında sesli sohbet parçacıkları depolanır. Koşullarımızın veya politikalarımızın (ör. <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Topluluk Kuralları</>) bir ihlali bildirildiği takdirde bildirilen ihlali incelemek ve koşullarımızı ve politikalarımızı yürürlüğe koymak için bu parçacıklar Epic’e iletilebilir. Sesli ve yazılı sohbetlerinizi saklama süremiz hakkında daha fazla bilgi için lütfen <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs#text-reporting" style="EULA.Hyperlink">SSS</> bölümümüzü okuyun. 
+• Forumlarımız veya sohbetimiz gibi sosyal özellikleri kullandığınız zaman bunlarda veya bunlar üzerinden paylaşmayı seçtiğiniz bilgileri toplayabiliriz (ör. forumlarımızda paylaştığınız paylaşımlar). Sesli sohbet özelliğimizi kullandığınız zaman ve bir ses kanalında ses raporlama etkin ise cihazınızda ve ses kanalındaki katılımcıların cihazlarında sesli sohbet parçacıkları depolanır. Koşullarımızın veya politikalarımızın (ör. <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Topluluk Kuralları</>) bir ihlali bildirildiği takdirde bildirilen ihlali incelemek ve koşullarımızı ve politikalarımızı yürürlüğe koymak için bu parçacıklar Epic’e iletilebilir. Sesli ve yazılı sohbetlerinizi saklama süremiz hakkında daha fazla bilgi için lütfen <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">SSS</> bölümümüzü okuyun. 
 
 • Yapay zekâ destekli özellikleri (ör. Epic Geliştirici Asistanı) kullandığınız zaman çıktılar (ör. sizi tanımlayabilecek yanıtlar) oluşturmak için girdilerinizi (ör. sizi tanımlayabilecek olan sizin verdiğiniz bilgiler) kullanırız. 
 
@@ -428,15 +427,10 @@ Bu yasal temellerin farklı işleme amaçları için nasıl geçerli olduğu hak
 Epic Hizmetleri hakkında sorularınız veya endişeleriniz varsa (ör. bir oyunla ilgili sorunlar, Epic hesabınıza erişim, hatalar, ödemeler, içerik veya haklar) lütfen aşağıda sağlanan bağlantılar üzerinden ilgili destek kanalı ile iletişime geçin.
 
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001636" style="EULA.Hyperlink">Fortnite</>
-
 <EULA.Highlight>•</> <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Rocket League</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Fall Guys</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001639" style="EULA.Hyperlink">Epic Games Store</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://dev.epicgames.com/community/fab" style="EULA.Hyperlink">Fab</>
-
 <EULA.Highlight>•</> <a id="url" href="https://www.unrealengine.com/support" style="EULA.Hyperlink">Unreal Engine</> 
 
 <EULA.Highlight>B.</> <EULA.Highlight>Gizlilik Talepleri</> 
@@ -444,25 +438,15 @@ Epic Hizmetleri hakkında sorularınız veya endişeleriniz varsa (ör. bir oyun
 Gizlilik uygulamalarımız veya bu Politika hakkında daha fazla bilgi edinmek veya veri sahibi haklarınızı kullanmak isterseniz lütfen privacy@support.epicgames.com veya dpo@support.epicgames.com adresine e-posta gönderin. Ayrıca, geçerli Epic Hizmetlerini sağlamaktan sorumlu olan kuruluş için aşağıda belirtilen iletişim bilgilerini kullanarak e-posta veya posta ile de (“İlgi: Hukuk Departmanı” şeklinde işaretlenmiş olarak) bizimle iletişime geçebilirsiniz.
 
 <EULA.Highlight>• Fortnite</>: Epic Games, Inc. (ABD mukimleri için) veya Epic Games Entertainment International GmbH (ABD mukimi olmayanlar için)
-
 <EULA.Highlight>• Rocket League</>: Psyonix LLC
-
 <EULA.Highlight>• Fall Guys</>: Epic Games, Inc.
-
 <EULA.Highlight>• Horizon Chase 2</>: Aquiris Game Studio LLC
-
 <EULA.Highlight>• Rock Band</>: Harmonix Music Systems, Inc.
-
 <EULA.Highlight>• Epic Games Store ve</> <EULA.Highlight>Fab</>: Epic Games, Inc. (ABD mukimleri için) veya Epic Games Commerce GmbH (ABD mukimi olmayanlar için)
-
 <EULA.Highlight>• Unreal Engine ve MetaHuman</>: Epic Games, Inc. (ABD mukimleri için) veya Epic Games Commerce GmbH (ABD mukimi olmayanlar için)
-
 <EULA.Highlight>• Unreal Editor For Fortnite</>: Epic Games, Inc. (ABD mukimleri için) veya Epic Games Entertainment International GmbH (ABD mukimi olmayanlar için)
-
 <EULA.Highlight>• Postparty</>: Life on Air Inc.
-
 <EULA.Highlight>• Web sitelerimiz ve onların bu Politikaya bağlantı veren kendi alt alanları</>: Epic Games, Inc. 
-
 <EULA.Highlight>• Diğer Epic Hizmetleri</>: Lütfen, bölgenizde belirtilen lisanslama kuruluşunun ilgili hüküm ve koşullara bakın
 
 <EULA.Highlight>İletişim Bilgisi</>

@@ -1,5 +1,3 @@
-<EULA.Highlight>ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ EPIC GAMES</>
-
 Последнее обновление: 22 апреля 2026 г.
 
 Добро пожаловать в Epic!
@@ -28,14 +26,15 @@
 
 • наши приложения (например, <a id="url" href="https://postparty.gg/" style="EULA.Hyperlink">Postparty</>); 
 
-• наши веб-сайты и их соответствующие поддомены (например, <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> и<a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>); и 
+• наши веб-сайты и их соответствующие поддомены (например, <a id="url" href="http://www.epicgames.com" style="EULA.Hyperlink">www.epicgames.com</>, <a id="url" href="https://www.fortnite.com/" style="EULA.Hyperlink">www.fortnite.com</>, <a id="url" href="http://www.rocketleague.com/" style="EULA.Hyperlink">www.rocketleague.com</> и <a id="url" href="http://www.fallguys.com/" style="EULA.Hyperlink">www.fallguys.com</>); и 
 
 • мероприятия в реальном времени, на которых публикуется настоящая политика конфиденциальности.
 
 Обращаем ваше внимание на то, что порядок использования Сервисов Epic может регулироваться дополнительными условиями и положениями. Например, вы должны ознакомиться с <a id="url" href="https://legal.epicgames.com/epicgames/tos/preview" style="EULA.Hyperlink">Условиями обслуживания Epic Games</> и принять их, чтобы сыграть в Fortnite, Rocket League, Fall Guys и Horizon Chase 2. 
 
-<span id="children"></span>
+<span id="children">
 <EULA.Header>2. КАК МЫ ОБРАБАТЫВАЕМ ИНФОРМАЦИЮ О ДЕТЯХ?</>
+</span>
 
 Мы разрабатываем Сервисы Epic таким образом, чтобы они были доступны пользователям всех возрастов по всему миру. Это означает, что мы запрашиваем информацию о возрасте у пользователей; и некоторые из Сервисов Epic могут различаться в зависимости от того, что мы знаем о возрасте и месте проживания пользователя. Приведенная ниже информация предназначена для родителей/опекунов, чтобы они могли понять наши методы обеспечения конфиденциальности в отношении детей (до 13 лет или достижения возраста цифрового согласия в регионе пользователя, в зависимости от того, какой возраст выше).
 
@@ -99,7 +98,7 @@
 
 • При включении двухфакторной аутентификации, в зависимости от используемого метода аутентификации, мы можем собирать ваш номер телефона и адрес электронной почты для обеспечения безопасности вашей учетной записи.
 
-• Когда вы используете такие социальные функции, как наши форумы или чат, мы можем запрашивать информацию, которой вы хотите поделиться на них или через них (например, публикации, которыми вы делитесь на наших форумах). Если вы используете нашу функцию голосового чата с включенными голосовыми сообщениями в голосовом канале, фрагменты аудиоданных голосового чата будут храниться на вашем устройстве и устройствах участников голосового канала. Если сообщается о нарушении наших условий или политик (например, <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Правил сообщества</>), эти фрагменты могут быть переданы компании Epic для анализа данного нарушения и обеспечения соблюдения наших условий и политик. Для получения дополнительной информации о сроках хранения ваших голосовых и текстовых чатов ознакомьтесь с нашими ответами на <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs#text-reporting" style="EULA.Hyperlink">часто задаваемые вопросы</>. 
+• Когда вы используете такие социальные функции, как наши форумы или чат, мы можем запрашивать информацию, которой вы хотите поделиться на них или через них (например, публикации, которыми вы делитесь на наших форумах). Если вы используете нашу функцию голосового чата с включенными голосовыми сообщениями в голосовом канале, фрагменты аудиоданных голосового чата будут храниться на вашем устройстве и устройствах участников голосового канала. Если сообщается о нарушении наших условий или политик (например, <a id="url" href="https://www.epicgames.com/site/community-rules" style="EULA.Hyperlink">Правил сообщества</>), эти фрагменты могут быть переданы компании Epic для анализа данного нарушения и обеспечения соблюдения наших условий и политик. Для получения дополнительной информации о сроках хранения ваших голосовых и текстовых чатов ознакомьтесь с нашими ответами на <a id="url" href="https://www.fortnite.com/voice-text-reporting-faqs" style="EULA.Hyperlink">часто задаваемые вопросы</>. 
 
 • Когда вы используете функции на базе ИИ (например, Epic Developer Assistant), мы используем введенные вами данные (например, предоставленную вами информацию, которая может установить вашу личность) для генерации данных на выходе (например, ответы, которые могут идентифицировать вас). 
 
@@ -428,15 +427,10 @@
 Если у вас есть вопросы или опасения по поводу Сервисов Epic (например, проблемы, связанные с игрой, доступом к вашей учетной записи Epic, ошибками, платежами, контентом или правами), пожалуйста, свяжитесь с соответствующим каналом поддержки по ссылкам, приведенным ниже.
 
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001636" style="EULA.Hyperlink">Fortnite</>
-
 <EULA.Highlight>•</> <a id="url" href="https://support.rocketleague.com/hc" style="EULA.Hyperlink">Rocket League</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-Category_FallGuys" style="EULA.Hyperlink">Fall Guys</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://www.epicgames.com/help/c-202300000001639" style="EULA.Hyperlink">Epic Games Store</> 
-
 <EULA.Highlight>•</> <a id="url" href="https://dev.epicgames.com/community/fab" style="EULA.Hyperlink">Fab</>
-
 <EULA.Highlight>•</> <a id="url" href="https://www.unrealengine.com/support" style="EULA.Hyperlink">Unreal Engine</> 
 
 <EULA.Highlight>B.</> <EULA.Highlight>Запросы в сфере конфиденциальности</> 
@@ -444,25 +438,15 @@
 Если вы хотите узнать больше о наших методах обеспечения конфиденциальности или настоящей Политике, или воспользоваться своими правами субъекта данных, отправьте электронное письмо на адрес privacy@support.epicgames.com или dpo@support.epicgames.com. Вы также можете связаться с нами по электронной или обычной почте (с пометкой «Кому: юридический отдел»), используя контактную информацию, указанную ниже, для организации, ответственной за предоставление соответствующих Сервисов Epic.
 
 <EULA.Highlight>• Fortnite</>: Epic Games, Inc. (для резидентов США) или Epic Games Entertainment International GmbH (для нерезидентов США)
-
 <EULA.Highlight>• Rocket League</>: Psyonix LLC
-
 <EULA.Highlight>• Fall Guys</>: Epic Games, Inc.
-
 <EULA.Highlight>• Horizon Chase 2</>: Aquiris Game Studio LLC
-
 <EULA.Highlight>• Rock Band</>: Harmonix Music Systems, Inc.
-
 <EULA.Highlight>• Epic Games Store и</> <EULA.Highlight>Fab</>: Epic Games, Inc. (для жителей США) или Epic Games Commerce GmbH (для нерезидентов США)
-
 <EULA.Highlight>• Unreal Engine и MetaHuman</>: Epic Games, Inc. (для жителей США) или Epic Games Commerce GmbH (для нерезидентов США)
-
 <EULA.Highlight>• Unreal Editor For Fortnite</>: Epic Games, Inc. (для резидентов США) или Epic Games Entertainment International GmbH (для нерезидентов США)
-
 <EULA.Highlight>• Postparty</>: Life on Air Inc.
-
 <EULA.Highlight>• Наши веб-сайты и их соответствующие поддомены, которые ссылаются на настоящую Политику</>: Epic Games, Inc. 
-
 <EULA.Highlight>• Прочие Сервисы Epic</>: Ознакомьтесь с соответствующими условиями и положениями для лицензиата, указанного в вашем регионе
 
 <EULA.Highlight>Контактная информация</>
