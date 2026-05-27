@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6929d41ebdadb369983a18c7` |
+| `id` | `6a174d66685fc220abd5c729` |
 | `key` | `epicgames_tos_EU` |
 | `version` | `2` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `Servicevoorwaarden van Epic Games voor de EU` |
 | `locale` | `nl` |
-| `createdTimestamp` | `2025-11-28T16:55:58.694Z` |
-| `lastModifiedTimestamp` | `2025-11-28T16:55:58.694Z` |
+| `createdTimestamp` | `2026-05-27T20:00:38.170Z` |
+| `lastModifiedTimestamp` | `2026-05-27T20:00:38.170Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos_EU/nl/v2/r1/60cdb2e8f3f12a9e99d1580cd59c525c.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos_EU/nl/v2/r2/dceb549e72b65d854002e3cf910e4805.pdf` |
 | `bodyFormat` | `HTML` |

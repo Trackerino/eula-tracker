@@ -1,5 +1,5 @@
-Dernière mise à jour : 27 février 2026
-Date d’entrée en vigueur: 28 novembre 2025 
+Dernière mise à jour : 27 mai 2026
+Date d’entrée en vigueur : 28 novembre 2025 
 
 Bonjour ! Vous trouverez ci-après les règles et responsabilités relatives à l’utilisation de nos jeux et de nos services. 
 
@@ -364,9 +364,9 @@ Si vous utilisez nos Produits sous licence sur une Plateforme PlayStation®, la 
 
 Il vous est expressément interdit de vous engager dans des activités de vente ou d’échange hors plateforme de ce Contenu de jeu, par exemple sur eBay ou d’autres sites d’enchères.
 
-<EULA.Highlight>Pour les utilisateurs finaux SIEA</> : L’achat et l’utilisation d’objets sont soumis aux Conditions de service et au Contrat d’utilisateur final du réseau PlayStation®, disponibles dans le PlayStation® Store. Ce service en ligne vous est accordé sous licence par Sony Interactive Entertainment America (« <EULA.Highlight>SIEA</> »).
+<EULA.Highlight>Pour les utilisateurs finaux SIEA</> : L’achat et l’utilisation d’objets sont soumis aux Conditions de service et au Contrat d’utilisateur du réseau. Ce service en ligne vous est accordé sous licence par Sony Interactive Entertainment America (« <EULA.Highlight>SIEA</> »).
 
-<EULA.Highlight>Pour les utilisateurs finaux SIEE</> : Tout contenu acheté dans une boutique de jeux sera acheté auprès de Sony Interactive Entertainment Network Europe Limited (« <EULA.Highlight>SIENE</> ») et est soumis aux Conditions de service et au Contrat d’utilisateur final du réseau PlayStation®, qui sont disponibles sur le PlayStation® Store. Veuillez vérifier les droits d’utilisation pour chaque achat, car ils peuvent différer d’un objet à l’autre. Sauf disposition contraire, le contenu disponible dans une boutique de jeux est assorti de la même classification d’âge que le jeu.
+<EULA.Highlight>Pour les utilisateurs finaux SIEE</> : Tout contenu acheté dans une boutique de jeux sera acheté auprès de Sony Interactive Entertainment Network Europe Limited (« <EULA.Highlight>SIENE</> ») et est soumis aux Conditions de service et au Contrat d’utilisateur final du réseau PlayStation™ qui sont disponibles sur le PlayStation™ Store. Veuillez vérifier les droits d’utilisation pour chaque achat, car ils peuvent différer d’un objet à l’autre. Sauf disposition contraire, le contenu disponible dans une boutique de jeux est assorti de la même classification d’âge que le jeu.
 
 <EULA.Header>b.	Utilisateurs finaux Microsoft Xbox</>
 
@@ -374,7 +374,7 @@ Les conditions générales supplémentaires suivantes s’appliquent aux Produit
 
 Ni Microsoft Corporation ni l’une de ses sociétés affiliées (collectivement, « <EULA.Highlight>Microsoft</> ») n’ont d’obligations de maintenance ou d’assistance en ce qui concerne les Produits sous licence.
 
-Aucune disposition des présentes Conditions, y compris les présentes Conditions spécifiques à la plateforme, ne régira ni ne modifiera, d’une quelconque manière, votre relation avec Microsoft en vertu des contrats entre vous et Microsoft, y compris les conditions d’utilisation Xbox Live.
+Aucune disposition des présentes Conditions, y compris les présentes Conditions spécifiques à la plateforme, ne régira ni ne modifiera, d’une quelconque manière, votre relation avec Microsoft en vertu des contrats entre vous et Microsoft, y compris le Contrat des services Microsoft.
 
 En outre, dans la pleine mesure autorisée par la loi applicable, la responsabilité globale des Parties Epic (autres que Microsoft), imputable ou liée aux présentes Conditions ou aux Produits sous licence (y compris tout Contenu de jeu) n’excédera pas le montant total que vous avez payé (le cas échéant) à Epic pour les Produits sous licence (y compris tout Contenu de jeu) pendant les douze (12) mois précédant immédiatement les événements donnant lieu à ladite responsabilité, et Microsoft n’aura aucune responsabilité envers vous, imputable ou liée aux présentes Conditions ou aux Produits sous licence (y compris tout Contenu de jeu). Ces limitations et exclusions concernant des dommages et intérêts sont applicables même si un recours ne permet pas d’obtenir une indemnisation adéquate.
 

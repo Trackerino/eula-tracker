@@ -1,4 +1,4 @@
-Data dell’ultimo aggiornamento: 20 ottobre 2025
+Data dell’ultimo aggiornamento: 27 maggio 2025
 In vigore da: 28 novembre 2025 
 
 Salve! Queste sono le regole e le responsabilità associate all’utilizzo dei nostri giochi e servizi. 
@@ -364,9 +364,9 @@ Qualora l’utente utilizzasse i nostri Prodotti concessi in licenza su una Piat
 
 È fatto espressamente divieto all’utente di effettuare vendite o scambi al di fuori dalla piattaforma di tali Contenuti In-Game, come, ad esempio, su eBay o altri siti di aste.
 
-<EULA.Highlight>Per gli Utenti finali SIEA</>: L’acquisto e l’utilizzo di articoli sono soggetti ai Termini di servizio di PlayStation® Network e all’Accordo per l’utente finale disponibile sul sito web del PlayStation® Store. Questo servizio online è stato concesso in sublicenza all’utente da Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
+<EULA.Highlight>Per gli Utenti finali SIEA</>: L’acquisto e l’utilizzo di articoli sono soggetti ai Termini di servizio del Network e all’Accordo per l’utente . Questo servizio online è stato concesso in sublicenza all’utente da Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
 
-<EULA.Highlight>Per gli Utenti finali SIEE</>: Tutti i contenuti acquistati in uno store in-game saranno acquistati da Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) e saranno soggetti ai Termini di servizio e all’Accordo per l’utente finale di PlayStation® Network disponibili sul PlayStation® Store. L’utente è pregato di controllare i diritti di utilizzo per ogni acquisto in quanto possono variare da articolo ad articolo. Salvo diversa indicazione, i contenuti disponibili in qualsiasi store in-game hanno la stessa classificazione del gioco in base all’età.
+<EULA.Highlight>Per gli Utenti finali SIEE</>: Tutti i contenuti acquistati in uno store in-game saranno acquistati da Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) e saranno soggetti ai Termini di servizio e all’Accordo per l’utente finale di PlayStation™ Network disponibili sul PlayStation™ Store. L’utente è pregato di controllare i diritti di utilizzo per ogni acquisto in quanto possono variare da articolo ad articolo. Salvo diversa indicazione, i contenuti disponibili in qualsiasi store in-game hanno la stessa classificazione del gioco in base all’età.
 
 <EULA.Header>b.	Utenti finali di Microsoft Xbox</>
 
@@ -374,7 +374,7 @@ I seguenti ulteriori termini e condizioni si applicano in relazione ai Prodotti 
 
 Né Microsoft Corporation né alcuna delle sue consociate (collettivamente denominati “<EULA.Highlight>Microsoft</>”) hanno alcun obbligo di manutenzione o supporto in relazione ai Prodotti concessi in licenza.
 
-Nessuna disposizione contenuta nei presenti Termini, compresi questi Termini riguardanti specificatamente le piattaforme, regolerà o modificherà in alcun modo il rapporto dell’utente con Microsoft in base a qualsiasi accordo tra l’utente e Microsoft, incluse le condizioni di utilizzo di Xbox Live.
+Nessuna disposizione contenuta nei presenti Termini, compresi questi Termini riguardanti specificatamente le piattaforme, regolerà o modificherà in alcun modo il rapporto dell’utente con Microsoft in base a qualsiasi accordo tra l’utente e Microsoft, incluse le condizioni di utilizzo dei Servizi Microsoft.
 
 Inoltre, nella misura massima consentita dalla legge applicabile, la responsabilità complessiva delle Parti Epic (diverse da Microsoft) derivante da, o in relazione a, i presenti Termini o i Prodotti concessi in licenza (compresi tutti i Contenuti In-Game) non supererà gli importi totali che l’utente ha pagato (se del caso) a Epic per i Prodotti concessi in licenza (incluso qualsiasi Contenuto In-Game) nei dodici (12) mesi immediatamente precedenti gli eventi che hanno dato origine a tale responsabilità, e Microsoft non avrà alcuna responsabilità nei confronti dell’utente derivante da, o in relazione a, i presenti Termini o i Prodotti concessi in licenza (compresi tutti i Contenuti In-Game). Tali limitazioni ed esclusioni, per quanto riguarda i danni, si applicano anche se qualsiasi rimedio non fornisce un risarcimento adeguato.
 

@@ -1,4 +1,4 @@
-Laatst bijgewerkt: 27 februari 2026
+Laatst bijgewerkt: 27 mei 2026
 Van kracht: 28 november 2025 
 
 Hallo! Dit zijn de regels en verantwoordelijkheden in verband met het gebruik van onze games en diensten. 
@@ -469,9 +469,9 @@ Als u onze Gelicentieerde Producten gebruikt op een PlayStation®-platform, is d
 
 Het is u uitdrukkelijk verboden om deel te nemen aan verkoop buiten het platform of uitwisseling van dergelijke Content binnen de game, bijvoorbeeld op eBay of andere veilingwebsites.
 
-<EULA.Highlight>Voor Eindgebruikers van SIEA:</> De aankoop en het gebruik van artikelen vallen onder de dienstvoorwaarden en gebruikersovereenkomst van het netwerk van PlayStation®, beschikbaar in de PlayStation®-winkel. Deze online dienst is aan u in sublicentie gegeven door Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
+<EULA.Highlight>Voor Eindgebruikers van SIEA:</> De aankoop en het gebruik van artikelen vallen onder de dienstvoorwaarden en gebruikersovereenkomst van het netwerk. Deze online dienst is aan u in sublicentie gegeven door Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
 
-<EULA.Highlight>Voor Eindgebruikers van SIEE</>: Alle content die in een winkel binnen het spel wordt gekocht, wordt gekocht bij Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) en is onderworpen aan de dienstvoorwaarden van het PlayStation®-netwerk en de eindgebruikersovereenkomst, die beschikbaar is in de winkel van PlayStation®. Controleer de gebruiksrechten voor elke aankoop, aangezien die per artikel kunnen verschillen. Tenzij anderszins weergegeven, heeft content die beschikbaar is in een spelwinkel dezelfde leeftijdsclassificatie als het spel.
+<EULA.Highlight>Voor Eindgebruikers van SIEE</>: Alle content die in een winkel binnen het spel wordt gekocht, wordt gekocht bij Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) en is onderworpen aan de dienstvoorwaarden van het PlayStation™-netwerk en de eindgebruikersovereenkomst, die beschikbaar is in de winkel van PlayStation™. Controleer de gebruiksrechten voor elke aankoop, aangezien die per artikel kunnen verschillen. Tenzij anderszins weergegeven, heeft content die beschikbaar is in een spelwinkel dezelfde leeftijdsclassificatie als het spel.
 
 <EULA.Header>b.	Eindgebruikers van Microsoft Xbox</>
 
@@ -479,7 +479,7 @@ De volgende aanvullende algemene voorwaarden zijn van toepassing op Gelicentieer
 
 Noch Microsoft Corporation, noch een van haar gelieerde ondernemingen (gezamenlijk “<EULA.Highlight>Microsoft</>”) heeft onderhouds- of ondersteuningsverplichtingen met betrekking tot Gelicentieerde Producten.
 
-Niets in deze Voorwaarden, met inbegrip van deze platformspecifieke Voorwaarden, is op enigerlei wijze van toepassing op of wijzigt uw relatie met Microsoft in het kader van overeenkomsten tussen u en Microsoft, met inbegrip van de gebruiksvoorwaarden voor Xbox Live.
+Niets in deze Voorwaarden, met inbegrip van deze platformspecifieke Voorwaarden, is op enigerlei wijze van toepassing op of wijzigt uw relatie met Microsoft in het kader van overeenkomsten tussen u en Microsoft, met inbegrip van de Microsoft-servicesovereenkomst.
 
 Verder, voor zover maximaal toegestaan door de toepasselijke wetgeving, is de totale aansprakelijkheid van de Epic-partijen (behalve Microsoft) die voortvloeit uit of verband houdt met deze Voorwaarden of de Gelicentieerde Producten (inclusief Content binnen de game) niet hoger dan de totale bedragen die u (indien van toepassing) aan Epic hebt betaald voor de Gelicentieerde Producten (inclusief Content binnen de game) gedurende de twaalf (12) maanden onmiddellijk voorafgaand aan de gebeurtenissen die aanleiding hebben gegeven tot dergelijke aansprakelijkheid, en Microsoft heeft geen aansprakelijkheid jegens u die voortvloeit uit of verband houdt met deze Voorwaarden of de Gelicentieerde Producten (inclusief Content binnen de game). Deze beperkingen en uitsluitingen met betrekking tot schadevergoeding zijn zelfs van toepassing als er geen rechtsmiddel voorhanden is dat een adequate compensatie biedt. Deze paragraaf is niet bedoeld om de aansprakelijkheid van Epic voor opzettelijk wangedrag of grove nalatigheid van Epic te beperken.
 

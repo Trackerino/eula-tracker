@@ -1,4 +1,4 @@
-Last Updated: February 27, 2026 
+Last Updated: May 27, 2026 
 Effective: November 28, 2025 
 
 Hi! These are the rules and responsibilities associated with using our games and services. 
@@ -364,9 +364,9 @@ If you are using our Licensed Products on a PlayStation® Platform, the license 
 
 You are expressly forbidden from engaging in off-platform sales or exchanges of such In-Game Content, such as at eBay or other auction sites.
 
-<EULA.Highlight>For SIEA End Users</>: Purchase and use of items are subject to PlayStation® Network Terms of Service and End User Agreement, available on the PlayStation® Store. This online service has been sublicensed to you by Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
+<EULA.Highlight>For SIEA End Users</>: Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
 
-<EULA.Highlight>For SIEE End Users</>: Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) and is subject to PlayStation® Network Terms of Service and End User Agreement, which is available on the PlayStation® Store. Please check use rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+<EULA.Highlight>For SIEE End Users</>: Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) and is subject to PlayStation™ Network Terms of Service and End User Agreement which is available on the PlayStation™ Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
 
 <EULA.Header>b.	Microsoft Xbox End Users</>
 
@@ -374,7 +374,7 @@ The following additional terms and conditions apply with respect to Licensed Pro
 
 Neither Microsoft Corporation nor any of its affiliates (collectively, “<EULA.Highlight>Microsoft</>”) have any maintenance or support obligations for Licensed Products.
 
-Nothing in these Terms, including these Platform-Specific Terms, shall govern or change, in any way, your relationship with Microsoft under any agreements between you and Microsoft, including the Xbox Live terms of use.
+Nothing in these Terms, including these Platform-Specific Terms, shall govern or change, in any way, your relationship with Microsoft under any agreements between you and Microsoft, including the Microsoft Services Agreement.
 
 Further, to the maximum extent permitted by applicable law, the aggregate liability of the Epic Parties (other than Microsoft) arising out of or in connection with these Terms or the Licensed Products (including any In-Game Content) will not exceed the total amounts you have paid (if any) to Epic for the Licensed Products (including any In-Game Content) during the twelve (12) months immediately preceding the events giving rise to such liability, and Microsoft shall have no liability to you arising out of or in connection with these Terms or the Licensed Products (including any In-Game Content). These limitations and exclusions regarding damages apply even if any remedy fails to provide adequate compensation
 

@@ -1,4 +1,4 @@
-Última actualización: 27 de febrero de 2026
+Última actualización: 27 de mayo      de 2026
 Vigente desde: 28 de noviembre de 2025
 
 ¡Hola! Estas son las reglas y las responsabilidades asociadas con el uso de nuestros juegos y servicios. 
@@ -469,9 +469,9 @@ Si está utilizando nuestros Productos con licencia en una Plataforma PlayStatio
 
 Tiene expresamente prohibido participar en ventas o intercambios fuera de la plataforma de dicho Contenido en el juego, como en eBay u otros sitios de subastas.
 
-<EULA.Highlight>Para los usuarios finales de SIEA</>: La compra y el uso de los artículos están sujetos a los Términos de servicio y al Acuerdo del usuario final de PlayStation® Network, disponibles en PlayStation® Store. Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”) le ha otorgado a usted la sublicencia de este servicio en línea.
+<EULA.Highlight>Para los usuarios finales de SIEA</>: La compra y el uso de los artículos están sujetos a los Términos de servicio y al Acuerdo del usuario       de       Network,     . Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”) le ha otorgado a usted la sublicencia de este servicio en línea.
 
-<EULA.Highlight>Para los usuarios finales de SIEE</>: Cualquier contenido adquirido en una tienda dentro del juego se comprará a Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) y está sujeto a los Términos de servicio y al Acuerdo de usuario final de PlayStation® Network, que están disponibles en PlayStation® Store. Verifique los derechos de uso para cada compra, ya que estos pueden diferir de un artículo a otro. A menos que se indique lo contrario, el contenido disponible en cualquier tienda dentro del juego tiene la misma clasificación de edad que el juego.
+<EULA.Highlight>Para los usuarios finales de SIEE</>: Cualquier contenido adquirido en una tienda dentro del juego se comprará a Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) y está sujeto a los Términos de servicio y al Acuerdo de usuario final de PlayStation™      Network      que están disponibles en PlayStation™      Store. Verifique los derechos de uso para cada compra, ya que estos pueden diferir de un artículo a otro. A menos que se indique lo contrario, el contenido disponible en cualquier tienda dentro del juego tiene la misma clasificación de edad que el juego.
 
 <EULA.Header>b.	Usuarios finales de Microsoft Xbox</>
 
@@ -479,7 +479,7 @@ Los siguientes términos y condiciones adicionales se aplican con respecto a los
 
 Ni Microsoft Corporation ni ninguna de sus filiales (en su conjunto, “<EULA.Highlight>Microsoft</>”) tienen obligaciones de mantenimiento o soporte para los Productos con licencia.
 
-Nada de lo dispuesto en estos Términos, incluidos estos Términos específicos de la Plataforma, regirá o cambiará de ninguna manera su relación con Microsoft en virtud de cualquier contrato existente entre usted y Microsoft, incluidos los términos de uso de Xbox Live.
+Nada de lo dispuesto en estos Términos, incluidos estos Términos específicos de la Plataforma, regirá o cambiará de ninguna manera su relación con Microsoft en virtud de cualquier contrato existente entre usted y Microsoft, incluido el Contrato de Servicios de Microsoft.     .
 
 Además, en el grado máximo permitido por la ley aplicable, la responsabilidad total de las Partes Epic (que no sea Microsoft) que surja o se relacione con estos Términos o con los Productos con licencia (incluido cualquier Contenido en el juego) no superará los montos totales que usted haya pagado (si los hubiera) a Epic por los Productos con licencia (incluido cualquier Contenido en el juego) durante los doce (12) meses inmediatamente anteriores a los eventos que den lugar a dicha responsabilidad, y Microsoft no tendrá ninguna responsabilidad frente a usted que se origine de estos Términos o de los Productos con licencia (incluido cualquier Contenido dentro del juego) o en relación con estos. Estas limitaciones y exclusiones con respecto a los daños y perjuicios se aplican aunque cualquier otro recurso jurídico no proporcione una compensación adecuada. Este párrafo no pretende limitar la responsabilidad de Epic en lo que respecta a la conducta indebida intencional o la negligencia grave de Epic.
 

@@ -1,4 +1,4 @@
-Ostatnia aktualizacja: 27 lutego 2026 r.
+Ostatnia aktualizacja: 27 maja 2026 r.
 Data wejścia w życie: 28 listopada 2025 r. 
 
 Cześć! Niniejszy dokument zawiera zasady i obowiązki związane z korzystaniem z naszych gier i usług. 
@@ -469,9 +469,9 @@ Jeżeli Użytkownik korzysta z Licencjonowanych produktów na platformie PlaySta
 
 Użytkownikowi wyraźnie zabrania się prowadzenia sprzedaży lub wymiany Zawartości do gier na platformach zewnętrznych takich jak eBay lub inne witryny aukcyjne.
 
-<EULA.Highlight>Dotyczy użytkowników końcowych SIEA:</> Zakupy i korzystanie z przedmiotów podlegają Warunkom korzystania z usługi Sieci PlayStation® i Umowie z użytkownikiem końcowym, które są dostępne i w sklepie PlayStation® Store. Użytkownik otrzymał sublicencję na tę usługę online od Sony Interactive Entertainment America („<EULA.Highlight>SIEA</>”).
+<EULA.Highlight>Dotyczy użytkowników końcowych SIEA:</> Zakupy i korzystanie z przedmiotów podlegają Warunkom korzystania z usługi Sieci i Umowie z użytkownikiem końcowym. Użytkownik otrzymał sublicencję na tę usługę online od Sony Interactive Entertainment America („<EULA.Highlight>SIEA</>”).
 
-<EULA.Highlight>Dotyczy Użytkowników końcowych SIEE:</> Wszelkie treści zakupione w sklepie w grze będą kupowane od Sony Interactive Entertainment Network Europe Limited („<EULA.Highlight>SIEE</>”) i podlegają Warunkom korzystania z sieci PlayStation ® i Umowie z użytkownikiem końcowym, które są dostępne w sklepie PlayStation® Store. W przypadku każdego zakupu należy zapoznać się z prawami do użytkowania, ponieważ mogą się różnić w zależności od zawartości. O ile nie określono inaczej, treści dostępne we wszelkich sklepach w grze mają tę samą klasyfikację wiekową co gra.
+<EULA.Highlight>Dotyczy Użytkowników końcowych SIEE:</> Wszelkie treści zakupione w sklepie w grze będą kupowane od Sony Interactive Entertainment Network Europe Limited („<EULA.Highlight>SIEE</>”) i podlegają Warunkom korzystania z sieci PlayStation ™ i Umowie z użytkownikiem końcowym, które są dostępne w sklepie PlayStation™ Store. W przypadku każdego zakupu należy zapoznać się z prawami do użytkowania, ponieważ mogą się różnić w zależności od zawartości. O ile nie określono inaczej, treści dostępne we wszelkich sklepach w grze mają tę samą klasyfikację wiekową co gra.
 
 <EULA.Header>b.	Użytkownicy końcowi Microsoft Xbox</>
 
@@ -479,7 +479,7 @@ Następujące dodatkowe warunki mają zastosowanie w odniesieniu do Licencjonowa
 
 Ani Microsoft Corporation, ani żadna z jej podmiotów stowarzyszonych (łącznie „<EULA.Highlight>Microsoft</>”) nie ma żadnego obowiązku zapewniać wsparcia ani pomocy technicznej w odniesieniu do Licencjonowanych produktów.
 
-Żadne postanowienia niniejszych Warunków w żaden sposób nie są nadrzędne wobec relacji między użytkownikiem a Microsoft wynikających z dowolnych umów między użytkownikiem a Microsoft, w tym warunków użytkowania Xbox Live, ani nie zmieniają takich relacji.
+Żadne postanowienia niniejszych Warunków w żaden sposób nie są nadrzędne wobec relacji między użytkownikiem a Microsoft wynikających z dowolnych umów między użytkownikiem a Microsoft, w tym warunków umowy o świadczeniu usług firmy Microsoft, ani nie zmieniają takich relacji.
 
 Ponadto, w maksymalnym zakresie dozwolonym przez obowiązujące przepisy prawa, łączna odpowiedzialność Podmiotów Epic (innych niż Microsoft) wynikająca z niniejszych Warunków lub Licencjonowanych produktów (włącznie z wszelką Zawartością do gier) lub z nimi związana nie przekroczy ewentualnych łącznych kwot zapłaconych Epic przez Użytkownika (o ile zostały zapłacone) za Licencjonowane produkty (w tym za wszelką Zawartość do gier) w ciągu dwunastu (12) miesięcy bezpośrednio poprzedzających zdarzenia powodujące taką odpowiedzialność, a Microsoft nie ponosi odpowiedzialności wobec Użytkownika na mocy niniejszych Warunków ani w odniesieniu do Licencjonowanych produktów (w tym w zakresie wszelkiej Zawartości do gier). Te ograniczenia i wyłączenia dotyczące odszkodowań obowiązują nawet jeśli dowolny środek zaradczy nie zapewnia odpowiedniego zadośćuczynienia. Niniejszy ustęp nie ma na celu ograniczenia odpowiedzialności Epic za umyślne niewłaściwe postępowanie lub rażące zaniedbanie.
 

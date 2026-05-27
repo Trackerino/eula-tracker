@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69a2316ee1b7e848dc315157` |
+| `id` | `6a17507022c0702fac2108b8` |
 | `key` | `epicgames_tos` |
 | `version` | `2` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Epic गेम्स सेवा की शर्तें` |
 | `locale` | `hi` |
-| `createdTimestamp` | `2026-02-28T00:06:06.676Z` |
-| `lastModifiedTimestamp` | `2026-02-28T00:06:06.676Z` |
+| `createdTimestamp` | `2026-05-27T20:13:36.096Z` |
+| `lastModifiedTimestamp` | `2026-05-27T20:13:36.096Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/hi/v2/r2/9d5a6f373b37d0918d1daea3aede3bce.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/hi/v2/r3/b154cc1e75c5dda5add96e7811762c5f.pdf` |
 | `bodyFormat` | `HTML` |

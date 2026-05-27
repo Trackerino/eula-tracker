@@ -1,4 +1,4 @@
-Última actualización: 27 de febrero de 2026
+Última actualización: 27 de mayo de 2026
 En vigor: 28 de noviembre de 2025 
 
 ¡Hola! Estas son las reglas y obligaciones asociadas con el uso de nuestros juegos y servicios. 
@@ -364,17 +364,17 @@ Si está utilizando nuestros Productos licenciados en una Plataforma PlayStation
 
 Está expresamente prohibido participar en ventas o intercambios fuera de plataforma de dicho Contenido del juego, como en eBay u otros sitios de subastas.
 
-<EULA.Highlight>Para Usuarios finales de SIEA:</> La compra y el uso de artículos están sujetos a las Condiciones de servicio de la PlayStation® Network y el Acuerdo de usuario final, disponible en la PlayStation® Store. La sublicencia para este servicio se la otorga Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
+<EULA.Highlight>Para Usuarios finales de SIEA:</> La compra y el uso de artículos están sujetos a las Condiciones de servicio de la     Network y a     l Acuerdo de usuario     . La sublicencia para este servicio se la otorga Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
 
-<EULA.Highlight>Para Usuarios finales de SIEE:</> Cualquier contenido comprado en una tienda del juego será comprado a Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) y está sujeto a las Condiciones de servicio de la red y Acuerdo de usuario final de PlayStation® Network que están disponibles en la PlayStation® Store. Verifique los derechos de uso de cada compra, ya que pueden diferir de un artículo a otro. Salvo que se indique lo contrario, el contenido disponible en cualquier tienda del juego tiene la misma clasificación por edades que el juego.
+<EULA.Highlight>Para Usuarios finales de SIEE:</> Cualquier contenido comprado en una tienda del juego será comprado a Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) y está sujeto a las Condiciones de servicio de la red y Acuerdo de usuario final de PlayStation™      Network que están disponibles en la PlayStation™      Store. Verifique los derechos de uso de cada compra, ya que pueden diferir de un artículo a otro. Salvo que se indique lo contrario, el contenido disponible en cualquier tienda del juego tiene la misma clasificación por edades que el juego.
 
 <EULA.Header>b.	Usuarios finales de Microsoft Xbox</>
 
-Los siguientes términos y condiciones adicionales se aplican con respecto a Productos licenciados disponibles para su uso en los dispositivos Xbox Live que usted posee o controla:
+Los siguientes términos y condiciones adicionales se aplican con respecto a Productos licenciados disponibles para su uso en los dispositivos Xbox       que usted posee o controla:
 
 Ni Microsoft Corporation ni ninguna de sus filiales (en conjunto, “<EULA.Highlight>Microsoft</>”) tiene obligaciones de mantenimiento o soporte con respecto a Productos licenciados.
 
-Nada en estas Condiciones, incluidos los Términos específicos por plataforma, regirá o cambiará, de ninguna manera, su relación con Microsoft bajo ningún acuerdo entre usted y Microsoft, incluidas las condiciones de uso de Xbox Live.
+Nada en estas Condiciones, incluidos los Términos específicos por plataforma, regirá o cambiará, de ninguna manera, su relación con Microsoft bajo ningún acuerdo entre usted y Microsoft, incluido el Acuerdo de servicios de Microsoft     .
 
 Además, en la medida máxima permitida por la legislación aplicable, la responsabilidad total de las Partes de Epic (excepto Microsoft) que surja de o en conexión con estas condiciones o los Productos licenciados (incluido Contenido del juego) no excederá el total de los importes que haya pagado (si corresponde) a Epic por los Productos licenciados (incluido Contenido del juego) durante los doce (12) meses inmediatamente anteriores a los eventos que dieron lugar a dicha responsabilidad y Microsoft no tendrá ninguna responsabilidad hacia usted que surja de o en conexión con estas Condiciones o los Productos licenciados (incluido Contenido del juego). Estos límites y exclusiones con respecto a daños y perjuicios son de aplicación incluso si algún recurso no proporciona una compensación adecuada.
 

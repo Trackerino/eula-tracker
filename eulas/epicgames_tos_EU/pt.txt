@@ -1,4 +1,4 @@
-Última atualização: 20 de outubro de 2025
+Última atualização: 27 de maio de 2026
 Entrada em vigor: 28 de novembro de 2025
 
 Olá! Estas são as regras e responsabilidades associadas à utilização dos nossos jogos e serviços. 
@@ -364,9 +364,9 @@ Se estiver a utilizar os nossos Produtos Licenciados numa Plataforma PlayStation
 
 O Utilizador está expressamente proibido de realizar vendas ou trocas desse Conteúdo no Jogo fora da plataforma, tais como no eBay ou noutros sites de leilões.
 
-<EULA.Highlight>Para Utilizadores Finais da SIEA</>: A compra e utilização de itens estão sujeitas aos Termos de Serviço da PlayStation® Network e ao Contrato de Utilizador Final, disponíveis na PlayStation® Store. Este serviço online foi sublicenciado ao Utilizador pela Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
+<EULA.Highlight>Para Utilizadores Finais da SIEA</>: A compra e utilização de itens estão sujeitas aos Termos de Serviço da       Network e ao Contrato de Utilizador          . Este serviço online foi sublicenciado ao Utilizador pela Sony Interactive Entertainment America (“<EULA.Highlight>SIEA</>”).
 
-<EULA.Highlight>Para Utilizadores Finais da SIEE</>: Qualquer conteúdo adquirido numa loja integrada no jogo será adquirido à Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) e está sujeito aos Termos de Serviço da PlayStation® Network e ao Contrato de Utilizador Final, disponíveis na PlayStation® Store. Verifique os direitos de utilização de cada compra, pois estes podem variar consoante o item. Salvo indicação em contrário, o conteúdo disponível em qualquer loja integrada no jogo tem a mesma classificação etária do jogo.
+<EULA.Highlight>Para Utilizadores Finais da SIEE</>: Qualquer conteúdo adquirido numa loja integrada no jogo será adquirido à Sony Interactive Entertainment Network Europe Limited (“<EULA.Highlight>SIEE</>”) e está sujeito aos Termos de Serviço da PlayStation™      Network e ao Contrato de Utilizador Final, disponíveis na PlayStation™      Store. Verifique os direitos de utilização de cada compra, pois estes podem variar consoante o item. Salvo indicação em contrário, o conteúdo disponível em qualquer loja integrada no jogo tem a mesma classificação etária do jogo.
 
 <EULA.Header>b.	Utilizadores Finais da Microsoft Xbox</>
 
@@ -374,7 +374,7 @@ Os seguintes termos adicionais aplicam-se aos Produtos Licenciados disponíveis 
 
 Nem a Microsoft Corporation nem qualquer das suas afiliadas (coletivamente, “<EULA.Highlight>Microsoft</>”) têm quaisquer obrigações de manutenção ou de assistência relativamente aos Produtos Licenciados.
 
-Nada nos presentes Termos, incluindo os presentes Termos Específicos da Plataforma, regerá ou alterará, de qualquer forma, a relação do Utilizador com a Microsoft ao abrigo de quaisquer acordos entre o Utilizador e a Microsoft, incluindo os Termos de Utilização da Xbox Live.
+Nada nos presentes Termos, incluindo os presentes Termos Específicos da Plataforma, regerá ou alterará, de qualquer forma, a relação do Utilizador com a Microsoft ao abrigo de quaisquer acordos entre o Utilizador e a Microsoft, incluindo o Contrato de Serviços Microsoft     .
 
 Além disso, na máxima medida permitida pela legislação aplicável, a responsabilidade total das Partes Epic (com exceção da Microsoft), que decorra ou se relacione com os presentes Termos ou com os Produtos Licenciados (incluindo qualquer Conteúdo no Jogo), não excederá os montantes totais que o Utilizador tenha pagado (se aplicável) à Epic pelos Produtos Licenciados (incluindo qualquer Conteúdo no Jogo) durante os 12 (doze) meses imediatamente anteriores aos factos que deram origem a essa responsabilidade. Além disso, a Microsoft não terá qualquer responsabilidade perante o Utilizador que decorra ou se relacione com os presentes Termos ou com os Produtos Licenciados (incluindo qualquer Conteúdo no Jogo). Estas limitações e exclusões relativas a indemnizações aplicam-se mesmo que qualquer medida de reparação não constitua uma compensação adequada.
 

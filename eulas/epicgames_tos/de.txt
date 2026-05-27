@@ -1,4 +1,4 @@
-Zuletzt aktualisiert: 27. Februar 2026
+Zuletzt aktualisiert: 27. Mai 2026
 Gültig ab: 28. November 2025 
 
 Hallo! Diese Regeln und Pflichten gelten für die Nutzung unserer Spiele und Dienste. 
@@ -469,9 +469,9 @@ Wenn Sie unsere lizenzierten Produkte auf einer PlayStation®-Plattform verwende
 
 Es ist Ihnen ausdrücklich untersagt, In-Game-Inhalte außerhalb der Plattform zu verkaufen oder zu tauschen, z. B. über eBay oder andere Auktionsseiten.
 
-<EULA.Highlight>Für SIEA-Endnutzer</>: Kauf und Nutzung von Artikeln unterliegen den Nutzungsbedingungen und der Endbenutzervereinbarung des PlayStation®-Netzwerks, die im PlayStation® Store verfügbar sind. Dieser Online-Service wurde von Sony Interactive Entertainment America („<EULA.Highlight>SIEA</>“) an Sie unterlizenziert.
+<EULA.Highlight>Für SIEA-Endnutzer</>: Kauf und Nutzung von Artikeln unterliegen den Nutzungsbedingungen und der Nutzervereinbarung des Netzwerks. Dieser Online-Service wurde von Sony Interactive Entertainment America („<EULA.Highlight>SIEA</>“) an Sie unterlizenziert.
 
-<EULA.Highlight>Für SIEE-Endbenutzer</>: Alle in einem In-Game-Shop gekauften Inhalte werden von Sony Interactive Entertainment Network Europe Limited („<EULA.Highlight>SIEE</>“) gekauft und unterliegen den Nutzungsbedingungen und der Endnutzungsvereinbarung des PlayStation®-Netzwerks, die im PlayStation® Store verfügbar sind. Bitte überprüfen Sie die Nutzungsrechte für jeden Kauf, da diese von Artikel zu Artikel unterschiedlich sein können. Sofern nicht anders angegeben, haben die in einem In-Game-Shop verfügbaren Inhalte die gleiche Altersfreigabe wie das Spiel.
+<EULA.Highlight>Für SIEE-Endbenutzer</>: Alle in einem In-Game-Shop gekauften Inhalte werden von Sony Interactive Entertainment Network Europe Limited („<EULA.Highlight>SIEE</>“) gekauft und unterliegen den Nutzungsbedingungen und der Endnutzungsvereinbarung des PlayStation-Netzwerks, die im PlayStation Store verfügbar sind. Bitte überprüfen Sie die Nutzungsrechte für jeden Kauf, da diese von Artikel zu Artikel unterschiedlich sein können. Sofern nicht anders angegeben, haben die in einem In-Game-Shop verfügbaren Inhalte die gleiche Altersfreigabe wie das Spiel.
 
 <EULA.Header>b.	Microsoft Xbox-Endbenutzer</>
 
@@ -479,7 +479,7 @@ Die folgenden zusätzlichen Bedingungen gelten in Bezug auf lizenzierte Produkte
 
 Weder die Microsoft Corporation noch eines ihrer verbundenen Unternehmen (zusammen „<EULA.Highlight>Microsoft</>“) haben Wartungs- oder Supportverpflichtungen in Bezug auf lizenzierte Produkte.
 
-Nichts in diesen Bedingungen, einschließlich dieser plattformspezifischen Bedingungen, regelt oder ändert in irgendeiner Weise Ihre Beziehung zu Microsoft gemäß etwaigen Vereinbarungen zwischen Ihnen und Microsoft, einschließlich der Nutzungsbedingungen von Xbox Live.
+Nichts in diesen Bedingungen, einschließlich dieser plattformspezifischen Bedingungen, regelt oder ändert in irgendeiner Weise Ihre Beziehung zu Microsoft gemäß etwaigen Vereinbarungen zwischen Ihnen und Microsoft, einschließlich dem Microsoft-Servicevertrag.
 
 Darüber hinaus darf, soweit nach geltendem Recht zulässig, die Gesamthaftung der Epic-Parteien (mit Ausnahme von Microsoft), die sich aus diesen Bedingungen oder den lizenzierten Produkten (einschließlich etwaiger In-Game-Inhalte) ergibt oder damit im Zusammenhang steht, den Gesamtbetrag nicht überschreiten, den Sie (sofern zutreffend) in den zwölf (12) Monaten unmittelbar vor dem haftungsauslösenden Ereignis an Epic für die lizenzierten Produkte (einschließlich etwaiger In-Game-Inhalte) gezahlt haben, und Microsoft haftet Ihnen gegenüber nicht aufgrund oder im Zusammenhang mit diesen Bedingungen oder den lizenzierten Produkten (einschließlich etwaiger In-Game-Inhalte). Diese Beschränkungen und Ausschlüsse bezüglich des Schadenersatzes gelten auch dann, wenn ein Rechtsbehelf keine angemessene Entschädigung leistet. Dieser Absatz ist nicht dazu bestimmt, die Haftung von Epic für vorsätzliches Fehlverhalten oder grobe Fahrlässigkeit zu beschränken.
 
