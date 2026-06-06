@@ -1,19 +1,30 @@
-Términos de suscripción a Fortnite Crew 
+Estamos actualizando los Términos de suscripción de Fortnite Crew ("Términos"). Los cambios entrarán en vigor el 6 de junio de 2026. Los Términos actuales se pueden encontrar a continuación. Este es un resumen de las actualizaciones principales.
 
-El Club de Fortnite se ofrece a manera de suscripción con los pagos recurrentes. Al adquirir una suscripción de Fortnite Crew (“Suscripción”), usted acepta las siguientes condiciones (“Condiciones de suscripción de Fortnite Crew”).
+•	La descripción de los beneficios mensuales se ha trasladado de los Términos a <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</a>. También puede ver los beneficios actuales en cualquier momento en la pestaña Pases en el juego.
 
-Su Suscripción es parte de los <a id="url" href="https://legal.epicgames.com/epicgames/tos " style="EULA.Hyperlink">Términos de servicio de Epic Games</> (“Términos de servicio”), que se incorporan a estos términos por referencia. Estos Términos de suscripción de Fortnite Crew incluyen detalles sobre los cargos recurrentes asociados con la Suscripción, su autorización de esos cargos recurrentes y el derecho de Epic a cambiar los niveles, beneficios y precios de la Suscripción. LEA ESTOS TÉRMINOS EN SU TOTALIDAD ANTES DE SUSCRIBIRSE.
+•	Aclaramos que los artículos incluidos en su suscripción cada mes tendrán un valor al menos igual al precio de Fortnite Crew si se compran por separado.
 
-IMPORTANTE: LOS TÉRMINOS DE SERVICIO CONTIENEN UNA DISPOSICIÓN VINCULANTE DE ARBITRAJE INDIVIDUAL Y DE RENUNCIA A DEMANDAS COLECTIVAS. ESTA DISPOSICIÓN SE APLICARÁ A SU COMPRA Y USO DE LA SUSCRIPCIÓN SI RESIDE EN LOS ESTADOS UNIDOS. NO SE APLICARÁ SI RESIDE EN LA UE, PERO PUEDE APLICARSE A USTED SI RESIDE EN OTRO LUGAR.
+•	Agregamos detalles sobre cómo le notificaremos si la tarifa de suscripción cambia alguna vez.
 
-Es posible que se apliquen condiciones y requisitos adicionales si usted adquiere su Suscripción a través de la plataforma de otra empresa, como Xbox, PlayStation, Nintendo Switch o a través de otras plataformas o revendedores (las así llamadas “Suscripciones de terceros”). Revise las condiciones del proveedor de su plataforma para más información.
+__________________________
 
-1. Asegúrese de elegir cuidadosamente la plataforma (p. ej., Xbox, PlayStation, Nintendo Switch) en la que adquiera su Suscripción. Su Suscripción está asociada con la plataforma en la cual la adquirió (su “Plataforma primaria”) hasta el momento de su cancelación y no es transferible entre las plataformas.  Podrá acceder a los artículos que reciba de la Suscripción en todas las plataformas distintas, aunque es posible que los V-Bucks que reciba no se puedan canjear en otras plataformas. Debe iniciar sesión en su Plataforma primaria durante cada periodo de suscripción para acceder a su Contenido de suscripción.
+El Club de Fortnite se ofrece a manera de suscripción con los pagos recurrentes. Al adquirir una suscripción de Fortnite Crew ("Suscripción"), usted acepta las siguientes condiciones ("Condiciones de suscripción de Fortnite Crew").
 
-2. Su Suscripción tiene un cargo recurrente (“Tarifa de suscripción”) y se continuará renovando automáticamente hasta que usted la cancele. Puede cancelar su Suscripción en cualquier momento a través de la plataforma en la que adquirió la Suscripción. Hay tres maneras de cancelar su Suscripción adquirida con Epic en PC o móvil:
-En el juego, navegue a la pestaña Pases, y proceda a cancelar su Suscripción;
-Visite <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> para cancelar desde la web, o
-Abra la aplicación Epic Games Store, haga clic en su perfil, seleccione la cuenta y navegue hasta la pestaña Suscripciones para cancelar su Suscripción.
+Su Suscripción es parte de los <a id="url" href="https://legal.epicgames.com/epicgames/tos " style="EULA.Hyperlink">Términos de servicio de Epic Games</> ("Términos de servicio"), que se incorporan a estos términos por referencia. Estos Términos de suscripción de Fortnite Crew incluyen detalles sobre los cargos recurrentes asociados con la Suscripción, su autorización de esos cargos recurrentes y el derecho de Epic a cambiar los niveles, beneficios y precios de la Suscripción. LEA ESTOS TÉRMINOS EN SU TOTALIDAD ANTES DE SUSCRIBIRSE.
+
+<EULA.HIGHLIGHT>IMPORTANTE: LOS TÉRMINOS DE SERVICIO CONTIENEN UNA DISPOSICIÓN VINCULANTE DE ARBITRAJE INDIVIDUAL Y DE RENUNCIA A DEMANDAS COLECTIVAS. ESTA DISPOSICIÓN SE APLICARÁ A SU COMPRA Y USO DE LA SUSCRIPCIÓN SI RESIDE EN LOS ESTADOS UNIDOS. NO SE APLICARÁ SI RESIDE EN LA UE, PERO PUEDE APLICARSE A USTED SI RESIDE EN OTRO LUGAR.</>
+
+Es posible que se apliquen condiciones y requisitos adicionales si usted adquiere su Suscripción a través de la plataforma de otra empresa, como Xbox, PlayStation, Nintendo Switch o a través de otras plataformas o revendedores (las así llamadas "Suscripciones de terceros"). Revise las condiciones del proveedor de su plataforma para más información.
+
+1. Asegúrese de elegir cuidadosamente la plataforma (p. ej., Xbox, PlayStation, Nintendo Switch) en la que adquiera su Suscripción. Su Suscripción está asociada con la plataforma en la cual la adquirió (su "Plataforma primaria") hasta el momento de su cancelación y no es transferible entre las plataformas.  Podrá acceder a los artículos que reciba de la Suscripción en todas las plataformas distintas, aunque es posible que los V-Bucks que reciba no se puedan canjear en otras plataformas. Debe iniciar sesión en su Plataforma primaria durante cada periodo de suscripción para acceder a su Contenido de suscripción.
+
+2. Su Suscripción tiene un cargo recurrente ("Tarifa de suscripción") y se continuará renovando automáticamente hasta que usted la cancele. Puede cancelar su Suscripción en cualquier momento a través de la plataforma en la que adquirió la Suscripción. Hay tres maneras de cancelar su Suscripción adquirida con Epic en PC o móvil:
+
+•	En el juego, navegue a la pestaña Pases, y proceda a cancelar su Suscripción;
+
+•	Visite <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> para cancelar desde la web, o
+
+•	Abra la aplicación Epic Games Store, haga clic en su perfil, seleccione la cuenta y navegue hasta la pestaña Suscripciones para cancelar su Suscripción.
 
 Si compró una suscripción a través del servicio de otra compañía (p. ej., Xbox, PlayStation o Nintendo Switch), puede cancelarla en esa plataforma o en sus sitios web, como se explica <a id="url" href="https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Billingandpayment/how-can-i-cancel-my-fortnite-crew-subscription-a000085124" style="EULA.Hyperlink">aquí</>. Epic no maneja la facturación ni las cancelaciones de estas plataformas.
 
@@ -24,23 +35,25 @@ Si compró una suscripción a través del servicio de otra compañía (p. ej., X
 Nota: si adquiere una Suscripción de terceros, debe revisar detenidamente las reglas y procedimientos de dicho proveedor de plataforma. Es posible que se apliquen términos, requisitos y políticas de cancelación si adquiere su Suscripción a través de otra empresa.
 
 5. Deberá cancelar su Suscripción antes de la próxima fecha de facturación para que se dejen de cobrar las Tarifas de suscripción. Puede encontrar su próxima fecha de facturación:
-En el juego navegando a la pestaña Pases;
-En la web visitando <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, o
-Al abrir la aplicación Epic Games Store, hacer clic en su perfil, seleccionar la cuenta y navegar hasta la pestaña Suscripciones.
+
+•	En el juego navegando a la pestaña Pases;
+
+•	En la web visitando <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, o
+
+•	Al abrir la aplicación Epic Games Store, hacer clic en su perfil, seleccionar la cuenta y navegar hasta la pestaña Suscripciones.
 
 Si cancela antes de su siguiente fecha de facturación, su Suscripción no se renovará, y no se le cobrará otra Tarifa de suscripción.
 
-6. Como parte de su Suscripción, recibirá beneficios cada mes (“Contenido de Suscripción”). El Contenido de Suscripción incluirá elementos que costarían al menos tanto como el precio de la Suscripción. El Contenido de Suscripción puede incluir artículos cosméticos, entre otros contenidos. Puede encontrar información sobre el Contenido de Suscripción que está disponible para su Suscripción en el mes actual en <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</>. También puede consultar los beneficios actuales en la pestaña Pases durante el juego.  
+6. Como parte de su Suscripción, recibirá beneficios cada mes ("Contenido de Suscripción"). El Contenido de Suscripción incluirá elementos que costarían al menos tanto como el precio de la Suscripción. El Contenido de Suscripción puede incluir artículos cosméticos, entre otros contenidos. Puede encontrar información sobre el Contenido de Suscripción que está disponible para su Suscripción en el mes actual en <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</>. También puede consultar los beneficios actuales en la pestaña Pases durante el juego.
 
 Epic puede ofrecer diferentes opciones de suscripción para la Suscripción, cada una con su propia Tarifa de Suscripción y Contenido de Suscripción. La Tarifa de Suscripción y el Contenido de Suscripción se describirán claramente en el momento de la inscripción.
 
-
-Si cancela su Suscripción, conservará el Contenido de Suscripción que recibió o ganó durante su período de Suscripción. No será elegible para obtener un reembolso proporcional por ninguna parte de la Tarifa de suscripción. Esta política de reembolso no tendrá incidencia sobre los derechos legales que usted pueda tener a recibir un reembolso sin perjuicio de la política. 
+Si cancela su Suscripción, conservará el Contenido de Suscripción que recibió o ganó durante su período de Suscripción. No será elegible para obtener un reembolso proporcional por ninguna parte de la Tarifa de suscripción. Esta política de reembolso no tendrá incidencia sobre los derechos legales que usted pueda tener a recibir un reembolso sin perjuicio de la política.
 
 7. Podemos ofrecer la Suscripción junto con otros servicios de suscripción en un paquete. Estos paquetes pueden incluir suscripciones a productos o servicios proporcionados por terceros. Si elige una suscripción combinada, describiremos claramente lo que se incluye en el paquete, incluida cualquier suscripción de terceros, al momento de registrarse.
 
 Los productos y servicios de terceros incluidos en un paquete son proporcionados por el tercero pertinente y están sujetos a los propios términos y condiciones de ese tercero. Le recomendamos que revise esos términos cuidadosamente, ya que regirán su uso de esos servicios de terceros.
 
-8. Los requisitos de suscripción y las funciones disponibles varían dependiendo de la plataforma, región y el periodo. Podemos modificar la Tarifa de suscripción en cualquier momento. En caso de hacerlo, le notificaremos por lo menos con 30 días de anticipación. Si no está de acuerdo con la modificación de precio, deberá cancelar su Suscripción antes que la modificación de precio entre en vigor. El hecho de que continúe usando la Suscripción indica que acepta la nueva Tarifa de suscripción recurrente. 
+8. Los requisitos de suscripción y las funciones disponibles varían dependiendo de la plataforma, región y el periodo. Podemos modificar la Tarifa de suscripción en cualquier momento. En caso de hacerlo, le notificaremos por lo menos con 30 días de anticipación. Si no está de acuerdo con la modificación de precio, deberá cancelar su Suscripción antes que la modificación de precio entre en vigor. El hecho de que continúe usando la Suscripción indica que acepta la nueva Tarifa de suscripción recurrente.
 
 9. Epic se reserva el derecho a modificar las Condiciones de suscripción de Fortnite Crew periódicamente y publicará la versión más actualizada de las Condiciones de suscripción de Fortnite Crew en el sitio <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</>.

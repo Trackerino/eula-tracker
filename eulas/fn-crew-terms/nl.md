@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69d4a455c02b09007b6891cd` |
+| `id` | `6a234b6281ae2d63f5244023` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `6` |
+| `revision` | `7` |
 | `title` | `FORTNITE CREW ABONNEMENTSVOORWAARDEN` |
 | `locale` | `nl` |
-| `createdTimestamp` | `2026-04-07T06:29:41.303Z` |
-| `lastModifiedTimestamp` | `2026-04-07T06:29:41.303Z` |
+| `createdTimestamp` | `2026-06-05T22:19:14.740Z` |
+| `lastModifiedTimestamp` | `2026-06-05T22:19:14.740Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/nl/v2/r6/0711411bfe1ea2d7ec1ce3b490429f3d.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/nl/v2/r7/431165fa14bda46221ab1d1e24986a7e.pdf` |
 | `bodyFormat` | `HTML` |

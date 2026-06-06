@@ -1,46 +1,60 @@
-Termini di Abbonamento Fortnite Crew 
+Stiamo aggiornando i Termini di Abbonamento Fortnite Crew ("Termini"). Le modifiche entreranno in vigore il 6 giugno 2026. Gli attuali Termini sono disponibili di seguito. Ecco un riepilogo dei principali aggiornamenti.
 
-Fortnite Crew è offerta in abbonamento con pagamenti ricorrenti. Acquistando un Abbonamento Fortnite Crew (“Abbonamento”), l’utente accetta i seguenti termini (“Termini di Abbonamento Fortnite Crew”).
+•	La descrizione dei vantaggi mensili è stata spostata dai Termini a <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</a>. Puoi anche visualizzare i vantaggi attuali in qualsiasi momento nella scheda Pass nel gioco.
 
-L’Abbonamento dell’Utente fa parte dei <a id="url" href="https://legal.epicgames.com/epicgames/tos " style="EULA.Hyperlink">Termini di servizio di Epic Games</> (i “Termini di Servizio”), che sono incorporati nei presenti termini per riferimento. I presenti Termini di Abbonamento Fortnite Crew includono dettagli sulle spese ricorrenti associate all’Abbonamento, l’autorizzazione dell’utente a tali spese ricorrenti e il diritto di Epic di modificare i livelli, i vantaggi e i prezzi dell’Abbonamento. SI PREGA DI LEGGERE I PRESENTI TERMINI PER INTERO PRIMA DI ABBONARSI.
+•	Abbiamo chiarito che gli articoli inclusi nell'abbonamento ogni mese avranno un valore almeno pari al prezzo di Fortnite Crew se acquistati separatamente.
 
-IMPORTANTE: I TERMINI DI SERVIZIO CONTENGONO UNA DISPOSIZIONE VINCOLANTE, DI ARBITRATO INDIVIDUALE E RINUNCIA AD AZIONE DI CLASSE. TALE DISPOSIZIONE SI APPLICHERÀ ALL’ACQUISTO E ALL’UTILIZZO DELL’ABBONAMENTO SE L’UTENTE RISIEDE NEGLI STATI UNITI. NON TROVERÀ APPLICAZIONE SE QUESTI RISIEDE NELL’UE, MA POTREBBE APPLICARSI ALL’UTENTE SE INVECE RISIEDE ALTROVE.
-
-Potrebbero trovare applicazione ulteriori termini e requisiti in caso di acquisto da parte dell’utente dell’Abbonamento tramite la piattaforma di un’altra società, come Xbox, Playstation, Nintendo Switch o tramite qualsiasi altra piattaforma o rivenditore (denominati “Abbonamenti di Terzi Parti”). Per ulteriori informazioni consultare i termini del provider della piattaforma.
-
-1. L’utente deve assicurarsi di scegliere con attenzione la piattaforma (ad esempio, Xbox, PlayStation, Nintendo Switch, ecc.) sulla quale effettua l’acquisto dell’Abbonamento. L’Abbonamento dell’utente sarà associato alla piattaforma sulla quale lo ha acquistato (la “Piattaforma principale” dell’utente) finché non sarà disdetto, e non sarà trasferibile tra le piattaforme. L’utente sarà in grado di accedere agli articoli che riceve nell’ambito dell’Abbonamento su piattaforme diverse, ad eccezione dei V-Bucks, i quali non sono rimborsabili su altre piattaforme. L’utente deve accedere alla sua Piattaforma principale ogni periodo di abbonamento per accedere ai suoi Contenuti in Abbonamento.
-
-2. L’Abbonamento è soggetto ad un canone ricorrente (“Canone di Abbonamento”) che continuerà a rinnovarsi automaticamente fino alla disdetta da parte dell’utente. L’utente può disdire il suo Abbonamento in qualsiasi momento tramite la piattaforma su cui ha acquistato l’Abbonamento. Esistono tre modi per annullare l’Abbonamento acquistato da Epic su PC o dispositivi mobili:
-all’interno del gioco, visitare la scheda Pass e procedere con l’annullamento dell’Abbonamento;
-visitare <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> per annullare l’Abbonamento tramite il web, oppure
-aprire l’Epic Games Store, fare clic sul proprio profilo, selezionare l’account e raggiungere la scheda Abbonamenti.
-
-Se l’utente ha acquistato un abbonamento tramite il servizio di un’altra società (ad es. Xbox, PlayStation o Nintendo Switch), può annullarlo su quella piattaforma o sui loro siti web come illustrato <a id="url" href="https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Billingandpayment/how-can-i-cancel-my-fortnite-crew-subscription-a000085124" style="EULA.Hyperlink">qui</>. Epic non gestisce la fatturazione o le cancellazioni per tali piattaforme.
-
-3. Per acquistare un Abbonamento, l’utente deve aver raggiunto la maggiore età legale nel proprio Paese di residenza. Per pagare l’Abbonamento, verrà chiesto all’utente di fornire i dati dell’account e informazioni sul metodo di pagamento al momento della registrazione. Fornendo a Epic un metodo di pagamento, l’utente dichiara (i) di essere un individuo maggiorenne autorizzato ad utilizzare il metodo di pagamento fornito e (ii) che tutte le informazioni di pagamento fornite sono veritiere e accurate.
-
-4. Quando acquista l’Abbonamento, l’utente accetta di autorizzare pagamenti ricorrenti del Canone di Abbonamento. Il pagamento ricorrente del Canone di Abbonamento avviene a intervalli concordati dall’utente dal giorno di acquisto dell’Abbonamento fino al suo annullamento. Quando acquista l’Abbonamento, l’utente concede a Epic, una piattaforma di terze parti o un processore di pagamento di terze parti designato, il permesso di addebitare automaticamente il Canone di Abbonamento al metodo di pagamento fornito su base ricorrente fino a quando l’utente non annulla l’Abbonamento. Il Canone di Abbonamento esclude qualsiasi imposta o tassa federale, statale o comunale applicabile, salvo diversamente previsto dalla legge applicabile.
-
-Nota: se si acquista un Abbonamento di Terze Parti, è necessario consultare attentamente le regole e i processi del provider della piattaforma. Potrebbero trovare applicazione ulteriori termini, requisiti e politiche di annullamento in caso di acquisto dell’Abbonamento da parte dell’utente tramite la piattaforma di un’altra società.
-
-5. L’utente dovrà annullare l’Abbonamento prima della data di fatturazione successiva in modo da non incorrere nell’addebito del Canone di Abbonamento. L’utente può conoscere la data di fatturazione successiva:
-all’interno del gioco raggiungendo la scheda Pass;
-sul web visitando <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, o
-aprendo l’applicazione Epic Games Store, facendo clic sul proprio profilo, selezionando l’account e accedendo alla scheda Abbonamenti.
-
-In caso di annullamento prima della data di fatturazione successiva, l’Abbonamento non verrà rinnovato e all’utente non sarà addebitato un altro Canone di Abbonamento.
-
-6. Nell’ambito del suo Abbonamento, l’utente riceverà i vantaggi ogni mese (“Contenuti in Abbonamento”). I Contenuti in Abbonamento includeranno articoli che costano almeno tanto quanto l’Abbonamento. I Contenuti in Abbonamento potrebbero includere, tra l’altro, anche articoli cosmetici. Le informazioni sui Contenuti in Abbonamento disponibili per l’Abbonamento nel mese corrente sono disponibili alla pagina <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</>. L’utente può anche controllare i vantaggi attuali nella scheda Pass all’interno del gioco. 
-
-Epic potrebbe offrire diverse opzioni di sottoscrizione per l’Abbonamento, ciascuna con Canone di Abbonamento e Contenuti in Abbonamento propri. Il Canone di Abbonamento e i Contenuti in Abbonamento saranno chiaramente illustrati al momento dell’iscrizione.
+•	Abbiamo aggiunto dettagli su come ti avremmo informato nel caso in cui il canone di abbonamento dovesse mai cambiare.
 
 
-In caso di annullamento dell’Abbonamento, l’utente conserverà i Contenuti in Abbonamento ricevuti o guadagnati durante il periodo di Abbonamento. L’utente non avrà diritto a un rimborso proporzionale di alcuna quota del Canone di Abbonamento. La presente politica di rimborso non influisce su eventuali diritti legali che potrebbero dare diritto all’utente a un rimborso indipendentemente dalla stessa. 
+__________________________
 
-7. Epic potrebbe offrire l’Abbonamento assieme ad altri servizi in abbonamento, sotto forma di pacchetto. Tali pacchetti potrebbero comprendere più abbonamenti a prodotti o servizi forniti da terze parti. Se l’utente sceglie un pacchetto di abbonamenti, al momento della registrazione gli illustreremo chiaramente ciò che è contenuto nel pacchetto, inclusi eventuali abbonamenti di terze parti.
+Fortnite Crew è offerta in abbonamento con pagamenti ricorrenti. Acquistando un Abbonamento Fortnite Crew ("Abbonamento"), l'utente accetta i seguenti termini ("Termini di Abbonamento Fortnite Crew").
 
-Prodotti e servizi di terze parti inclusi in un pacchetto sono forniti dalla terza parte pertinente e sono soggetti ai termini e alle condizioni di tale terza parte. Invitiamo l’utente ad esaminare attentamente tali termini, poiché disciplineranno l’utilizzo di tali servizi di terze parti.
+L'Abbonamento dell'Utente fa parte dei <a id="url" href="https://legal.epicgames.com/epicgames/tos " style="EULA.Hyperlink">Termini di servizio di Epic Games</> (i "Termini di Servizio"), che sono incorporati nei presenti termini per riferimento. I presenti Termini di Abbonamento Fortnite Crew includono dettagli sulle spese ricorrenti associate all'Abbonamento, l'autorizzazione dell'utente a tali spese ricorrenti e il diritto di Epic di modificare i livelli, i vantaggi e i prezzi dell'Abbonamento. SI PREGA DI LEGGERE I PRESENTI TERMINI PER INTERO PRIMA DI ABBONARSI.
 
-8. I requisiti di abbonamento e le funzionalità disponibili possono variare a seconda delle piattaforme, delle regioni e nel corso del tempo. Possiamo modificare il Canone di abbonamento in qualsiasi momento; in tal caso, ne daremo avviso all’utente con almeno 30 giorni di anticipo. Se l’utente non accetta la modifica del prezzo, deve annullare l’Abbonamento prima che la modifica abbia effetto. Continuando a utilizzare l’Abbonamento, l’utente indica di accettare il nuovo Canone di abbonamento ricorrente. 
+<EULA.HIGHLIGHT>IMPORTANTE: I TERMINI DI SERVIZIO CONTENGONO UNA DISPOSIZIONE VINCOLANTE, DI ARBITRATO INDIVIDUALE E RINUNCIA AD AZIONE DI CLASSE. TALE DISPOSIZIONE SI APPLICHERÀ ALL'ACQUISTO E ALL'UTILIZZO DELL'ABBONAMENTO SE L'UTENTE RISIEDE NEGLI STATI UNITI. NON TROVERÀ APPLICAZIONE SE QUESTI RISIEDE NELL'UE, MA POTREBBE APPLICARSI ALL'UTENTE SE INVECE RISIEDE ALTROVE.</>
+
+Potrebbero trovare applicazione ulteriori termini e requisiti in caso di acquisto da parte dell'utente dell'Abbonamento tramite la piattaforma di un'altra società, come Xbox, Playstation, Nintendo Switch o tramite qualsiasi altra piattaforma o rivenditore (denominati "Abbonamenti di Terzi Parti"). Per ulteriori informazioni consultare i termini del provider della piattaforma.
+
+1. L'utente deve assicurarsi di scegliere con attenzione la piattaforma (ad esempio, Xbox, PlayStation, Nintendo Switch, ecc.) sulla quale effettua l'acquisto dell'Abbonamento. L'Abbonamento dell'utente sarà associato alla piattaforma sulla quale lo ha acquistato (la "Piattaforma principale" dell'utente) finché non sarà disdetto, e non sarà trasferibile tra le piattaforme. L'utente sarà in grado di accedere agli articoli che riceve nell'ambito dell'Abbonamento su piattaforme diverse, ad eccezione dei V-Bucks, i quali non sono rimborsabili su altre piattaforme. L'utente deve accedere alla sua Piattaforma principale ogni periodo di abbonamento per accedere ai suoi Contenuti in Abbonamento.
+
+2. L'Abbonamento è soggetto ad un canone ricorrente ("Canone di Abbonamento") che continuerà a rinnovarsi automaticamente fino alla disdetta da parte dell'utente. L'utente può disdire il suo Abbonamento in qualsiasi momento tramite la piattaforma su cui ha acquistato l'Abbonamento. Esistono tre modi per annullare l'Abbonamento acquistato da Epic su PC o dispositivi mobili:
+
+•	all'interno del gioco, visitare la scheda Pass e procedere con l'annullamento dell'Abbonamento;
+
+•	visitare <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</> per annullare l'Abbonamento tramite il web, oppure
+
+•	aprire l'Epic Games Store, fare clic sul proprio profilo, selezionare l'account e raggiungere la scheda Abbonamenti.
+
+Se l'utente ha acquistato un abbonamento tramite il servizio di un'altra società (ad es. Xbox, PlayStation o Nintendo Switch), può annullarlo su quella piattaforma o sui loro siti web come illustrato <a id="url" href="https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Billingandpayment/how-can-i-cancel-my-fortnite-crew-subscription-a000085124" style="EULA.Hyperlink">qui</>. Epic non gestisce la fatturazione o le cancellazioni per tali piattaforme.
+
+3. Per acquistare un Abbonamento, l'utente deve aver raggiunto la maggiore età legale nel proprio Paese di residenza. Per pagare l'Abbonamento, verrà chiesto all'utente di fornire i dati dell'account e informazioni sul metodo di pagamento al momento della registrazione. Fornendo a Epic un metodo di pagamento, l'utente dichiara (i) di essere un individuo maggiorenne autorizzato ad utilizzare il metodo di pagamento fornito e (ii) che tutte le informazioni di pagamento fornite sono veritiere e accurate.
+
+4. Quando acquista l'Abbonamento, l'utente accetta di autorizzare pagamenti ricorrenti del Canone di Abbonamento. Il pagamento ricorrente del Canone di Abbonamento avviene a intervalli concordati dall'utente dal giorno di acquisto dell'Abbonamento fino al suo annullamento. Quando acquista l'Abbonamento, l'utente concede a Epic, una piattaforma di terze parti o un processore di pagamento di terze parti designato, il permesso di addebitare automaticamente il Canone di Abbonamento al metodo di pagamento fornito su base ricorrente fino a quando l'utente non annulla l'Abbonamento. Il Canone di Abbonamento esclude qualsiasi imposta o tassa federale, statale o comunale applicabile, salvo diversamente previsto dalla legge applicabile.
+
+Nota: se si acquista un Abbonamento di Terze Parti, è necessario consultare attentamente le regole e i processi del provider della piattaforma. Potrebbero trovare applicazione ulteriori termini, requisiti e politiche di annullamento in caso di acquisto dell'Abbonamento da parte dell'utente tramite la piattaforma di un'altra società.
+
+5. L'utente dovrà annullare l'Abbonamento prima della data di fatturazione successiva in modo da non incorrere nell'addebito del Canone di Abbonamento. L'utente può conoscere la data di fatturazione successiva:
+
+•	all'interno del gioco raggiungendo la scheda Pass;
+
+•	sul web visitando <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, o
+
+•	aprendo l'applicazione Epic Games Store, facendo clic sul proprio profilo, selezionando l'account e accedendo alla scheda Abbonamenti.
+
+In caso di annullamento prima della data di fatturazione successiva, l'Abbonamento non verrà rinnovato e all'utente non sarà addebitato un altro Canone di Abbonamento.
+
+6. Nell'ambito del suo Abbonamento, l'utente riceverà i vantaggi ogni mese ("Contenuti in Abbonamento"). I Contenuti in Abbonamento includeranno articoli che costano almeno tanto quanto l'Abbonamento. I Contenuti in Abbonamento potrebbero includere, tra l'altro, anche articoli cosmetici. Le informazioni sui Contenuti in Abbonamento disponibili per l'Abbonamento nel mese corrente sono disponibili alla pagina <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</>. L'utente può anche controllare i vantaggi attuali nella scheda Pass all'interno del gioco.
+
+Epic potrebbe offrire diverse opzioni di sottoscrizione per l'Abbonamento, ciascuna con Canone di Abbonamento e Contenuti in Abbonamento propri. Il Canone di Abbonamento e i Contenuti in Abbonamento saranno chiaramente illustrati al momento dell'iscrizione.
+
+In caso di annullamento dell'Abbonamento, l'utente conserverà i Contenuti in Abbonamento ricevuti o guadagnati durante il periodo di Abbonamento. L'utente non avrà diritto a un rimborso proporzionale di alcuna quota del Canone di Abbonamento. La presente politica di rimborso non influisce su eventuali diritti legali che potrebbero dare diritto all'utente a un rimborso indipendentemente dalla stessa.
+
+7. Epic potrebbe offrire l'Abbonamento assieme ad altri servizi in abbonamento, sotto forma di pacchetto. Tali pacchetti potrebbero comprendere più abbonamenti a prodotti o servizi forniti da terze parti. Se l'utente sceglie un pacchetto di abbonamenti, al momento della registrazione gli illustreremo chiaramente ciò che è contenuto nel pacchetto, inclusi eventuali abbonamenti di terze parti.
+
+Prodotti e servizi di terze parti inclusi in un pacchetto sono forniti dalla terza parte pertinente e sono soggetti ai termini e alle condizioni di tale terza parte. Invitiamo l'utente ad esaminare attentamente tali termini, poiché disciplineranno l'utilizzo di tali servizi di terze parti.
+
+8. I requisiti di abbonamento e le funzionalità disponibili possono variare a seconda delle piattaforme, delle regioni e nel corso del tempo. Possiamo modificare il Canone di abbonamento in qualsiasi momento; in tal caso, ne daremo avviso all'utente con almeno 30 giorni di anticipo. Se l'utente non accetta la modifica del prezzo, deve annullare l'Abbonamento prima che la modifica abbia effetto. Continuando a utilizzare l'Abbonamento, l'utente indica di accettare il nuovo Canone di abbonamento ricorrente.
 
 9. Epic si riserva il diritto di modificare di volta in volta i Termini di Abbonamento alla Fortnite Crew e pubblicherà la versione più recente degli stessi alla pagina <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</>.

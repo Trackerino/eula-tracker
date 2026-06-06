@@ -1,19 +1,32 @@
-Fortnite Crew 訂閱條款 
+我們正在更新《Fortnite Crew 訂閱條款》（下稱「條款」）。變更將於 2026 年 6 月 6 日生效。目前條款如下所示。以下是主要更新內容的摘要。
+
+
+•	每月福利說明已從條款內容移至 <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</a>. 您也可以透過遊戲中的「通行證」索引標籤，隨時查看目前的福利。
+
+•	我們清楚說明，您每個月訂閱中包含的項目，若單獨購買，其價值將至少等於 Fortnite Crew 的價格。
+
+•	我們加入了訂閱費用變更時會如何通知您的詳細資訊。
+
+
+__________________________
 
 Fortnite Crew 以訂閱制提供服務，並定期扣款。購買 Fortnite Crew 訂閱（下稱「訂閱」）即表示您同意以下條款（下稱「Fortnite Crew 訂閱條款」）。
 
 您的訂閱是<a id="url" href="https://legal.epicgames.com/epicgames/tos " style="EULA.Hyperlink">《Epic Games 服務條款》</> （下稱「服務條款」）的一部分，藉由引用方式併入本條款。 此《Fortnite Crew 訂閱條款》包括訂閱相關的定期費用、您對這些定期費用的授權，以及 Epic 變更訂閱層級、福利和定價的權利等詳細資訊。訂閱前請先完整閱讀這些條款。
 
-重要事項：服務條款含有具拘束力的個人仲裁及集體訴訟棄權規定。若您居住於美國，本條款將適用於您購買及使用訂閱的情形。若您居住在歐盟則不適用，但如果您居住在其他地方，則可能適用。
+<EULA.HIGHLIGHT>重要事項：服務條款含有具拘束力的個人仲裁及集體訴訟棄權規定。若您居住於美國，本條款將適用於您購買及使用訂閱的情形。若您居住在歐盟則不適用，但如果您居住在其他地方，則可能適用。</>
 
 若透過其他公司的平台購買訂閱，例如 Xbox、PlayStation、Nintendo Switch，或透過任何其他平台或經銷商（下稱「第三方訂閱」），可能須遵守其他的條款及規定。請檢視平台供應商的條款，以瞭解更多資訊。
 
 1. 請務必謹慎選擇您購買訂閱的平台（如 Xbox、PlayStation、Nintendo Switch 等）。您的訂閱與您購買訂閱的平台（您的「主要平台」）相關聯，直到取消為止，且不得於平台之間轉讓。您將可以在不同平台上存取透過訂閱獲得的物品，但不得於其他平台上兌換所獲得的 V 幣。在各訂閱期間，您必須登入主要平台方可存取訂閱內容。
 
 2. 您的訂閱須支付定期費用（下稱「訂閱費」），且在您取消前都會持續自動續訂。您隨時可以透過購買訂閱的平台取消訂閱。若要取消在個人電腦或行動裝置上向 Epic 購買之訂閱，可使用以下三種方式：
-在遊戲中，瀏覽至「通行證」索引標籤，並繼續執行取消訂閱的步驟；
-前往 <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>，透過網頁取消，或
-開啟 Epic Games Store 應用程式，按一下個人檔案，選取帳戶，然後瀏覽至「訂閱」索引標籤 以取消訂閱。
+
+•	在遊戲中，瀏覽至「通行證」索引標籤，並繼續執行取消訂閱的步驟；
+
+•	前往 <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>，透過網頁取消，或
+
+•	開啟 Epic Games Store 應用程式，按一下個人檔案，選取帳戶，然後瀏覽至「訂閱」索引標籤 以取消訂閱。
 
 如果您透過其他公司的服務（如 Xbox、PlayStation 或 Nintendo Switch）購買訂閱，可以按照<a id="url" href="https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Billingandpayment/how-can-i-cancel-my-fortnite-crew-subscription-a000085124" style="EULA.Hyperlink">這裡</>的說明，在該平台或其網站上取消訂閱。Epic 不經手這些平台的收費或取消作業。
 
@@ -24,23 +37,25 @@ Fortnite Crew 以訂閱制提供服務，並定期扣款。購買 Fortnite Crew 
 注意：若您購買第三方訂閱，應仔細檢閱該平台供應商的規則與流程。若透過其他公司購買訂閱，可能要遵守其他的條款、規定和取消政策。
 
 5. 若要停止訂閱費扣款，須在下次出帳日期前取消訂閱。可透過以下方式找到下次出帳日期：
-在遊戲內，瀏覽至「通行證」索引標籤；
-在網頁上，前往 <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>，或
-開啟 Epic Games Store 應用程式，按一下個人檔案，選取帳戶，然後瀏覽至「訂閱」索引標籤。
+
+•	在遊戲內，瀏覽至「通行證」索引標籤；
+
+•	在網頁上，前往 <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>，或
+
+•	開啟 Epic Games Store 應用程式，按一下個人檔案，選取帳戶，然後瀏覽至「訂閱」索引標籤。
 
 如果您在下次出帳日期前取消訂閱，便不會續訂，也不會再向您收取其他訂閱費。
 
 6. 作為訂閱的一部分，您每月會獲得相關福利（下稱「訂閱內容」）。訂閱內容所包含的項目費用至少等於訂閱之價格。訂閱內容可能包含外觀物品及其他內容。可在 <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</> 上找到當月可供您訂閱的訂閱內容相關資訊。亦可在遊戲中的「通行證」索引標籤中查看目前的福利。
 
-Epic 得為訂閱提供不同的訂閱選項，且各選項分別有不同的訂閱費及訂閱內容。訂閱費和訂閱內容將於註冊時清楚說明。                                        
+Epic 得為訂閱提供不同的訂閱選項，且各選項分別有不同的訂閱費及訂閱內容。訂閱費和訂閱內容將於註冊時清楚說明。
 
-     
 若取消訂閱，您會保留 或賺取的 訂閱期間所收到 的訂閱內容。您無法按比例取回訂閱費的任何部分。本退款政策並不影響您的法定權利，即使在本政策規定以外，您仍可能根據該法定權利獲得退款。
 
 7. 我們可能會以組合包方式提供訂閱並搭配其他訂閱服務。這些組合包可能包括由第三方提供之產品或服務的訂閱。若選擇組合包訂閱，我們會在您註冊時清楚說明組合包所包含的內容，包括任何第三方訂閱。
 
 組合包所包含的第三方產品和服務由相關第三方提供，並須遵守該第三方的條款與條件。建議仔細檢閱這些條款，因為這些條款將規範您使用這些第三方服務的情況。
 
-8. 訂閱相關規定及可用功能，可能因平台、地區及時間而有所不同。我們得隨時變更訂閱費；若要變更，將至少提前 30 天通知您。如果您不同意價格變更，必須在價格變更生效日前取消訂閱。繼續使用訂閱即表示您接受新的定期訂閱費。 
+8. 訂閱相關規定及可用功能，可能因平台、地區及時間而有所不同。我們得隨時變更訂閱費；若要變更，將至少提前 30 天通知您。如果您不同意價格變更，必須在價格變更生效日前取消訂閱。繼續使用訂閱即表示您接受新的定期訂閱費。
 
 9. Epic 保留權利，得不定時變更《Fortnite Crew 訂閱條款》，並且會在 <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</> 公布最新版的《Fortnite Crew 訂閱條款》。
