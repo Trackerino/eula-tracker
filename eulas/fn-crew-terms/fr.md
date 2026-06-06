@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6a234aed1d34a87f86db6957` |
+| `id` | `6a2450d31c04a85621c12401` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `12` |
+| `revision` | `13` |
 | `title` | `Conditions de l''abonnement au Club de Fortnite` |
 | `locale` | `fr` |
-| `createdTimestamp` | `2026-06-05T22:17:17.952Z` |
-| `lastModifiedTimestamp` | `2026-06-05T22:17:17.952Z` |
+| `createdTimestamp` | `2026-06-06T16:54:43.375Z` |
+| `lastModifiedTimestamp` | `2026-06-06T16:54:43.375Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/fr/v2/r12/1af8f3b22d5d2f550d49fe2d5cdcf48e.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/fr/v2/r13/f8787f9cf78abaf07842c05e7425d411.pdf` |
 | `bodyFormat` | `HTML` |

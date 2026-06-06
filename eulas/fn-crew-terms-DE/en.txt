@@ -1,22 +1,8 @@
-We are updating the Fortnite Crew Subscription Terms (“Terms”). The changes will go into effect <EULA.Highlight>on June 6, 2026</a>. The current Terms can be found below. Here is a summary of the main updates.
-
-•	The description of the monthly benefits has moved from the Terms to <a id="url" href="https://www.fortnite.com/fortnite-crew-subscription" style="EULA.Hyperlink">https://www.fortnite.com/fortnite-crew-subscription</a>. You can also see the current benefits anytime in the Passes tab in-game.
-
-•	We clarified that the items included in your subscription each month will have a value at least equal to the price of Fortnite Crew if purchased separately.
-
-•	We added details about how we would notify you if the subscription fee ever changes.
-
-__________________________
-
-Fortnite Crew Subscription Terms 
-
-(effective as of June 6, 2026)
-
 Fortnite Crew is offered on a subscription basis with recurring payments. By purchasing a Fortnite Crew subscription (“Subscription”), you agree to the following terms (“Fortnite Crew Subscription Terms ”).
 
 Your Subscription is a part of the <a id="url" href="https://legal.epicgames.com/en-US/epicgames/tos" style="EULA.Hyperlink">Epic Games Terms of Service</a> (“Terms of Service”), which is incorporated into these terms by reference. 
 
-IMPORTANT: THE TERMS OF SERVICE CONTAIN A BINDING INDIVIDUAL ARBITRATION AND CLASS ACTION WAIVER PROVISION. THIS PROVISION WILL APPLY TO YOUR PURCHASE AND USE OF THE SUBSCRIPTION IF YOU RESIDE IN THE UNITED STATES. IT WILL NOT APPLY IF YOU RESIDE IN THE EU BUT IT MAY APPLY TO YOU IF YOU RESIDE ELSEWHERE.
+<EULA.HIGHLIGHT>IMPORTANT: THE TERMS OF SERVICE CONTAIN A BINDING INDIVIDUAL ARBITRATION AND CLASS ACTION WAIVER PROVISION. THIS PROVISION WILL APPLY TO YOUR PURCHASE AND USE OF THE SUBSCRIPTION IF YOU RESIDE IN THE UNITED STATES. IT WILL NOT APPLY IF YOU RESIDE IN THE EU BUT IT MAY APPLY TO YOU IF YOU RESIDE ELSEWHERE.</>
 
 Additional terms and requirements may apply if you purchase your Subscription through another company’s platform, like Xbox, PlayStation, Nintendo Switch, or through any other platform or reseller (these are called “Third-Party Subscriptions”). Review your platform provider’s terms for more information.
 

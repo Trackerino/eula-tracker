@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6a234f9d98a7a5642c821c10` |
+| `id` | `6a245061f9f8b1669613c789` |
 | `key` | `fn-crew-terms` |
 | `version` | `2` |
-| `revision` | `13` |
+| `revision` | `14` |
 | `title` | `شروط الاشتراك في طاقم Fortnite` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2026-06-05T22:37:17.538Z` |
-| `lastModifiedTimestamp` | `2026-06-05T22:37:17.538Z` |
+| `createdTimestamp` | `2026-06-06T16:52:49.679Z` |
+| `lastModifiedTimestamp` | `2026-06-06T16:52:49.679Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/ar/v2/r13/e0b1dacba32904fc84f23cad10b67edb.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-crew-terms/ar/v2/r14/e3b428e5d10cdc241b24a818d1427c25.pdf` |
 | `bodyFormat` | `HTML` |
