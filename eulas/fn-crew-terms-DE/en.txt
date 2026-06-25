@@ -1,6 +1,6 @@
 Fortnite Crew is offered on a subscription basis with recurring payments. By purchasing a Fortnite Crew subscription (“Subscription”), you agree to the following terms (“Fortnite Crew Subscription Terms ”).
 
-Your Subscription is a part of the <a id="url" href="https://legal.epicgames.com/en-US/epicgames/tos" style="EULA.Hyperlink">Epic Games Terms of Service</a> (“Terms of Service”), which is incorporated into these terms by reference. 
+Your Subscription is a part of the <a id="url" href="https://legal.epicgames.com/en-US/epicgames/tos" style="EULA.Hyperlink">Epic Games Terms of Service</> (“Terms of Service”), which is incorporated into these terms by reference. 
 
 <EULA.HIGHLIGHT>IMPORTANT: THE TERMS OF SERVICE CONTAIN A BINDING INDIVIDUAL ARBITRATION AND CLASS ACTION WAIVER PROVISION. THIS PROVISION WILL APPLY TO YOUR PURCHASE AND USE OF THE SUBSCRIPTION IF YOU RESIDE IN THE UNITED STATES. IT WILL NOT APPLY IF YOU RESIDE IN THE EU BUT IT MAY APPLY TO YOU IF YOU RESIDE ELSEWHERE.</>
 

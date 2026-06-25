@@ -1,6 +1,6 @@
 Fortnite-Crew wird auf Abonnementbasis mit wiederkehrenden Zahlungen angeboten. Durch den Abschluss eines Abonnements für Fortnite-Crew („Abonnement“) erklären Sie sich mit den folgenden Bedingungen („Abonnementbedingungen für Fortnite Crew“) einverstanden.
 
-Ihr Abonnement unterliegt den <a id="url" href="https://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">Nutzungsbedingungen von Epic Games</a> („Nutzungsbedingungen“), die hiermit durch Bezugnahme in diese Bedingungen aufgenommen werden. 
+Ihr Abonnement unterliegt den <a id="url" href="https://legal.epicgames.com/epicgames/tos" style="EULA.Hyperlink">Nutzungsbedingungen von Epic Games</> („Nutzungsbedingungen“), die hiermit durch Bezugnahme in diese Bedingungen aufgenommen werden. 
 
 <EULA.HIGHLIGHT>WICHTIG: DIE NUTZUNGSBEDINGUNGEN ENTHALTEN EINE KLAUSEL ZUR VERBINDLICHEN STREITBEILEGUNG IM EINZELSCHIEDSVERFAHREN UND ZUM VERZICHT AUF SAMMELKLAGEN. DIESE BESTIMMUNG GILT FÜR IHREN KAUF UND IHRE NUTZUNG DES ABONNEMENTS, WENN SIE IN DEN USA WOHNHAFT SIND. WENN SIE IN DER EU WOHNHAFT SIND, GILT DIESE BESTIMMUNG NICHT. SIE KANN JEDOCH FÜR SIE GELTEN, WENN SIE ANDERSWO WOHNHAFT SIND.</>
 
