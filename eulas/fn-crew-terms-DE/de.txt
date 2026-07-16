@@ -11,10 +11,10 @@ Es können zusätzliche Bedingungen und Anforderungen gelten, wenn Sie Ihr Abonn
 2. Ihr Abonnement hat eine wiederkehrende Gebühr („Abonnementgebühr“) und verlängert sich automatisch, bis Sie es kündigen. Sie können Ihr Abonnement jederzeit über die Plattform kündigen, auf der Sie das Abonnement gekauft haben. Es gibt drei Möglichkeiten, Ihr Abonnement, das Sie von Epic gekauft haben, auf dem PC oder Mobilgerät zu kündigen:
 
 •	Im Spiel navigieren Sie zur Registerkarte „Pässe“ und kündigen Sie dort Ihr Abonnement.
-•	Öffnen Sie die Seite <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</a>, um über das Internet zu kündigen.
+•	Öffnen Sie die Seite <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, um über das Internet zu kündigen.
 •	Zur Kündigung Ihres Abonnements öffnen Sie die Epic Games Store-Anwendung, klicken Sie auf Ihr Profil, wählen Sie das Konto aus und navigieren Sie zur Registerkarte „Abonnements“.
 
-Wenn Sie ein Abonnement über den Dienst eines anderen Unternehmens erworben haben (z. B. Xbox, PlayStation oder Nintendo Switch), können Sie es auf deren Plattform oder Website wie <a id="url" href="https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Billingandpayment/how-can-i-cancel-my-fortnite-crew-subscription-a000085124" style="EULA.Hyperlink">hier</a> beschrieben kündigen. Epic bearbeitet weder Abrechnungen noch Kündigungen für diese Plattformen.
+Wenn Sie ein Abonnement über den Dienst eines anderen Unternehmens erworben haben (z. B. Xbox, PlayStation oder Nintendo Switch), können Sie es auf deren Plattform oder Website wie <a id="url" href="https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Billingandpayment/how-can-i-cancel-my-fortnite-crew-subscription-a000085124" style="EULA.Hyperlink">hier</> beschrieben kündigen. Epic bearbeitet weder Abrechnungen noch Kündigungen für diese Plattformen.
 
 3. Um ein Abonnement zu erwerben, müssen Sie in Ihrem Wohnsitzland als Erwachsener gelten (volljährig sein). Um für das Abonnement zu bezahlen, werden Sie bei der Anmeldung aufgefordert, Kontodaten und Informationen zur Zahlungsmethode anzugeben. Indem Sie Epic eine Zahlungsmethode zur Verfügung stellen, erklären Sie, dass (i) Sie eine erwachsene Person sind, die berechtigt ist, die von Ihnen angegebene Zahlungsmethode zu verwenden und (ii) alle von Ihnen angegebenen Zahlungsinformationen wahrheitsgemäß und korrekt sind.
 
@@ -25,7 +25,7 @@ Hinweis: Wenn Sie ein Abonnement über einen Drittanbieter erwerben, sollten Sie
 5. Sie müssen Ihr Abonnement vor dem nächsten Rechnungsdatum kündigen, damit keine weiteren Abonnementgebühren anfallen. Ihr nächstes Rechnungsdatum finden Sie:
 
 •	Im Spiel unter der Registerkarte „Pässe“;
-•	Im Internet unter <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</a>, oder
+•	Im Internet unter <a id="url" href="https://www.epicgames.com/account/subscriptions" style="EULA.Hyperlink">https://www.epicgames.com/account/subscriptions</>, oder
 •	durch Öffnen der Epic Games Store-Anwendung, Anklicken Ihres Profils, Auswahl des Kontos und Navigieren zur Registerkarte „Abonnements“.
 
 Wenn Sie vor dem nächsten Rechnungsdatum kündigen, wird Ihr Abonnement nicht erneuert und es wird Ihnen keine weitere Abonnementgebühr berechnet.
@@ -42,4 +42,4 @@ Produkte und Dienstleistungen von Drittanbietern, die in einem Paket enthalten s
 
 8. Die Anforderungen an das Abonnement und die verfügbaren Funktionen können je nach Plattform, Region und im Laufe der Zeit variieren. Wir können die Abonnementgebühr jederzeit ändern. Wenn wir eine Änderung der Abonnementgebühr planen, benachrichtigen wir Sie im Voraus und holen Ihre Zustimmung ein, bevor die Änderung wirksam wird. Wenn Sie dem neuen Preis nicht zustimmen, bleibt Ihr Abonnement unverändert. Epic kann Ihr Abonnement in diesem Fall jedoch unter Einhaltung einer Frist von mindestens einem Monat kündigen.
 
-9. Epic behält sich das Recht vor, die Abonnement-Bedingungen für Fortnite-Crew von Zeit zu Zeit zu ändern, und wird die aktuelle Version der Abonnement-Bedingungen für Fortnite-Crew unter <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</a> veröffentlichen.
+9. Epic behält sich das Recht vor, die Abonnement-Bedingungen für Fortnite-Crew von Zeit zu Zeit zu ändern, und wird die aktuelle Version der Abonnement-Bedingungen für Fortnite-Crew unter <a id="url" href="https://www.fortnite.com/news/fortnite-crew-terms" style="EULA.Hyperlink">https://www.fortnite.com/news/fortnite-crew-terms</> veröffentlichen.
