@@ -1,16 +1,16 @@
-# 포트나이트 개발자 약관
+# 포트나이트 개발자 프로그램
 
 | Key | Value |
 | --- | ----- |
-| `id` | `691329c369530e61b4e2e6ef` |
+| `id` | `6a739a42c4bb1d16c1cbf511` |
 | `key` | `ic_agreement` |
-| `version` | `2` |
-| `revision` | `2` |
-| `title` | `포트나이트 개발자 약관` |
+| `version` | `3` |
+| `revision` | `1` |
+| `title` | `포트나이트 개발자 프로그램` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2025-11-11T12:19:15.703Z` |
-| `lastModifiedTimestamp` | `2025-11-11T12:19:15.703Z` |
+| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ko/v2/r2/f5446bbcd361e728aa859195a08ed45e.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ko/v3/r1/749f81908ad2f5fd238bfe9e3f3c7895.pdf` |
 | `bodyFormat` | `HTML` |

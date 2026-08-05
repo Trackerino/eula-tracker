@@ -1,16 +1,16 @@
-# Conditions d'utilisation de Fortnite applicables aux développeurs
+# Programme Développeurs Fortnite
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69132976c980f82cb7495c87` |
+| `id` | `6a739a42c4bb1d16c1cbf50e` |
 | `key` | `ic_agreement` |
-| `version` | `2` |
-| `revision` | `3` |
-| `title` | `Conditions d'utilisation de Fortnite applicables aux développeurs` |
+| `version` | `3` |
+| `revision` | `1` |
+| `title` | `Programme Développeurs Fortnite` |
 | `locale` | `fr` |
-| `createdTimestamp` | `2025-11-11T12:17:58.582Z` |
-| `lastModifiedTimestamp` | `2025-11-11T12:17:58.582Z` |
+| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/fr/v2/r3/39305ea14f38c291a4dd40c460c685e4.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/fr/v3/r1/b913d5a27777e7c172ec2dead0d70ab8.pdf` |
 | `bodyFormat` | `HTML` |

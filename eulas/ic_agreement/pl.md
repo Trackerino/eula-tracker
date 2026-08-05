@@ -1,16 +1,16 @@
-# Warunki dla deweloperów Fortnite
+# Program dla deweloperów wysp w Fortnite
 
 | Key | Value |
 | --- | ----- |
-| `id` | `691329d6aa97993165efeea0` |
+| `id` | `6a739a42c4bb1d16c1cbf512` |
 | `key` | `ic_agreement` |
-| `version` | `2` |
-| `revision` | `2` |
-| `title` | `Warunki dla deweloperów Fortnite` |
+| `version` | `3` |
+| `revision` | `1` |
+| `title` | `Program dla deweloperów wysp w Fortnite` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2025-11-11T12:19:34.967Z` |
-| `lastModifiedTimestamp` | `2025-11-11T12:19:34.967Z` |
+| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pl/v2/r2/b13a8a4b1849bc3f0d4ac7953d86d01a.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pl/v3/r1/b7d1a165e39dc6cab444fe7722814508.pdf` |
 | `bodyFormat` | `HTML` |

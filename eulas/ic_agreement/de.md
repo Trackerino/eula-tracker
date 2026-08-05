@@ -1,16 +1,16 @@
-# Fortnite-Entwicklervereinbarungen
+# Fortnite-Entwickler-Programm
 
 | Key | Value |
 | --- | ----- |
-| `id` | `691328f7ca44582bb7f56a6a` |
+| `id` | `6a739a42c4bb1d16c1cbf50a` |
 | `key` | `ic_agreement` |
-| `version` | `2` |
-| `revision` | `4` |
-| `title` | `Fortnite-Entwicklervereinbarungen` |
+| `version` | `3` |
+| `revision` | `1` |
+| `title` | `Fortnite-Entwickler-Programm` |
 | `locale` | `de` |
-| `createdTimestamp` | `2025-11-11T12:15:51.063Z` |
-| `lastModifiedTimestamp` | `2025-11-11T12:15:51.063Z` |
+| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/de/v2/r4/d05e2c5613d51baf18cb82b329f8513a.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/de/v3/r1/56493c1379debe39a2c3bdb938862135.pdf` |
 | `bodyFormat` | `HTML` |

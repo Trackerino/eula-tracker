@@ -1,16 +1,16 @@
-# Términos del desarrollador de Fortnite
+# Programa de desarrolladores de Fortnite
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6913291b5f283f69e3d7e6b8` |
+| `id` | `6a739a42c4bb1d16c1cbf50c` |
 | `key` | `ic_agreement` |
-| `version` | `2` |
-| `revision` | `2` |
-| `title` | `Términos del desarrollador de Fortnite` |
+| `version` | `3` |
+| `revision` | `1` |
+| `title` | `Programa de desarrolladores de Fortnite` |
 | `locale` | `es` |
-| `createdTimestamp` | `2025-11-11T12:16:27.701Z` |
-| `lastModifiedTimestamp` | `2025-11-11T12:16:27.701Z` |
+| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/es/v2/r2/22d9c6e69563acc007c035c5b96bbbd9.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/es/v3/r1/a3cddccf1b161307ea400628b957a724.pdf` |
 | `bodyFormat` | `HTML` |

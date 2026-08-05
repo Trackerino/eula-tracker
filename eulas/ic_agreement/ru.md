@@ -1,16 +1,16 @@
-# Условия Fortnite для разработчиков
+# Программа для разработчиков Fortnite
 
 | Key | Value |
 | --- | ----- |
-| `id` | `69132a17aa97993165efeea3` |
+| `id` | `6a739a42c4bb1d16c1cbf515` |
 | `key` | `ic_agreement` |
-| `version` | `2` |
-| `revision` | `2` |
-| `title` | `Условия Fortnite для разработчиков` |
+| `version` | `3` |
+| `revision` | `1` |
+| `title` | `Программа для разработчиков Fortnite` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2025-11-11T12:20:39.276Z` |
-| `lastModifiedTimestamp` | `2025-11-11T12:20:39.276Z` |
+| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ru/v2/r2/3ce03f4e4d750b6169bdd9fdacd68704.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ru/v3/r1/5b18a868241a067944349d015cafee06.pdf` |
 | `bodyFormat` | `HTML` |

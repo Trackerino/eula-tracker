@@ -1,16 +1,16 @@
-# フォートナイト デベロッパー利用規約
+# フォートナイト デベロッパー プログラム
 
 | Key | Value |
 | --- | ----- |
-| `id` | `691329ac24e8c802889eb814` |
+| `id` | `6a739a42c4bb1d16c1cbf510` |
 | `key` | `ic_agreement` |
-| `version` | `2` |
-| `revision` | `3` |
-| `title` | `フォートナイト デベロッパー利用規約` |
+| `version` | `3` |
+| `revision` | `1` |
+| `title` | `フォートナイト デベロッパー プログラム` |
 | `locale` | `ja` |
-| `createdTimestamp` | `2025-11-11T12:18:52.387Z` |
-| `lastModifiedTimestamp` | `2025-11-11T12:18:52.387Z` |
+| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ja/v2/r3/988b0b1ec982b7950af75f261314b374.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ja/v3/r1/facacbc9ef0a9f5ea799945f54da77b0.pdf` |
 | `bodyFormat` | `HTML` |
