@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6a3998e259e83b13e1762cd2` |
+| `id` | `6aa34146b66b5360a5b5ec38` |
 | `key` | `epicgames_tos` |
 | `version` | `2` |
-| `revision` | `4` |
+| `revision` | `5` |
 | `title` | `TERMOS DE SERVIÇO DA EPIC GAMES` |
 | `locale` | `pt` |
-| `createdTimestamp` | `2026-06-22T20:19:46.486Z` |
-| `lastModifiedTimestamp` | `2026-06-22T20:19:46.486Z` |
+| `createdTimestamp` | `2026-09-10T23:46:14.144Z` |
+| `lastModifiedTimestamp` | `2026-09-10T23:46:14.144Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/pt/v2/r4/73106c9c823e9e232eebec99c85ab7fa.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos/pt/v2/r5/d16154cb5a03d083654ce1f84a4cb75f.pdf` |
 | `bodyFormat` | `HTML` |

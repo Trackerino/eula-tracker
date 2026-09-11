@@ -1,5 +1,5 @@
-Data dell’ultimo aggiornamento: 27 maggio 2026
-In vigore da: 28 novembre 2025 
+Data dell’ultimo aggiornamento: 10 settembre 2026
+In vigore da: 10 settembre 2026 
 
 Salve! Queste sono le regole e le responsabilità associate all’utilizzo dei nostri giochi e servizi. 
 
@@ -498,6 +498,8 @@ L’utente riconosce e accetta che Apple non è responsabile per alcuna garanzia
 Epic, non Apple, è responsabile per affrontare le rivendicazioni dell’utente o di terze parti relative ai Prodotti concessi in licenza o al loro possesso e/o uso da parte dell’utente, tra cui, a titolo esemplificativo e non esaustivo: (i) rivendicazioni riguardanti la responsabilità per i prodotti; (ii) richiesta di risarcimento per mancata conformità dei Prodotti concessi in licenza a qualsivoglia requisito legale o normativo vigente; e (iii) richieste derivanti dalle normative a tutela dei consumatori o da normative analoghe. In caso di rivendicazioni da parte di terzi secondo cui i Prodotti concessi in licenza violano i diritti di proprietà intellettuale di una terza parte, Epic, non Apple, sarà l’unico responsabile per l’indagine, la difesa, la risoluzione e il pagamento di qualsiasi richiesta di risarcimento per violazione della proprietà intellettuale (se e nella misura richiesta ai sensi dei presenti Termini).
 
 L’utente riconosce che questi Termini non conferiscono alcun diritto o rimedio a persone diverse dalle parti dei presenti Termini, salvo quanto espressamente dichiarato nei presenti Termini o altrimenti imposto dalla legge applicabile. A prescindere dalle dichiarazioni rilasciate in alto, Apple e le controllate di Apple sono beneficiari terzi dei presenti Termini e, al momento dell’accettazione dei presenti Termini da parte dell’utente, Apple avrà diritto (e sarà sottinteso che Apple abbia accettato il diritto) ad applicare i presenti Termini contro l’utente in veste di beneficiario terzo dei presenti Termini.
+
+Nell’utilizzare i prodotti o i servizi di Epic, l’utente è tenuto a rispettare i termini contrattuali applicabili di terze parti (quali i contratti relativi ai servizi di trasmissione dati wireless stipulati con il proprio operatore).
 
 Eventuali domande, reclami o richieste dell’utente finale relativi ai Prodotti concessi in licenza devono essere inviati inoltrate a <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Assistenza Epic Games</>.
 

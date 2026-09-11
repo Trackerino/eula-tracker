@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6a174d3ab1432d39ec7b576c` |
+| `id` | `6aa339cab9b93f54bfea12b1` |
 | `key` | `epicgames_tos_EU` |
 | `version` | `2` |
-| `revision` | `2` |
+| `revision` | `3` |
 | `title` | `Termini di servizio di Epic Games per l’UE` |
 | `locale` | `it` |
-| `createdTimestamp` | `2026-05-27T19:59:54.152Z` |
-| `lastModifiedTimestamp` | `2026-05-27T19:59:54.152Z` |
+| `createdTimestamp` | `2026-09-10T23:14:18.772Z` |
+| `lastModifiedTimestamp` | `2026-09-10T23:14:18.772Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos_EU/it/v2/r2/db00af0af8c0f2593ae8ec0bc3269f08.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos_EU/it/v2/r3/ece815d869ca999e35ef56a13758a5f9.pdf` |
 | `bodyFormat` | `HTML` |

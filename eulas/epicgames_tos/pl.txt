@@ -1,5 +1,5 @@
-Ostatnia aktualizacja: 27 maja 2026 r.
-Data wejścia w życie: 28 listopada 2025 r. 
+Ostatnia aktualizacja: 10 września 2026 r.
+Data wejścia w życie: 10 września 2026 r. 
 
 Cześć! Niniejszy dokument zawiera zasady i obowiązki związane z korzystaniem z naszych gier i usług. 
 
@@ -500,6 +500,8 @@ Użytkownik przyjmuje do wiadomości i zgadza się, że Apple nie ponosi odpowie
 Za uwzględnianie wszelkich roszczeń Użytkownika albo osób trzecich w związku z Licencjonowanymi produktami albo posiadaniem lub użytkowaniem przez Użytkownika Licencjonowanych produktów odpowiada Epic, a nie Apple, przy czym obejmuje to w szczególności: (i) roszczenia z tytułu odpowiedzialności za wady produktu, (ii) wszelkie roszczenia, według których Licencjonowany produkt nie spełnia jakiegokolwiek odnośnego wymogu prawnego lub regulacyjnego oraz (iii) roszczenia wynikające z praw ochrony konsumentów albo podobnych praw. W przypadku roszczenia, że Licencjonowane produkty naruszają prawo własności intelektualnej osób trzecich, to Epic, a nie Apple, ponosi wyłączną odpowiedzialność za przeprowadzenie śledztwa, obronę, ugodę czy też oddalenie przedmiotowego roszczenia z tytułu naruszenia prawa własności intelektualnej (w zakresie ewentualnie wymaganym na mocy niniejszych Warunków).
 
 Użytkownik przyjmuje, że na mocy niniejszych Warunków nie przyznaje się żadnego prawa ani środków prawnych żadnej osobie niebędącej stroną niniejszych Warunków, chyba że treść Warunków lub obowiązujące przepisy prawa wyraźnie to przewidują. Niezależnie od powyższego Apple i jej podmioty zależne są zewnętrznymi beneficjentami niniejszych Warunków, a wraz z przyjęciem niniejszych Warunków przez użytkownika Apple uzyska prawo (i będzie się uważać, że przyjmuje to prawo) do egzekwowania niniejszych Warunków względem Użytkownika jako beneficjent będący stroną trzecią.
+
+Korzystając z produktów i usług Epic, Użytkownik ma obowiązek przestrzegać mających zastosowanie warunków umów z osobami trzecimi (takich jak umowy o świadczenie usług transmisji danych z dostawcą Użytkownika).
 
 Wszelkie pytania, reklamacje lub roszczenia Użytkownika końcowego dotyczące Licencjonowanych produktów należy kierować do <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">działu pomocy Epic Games</>.
 

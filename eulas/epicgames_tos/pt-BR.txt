@@ -1,5 +1,5 @@
-Última atualização: 27 de maio de 2026
-Data de entrada em vigor: 28 de novembro de 2025 
+Última atualização: 10 de setembro de 2026
+Data de entrada em vigor: 10 de setembro de 2026 
 
 Olá! Este documento estabelece as regras e responsabilidades associadas ao uso dos nossos jogos e serviços. 
 
@@ -500,6 +500,8 @@ Você declara estar ciente e concorda que a Apple não é responsável por garan
 A Epic, e não a Apple, é responsável por responder às suas reivindicações ou as de terceiros com relação aos Produtos licenciados ou à sua posse e/ou ao seu uso dos Produtos licenciados, inclusive: (i) ações de indenização pelo fato do produto; (ii) alegação de que os Produtos licenciados não estão em conformidade com alguma exigência regulatória ou legal aplicável; e (iii) ações de indenização em sede de proteção ao consumidor ou legislação semelhante. Em caso de reivindicação que alegue que os Produtos licenciados violem os direitos de propriedade intelectual de terceiros, a Epic, e não a Apple, será a parte exclusivamente responsável pela investigação, defesa, acordo e liberação em ação de violação de direito de propriedade intelectual (se determinado nestes Termos).
 
 Você concorda que estes Termos não conferem direitos ou recursos a nenhuma pessoa além das partes destes Termos, salvo conforme declarado expressamente nestes Termos ou na lei aplicável. Não obstante o exposto acima, a Apple e as subsidiárias da Apple são terceiros beneficiários destes Termos e, mediante a sua aceitação destes Termos, a Apple terá o direito (e será considerada como tendo aceitado este direito) de aplicar estes Termos contra você, como terceiro beneficiário deste instrumento.
+
+Você deve cumprir os termos de acordo de terceiros aplicáveis (como contratos de serviço de dados sem fio com sua operadora) ao utilizar os produtos ou serviços da Epic.
 
 Perguntas, reclamações ou reivindicações do usuário final no que diz respeito aos Produtos licenciados devem ser enviadas para o <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Serviço de atendimento da Epic Games</>.
 

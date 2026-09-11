@@ -1,5 +1,5 @@
-Última atualização: 27 de maio  de 2026
-Entrada em vigor: 28 de novembro de 2025
+Última atualização: 10 de setembro de 2026
+Entrada em vigor: 10 de setembro de 2026
 
 Olá! Estas são as regras e responsabilidades associadas à utilização dos nossos jogos e serviços. 
 
@@ -500,6 +500,8 @@ O Utilizador reconhece e aceita que a Apple não é responsável por quaisquer g
 Cabe à Epic, e não à Apple, responder a reclamações do Utilizador ou de quaisquer terceiros relacionadas com os Produtos Licenciados ou com a sua posse e/ou utilização, incluindo: (i) reclamações de responsabilidade pelo produto; (ii) qualquer reclamação de que os Produtos Licenciados não cumprem qualquer requisito legal ou regulamentar aplicável; e (iii) reclamações decorrentes da legislação de defesa do consumidor ou de legislação semelhante. No caso de uma reclamação em que se alegue que os Produtos Licenciados infringem direitos de propriedade intelectual de terceiros, cabe à Epic, e não à Apple, a responsabilidade exclusiva pela investigação, defesa, resolução e extinção de qualquer reclamação dessa natureza relativa a infração de direitos de propriedade intelectual (se e na medida exigida pelos presentes Termos).
 
 O Utilizador aceita que os presentes Termos não conferem quaisquer direitos ou medidas de reparação a qualquer pessoa que não seja parte nos presentes Termos, salvo disposição expressa nos mesmos ou na legislação aplicável. Não obstante o disposto anteriormente, a Apple e as suas subsidiárias são beneficiárias terceiras dos presentes Termos e, com a aceitação destes Termos pelo Utilizador, a Apple terá o direito (devendo considerar-se que aceitou tal direito) de fazer cumprir estes Termos contra o Utilizador na qualidade de beneficiária terceira dos mesmos.
+
+Ao utilizar os produtos ou serviços da Epic, deve respeitar os termos e condições aplicáveis de terceiros (tais como os contratos de serviços de dados móveis com o seu operador).
 
 Qualquer questão, reclamação ou pretensão do Utilizador final relativamente aos Produtos Licenciados deve ser enviada para o <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Apoio da Epic Games</>.
 

@@ -1,5 +1,5 @@
-Last Updated: May 27, 2026
-Effective: November 28, 2025 
+Last Updated: September 10th, 2026
+Effective: September 10th, 2026
 
 Hi! These are the rules and responsibilities associated with using our games and services. 
 
@@ -500,6 +500,8 @@ You acknowledge and agree that Apple is not responsible for any product warranti
 Epic, not Apple, is responsible for addressing your or any third party’s claims relating to the Licensed Products or your possession and/or use of the Licensed Products, including: (i) product liability claims; (ii) any claim that the Licensed Products fail to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation. In the event of a claim that the Licensed Products infringe on a third party’s intellectual property rights, Epic, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim (if and to the extent required under these Terms).
 
 You agree that these Terms do not confer any rights or remedies on any person other than the parties to these Terms, except as expressly stated in these Terms or applicable law. Notwithstanding the foregoing, Apple, and Apple’s subsidiaries, are third-party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
+
+You must comply with applicable third-party terms of agreement (such as wireless data service agreements with your carrier) when using Epic's products or services.
 
 Any end-user questions, complaints or claims with respect to the Licensed Products should be submitted to <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games Support</>.
 

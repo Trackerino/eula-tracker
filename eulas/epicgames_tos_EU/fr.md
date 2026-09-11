@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6a174ce9dea3fe17db225631` |
+| `id` | `6aa337c205ae9316ae56805b` |
 | `key` | `epicgames_tos_EU` |
 | `version` | `2` |
-| `revision` | `3` |
+| `revision` | `4` |
 | `title` | `Conditions d’utilisation d’Epic Games pour l’UE` |
 | `locale` | `fr` |
-| `createdTimestamp` | `2026-05-27T19:58:33.802Z` |
-| `lastModifiedTimestamp` | `2026-05-27T19:58:33.802Z` |
+| `createdTimestamp` | `2026-09-10T23:05:38.164Z` |
+| `lastModifiedTimestamp` | `2026-09-10T23:05:38.164Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos_EU/fr/v2/r3/aedee270ecc132cf08dde52c4e3c7e93.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/epicgames_tos_EU/fr/v2/r4/da4918c7cde95f3c7d69ef087de989bb.pdf` |
 | `bodyFormat` | `HTML` |

@@ -1,5 +1,5 @@
-Son Güncelleme: 27 Mayıs 2026
-Yürürlük Tarihi: 28 Kasım 2025 
+Son Güncelleme: 10 Eylül 2026
+Yürürlük Tarihi: 10 Eylül 2026 
 
 Merhaba! Bunlar, oyun ve hizmetlerimizin kullanılması ile ilişkili kurallar ve sorumluluklardır. 
 
@@ -500,6 +500,8 @@ Apple’ın, Lisanslı Ürünler için yasa tarafından aleni veya zımni olarak
 Lisanslı Ürünler veya Lisanslı Ürünlerin mülkiyeti ve/veya kullanımı ile ilgili olarak (i) ürün sorumluluğu talepleri; (ii) Lisanslı Ürünlerin geçerli yasa veya düzenleyici gerekliliklerine uymadığına dair talepler ve (iii) tüketici koruma mevzuatından veya benzer mevzuattan kaynaklanan talepler dâhil olmak üzere sizin veya herhangi bir üçüncü tarafın taleplerini ele almaktan sorumlu olan Apple değil Epic’tir. Lisanslı Ürünlerin üçüncü bir tarafın fikri mülkiyet haklarını ihlal ettiğine dair bir iddia olması hâlinde söz konusu fikri mülkiyet ihlali iddiasının soruşturulması, savunulması, çözüme kavuşturulması ve yerine getirilmesinden Apple değil yalnızca Epic sorumlu olacaktır (bu Koşullar uyarınca gerekli olması hâlinde ve gerekli olan ölçüde).
 
 Bu Koşullarda veya yürürlükteki yasada açıkça belirtilen durumlar dışında, bu Koşulların, bu Koşulların tarafları dışında hiçbir kişiye hiçbir hak veya çözüm yolu vermediğini kabul edersiniz. Yukarıdaki hükümlere halel getirmeksizin, Apple ve Apple’ın iştirakleri bu Koşulların üçüncü taraf lehtarlarıdır ve Koşulları kabul etmeniz üzerine Apple bu Koşulları üçüncü taraf lehtar olarak aleyhinize yürürlüğe koyma hakkına sahip olacaktır (ve bu hakkı kabul etmiş sayılacaktır).
+
+Epic'in ürünlerini veya hizmetlerini kullanırken geçerli üçüncü taraf anlaşma koşullarına (taşıyıcınızla kablosuz veri hizmeti anlaşmaları gibi) uymak zorundasınız.
 
 Lisanslı Ürünlerle ilgili tüm son kullanıcı soruları, şikayetleri veya talepleri <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games Desteği</> iletilmelidir.
 

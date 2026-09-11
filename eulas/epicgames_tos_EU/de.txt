@@ -1,5 +1,5 @@
-Zuletzt aktualisiert: 27. Mai 2026
-Gültig ab: 28. November 2025 
+Zuletzt aktualisiert: 10. September 2026
+Gültig ab: 10. September 2026
 
 Hallo! Diese Regeln und Pflichten gelten für die Nutzung unserer Spiele und Dienste. 
 
@@ -393,6 +393,8 @@ Sie erkennen an und stimmen zu, dass Apple nicht für etwaige Produktgarantien d
 Epic, nicht Apple, ist verantwortlich für die Bearbeitung von Ansprüchen Ihrerseits oder Dritter in Bezug auf die lizenzierten Produkte oder Ihren Besitz und/oder Ihre Nutzung der lizenzierten Produkte, einschließlich: (i) Produkthaftungsansprüche; (ii) Ansprüche, dass die lizenzierten Produkte nicht mit geltenden gesetzlichen oder regulatorischen Anforderungen übereinstimmen; und (iii) Ansprüche im Rahmen von Verbraucherschutz- oder ähnlichen Gesetzen. Im Falle eines Anspruchs, dass die lizenzierten Produkte Rechte des geistigen Eigentums Dritter verletzen, ist allein Epic, nicht Apple, verantwortlich für die Untersuchung, Verteidigung, Beilegung und Abwicklung eines solchen Anspruchs wegen Verletzung geistigen Eigentums (sofern und soweit gemäß diesen Bedingungen erforderlich).
 
 Sie stimmen zu, dass diese Bedingungen keinerlei Rechte oder Rechtsmittel für andere Personen als die Vertragsparteien dieser Bedingungen begründen, außer wie ausdrücklich in diesen Bedingungen oder geltendem Recht vorgesehen. Ungeachtet des Vorstehenden sind Apple und die Tochtergesellschaften von Apple Drittbegünstigte dieser Bedingungen, und mit Ihrer Annahme dieser Bedingungen hat Apple das Recht (und gilt als berechtigt, dieses angenommen zu haben), diese Bedingungen Ihnen gegenüber als Drittbegünstigter durchzusetzen.
+
+Bei der Nutzung der Produkte oder Dienste von Epic müssen Sie die geltenden Vereinbarungen Dritter (wie beispielsweise Vereinbarungen über mobile Datendienste mit Ihrem Mobilfunkanbieter) einhalten.
 
 Alle Endnutzerfragen, Beschwerden oder Ansprüche in Bezug auf die lizenzierten Produkte sollten beim <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Epic Games-Support</> eingereicht werden.
 

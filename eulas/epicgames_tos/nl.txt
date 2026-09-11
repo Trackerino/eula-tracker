@@ -1,5 +1,5 @@
-Laatst bijgewerkt: 27 mei 2026
-Van kracht: 28 november 2025 
+Laatst bijgewerkt: 10 september 2026
+Van kracht: 10 september 2026
 
 Hallo! Dit zijn de regels en verantwoordelijkheden in verband met het gebruik van onze games en diensten. 
 
@@ -500,6 +500,8 @@ U erkent en gaat ermee akkoord dat Apple niet verantwoordelijk is voor enige pro
 Epic, niet Apple, is verantwoordelijk voor de afhandeling van uw vorderingen of vorderingen van een derde partij met betrekking tot de Gelicentieerde Producten of uw bezit en/of gebruik van de Gelicentieerde Producten, met inbegrip van: (i) productaansprakelijkheidsvorderingen; (ii) beweringen dat de Gelicentieerde Producten niet voldoen aan toepasselijke wettelijke of regelgevende vereisten; en (iii) vorderingen die voortvloeien uit consumentenbeschermings- of soortgelijke wetgeving. In geval van een claim dat de Gelicentieerde Producten inbreuk maken op de intellectuele eigendomsrechten van een derde partij, is uitsluitend Epic, en niet Apple, verantwoordelijk voor het onderzoek, de verdediging, schikking en afhandeling van een dergelijke claim inzake inbreuk op intellectuele eigendomsrechten (indien en voor zover vereist uit hoofde van de Voorwaarden).
 
 U stemt ermee in dat deze Voorwaarden geen rechten of rechtsmiddelen toekennen aan andere personen behalve de partijen bij deze Voorwaarden, behalve wanneer uitdrukkelijk vermeld in deze Voorwaarden of de toepasselijke wetgeving. Niettegenstaande het voorgaande zijn Apple en de dochterondernemingen van Apple derde-begunstigden van deze Voorwaarden en na uw aanvaarding van deze Voorwaarden heeft Apple het recht (en wordt geacht het recht te hebben aanvaard) om deze Voorwaarden jegens u als externe begunstigde daarvan af te dwingen.
+
+Bij het gebruik van de producten of diensten van Epic dient u zich te houden aan de toepasselijke voorwaarden van derden (zoals overeenkomsten inzake draadloze datadiensten met uw provider).
 
 Vragen, klachten of claims van Eindgebruikers met betrekking tot de Gelicentieerde Producten moeten worden ingediend bij <a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">Ondersteuning voor Epic Games</>.
 

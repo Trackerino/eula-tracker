@@ -1,5 +1,5 @@
-Dernière mise à jour : 27 mai 2026
-Date d’entrée en vigueur : 28 novembre 2025 
+Dernière mise à jour : 10 septembre 2026
+Date d’entrée en vigueur : 10 septembre 2026
 
 Bonjour ! Vous trouverez ci-après les règles et responsabilités relatives à l’utilisation de nos jeux et de nos services. 
 
@@ -393,6 +393,8 @@ Vous reconnaissez et convenez qu’Apple n’est pas responsable des garanties p
 Epic, et non Apple, doit vous adresser toute réclamation de tierce partie concernant les Produits sous licence ou votre possession et/ou votre utilisation des Produits sous licence, y compris : (i) les réclamations de responsabilité du produit ; (ii) toute réclamation selon laquelle les Produits sous licence ne sont pas conformes à toute exigence légale ou réglementaire applicable ; et (iii) les réclamations découlant de la protection du consommateur ou de la législation similaire. Dans le cas d’une réclamation selon laquelle les Produits sous licence enfreignent les droits de propriété intellectuelle d’une tierce partie, Epic, et non Apple, sera seule responsable de l’enquête, de la défense, du règlement et de la décharge de ladite réclamation d’infraction de propriété intellectuelle (si et dans la mesure où cela est requis en vertu des présentes Conditions).
 
 Vous convenez que les présentes Conditions ne confèrent pas de droits ou de recours à toute personne autre que les parties aux présentes Conditions, à l’exception de ce qui est expressément stipulé dans les présentes Conditions ou la loi applicable. Nonobstant ce qui précède, Apple et les filiales d’Apple sont les tiers bénéficiaires des présentes Conditions, et lors de votre acceptation des présentes Conditions, Apple aura le droit (et sera réputée avoir accepté le droit) d’appliquer les présentes Conditions à votre encontre en qualité de tiers bénéficiaire des présentes.
+
+Vous devez respecter les conditions générales applicables de tiers (telles que les contrats de services de données mobiles conclus avec votre opérateur) lorsque vous utilisez les produits ou services d’Epic.
 
 Toute question, plainte ou réclamation de l’Utilisateur final concernant les Produits sous licence doit être soumise à l’<a id="url" href="https://www.epicgames.com/help" style="EULA.Hyperlink">assistance Epic Games</>.
 
