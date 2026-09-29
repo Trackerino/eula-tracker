@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6a739a42c4bb1d16c1cbf50b` |
+| `id` | `6abb16eba48a967eb841e949` |
 | `key` | `ic_agreement` |
-| `version` | `3` |
+| `version` | `4` |
 | `revision` | `1` |
 | `title` | `Fortnite Developer Terms` |
 | `locale` | `en` |
-| `createdTimestamp` | `2026-08-05T20:17:06.549Z` |
-| `lastModifiedTimestamp` | `2026-08-05T20:17:06.549Z` |
+| `createdTimestamp` | `2026-09-29T01:39:55.528Z` |
+| `lastModifiedTimestamp` | `2026-09-29T01:39:55.528Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/en/v3/r1/9a12950d4a15eb71c3c519644801b134.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/en/v4/r1/cf665c153d5fca60e34b5ee719007582.pdf` |
 | `bodyFormat` | `HTML` |
