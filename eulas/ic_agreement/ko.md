@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6abb16eba48a967eb841e94f` |
+| `id` | `6abc3ce353c7f16c4b32023d` |
 | `key` | `ic_agreement` |
 | `version` | `4` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `포트나이트 개발자 프로그램` |
 | `locale` | `ko` |
-| `createdTimestamp` | `2026-09-29T01:39:55.528Z` |
-| `lastModifiedTimestamp` | `2026-09-29T01:39:55.528Z` |
+| `createdTimestamp` | `2026-09-29T22:34:11.000Z` |
+| `lastModifiedTimestamp` | `2026-09-29T22:34:11.000Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ko/v4/r1/2a272238b86668a3398ff70ec47110c1.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ko/v4/r2/2c0327aa1a70f6be35ff42c60fab10b0.pdf` |
 | `bodyFormat` | `HTML` |
