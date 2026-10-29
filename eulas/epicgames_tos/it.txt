@@ -406,15 +406,15 @@ Se l’utente invia un avviso DMCA, è pregato di consultare la Sezione 512(c)(3
 L’entità Epic che concede all’utente una licenza per l’utilizzo dei Prodotti concessi in licenza dipende da dove l’utente risiede e da quali Prodotti concessi in licenza utilizza. La licenza di cui alla Sezione 3 per i seguenti Prodotti concessi in licenza (e per i Servizi Epic associati) è concessa all’utente dall’entità indicata di seguito:
 
 <EULA.Highlight>Fall Guys (ad eccezione della versione mobile per Android e Apple iOS nell’UE):</>
-&nbsp;&nbsp;&nbsp;&nbsp;• Se l’utente sta giocando sulla piattaforma Steam, EGFG LLC, l’operazione commerciale viene svolta come Epic Games
-&nbsp;&nbsp;&nbsp;&nbsp;• Se l’utente sta giocando su qualsiasi altra piattaforma, l’operazione commerciale viene svolta come Epic Games, Inc.
+ <span style="width: 12px;display: inline-block;"></span>• Se l’utente sta giocando sulla piattaforma Steam, EGFG LLC, l’operazione commerciale viene svolta come Epic Games
+ <span style="width: 12px;display: inline-block;"></span>• Se l’utente sta giocando su qualsiasi altra piattaforma, l’operazione commerciale viene svolta come Epic Games, Inc.
 <EULA.Highlight>Fall Guys (versione mobile per Android e Apple iOS nell’UE):</> EGFG LLC, che svolge le operazioni commerciali come Epic Games.
 <EULA.Highlight>Fortnite (ad eccezione della versione mobile per Apple iOS) o UEFN:</>
-&nbsp;&nbsp;&nbsp;&nbsp;• Se l’utente risiede negli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;• Se l’utente risiede al di fuori degli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games Entertainment International GmbH
+  • Se l’utente risiede negli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games, Inc.
+  • Se l’utente risiede al di fuori degli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games Entertainment International GmbH
 <EULA.Highlight>Fortnite (versione mobile per Apple iOS): </>
-&nbsp;&nbsp;&nbsp;&nbsp;• Se l’utente risiede negli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;• Se l’utente risiede al di fuori degli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games Sweden, AB
+  • Se l’utente risiede negli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games, Inc.
+  • Se l’utente risiede al di fuori degli Stati Uniti d’America, l’operazione commerciale viene svolta come Epic Games Sweden, AB
 <EULA.Highlight>Postparty:</> Life on Air Inc.
 <EULA.Highlight>Rocket League o Rocket League Sideswipe:</> Psyonix LLC
 <EULA.Highlight>Siti web:</> Epic Games, Inc.
