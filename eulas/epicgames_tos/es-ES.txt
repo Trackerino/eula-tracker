@@ -408,15 +408,15 @@ Si envía una notificación de DMCA, consulte la Sección 512(c)(3) de la DMCA p
 La entidad de Epic que le otorga una licencia para utilizar los Productos licenciados depende de dónde viva y qué Productos licenciados utilice. La licencia de la Sección 3 para los siguientes Productos licenciados (y sus Servicios de Epic asociados) se la otorga la entidad que se describe a continuación:
 
 <EULA.Highlight>Fall Guys (excepto la versión móvil para Android y Apple iOS en la UE):</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	Si juega en la plataforma Steam, EGFG LLC, que opera como Epic Games
-&nbsp;&nbsp;&nbsp;&nbsp;•	Si juega en cualquier otra plataforma, Epic Games, Inc.
+•	Si juega en la plataforma Steam, EGFG LLC, que opera como Epic Games
+•	Si juega en cualquier otra plataforma, Epic Games, Inc.
 <EULA.Highlight>Fall Guys (versión móvil para Android y Apple iOS en la UE):</> EGFG LLC, que opera como Epic Games.
 <EULA.Highlight>Fortnite (excepto la versión móvil para Apple iOS) o UEFN:</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	Si usted reside en los Estados Unidos de América, Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	Si reside fuera de los Estados Unidos de América, Epic Games Entertainment International GmbH
+•	Si usted reside en los Estados Unidos de América, Epic Games, Inc.
+•	Si reside fuera de los Estados Unidos de América, Epic Games Entertainment International GmbH
 <EULA.Highlight>Fortnite (versión móvil para Apple iOS): </>
-&nbsp;&nbsp;&nbsp;&nbsp;•	Si usted reside en los Estados Unidos de América, Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	Si usted reside fuera de los Estados Unidos de América, Epic Games Sweden, AB
+•	Si usted reside en los Estados Unidos de América, Epic Games, Inc.
+•	Si usted reside fuera de los Estados Unidos de América, Epic Games Sweden, AB
 <EULA.Highlight>PostParty:</> Life on Air Inc.
 <EULA.Highlight>Rocket League o Rocket League Sideswipe:</> Psyonix LLC
 <EULA.Highlight>Sitios web:</> Epic Games, Inc.

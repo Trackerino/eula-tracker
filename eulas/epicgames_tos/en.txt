@@ -408,18 +408,26 @@ If you are submitting a DMCA notice, please see Section 512(c)(3) of the DMCA fo
 The Epic entity that grants you a license to use Licensed Products depends on where you live and which Licensed Products you use. The license in Section 3 for the following Licensed Products (and their associated Epic Services) is granted to you by the entity outlined below:
 
 <EULA.Highlight>Fall Guys (except mobile version for Android and Apple iOS in the EU):</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	If you are playing on the Steam platform, EGFG LLC, trading as Epic Games
-&nbsp;&nbsp;&nbsp;&nbsp;•	If you are playing on any other platform, Epic Games, Inc.
-<EULA.Highlight>Fall Guys (mobile version for Android and Apple iOS in the EU):</> EGFG LLC, trading as Epic Games.
+•	If you are playing on the Steam platform, EGFG LLC, trading as Epic Games
+•	If you are playing on any other platform, Epic Games, Inc.
+
+<EULA.Highlight>Fall Guys (mobile version for Android and Apple iOS in the EU):</> 
+•	EGFG LLC, trading as Epic Games.
+
 <EULA.Highlight>Fortnite (except mobile version for Apple iOS) or UEFN:</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	If you reside in the United States of America, Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	If you reside outside of the United States of America, Epic Games Entertainment International GmbH
+•	If you reside in the United States of America, Epic Games, Inc.
+•	If you reside outside of the United States of America, Epic Games Entertainment International GmbH
+
 <EULA.Highlight>Fortnite (mobile version for Apple iOS): </>
-&nbsp;&nbsp;&nbsp;&nbsp;•	If you reside in the United States of America, Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	If you reside outside of the United States of America, Epic Games Sweden, AB
+•	If you reside in the United States of America, Epic Games, Inc.
+•	If you reside outside of the United States of America, Epic Games Sweden, AB
+
 <EULA.Highlight>Postparty:</> Life on Air Inc.
+
 <EULA.Highlight>Rocket League or Rocket League Sideswipe:</> Psyonix LLC
+
 <EULA.Highlight>Websites:</> Epic Games, Inc.
+
 <EULA.Highlight>All other Licensed Products:</> See relevant product or program-specific terms
 
 <EULA.Header>20.	Miscellaneous</>

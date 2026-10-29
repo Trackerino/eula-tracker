@@ -408,15 +408,15 @@ Wenn Sie eine DMCA-Mitteilung einreichen, beachten Sie bitte Abschnitt 512(c)(3)
 Welche Epic-Gesellschaft Ihnen eine Lizenz zur Nutzung der lizenzierten Produkte erteilt, hängt davon ab, wo Sie wohnen und welche lizenzierten Produkte Sie verwenden. Die Lizenz in Abschnitt 3 für die folgenden lizenzierten Produkte (und die zugehörigen Epic-Dienste) wird Ihnen von folgendem Unternehmen gewährt:
 
 <EULA.Highlight>Fall Guys (außer Mobilversion für Android und Apple iOS in der EU):</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie auf der Steam-Plattform spielen: EGFG LLC, firmierend als Epic Games
-&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie auf einer anderen Plattform spielen: Epic Games, Inc.
+•	Wenn Sie auf der Steam-Plattform spielen: EGFG LLC, firmierend als Epic Games
+•	Wenn Sie auf einer anderen Plattform spielen: Epic Games, Inc.
 <EULA.Highlight>Fall Guys (Mobilversion für Android und Apple iOS in der EU):</> EGFG LLC, firmierend als Epic Games.
 <EULA.Highlight>Fortnite (außer Mobilversion für Apple iOS) oder UEFN:</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie in den Vereinigten Staaten von Amerika wohnen: Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie außerhalb der Vereinigten Staaten von Amerika wohnen: Epic Games Entertainment International GmbH
+•	Wenn Sie in den Vereinigten Staaten von Amerika wohnen: Epic Games, Inc.
+•	Wenn Sie außerhalb der Vereinigten Staaten von Amerika wohnen: Epic Games Entertainment International GmbH
 <EULA.Highlight>Fortnite (Mobilversion für Apple iOS): </>
-&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie in den Vereinigten Staaten von Amerika wohnen: Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	Wenn Sie außerhalb der Vereinigten Staaten von Amerika wohnen: Epic Games Sweden, AB
+•	Wenn Sie in den Vereinigten Staaten von Amerika wohnen: Epic Games, Inc.
+•	Wenn Sie außerhalb der Vereinigten Staaten von Amerika wohnen: Epic Games Sweden, AB
 <EULA.Highlight>Postparty:</> Life on Air Inc.
 <EULA.Highlight>Rocket League oder Rocket League Sideswipe:</> Psyonix LLC
 <EULA.Highlight>Websites:</> Epic Games, Inc.

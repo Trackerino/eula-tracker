@@ -408,15 +408,15 @@
 يعتمد كيان Epic الذي يمنحك ترخيصًا لاستخدام المنتجات المُرخّصة على المكان الذي تقيم فيه والمنتجات المُرخّصة التي تستخدمها. الترخيص الوارد في القسم 3 للمنتجات المُرخّصة التالية (وخدمات Epic المرتبطة بها) ممنوحة لك من قبل الكيان الموضح أدناه:
 
 <EULA.Highlight>Fall Guys (باستثناء إصدار الهاتف المحمول لنظام Android ونظام Apple iOS في الاتحاد الأوروبي):</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	إذا كنت تلعب على منصة Steam، فشركة EGFG LLC، التي تمارس نشاطها باسم Epic Games
-&nbsp;&nbsp;&nbsp;&nbsp;•	إذا كنت تلعب على أي منصة أخرى، فشركة Epic Games, Inc.
+•	إذا كنت تلعب على منصة Steam، فشركة EGFG LLC، التي تمارس نشاطها باسم Epic Games
+•	إذا كنت تلعب على أي منصة أخرى، فشركة Epic Games, Inc.
 <EULA.Highlight>Fall Guys (إصدار الهاتف المحمول لنظام Android ونظام Apple iOS في الاتحاد الأوروبي):</> EGFG LLC، التي تمارس نشاطها باسم Epic Games.
 <EULA.Highlight>Fortnite (باستثناء إصدار الهاتف المحمول لنظام Apple iOS) أو UEFN:</>
-&nbsp;&nbsp;&nbsp;&nbsp;•	إذا كنت تقيم في الولايات المتحدة الأمريكية، فشركة Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	إذا كنت تقيم خارج الولايات المتحدة الأمريكية، فشركة Epic Games Entertainment International GmbH
+•	إذا كنت تقيم في الولايات المتحدة الأمريكية، فشركة Epic Games, Inc.
+•	إذا كنت تقيم خارج الولايات المتحدة الأمريكية، فشركة Epic Games Entertainment International GmbH
 <EULA.Highlight>Fortnite (إصدار الهاتف المحمول لنظام Apple iOS): </>
-&nbsp;&nbsp;&nbsp;&nbsp;•	إذا كنت تقيم في الولايات المتحدة الأمريكية، فشركة Epic Games, Inc.
-&nbsp;&nbsp;&nbsp;&nbsp;•	إذا كنت تقيم خارج الولايات المتحدة الأمريكية، فشركة Epic Games Sweden, AB
+•	إذا كنت تقيم في الولايات المتحدة الأمريكية، فشركة Epic Games, Inc.
+•	إذا كنت تقيم خارج الولايات المتحدة الأمريكية، فشركة Epic Games Sweden, AB
 <EULA.Highlight>Postparty: </>
 Life on Air Inc. 
 <EULA.Highlight>Rocket League أو Rocket League Sideswipe: </>
