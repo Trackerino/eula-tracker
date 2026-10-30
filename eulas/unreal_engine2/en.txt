@@ -163,10 +163,8 @@ You must ensure that your activities with the Licensed Technology do not:
 ●  result in the Licensed Technology being rented or leased;
 ●  misappropriate any of our other products or services;
 ●  support a claim by you or any third party that the Licensed Technology infringes a patent;
-●  result in a sale or grant of a security interest in any Licensed Technology;
-●  result in a Distribution of a Product or the Licensed Technology in any manner other than as permitted by Sections 4 and 5;
-●  result in using the Licensed Technology as a training input to any Generative AI Program or as prompt-based input where the Generative AI Program trains on input data. “Generative AI Program” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content; or
-●  use, or permit others to use, MetaHuman digital characters and animation curves (or any rendered output thereof if crafted to replicate the functionality of MetaHuman) to build or enhance any database or training or testing any artificial intelligence, machine learning, deep learning, neural networks, or similar technologies.
+●  result in a sale or grant of a security interest in any Licensed Technology; or
+●  result in a Distribution of a Product or the Licensed Technology in any manner other than as permitted by Sections 4 and 5.
 
 <EULA.Header>7.  Who Owns What</>
 As between you and us, you own all rights, other than rights in the Licensed Technology, in the Products you develop under this Agreement, and we own all title, ownership rights, and intellectual property rights in the Licensed Technology.
