@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6abb16eba48a967eb841e950` |
+| `id` | `6b05c1c64bd96a758ffe390e` |
 | `key` | `ic_agreement` |
-| `version` | `4` |
+| `version` | `5` |
 | `revision` | `1` |
 | `title` | `Program dla deweloperów wysp w Fortnite` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2026-09-29T01:39:55.528Z` |
-| `lastModifiedTimestamp` | `2026-09-29T01:39:55.528Z` |
+| `createdTimestamp` | `2026-11-24T16:56:38.574Z` |
+| `lastModifiedTimestamp` | `2026-11-24T16:56:38.574Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pl/v4/r1/9c310c14c53850b8f59e947d8c139e58.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pl/v5/r1/f0e3179fa1844890b5d4d3f7dfbc4677.pdf` |
 | `bodyFormat` | `HTML` |

@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6abb16eba48a967eb841e947` |
+| `id` | `6b05c1c64bd96a758ffe3905` |
 | `key` | `ic_agreement` |
-| `version` | `4` |
+| `version` | `5` |
 | `revision` | `1` |
 | `title` | `برنامج مطوّري Fortnite` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2026-09-29T01:39:55.528Z` |
-| `lastModifiedTimestamp` | `2026-09-29T01:39:55.528Z` |
+| `createdTimestamp` | `2026-11-24T16:56:38.574Z` |
+| `lastModifiedTimestamp` | `2026-11-24T16:56:38.574Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ar/v4/r1/dd623e85b937d1e192fd6c5da6c0e149.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/ar/v5/r1/b66ee09127b7fcb92b652dd1a25489c5.pdf` |
 | `bodyFormat` | `HTML` |

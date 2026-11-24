@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6abb16eba48a967eb841e952` |
+| `id` | `6b05c1c64bd96a758ffe3910` |
 | `key` | `ic_agreement` |
-| `version` | `4` |
+| `version` | `5` |
 | `revision` | `1` |
 | `title` | `Programa de Desenvolvedores do Fortnite` |
 | `locale` | `pt-BR` |
-| `createdTimestamp` | `2026-09-29T01:39:55.528Z` |
-| `lastModifiedTimestamp` | `2026-09-29T01:39:55.528Z` |
+| `createdTimestamp` | `2026-11-24T16:56:38.574Z` |
+| `lastModifiedTimestamp` | `2026-11-24T16:56:38.574Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pt-BR/v4/r1/3ae3ab252c269f6955bb35e919edc643.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/ic_agreement/pt-BR/v5/r1/cd01ddc029f117cd8baabd41059cb1ed.pdf` |
 | `bodyFormat` | `HTML` |
